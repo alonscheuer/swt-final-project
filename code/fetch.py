@@ -4,6 +4,8 @@ from SPARQLWrapper import SPARQLWrapper, JSON
 import re
 import requests
 import keys
+import wikipedia
+from datetime import datetime
 
 dbp_endpoint = SPARQLWrapper("https://dbpedia.org/sparql")
 dbp_endpoint.setReturnFormat(JSON)
@@ -11,6 +13,7 @@ dbp_endpoint.setReturnFormat(JSON)
 wd_endpoint = SPARQLWrapper("https://query.wikidata.org/sparql")
 wd_endpoint.setReturnFormat(JSON)
 
+wp_token = keys.WP_TOKEN
 
 def remove_prefix(url):
 	"""
@@ -37,7 +40,7 @@ def find_dbr(article):
 		?entity foaf:isPrimaryTopicOf <%s> .
 	}
 	LIMIT 1
-	""" % article
+	""" % https_to_http(article)
 	result = send_query(query, dbp_endpoint)
 	return result[0]["entity"]["value"]
 
@@ -53,10 +56,14 @@ def find_dbrs(articles):
 		VALUES ?wiki { %s } .
 		?entity foaf:isPrimaryTopicOf ?wiki .
 	}
-	""" % " ".join(article_values)
+	""" % " ".join([https_to_http(url) for url in article_values])
 	result = send_query(query, dbp_endpoint)
 	return result
 
+def clean_triple(triple):
+	property = remove_prefix(triple['prop']['value'])
+	value = triple['value']['value']
+	return property, value
 
 def get_triples(dbr):
 	"""
@@ -65,33 +72,11 @@ def get_triples(dbr):
 	query = """
 	PREFIX dbr: <http://dbpedia.org/resource/>
 	SELECT ?prop, ?value WHERE {
-		%s ?prop ?value .
+		dbr:%s ?prop ?value .
+		FILTER(lang(?value) = "en").
 	}
-	""" % dbr
+	""" % remove_prefix(dbr)
 	result = send_query(query, dbp_endpoint)
-	return result
-
-
-def get_articles():
-	query = """
-	SELECT ?event ?eventLabel ?date ?url_en ?url_sv
-    WHERE {
-    ?event wdt:P31/wdt:P279* wd:Q1190554.
-    
-    ?url_en schema:about ?event .
-    ?url_en schema:isPartOf <https://en.wikipedia.org/> .
-    ?url_sv schema:about ?event .
-    ?url_sv schema:isPartOf <https://sv.wikipedia.org/> .
-    
-	}
-	ORDER BY RAND()
-	LIMIT 10
-    """
-	result = send_query(query, wd_endpoint)
-	#formatted_result = [{"en": row["url_en"]["value"], "sv": row["url_sv"]["value"]} for row in result]
-	formatted_result = [row["url_en"]["value"] for row in result]
-	return formatted_result
-
-
-print(get_articles())
-print(find_dbrs(get_articles()))
+	triples = map(clean_triple, result)
+	return triples
+	
