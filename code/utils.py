@@ -11,6 +11,7 @@ dbp_endpoint.setReturnFormat(JSON)
 
 def send_query(query, endpoint):
 	endpoint.setQuery(query)
+	endpoint.setTimeout(timeout=20)
 	result = endpoint.queryAndConvert()
 	formatted_result = result["results"]["bindings"]
 	return formatted_result
