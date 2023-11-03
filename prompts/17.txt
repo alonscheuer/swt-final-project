@@ -1,0 +1,118 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Kentucky Derby 2022, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: Event
+type: SportsEvent
+type: Event
+type: Race
+type: SocietalEvent
+type: Q1656682
+type: Event
+type: HorseRace
+type: SportsEvent
+label: 2022 Kentucky Derby
+comment: The 2022 Kentucky Derby (officially, the 148th Running of the Kentucky Derby Presented by Woodford Reserve) took place on Saturday, May 7, 2022, at Churchill Downs in Louisville, Kentucky. It was the 148th running of the Kentucky Derby, a 1+1⁄4 miles (2.0 km) Grade I stakes race for three-year-old Thoroughbreds. The Derby is held annually at Churchill Downs on the first Saturday in May since its inception in 1875. The 20 horses that ran in the Derby qualified by earning points in the 2022 Road to the Kentucky Derby.
+seeAlso: 2022_Preakness_Stakes
+name: Kentucky Derby
+name: 148
+depiction: 2022_Kentucky_Derby_logo.jpg
+location: Churchill_Downs
+location: Louisville,_Kentucky
+subject: Category:2022_in_American_sports
+subject: Category:2022_in_horse_racing
+subject: Category:2022_in_sports_in_Kentucky
+subject: Category:May_2022_sports_events_in_the_United_States
+subject: Category:Kentucky_Derby_races
+wikiPageID: 70562258
+wikiPageRevisionID: 1120201260
+wikiPageWikiLink: Casino
+wikiPageWikiLink: Santa_Anita_Derby
+wikiPageWikiLink: Epicenter_(horse)
+wikiPageWikiLink: Morning_line
+wikiPageWikiLink: 2022_Road_to_the_Kentucky_Derby
+wikiPageWikiLink: Category:2022_in_American_sports
+wikiPageWikiLink: Category:2022_in_horse_racing
+wikiPageWikiLink: Category:2022_in_sports_in_Kentucky
+wikiPageWikiLink: Category:May_2022_sports_events_in_the_United_States
+wikiPageWikiLink: Betamethasone
+wikiPageWikiLink: Blue_Grass_Stakes
+wikiPageWikiLink: Bob_Baffert
+wikiPageWikiLink: Peacock_(streaming_service)
+wikiPageWikiLink: Rich_Strike
+wikiPageWikiLink: Donerail
+wikiPageWikiLink: Early_Voting
+wikiPageWikiLink: Medina_Spirit
+wikiPageWikiLink: UAE_Derby
+wikiPageWikiLink: Road_to_the_Kentucky_Derby
+wikiPageWikiLink: 1998_Kentucky_Derby
+wikiPageWikiLink: Churchill_Downs
+wikiPageWikiLink: Furlong
+wikiPageWikiLink: Glossary_of_North_American_horse_racing
+wikiPageWikiLink: NBC
+wikiPageWikiLink: NBCSports.com
+wikiPageWikiLink: Thoroughbred
+wikiPageWikiLink: 1913_Kentucky_Derby
+wikiPageWikiLink: Category:Kentucky_Derby_races
+wikiPageWikiLink: Louisiana_Derby
+wikiPageWikiLink: Louisville,_Kentucky
+wikiPageWikiLink: Bodemeister
+wikiPageWikiLink: Horse_length
+wikiPageWikiLink: USA_Network
+wikiPageWikiLink: Superfecta
+wikiPageWikiLink: 2021_Kentucky_Derby
+wikiPageWikiLink: 2022_Belmont_Stakes
+wikiPageWikiLink: 2022_Preakness_Stakes
+wikiPageWikiLink: 2008_Kentucky_Derby
+wikiPageWikiLink: Cyberknife_(horse)
+wikiPageWikiLink: Eastern_Time_Zone
+wikiPageWikiLink: Eric_Reed_(horse_trainer)
+wikiPageWikiLink: Florida_Derby
+wikiPageWikiLink: Fair_Grounds_Race_Course
+wikiPageWikiLink: Going_(horse_racing)
+wikiPageWikiLink: Graded_stakes_race
+wikiPageWikiLink: Jeff_Ruby_Steaks
+wikiPageWikiLink: Arkansas_Derby
+wikiPageWikiLink: Kentucky_Derby
+wikiPageWikiLink: Big_Brown_(horse)
+wikiPageWikiLink: Taiba
+wikiPageWikiLink: Trifecta
+wikiPageWikiLink: Triple_Crown_of_Thoroughbred_Racing_(United_States)
+wikiPageWikiLink: Mo_Donegal
+wikiPageWikiLink: Race_track
+wikiPageWikiLink: Real_Quiet
+wikiPageWikiLink: Wood_Memorial_Stakes
+wikiPageWikiLink: Maiden_race
+wikiPageWikiLink: Impact_of_the_COVID-19_pandemic_on_sports
+wikiPageWikiLink: Sonny_Leon
+wikiPageWikiLink: Parimutuel_betting
+wikiPageWikiLink: Spend_a_Buck
+wikiPageWikiLink: Foaling
+thumbnail: 2022_Kentucky_Derby_logo.jpg?width=300
+conditions: Fast
+winningHorse: Rich_Strike
+winningJockey: Sonny_Leon
+winningOwner: RED TR-Racing
+winningTrainer: Eric_Reed_(horse_trainer)
+attendance: 147294
+caption: "The Run for the Roses"
+class: Graded_stakes_race
+date: 2022-05-07
+horseRace: Kentucky_Derby
+location: Churchill_Downs
+location: Louisville, Kentucky, United States
+next: 2023
+previous: 2021
+surface: Dirt
+finalOdds: 80
+winningTime: 2
+abstract: The 2022 Kentucky Derby (officially, the 148th Running of the Kentucky Derby Presented by Woodford Reserve) took place on Saturday, May 7, 2022, at Churchill Downs in Louisville, Kentucky. It was the 148th running of the Kentucky Derby, a 1+1⁄4 miles (2.0 km) Grade I stakes race for three-year-old Thoroughbreds. The Derby is held annually at Churchill Downs on the first Saturday in May since its inception in 1875. The 20 horses that ran in the Derby qualified by earning points in the 2022 Road to the Kentucky Derby. The two favorites for the 2022 Kentucky Derby were Epicenter, the winner of the Louisiana Derby, and Zandon, the winner of the Blue Grass Stakes. Both horses finished behind winner Rich Strike, who had only entered the race after a late scratch. Entering the race at odds of 80–1, Rich Strike's victory was the second-largest upset in Derby history. It was the first Kentucky Derby victory for his trainer Eric Reed, as well as the first graded stakes win in any race for his jockey Sonny Leon.
+wasDerivedFrom: 2022_Kentucky_Derby?oldid=1120201260&ns=0
+wikiPageLength: 42691
+isPrimaryTopicOf: 2022_Kentucky_Derby
+	

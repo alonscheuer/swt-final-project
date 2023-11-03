@@ -11,7 +11,7 @@ dbp_endpoint.setReturnFormat(JSON)
 
 def send_query(query, endpoint):
 	endpoint.setQuery(query)
-	endpoint.setTimeout(timeout=20)
+	# endpoint.setTimeout(timeout=20)
 	result = endpoint.queryAndConvert()
 	formatted_result = result["results"]["bindings"]
 	return formatted_result
@@ -26,4 +26,18 @@ def remove_prefix(url):
 	Remove any prefix from a URL, leaving only the part which is followed by the last / or #
 	"""
 	m = re.search(r'([^/#]+)$', url)
-	return m[1]
+	return m[1] if m else url
+
+
+def fix_sv_encoding(text):
+	mapping = {
+		"%C3%84": "Ä",
+		"%C3%85": "Å",
+		"%C3%96": "Ö",
+		"%C3%A4": "ä",
+		"%C3%A5": "å",
+		"%C3%B6": "ö"
+	}
+	for code, char in mapping.items():
+		text = text.replace(code, char)
+	return text.replace("_", " ")

@@ -1,0 +1,60 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om U19-Europamästerskapet i fotboll 2023, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: Event
+type: SportsEvent
+type: Event
+type: SocietalEvent
+type: Tournament
+type: Q1656682
+type: Q500834
+type: Event
+type: SoccerTournament
+type: SportsEvent
+label: 2023 UEFA European Under-19 Championship
+comment: The 2023 UEFA European Under-19 Championship (also known as UEFA Under-19 Euro 2023) will be the 20th edition of the UEFA European Under-19 Championship (70th edition if the Under-18 and Junior eras are included), the annual international youth football championship organised by UEFA for the men's under-19 national teams of Europe. Malta will host the tournament from 3 to 16 July 2023. A total of eight teams will play in the tournament, with players born on or after 1 January 2004 eligible to participate. England are the defending champions.
+name: UEFA European Under-19 Championship
+depiction: 2023_UEFA_European_Under-19_Championship_logo.svg
+subject: Category:UEFA_European_Under-19_Championship
+subject: Category:2023_UEFA_European_Under-19_Championship
+subject: Category:2023_in_youth_association_football
+subject: Category:2023–24_in_UEFA_football
+subject: Category:International_association_football_competitions_hosted_by_Malta
+wikiPageID: 71909470
+wikiPageRevisionID: 1124913901
+wikiPageWikiLink: Category:UEFA_European_Under-19_Championship
+wikiPageWikiLink: Category:2023_UEFA_European_Under-19_Championship
+wikiPageWikiLink: Category:2023_in_youth_association_football
+wikiPageWikiLink: Category:2023–24_in_UEFA_football
+wikiPageWikiLink: England_national_under-19_football_team
+wikiPageWikiLink: Montreux
+wikiPageWikiLink: Category:International_association_football_competitions_hosted_by_Malta
+wikiPageWikiLink: UEFA
+wikiPageWikiLink: UEFA_European_Under-19_Championship
+wikiPageWikiLink: 2022_UEFA_European_Under-19_Championship
+wikiPageWikiLink: Central_European_Time
+wikiPageWikiLink: Association_football
+wikiPageWikiLink: 2024_UEFA_European_Under-19_Championship
+wikiPageExternalLink: https://www.uefa.com/under19/
+thumbnail: 2023_UEFA_European_Under-19_Championship_logo.svg?width=300
+confederations: 1
+country: Malta
+dates: --07-16
+nextseason: 2024
+numTeams: 8
+otherTitles: Kampjonat Ewropew 2023 ta' Taħt id-19-il
+prevseason: 2022
+size: 200
+tourneyName: UEFA European Under-19 Championship
+year: 2023
+abstract: The 2023 UEFA European Under-19 Championship (also known as UEFA Under-19 Euro 2023) will be the 20th edition of the UEFA European Under-19 Championship (70th edition if the Under-18 and Junior eras are included), the annual international youth football championship organised by UEFA for the men's under-19 national teams of Europe. Malta will host the tournament from 3 to 16 July 2023. A total of eight teams will play in the tournament, with players born on or after 1 January 2004 eligible to participate. England are the defending champions.
+wasDerivedFrom: 2023_UEFA_European_Under-19_Championship?oldid=1124913901&ns=0
+wikiPageLength: 4441
+isPrimaryTopicOf: 2023_UEFA_European_Under-19_Championship
+	

@@ -1,0 +1,61 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om E3 Saxo Bank Classic 2022, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	label: 2022 E3 Saxo Bank Classic
+comment: The 2022 E3 Saxo Bank Classic was a road cycling one-day race that took place on 25 March 2022 in Belgium. It was the 64th edition of the E3 Saxo Bank Classic, and the 9th event of the 2022 UCI World Tour.
+name: 2022000
+subject: Category:2022_UCI_World_Tour
+subject: Category:2022_in_Belgian_sport
+subject: Category:March_2022_sports_events_in_Belgium
+subject: Category:E3_Harelbeke
+wikiPageID: 70393047
+wikiPageRevisionID: 1104972030
+wikiPageWikiLink: 2022_UCI_World_Tour
+wikiPageWikiLink: Category:2022_UCI_World_Tour
+wikiPageWikiLink: Category:2022_in_Belgian_sport
+wikiPageWikiLink: Category:March_2022_sports_events_in_Belgium
+wikiPageWikiLink: Biniam_Girmay
+wikiPageWikiLink: Valentin_Madouas
+wikiPageWikiLink: Matej_Mohorič
+wikiPageWikiLink: Christophe_Laporte
+wikiPageWikiLink: Stefan_Küng
+wikiPageWikiLink: Category:E3_Harelbeke
+wikiPageWikiLink: Tiesj_Benoot
+wikiPageWikiLink: 2021_E3_Saxo_Bank_Classic
+wikiPageWikiLink: Dylan_van_Baarle
+wikiPageWikiLink: E3_Saxo_Bank_Classic
+wikiPageWikiLink: UCI_WorldTeam
+wikiPageWikiLink: Jhonatan_Narváez
+wikiPageWikiLink: Kasper_Asgreen
+wikiPageWikiLink: Wout_van_Aert
+wikiPageWikiLink: Road_bicycle_racing
+wikiPageWikiLink: UCI_Professional_Continental
+wikiPageWikiLink: 2023_E3_Saxo_Bank_Classic
+colwidth: 20
+date: 2022-03-25
+distance: 203.9
+first: Wout_van_Aert
+next: 2023
+previous: 2021
+second: Christophe_Laporte
+series: 2022
+style: 20.0
+third: Stefan_Küng
+time: 16684.0
+unit: km
+raceNo: 9
+seasonNo: 32
+firstNat: BEL
+secondNat: FRA
+stages: 1
+thirdNat: SUI
+abstract: The 2022 E3 Saxo Bank Classic was a road cycling one-day race that took place on 25 March 2022 in Belgium. It was the 64th edition of the E3 Saxo Bank Classic, and the 9th event of the 2022 UCI World Tour.
+wasDerivedFrom: 2022_E3_Saxo_Bank_Classic?oldid=1104972030&ns=0
+wikiPageLength: 3690
+isPrimaryTopicOf: 2022_E3_Saxo_Bank_Classic
+	

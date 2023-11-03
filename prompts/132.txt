@@ -1,0 +1,141 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Halloweentragedin i Seoul, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: SpatialThing
+label: Seoul Halloween crowd crush
+comment: On the night of 29 October 2022, a crowd crush occurred during Halloween festivities in the Itaewon neighbourhood of Seoul, South Korea. At least 158 people were killed and 196 others were injured. The victims were mostly young adults. The crowd crush is the deadliest disaster in South Korea since the sinking of MV Sewol in 2014 and the largest mass casualty event in Seoul since the Sampoong Department Store collapse in 1995. It is the deadliest crowd crush in the country, surpassing a 1959 incident at the Pusan Municipal Stadium in which 67 people were crushed to death.
+lat: 37.5347
+long: 126.993
+depiction: Itaewon_(이태원)_2022_Halloween.jpg
+depiction: Itaewon_Crowd_Crush_Alleyway_2_November_2022.jpg
+depiction: Itaewon_Halloween_crush_map.svg
+depiction: Itaewon_memorial_2.jpg
+depiction: Seoul_Halloween_crowd_crush_memorial_at_Itaewon_Station_Exit_1.jpg
+subject: Category:Crowd_collapses_and_crushes
+subject: Category:2020s_in_Seoul
+subject: Category:2022_disasters_in_South_Korea
+subject: Category:Disasters_in_Seoul
+subject: Category:Halloween_events
+subject: Category:Itaewon
+subject: Category:October_2022_events_in_South_Korea
+subject: Category:Man-made_disasters_in_South_Korea
+wikiPageID: 72134831
+wikiPageRevisionID: 1124912814
+wikiPageWikiLink: Cardiopulmonary_resuscitation
+wikiPageWikiLink: President_of_South_Korea
+wikiPageWikiLink: Sampoong_Department_Store_collapse
+wikiPageWikiLink: Category:Crowd_collapses_and_crushes
+wikiPageWikiLink: Category:2020s_in_Seoul
+wikiPageWikiLink: Category:2022_disasters_in_South_Korea
+wikiPageWikiLink: Hybe_Corporation
+wikiPageWikiLink: List_of_fatal_crowd_crushes
+wikiPageWikiLink: Personal_Information_Protection_Commission_(South_Korea)
+wikiPageWikiLink: Rishi_Sunak
+wikiPageWikiLink: Category:Disasters_in_Seoul
+wikiPageWikiLink: United_States_Forces_Korea
+wikiPageWikiLink: University_of_Suffolk
+wikiPageWikiLink: List_of_man-made_disasters_in_South_Korea
+wikiPageWikiLink: Yongsan-gu
+wikiPageWikiLink: 112_(emergency_telephone_number)
+wikiPageWikiLink: Mayor_of_Seoul
+wikiPageWikiLink: SM_Entertainment
+wikiPageWikiLink: Fumio_Kishida
+wikiPageWikiLink: GS25
+wikiPageWikiLink: Ministry_of_Health_and_Welfare_(South_Korea)
+wikiPageWikiLink: Munhwa_Broadcasting_Corporation
+wikiPageWikiLink: Crowd_collapses_and_crushes
+wikiPageWikiLink: Crowd_control
+wikiPageWikiLink: Category:Halloween_events
+wikiPageWikiLink: Lee_Sang-min_(lawyer)
+wikiPageWikiLink: Lotte_World
+wikiPageWikiLink: MBC_TV_(South_Korean_TV_channel)
+wikiPageWikiLink: Sinking_of_MV_Sewol
+wikiPageWikiLink: Category:Itaewon
+wikiPageWikiLink: Half-mast
+wikiPageWikiLink: Halloween
+wikiPageWikiLink: 1959_in_South_Korea
+wikiPageWikiLink: BTS
+wikiPageWikiLink: Busan
+wikiPageWikiLink: Busan_Gudeok_Stadium
+wikiPageWikiLink: COVID-19
+wikiPageWikiLink: COVID-19_pandemic_in_South_Korea
+wikiPageWikiLink: CU_(store)
+wikiPageWikiLink: Category:October_2022_events_in_South_Korea
+wikiPageWikiLink: TikTok
+wikiPageWikiLink: Time_in_South_Korea
+wikiPageWikiLink: TvN_(South_Korean_TV_channel)
+wikiPageWikiLink: 2022_FIFA_World_Cup
+wikiPageWikiLink: Category:Man-made_disasters_in_South_Korea
+wikiPageWikiLink: Daegu
+wikiPageWikiLink: Everland
+wikiPageWikiLink: Itaewon
+wikiPageWikiLink: Itaewon_Station
+wikiPageWikiLink: Itaewon_station
+wikiPageWikiLink: JTBC
+wikiPageWikiLink: JYP_Entertainment
+wikiPageWikiLink: Joe_Biden
+wikiPageWikiLink: KakaoTalk
+wikiPageWikiLink: Asphyxia
+wikiPageWikiLink: Soonchunhyang_University_Hospital
+wikiPageWikiLink: Incheon
+wikiPageWikiLink: Korean_Broadcasting_System
+wikiPageWikiLink: Military_Police_Corps_(United_States)
+wikiPageWikiLink: National_Fire_Agency_(South_Korea)
+wikiPageWikiLink: National_Police_Agency_(South_Korea)
+wikiPageWikiLink: Naver
+wikiPageWikiLink: Oh_Se-hoon
+wikiPageWikiLink: Seoul
+wikiPageWikiLink: Seoul_Broadcasting_System
+wikiPageWikiLink: Seoul_City_Hall
+wikiPageWikiLink: Seoul_Plaza
+wikiPageWikiLink: Xi_Jinping
+wikiPageWikiLink: YG_Entertainment
+wikiPageWikiLink: Yongsan_District
+wikiPageWikiLink: Yoon_Suk-yeol
+wikiPageWikiLink: Ministry_of_the_Interior_and_Safety_(South_Korea)
+wikiPageWikiLink: Compressive_asphyxia
+wikiPageWikiLink: First_aid
+wikiPageWikiLink: Resuscitation
+wikiPageWikiLink: UTC+9
+wikiPageWikiLink: Mass_casualty_event
+wikiPageWikiLink: Halloween_in_South_Korea
+wikiPageWikiLink: National_mourning
+wikiPageWikiLink: File:Itaewon_Crowd_Crush_Alleyway_2_November_2022.jpg
+wikiPageWikiLink: File:Itaewon_Halloween_crush_map.svg
+wikiPageExternalLink: %3Fc=14136829.5459002,4513930.7102082,20,0,0,3,dha&p=q7PdEWaIluKyhrjNwoicZQ,177.85,-1.58,80,Float
+thumbnail: Itaewon_(이태원)_2022_Halloween.jpg?width=300
+reportedDeaths: 158
+caption: Halloween crowds in the alleyway across Itaewon Station where most casualties fell, on the evening of the disaster
+caption: Itaewon Station Exit 1, Seoul
+caption: Seoul City Hall Plaza
+captionAlign: center
+cause: Under investigation
+date: 2022-10-29
+float: right
+footer: Two nationwide memorials.
+footerAlign: center
+height: 400
+image: %3Fc=14136829.5459002,4513930.7102082,20,0,0,3,dha&p=q7PdEWaIluKyhrjNwoicZQ,177.85,-1.58,80,Float
+image: Itaewon memorial 2.jpg
+image: Seoul Halloween crowd crush memorial at Itaewon Station Exit 1.jpg
+injuries: 197
+location: Itaewon, Yongsan-gu, Seoul, South Korea
+perrow: 1
+time: KST
+timezone: UTC+9
+title: Seoul Halloween crowd crush
+totalWidth: 200
+type: Crowd_collapses_and_crushes
+width: 600
+point: 37.5347 126.9933
+abstract: On the night of 29 October 2022, a crowd crush occurred during Halloween festivities in the Itaewon neighbourhood of Seoul, South Korea. At least 158 people were killed and 196 others were injured. The victims were mostly young adults. The crowd crush is the deadliest disaster in South Korea since the sinking of MV Sewol in 2014 and the largest mass casualty event in Seoul since the Sampoong Department Store collapse in 1995. It is the deadliest crowd crush in the country, surpassing a 1959 incident at the Pusan Municipal Stadium in which 67 people were crushed to death.
+wasDerivedFrom: Seoul_Halloween_crowd_crush?oldid=1124912814&ns=0
+wikiPageLength: 63349
+isPrimaryTopicOf: Seoul_Halloween_crowd_crush
+geometry: POINT(126.9933013916 37.534698486328)
+	

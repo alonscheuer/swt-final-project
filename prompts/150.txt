@@ -1,0 +1,92 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Nordisk kombination vid olympiska vinterspelen 2022, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: Event
+type: SportsEvent
+type: Event
+type: SocietalEvent
+type: Q1656682
+type: OlympicEvent
+type: Event
+type: Olympics
+type: SportsEvent
+label: Nordic combined at the 2022 Winter Olympics
+comment: Nordic combined at the 2022 Winter Olympics was held at the Kuyangshu Nordic Center and Biathlon Center. The three events took place between 9 and 17 February 2022. A total of 55 quota spots (all men) were distributed to the sport, the same as four years prior at the 2018 Winter Olympics. A total of three events for men were contested.
+homepage: DigitalCollectionAttachmentDownloadHandler.ashx%3FparentDocumentId=1568639&documentId=1568647
+depiction: Nordic_combined_pictogram.svg
+subject: Category:2022_in_Nordic_combined
+subject: Category:Nordic_combined_at_the_2022_Winter_Olympics
+subject: Category:Nordic_combined_at_the_Winter_Olympics
+subject: Category:2022_Winter_Olympics_events
+wikiPageID: 68490515
+wikiPageRevisionID: 1116083111
+wikiPageWikiLink: National_Olympic_Committee
+wikiPageWikiLink: Category:2022_in_Nordic_combined
+wikiPageWikiLink: Julian_Schmid_(skier)
+wikiPageWikiLink: Vinzenz_Geiger
+wikiPageWikiLink: Kuyangshu_Nordic_Center_and_Biathlon_Center
+wikiPageWikiLink: Ryota_Yamamoto
+wikiPageWikiLink: 2018_Winter_Olympics
+wikiPageWikiLink: Lukas_Greiderer
+wikiPageWikiLink: Competition
+wikiPageWikiLink: Category:Nordic_combined_at_the_2022_Winter_Olympics
+wikiPageWikiLink: Category:Nordic_combined_at_the_Winter_Olympics
+wikiPageWikiLink: 2022_Winter_Olympics
+wikiPageWikiLink: Akito_Watabe
+wikiPageWikiLink: Category:2022_Winter_Olympics_events
+wikiPageWikiLink: Eric_Frenzel
+wikiPageWikiLink: Espen_Andersen_(skier,_born_1993)
+wikiPageWikiLink: Espen_Bjørnstad
+wikiPageWikiLink: Nordic_combined_at_the_Winter_Olympics
+wikiPageWikiLink: Hideaki_Nagai
+wikiPageWikiLink: Jens_Lurås_Oftebro
+wikiPageWikiLink: Jørgen_Graabak
+wikiPageWikiLink: Manuel_Faißt
+wikiPageWikiLink: Yoshito_Watabe
+wikiPageWikiLink: Time_in_China
+wikiPageWikiLink: Nordic_combined_at_the_2018_Winter_Olympics
+wikiPageWikiLink: 10_km
+wikiPageWikiLink: 10_km
+wikiPageWikiLink: 4_×_5_km
+wikiPageWikiLink: File:Nordic_combined_pictogram.svg
+wikiPageExternalLink: DigitalCollectionAttachmentDownloadHandler.ashx%3FparentDocumentId=1568639&documentId=1568647
+thumbnail: Nordic_combined_pictogram.svg?width=300
+competitors: 55
+nations: 18
+bronzeGer: 0
+bronzeNor: 0
+caption: Nordic combined pictogram
+dates: --02-17
+event: 2022
+event: Nordic combined
+flagTemplate: flagIOC
+goldGer: 1
+goldNor: 2
+next: 2026
+prev: 2018
+silverGer: 1
+silverNor: 2
+venue: Kuyangshu_Nordic_Center_and_Biathlon_Center
+bronzeJpn: 2
+goldJpn: 0
+silverJpn: 0
+bronzeAut: 1
+games: 2022
+goldAut: 0
+silverAut: 0
+abstract: Nordic combined at the 2022 Winter Olympics was held at the Kuyangshu Nordic Center and Biathlon Center. The three events took place between 9 and 17 February 2022. A total of 55 quota spots (all men) were distributed to the sport, the same as four years prior at the 2018 Winter Olympics. A total of three events for men were contested.
+competitorsMen: 55
+numEvents: 3
+wasDerivedFrom: Nordic_combined_at_the_2022_Winter_Olympics?oldid=1116083111&ns=0
+wikiPageLength: 7534
+games: 2022 Winter
+event: Nordic_combined_at_the_Winter_Olympics
+previousEvent: Nordic_combined_at_the_2018_Winter_Olympics
+isPrimaryTopicOf: Nordic_combined_at_the_2022_Winter_Olympics
+	

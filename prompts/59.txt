@@ -1,0 +1,85 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Skjutningen i Field%27s köpcentrum, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: SpatialThing
+label: 2022 Copenhagen mall shooting
+comment: On 3 July 2022, a man opened fire at the Field's shopping mall in Copenhagen, Denmark, killing three people and critically wounding four others. A suspect, a Danish man, was arrested after the shooting; he had a history of contact with the psychiatric healthcare system. According to police, there are no indications that the shooting was terrorism. The suspect has been charged with three murders and seven attempted murders. The mass shooting is the first in Denmark since the 2015 Copenhagen shootings.
+lat: 55.6303
+long: 12.5778
+depiction: Field's_in_Copenhagen_(2014).jpg
+subject: Category:2022_crimes_in_Denmark
+subject: Category:2022_in_Copenhagen
+subject: Category:2022_mass_shootings_in_Europe
+subject: Category:Amager
+subject: Category:July_2022_crimes_in_Europe
+subject: Category:July_2022_events_in_Denmark
+subject: Category:Crime_in_Copenhagen
+subject: Category:Attacks_on_shopping_malls
+subject: Category:Deaths_by_firearm_in_Denmark
+subject: Category:Violence_in_Denmark
+wikiPageID: 71217349
+wikiPageRevisionID: 1119665896
+wikiPageWikiLink: 6.5×55mm
+wikiPageWikiLink: Prime_Minister_of_Denmark
+wikiPageWikiLink: Prince_Christian_of_Denmark
+wikiPageWikiLink: Royal_Arena
+wikiPageWikiLink: Category:2022_crimes_in_Denmark
+wikiPageWikiLink: Category:2022_in_Copenhagen
+wikiPageWikiLink: Category:2022_mass_shootings_in_Europe
+wikiPageWikiLink: Category:Amager
+wikiPageWikiLink: Category:July_2022_crimes_in_Europe
+wikiPageWikiLink: Category:July_2022_events_in_Denmark
+wikiPageWikiLink: .308_Winchester
+wikiPageWikiLink: Copenhagen
+wikiPageWikiLink: SIG_Sauer_200_STR
+wikiPageWikiLink: Category:Crime_in_Copenhagen
+wikiPageWikiLink: Civilians
+wikiPageWikiLink: Murder
+wikiPageWikiLink: Love_On_Tour
+wikiPageWikiLink: Competition
+wikiPageWikiLink: Crown_Prince_Frederik
+wikiPageWikiLink: 2015_Copenhagen_shootings
+wikiPageWikiLink: 2022_Tour_de_France
+wikiPageWikiLink: Amager
+wikiPageWikiLink: Central_European_Summer_Time
+wikiPageWikiLink: Danish_royal_family
+wikiPageWikiLink: Category:Attacks_on_shopping_malls
+wikiPageWikiLink: Category:Deaths_by_firearm_in_Denmark
+wikiPageWikiLink: Category:Violence_in_Denmark
+wikiPageWikiLink: Harry_Styles
+wikiPageWikiLink: Terrorism
+wikiPageWikiLink: Attempted_murder
+wikiPageWikiLink: Lauren_Boebert
+wikiPageWikiLink: Sophie_Hæstorp_Andersen
+wikiPageWikiLink: Field's
+wikiPageWikiLink: Mette_Frederiksen
+wikiPageWikiLink: Mass_shooting
+wikiPageWikiLink: Ørestad
+wikiPageWikiLink: Gun_safe
+wikiPageWikiLink: UTC+02:00
+wikiPageWikiLink: Murders
+wikiPageWikiLink: 7.62×51mm
+wikiPageWikiLink: Psychiatric_healthcare
+thumbnail: Field's_in_Copenhagen_(2014).jpg?width=300
+weapon: SIG Sauer 200 STR match rifle
+date: 2022-07-03
+fatalities: 3
+injuries: 27
+location: Field's shopping mall, Ørestad, Copenhagen, Denmark
+target: Civilians
+timezone: 120.0
+title: 2022
+type: Mass_shooting
+point: 55.63027777777778 12.577777777777778
+charges: 3
+abstract: On 3 July 2022, a man opened fire at the Field's shopping mall in Copenhagen, Denmark, killing three people and critically wounding four others. A suspect, a Danish man, was arrested after the shooting; he had a history of contact with the psychiatric healthcare system. According to police, there are no indications that the shooting was terrorism. The suspect has been charged with three murders and seven attempted murders. The mass shooting is the first in Denmark since the 2015 Copenhagen shootings.
+wasDerivedFrom: 2022_Copenhagen_mall_shooting?oldid=1119665896&ns=0
+wikiPageLength: 19726
+isPrimaryTopicOf: 2022_Copenhagen_mall_shooting
+geometry: POINT(12.577777862549 55.630279541016)
+	

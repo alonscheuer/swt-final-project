@@ -1,0 +1,122 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om %C3%9Arvalsdeild 2022, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: SportsTeamSeason
+type: FootballLeagueSeason
+type: SportsSeason
+label: 2022 Besta deild karla
+comment: The 2022 Besta deild karla was the 111th season of top-flight Icelandic football. Twelve teams contested the league, including the defending champions Víkingur Reykjavík, who won their sixth league title in 2021. It was the first season of the league after it was rebranded as Besta deild karla.
+subject: Category:2021–22_in_European_association_football_leagues
+subject: Category:2022_in_Icelandic_football
+subject: Category:2022–23_in_European_association_football_leagues
+subject: Category:Úrvalsdeild_karla_(football)_seasons
+wikiPageID: 70163953
+wikiPageRevisionID: 1119092085
+wikiPageWikiLink: 2023–24_UEFA_Champions_League
+wikiPageWikiLink: 2023–24_UEFA_Europa_Conference_League
+wikiPageWikiLink: Category:2021–22_in_European_association_football_leagues
+wikiPageWikiLink: Category:2022_in_Icelandic_football
+wikiPageWikiLink: Category:2022–23_in_European_association_football_leagues
+wikiPageWikiLink: Besta_deild_karla
+wikiPageWikiLink: Hlíðarendi_(stadium)
+wikiPageWikiLink: Patrik_Johannesen
+wikiPageWikiLink: Reykjanesbær
+wikiPageWikiLink: Reykjavík
+wikiPageWikiLink: Valur_(men's_football)
+wikiPageWikiLink: Vestmannaeyjar
+wikiPageWikiLink: 1._deild_karla_(football)
+wikiPageWikiLink: Matthías_Vilhjálmsson
+wikiPageWikiLink: Emil_Atlason
+wikiPageWikiLink: Garðabær
+wikiPageWikiLink: Dalvíkurvöllur
+wikiPageWikiLink: Víkingsvöllur
+wikiPageWikiLink: Category:Úrvalsdeild_karla_(football)_seasons
+wikiPageWikiLink: Andri_Rúnar_Bjarnason
+wikiPageWikiLink: Leiknir_Reykjavík
+wikiPageWikiLink: Stjarnan_men's_football
+wikiPageWikiLink: ÍBV_men's_football
+wikiPageWikiLink: Ísak_Snær_Þorvaldsson
+wikiPageWikiLink: Fylkir
+wikiPageWikiLink: 2021_Úrvalsdeild
+wikiPageWikiLink: 2022_Besta_deild_karla
+wikiPageWikiLink: Akranes
+wikiPageWikiLink: Akranesvöllur
+wikiPageWikiLink: Akureyrarvöllur
+wikiPageWikiLink: Akureyri
+wikiPageWikiLink: Dagur_Dan_Þórhallsson
+wikiPageWikiLink: Dalvík
+wikiPageWikiLink: Breiðablik_men's_football
+wikiPageWikiLink: Football_in_Iceland
+wikiPageWikiLink: Kaplakriki
+wikiPageWikiLink: Keflavíkurvöllur
+wikiPageWikiLink: Leiknisvöllur
+wikiPageWikiLink: Hafnarfjörður
+wikiPageWikiLink: Handknattleiksfélag_Kópavogs
+wikiPageWikiLink: Jason_Daði_Svanþórsson
+wikiPageWikiLink: Hásteinsvöllur
+wikiPageWikiLink: 2020_1._deild_karla
+wikiPageWikiLink: KR-völlur
+wikiPageWikiLink: Laugardalsvöllur
+wikiPageWikiLink: Nökkvi_Þeyr_Þórisson
+wikiPageWikiLink: Knattspyrnudeild_Keflavík
+wikiPageWikiLink: Knattspyrnufélag_Akureyrar
+wikiPageWikiLink: Knattspyrnufélag_Reykjavíkur
+wikiPageWikiLink: Knattspyrnufélagið_Fram
+wikiPageWikiLink: Knattspyrnufélagið_Víkingur
+wikiPageWikiLink: Kópavogsvöllur
+wikiPageWikiLink: Kópavogur
+wikiPageWikiLink: FH_men's_football
+wikiPageWikiLink: Stjörnuvöllur
+wikiPageWikiLink: Íþróttabandalag_Akraness
+wikiPageWikiLink: 2022_1._deild_karla
+wikiPageWikiLink: 2022_1._delid_karla
+wikiPageWikiLink: 2023_Besta_deild_karla
+wikiPageExternalLink: https://www.ksi.is/
+wikiPageExternalLink: https://int.soccerway.com/national/iceland/urvalsdeild/2022/final-round/r67803/
+wikiPageExternalLink: https://int.soccerway.com/national/iceland/urvalsdeild/2022/regular-season/r66099/
+wikiPageExternalLink: https://int.soccerway.com/national/iceland/urvalsdeild/2022/relegation-round/r67810/
+wikiPageExternalLink: %3Fmotnumer=43801
+wikiPageExternalLink: https://www.flashscore.com/football/iceland/pepsideild/
+wikiPageExternalLink: http://www.ksi.is/
+competition: Besta_deild_karla
+dates: --04-18
+matches: 132
+nextseason: 2023
+prevseason: 2021
+season: 2022
+updated: 2022-10-10
+winners: Breiðablik_men's_football
+biggestAwayWin: --10-22
+biggestAwayWin: Leiknir 1–7 Keflavík
+biggestHomeWin: --09-07
+biggestHomeWin: Víkingur Reykjavík 9–0 Leiknir
+continentalcup: 2023–24_UEFA_Champions_League
+continentalcup: 2023–24_UEFA_Europa_Conference_League
+continentalcup1Qualifiers: Breiðablik_men's_football
+continentalcup2Qualifiers: Knattspyrnufélag_Akureyrar
+continentalcup2Qualifiers: Knattspyrnufélagið_Víkingur
+highestScoring: --09-17
+highestScoring: Fram 4–8 Keflavík
+leagueTopscorer: Nökkvi_Þeyr_Þórisson
+longestLosses: 7
+longestLosses: Íþróttabandalag_Akraness
+longestUnbeaten: 13
+longestUnbeaten: Knattspyrnufélagið_Víkingur
+longestWinless: 12
+longestWinless: ÍBV_men's_football
+longestWins: 9
+longestWins: Breiðablik_men's_football
+relegated: Leiknir_Reykjavík
+relegated: Íþróttabandalag_Akraness
+totalGoals: 461
+abstract: The 2022 Besta deild karla was the 111th season of top-flight Icelandic football. Twelve teams contested the league, including the defending champions Víkingur Reykjavík, who won their sixth league title in 2021. It was the first season of the league after it was rebranded as Besta deild karla.
+wasDerivedFrom: 2022_Besta_deild_karla?oldid=1119092085&ns=0
+wikiPageLength: 22303
+isPrimaryTopicOf: 2022_Besta_deild_karla
+	

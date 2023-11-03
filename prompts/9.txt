@@ -1,0 +1,187 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Copa Libertadores 2022, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: Event
+type: SportsEvent
+type: Event
+type: SocietalEvent
+type: Tournament
+type: Q1656682
+type: Q500834
+type: Event
+type: SoccerTournament
+type: SportsEvent
+label: 2022 Copa Libertadores
+comment: The 2022 Copa CONMEBOL Libertadores was the 63rd edition of the CONMEBOL Libertadores (also referred to as the Copa Libertadores), South America's premier club football tournament organized by CONMEBOL. On 14 May 2020, CONMEBOL announced the candidate venues for the 2021, 2022 and 2023 club competition finals. On 13 May 2021, CONMEBOL's Council decided that the final would be played at the Estadio Monumental Isidro Romero Carbo in Guayaquil, Ecuador on 29 October 2022.
+name: Copa Libertadores
+depiction: Green_pog.svg
+depiction: Orange_pog.svg
+depiction: Black_pog.svg
+depiction: Blue_pog.svg
+depiction: Brown_pog.svg
+depiction: Pink_pog.svg
+depiction: Red_pog.svg
+depiction: Yellow_pog.svg
+depiction: Purple_pog.svg
+depiction: TransparentPlaceholder.png
+depiction: White_pog.svg
+depiction: Estadio_BSC.jpg
+depiction: CONMEBOL_laea_location_map_without_rivers.svg
+subject: Category:2022_Copa_Libertadores
+subject: Category:Copa_Libertadores_seasons
+subject: Category:2022_in_South_American_football
+wikiPageID: 68498528
+wikiPageRevisionID: 1120731723
+wikiPageWikiLink: Caracas_F.C.
+wikiPageWikiLink: Rony_(footballer)
+wikiPageWikiLink: 2023_Copa_Libertadores
+wikiPageWikiLink: Category:2022_Copa_Libertadores
+wikiPageWikiLink: Boca_Juniors
+wikiPageWikiLink: David_Luiz
+wikiPageWikiLink: Deportes_Tolima
+wikiPageWikiLink: Deportivo_Cali
+wikiPageWikiLink: Deportivo_Táchira_F.C.
+wikiPageWikiLink: Hulk_(footballer)
+wikiPageWikiLink: Julián_Álvarez_(footballer)
+wikiPageWikiLink: Pedro_(footballer,_born_1997)
+wikiPageWikiLink: Peñarol
+wikiPageWikiLink: Vitor_Roque
+wikiPageWikiLink: Colo-Colo
+wikiPageWikiLink: Copa_Libertadores
+wikiPageWikiLink: Club_Alianza_Lima
+wikiPageWikiLink: Club_Always_Ready
+wikiPageWikiLink: Club_Athletico_Paranaense
+wikiPageWikiLink: Club_Atlético_Colón
+wikiPageWikiLink: Club_Atlético_River_Plate
+wikiPageWikiLink: Club_Atlético_Vélez_Sarsfield
+wikiPageWikiLink: Club_Deportivo_Universidad_Católica
+wikiPageWikiLink: Club_Guaraní
+wikiPageWikiLink: Club_Independiente_Petrolero
+wikiPageWikiLink: Club_Libertad
+wikiPageWikiLink: Club_Nacional_de_Football
+wikiPageWikiLink: Club_Olimpia
+wikiPageWikiLink: Club_Plaza_Colonia_de_Deportes
+wikiPageWikiLink: Club_Universitario_de_Deportes
+wikiPageWikiLink: Clube_Atlético_Mineiro
+wikiPageWikiLink: Clube_de_Regatas_do_Flamengo
+wikiPageWikiLink: Gabriel_Barbosa
+wikiPageWikiLink: Giorgian_de_Arrascaeta
+wikiPageWikiLink: Monagas_S.C.
+wikiPageWikiLink: Montevideo_City_Torque
+wikiPageWikiLink: The_Strongest
+wikiPageWikiLink: Thiago_Heleno
+wikiPageWikiLink: 2019–20_Copa_Argentina
+wikiPageWikiLink: 2021_Argentine_Primera_División
+wikiPageWikiLink: 2021_Bolivian_Primera_División
+wikiPageWikiLink: 2021_Campeonato_Brasileiro_Série_A
+wikiPageWikiLink: 2021_Categoría_Primera_A_season
+wikiPageWikiLink: 2021_Chilean_Primera_División
+wikiPageWikiLink: Lucas_Janson
+wikiPageWikiLink: Club_Bolívar
+wikiPageWikiLink: Club_Deportivo_Universidad_César_Vallejo
+wikiPageWikiLink: Éverton_Ribeiro
+wikiPageWikiLink: Penalty_shoot-out_(association_football)
+wikiPageWikiLink: Category:Copa_Libertadores_seasons
+wikiPageWikiLink: Barcelona_S.C.
+wikiPageWikiLink: C.D._Universidad_Católica_del_Ecuador
+wikiPageWikiLink: C.S.D._Independiente_del_Valle
+wikiPageWikiLink: C.S._Emelec
+wikiPageWikiLink: CONMEBOL
+wikiPageWikiLink: CR_Flamengo
+wikiPageWikiLink: Cerro_Porteño
+wikiPageWikiLink: Two-legged_tie
+wikiPageWikiLink: 2021_Copa_Chile
+wikiPageWikiLink: 2021_Copa_Colombia
+wikiPageWikiLink: 2021_Copa_Libertadores
+wikiPageWikiLink: 2021_Copa_Sudamericana
+wikiPageWikiLink: 2021_Copa_de_la_Liga_Profesional
+wikiPageWikiLink: 2021_Ecuadorian_Serie_A
+wikiPageWikiLink: 2021_Liga_1_(Peru)
+wikiPageWikiLink: 2021_Paraguayan_Primera_División_season
+wikiPageWikiLink: 2021_Uruguayan_Primera_División_season
+wikiPageWikiLink: 2021_Venezuelan_Primera_División_season
+wikiPageWikiLink: 2022_Copa_Libertadores
+wikiPageWikiLink: 2022_Copa_Libertadores_Final
+wikiPageWikiLink: 2022_Copa_Libertadores_group_stage
+wikiPageWikiLink: 2022_Copa_Sudamericana
+wikiPageWikiLink: Aderbar_Santos
+wikiPageWikiLink: América_Futebol_Clube_(MG)
+wikiPageWikiLink: Estadio_Monumental_Isidro_Romero_Carbo
+wikiPageWikiLink: Estudiantes_de_La_Plata
+wikiPageWikiLink: Everton_de_Viña_del_Mar
+wikiPageWikiLink: Fluminense_FC
+wikiPageWikiLink: Fortaleza_Esporte_Clube
+wikiPageWikiLink: Guayaquil
+wikiPageWikiLink: Gustavo_Gómez
+wikiPageWikiLink: Gustavo_Scarpa
+wikiPageWikiLink: Talleres_de_Córdoba
+wikiPageWikiLink: Category:2022_in_South_American_football
+wikiPageWikiLink: Asociación_Civil_Deportivo_Lara
+wikiPageWikiLink: Association_football
+wikiPageWikiLink: Atlético_Nacional
+wikiPageWikiLink: Audax_Italiano
+wikiPageWikiLink: Junior_Sornoza
+wikiPageWikiLink: Dorival_Júnior
+wikiPageWikiLink: Away_goals_rule
+wikiPageWikiLink: Sociedade_Esportiva_Palmeiras
+wikiPageWikiLink: South_America
+wikiPageWikiLink: Sport_Club_Corinthians_Paulista
+wikiPageWikiLink: Sporting_Cristal
+wikiPageWikiLink: Millonarios_F.C.
+wikiPageWikiLink: Rafael_Navarro_(footballer)
+wikiPageWikiLink: Raphael_Veiga
+wikiPageWikiLink: Red_Bull_Bragantino
+wikiPageWikiLink: Sebastián_Rodríguez_(footballer)
+wikiPageWikiLink: 2023_Recopa_Sudamericana
+wikiPageWikiLink: File:Red_pog.svg
+wikiPageWikiLink: File:Green_pog.svg
+wikiPageWikiLink: File:Orange_pog.svg
+wikiPageWikiLink: File:Pink_pog.svg
+wikiPageWikiLink: File:Purple_pog.svg
+wikiPageWikiLink: File:Yellow_pog.svg
+wikiPageWikiLink: File:Blue_pog.svg
+wikiPageWikiLink: File:Brown_pog.svg
+wikiPageWikiLink: File:White_pog.svg
+wikiPageExternalLink: https://www.conmebol.com/conmebol-libertadores-goleadores/
+wikiPageExternalLink: https://www.conmebol.com/libertadores/
+wikiPageExternalLink: https://conmebollibertadores.com/
+showMatches: yes
+textKo: 2022_Copa_Libertadores
+textSud: 2022_Copa_Sudamericana
+thumbnail: Estadio_BSC.jpg?width=300
+championOther: Flamengo
+associations: 10
+alternativemap: CONMEBOL laea location map without rivers.svg
+caption: 8
+caption: Location of teams of the 2022 Copa Libertadores.
+caption: The Estadio Monumental Isidro Romero Carbo in Guayaquil hosted the final.
+count: 3
+dates: --02-08
+dates: 
+float: right
+goals: 382
+matches: 155
+nextseason: 2023
+numTeams: 47
+otherTitles: Copa CONMEBOL Libertadores 2022
+player: Pedro
+prevseason: 2021
+size: 275
+topScorer: Pedro
+tourneyName: Copa Libertadores
+width: 450
+year: 2022
+secondOther: Athletico Paranaense
+teamwidth: 200
+abstract: The 2022 Copa CONMEBOL Libertadores was the 63rd edition of the CONMEBOL Libertadores (also referred to as the Copa Libertadores), South America's premier club football tournament organized by CONMEBOL. On 14 May 2020, CONMEBOL announced the candidate venues for the 2021, 2022 and 2023 club competition finals. On 13 May 2021, CONMEBOL's Council decided that the final would be played at the Estadio Monumental Isidro Romero Carbo in Guayaquil, Ecuador on 29 October 2022. On 25 November 2021, CONMEBOL announced the abolition of the away goals rule in all of its club competitions including the Copa Libertadores, which had been used since 2005. Accordingly, if in a two-legged tie two teams scored the same amount of aggregate goals, the winner of the tie would not be decided by the number of away goals scored by each team but by a penalty shoot-out. Brazilian club Flamengo were the champions, winning their third Copa Libertadores title after beating fellow Brazilian side Athletico Paranaense in the final by a 1–0 score. As winners of the 2022 Copa Libertadores, Flamengo earned the right to play against the winners of the 2022 Copa Sudamericana in the 2023 Recopa Sudamericana and also automatically qualified for the 2023 Copa Libertadores group stage. Palmeiras were the defending champions, but were eliminated by Athletico Paranaense in the semi-finals.
+onlyPldPts: no_hide_class_rules
+wasDerivedFrom: 2022_Copa_Libertadores?oldid=1120731723&ns=0
+wikiPageLength: 36484
+isPrimaryTopicOf: 2022_Copa_Libertadores
+	

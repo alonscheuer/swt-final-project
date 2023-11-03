@@ -1,0 +1,107 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Världsmästerskapen i friidrott 2023, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: Event
+type: SportsEvent
+type: Event
+type: SocietalEvent
+type: Q1656682
+type: Event
+type: SportsEvent
+label: 2023 World Athletics Championships
+comment: The 2023 World Athletics Championships (Hungarian: 2023-as atlétikai világbajnokság), the nineteenth edition of the World Athletics Championships, are scheduled to be held from 19 August to 27 August 2023 in Budapest, Hungary. The city of Budapest had previously stated an interest to host the 2007 World Championships, but withdrew and it was eventually held in Osaka.
+name: World Athletics Championships
+name: Budapest 2023
+homepage: budapest23
+name: World Athletics Championships
+name: Budapest 2023
+subject: Category:International_athletics_competitions_hosted_by_Hungary
+subject: Category:2023_in_Hungarian_sport
+subject: Category:2023_in_athletics_(track_and_field)
+subject: Category:Athletics_in_Hungary
+subject: Category:August_2023_sports_events_in_Europe
+subject: Category:Scheduled_sports_events
+subject: Category:International_sports_competitions_in_Budapest
+subject: Category:World_Athletics_Championships
+subject: Category:2020s_in_Budapest
+wikiPageID: 59274554
+wikiPageRevisionID: 1117320611
+wikiPageWikiLink: Category:International_athletics_competitions_hosted_by_Hungary
+wikiPageWikiLink: 200_metres
+wikiPageWikiLink: 2022_Diamond_League
+wikiPageWikiLink: 2022_World_Athletics_Championships
+wikiPageWikiLink: 2025_World_Athletics_Championships
+wikiPageWikiLink: Category:2023_in_Hungarian_sport
+wikiPageWikiLink: Category:2023_in_athletics_(track_and_field)
+wikiPageWikiLink: Category:Athletics_in_Hungary
+wikiPageWikiLink: Category:August_2023_sports_events_in_Europe
+wikiPageWikiLink: Decathlon
+wikiPageWikiLink: 10,000_metres
+wikiPageWikiLink: 100_metres
+wikiPageWikiLink: 100_metres_hurdles
+wikiPageWikiLink: 110_metres_hurdles
+wikiPageWikiLink: 1500_metres
+wikiPageWikiLink: Category:Scheduled_sports_events
+wikiPageWikiLink: Category:International_sports_competitions_in_Budapest
+wikiPageWikiLink: Category:World_Athletics_Championships
+wikiPageWikiLink: Long_jump
+wikiPageWikiLink: Shot_put
+wikiPageWikiLink: Budapest
+wikiPageWikiLink: Triple_jump
+wikiPageWikiLink: Wild_card_(sports)
+wikiPageWikiLink: 20_kilometres_race_walk
+wikiPageWikiLink: 400_metres
+wikiPageWikiLink: 400_metres_hurdles
+wikiPageWikiLink: 4_×_100_metres_relay
+wikiPageWikiLink: 4_×_400_metres_relay
+wikiPageWikiLink: 5000_metres
+wikiPageWikiLink: 50_kilometres_race_walk
+wikiPageWikiLink: 800_metres
+wikiPageWikiLink: 2007_World_Championships_in_Athletics
+wikiPageWikiLink: Hammer_throw
+wikiPageWikiLink: Heptathlon
+wikiPageWikiLink: High_jump
+wikiPageWikiLink: Javelin_throw
+wikiPageWikiLink: Hungarian_Athletics_Association
+wikiPageWikiLink: Category:2020s_in_Budapest
+wikiPageWikiLink: Discus_throw
+wikiPageWikiLink: Marathon
+wikiPageWikiLink: Pole_vault
+wikiPageWikiLink: Osaka
+wikiPageWikiLink: World_Athletics_Challenge_-_Combined_Events
+wikiPageWikiLink: World_Athletics_Challenge_-_Race_Walking
+wikiPageWikiLink: World_Athletics_Championships
+wikiPageWikiLink: National_Athletics_Centre_(Budapest)
+wikiPageWikiLink: 3000_metres_steeplechase
+wikiPageWikiLink: World_Athletics
+wikiPageWikiLink: World_Athletics_Continental_Tour
+wikiPageWikiLink: World_Athletics_Rankings
+wikiPageWikiLink: 2023_World_Athletics_Relays_–_Men's_4_×_100_metres_relay
+wikiPageWikiLink: 2023_World_Athletics_Relays_–_Men's_4_×_400_metres_relay
+wikiPageWikiLink: 2023_World_Athletics_Relays_–_Mixed_4_×_400_metres_relay
+wikiPageWikiLink: 2023_World_Athletics_Relays_–_Women's_4_×_100_metres_relay
+wikiPageWikiLink: 2023_World_Athletics_Relays_–_Women's_4_×_400_metres_relay
+wikiPageExternalLink: budapest23
+events: 48
+country: Hungary
+dates: --08-19
+next: 2025_World_Athletics_Championships
+organiser: Hungarian_Athletics_Association
+organiser: World_Athletics
+previous: 2022_World_Athletics_Championships
+stadium: National_Athletics_Centre_(Budapest)
+website: budapest23
+edition: 19
+hostCity: Budapest
+abstract: The 2023 World Athletics Championships (Hungarian: 2023-as atlétikai világbajnokság), the nineteenth edition of the World Athletics Championships, are scheduled to be held from 19 August to 27 August 2023 in Budapest, Hungary. The city of Budapest had previously stated an interest to host the 2007 World Championships, but withdrew and it was eventually held in Osaka.
+wasDerivedFrom: 2023_World_Athletics_Championships?oldid=1117320611&ns=0
+wikiPageLength: 27702
+city: Budapest
+isPrimaryTopicOf: 2023_World_Athletics_Championships
+	

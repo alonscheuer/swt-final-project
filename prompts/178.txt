@@ -1,0 +1,76 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Kyrkbranden i Giza 2022, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: SpatialThing
+label: Giza church fire
+comment: On 14 August 2022, a fire broke out at the Abu Sefein Church, a Coptic church in the Imbaba neighborhood of Giza on the outskirts of Cairo, Egypt. The fire started during Sunday worship services when nearly 5,000 worshippers were gathered. The fire, which investigations found started due to a faulty air-conditioning unit, spread to a nursery the church hosted, killing 41 people in total throughout the complex, including at least 18 children. One of the church's priests named Abdūl Masīh Bakhīt was among those who died in the fire.
+lat: 30.075
+long: 31.1869
+subject: Category:Religious_buildings_and_structures_fires
+subject: Category:2022_fires_in_Africa
+subject: Category:2022_in_Egypt
+subject: Category:August_2022_events_in_Africa
+subject: Category:Human_stampedes_in_2022
+subject: Category:Human_stampedes_in_Africa
+subject: Category:Fires_in_Egypt
+subject: Category:Coptic_history
+subject: Category:Giza
+wikiPageID: 71521339
+wikiPageRevisionID: 1117566099
+wikiPageWikiLink: Cairo
+wikiPageWikiLink: President_of_Egypt
+wikiPageWikiLink: Saint_Mercurius
+wikiPageWikiLink: Category:Religious_buildings_and_structures_fires
+wikiPageWikiLink: 2021_Cairo_clothing_factory_fire
+wikiPageWikiLink: Category:2022_fires_in_Africa
+wikiPageWikiLink: Category:2022_in_Egypt
+wikiPageWikiLink: Category:August_2022_events_in_Africa
+wikiPageWikiLink: Category:Human_stampedes_in_2022
+wikiPageWikiLink: Category:Human_stampedes_in_Africa
+wikiPageWikiLink: Coptic_Orthodox_Church
+wikiPageWikiLink: Copts
+wikiPageWikiLink: Category:Fires_in_Egypt
+wikiPageWikiLink: Egypt_national_football_team
+wikiPageWikiLink: Egyptian_pound
+wikiPageWikiLink: Giza
+wikiPageWikiLink: Ministry_of_Health_and_Population_(Egypt)
+wikiPageWikiLink: Mohamed_Salah
+wikiPageWikiLink: Mostafa_Madbouly
+wikiPageWikiLink: Category:Coptic_history
+wikiPageWikiLink: Category:Giza
+wikiPageWikiLink: Ministry_of_Interior_(Egypt)
+wikiPageWikiLink: Abdel_Fattah_el-Sisi
+wikiPageWikiLink: Al-Azhar_Mosque
+wikiPageWikiLink: Fire_safety
+wikiPageWikiLink: Grand_Imam_of_al-Azhar
+wikiPageWikiLink: 2002_El_Ayyat_railway_accident
+wikiPageWikiLink: Egyptian_pounds
+wikiPageWikiLink: Pope_Tawadros_II_of_Alexandria
+wikiPageWikiLink: Imbaba
+wikiPageWikiLink: Ahmed_El-Tayeb
+wikiPageWikiLink: Minister_(Christianity)
+wikiPageWikiLink: Short_circuit
+wikiPageWikiLink: Fire
+wikiPageWikiLink: Human_stampede
+wikiPageWikiLink: Persecution_of_Copts
+wikiPageWikiLink: Abu_Seifein
+reportedDeaths: 41
+reportedInjuries: 45
+cause: Short_circuit
+date: 2022-08-14
+location: Giza, Egypt
+title: Giza church fire
+type: Fire
+venue: Abu Sefein Church, Giza, Egypt
+point: 30.075 31.186944444444446
+abstract: On 14 August 2022, a fire broke out at the Abu Sefein Church, a Coptic church in the Imbaba neighborhood of Giza on the outskirts of Cairo, Egypt. The fire started during Sunday worship services when nearly 5,000 worshippers were gathered. The fire, which investigations found started due to a faulty air-conditioning unit, spread to a nursery the church hosted, killing 41 people in total throughout the complex, including at least 18 children. One of the church's priests named Abdūl Masīh Bakhīt was among those who died in the fire.
+wasDerivedFrom: Giza_church_fire?oldid=1117566099&ns=0
+wikiPageLength: 13845
+isPrimaryTopicOf: Giza_church_fire
+geometry: POINT(31.186944961548 30.075000762939)
+	

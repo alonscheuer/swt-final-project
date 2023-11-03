@@ -1,0 +1,104 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Asian Le Mans Series 2023, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: MotorsportSeason
+type: SportsSeason
+label: 2023 Asian Le Mans Series
+comment: The 2023 Asian Le Mans Series will be the eleventh season of the Automobile Club de l'Ouest's Asian Le Mans Series. It is the fourth 24 Hours of Le Mans-based series created by the ACO, following the American Le Mans Series (since merged with the Rolex Sports Car Series to form the United SportsCar Championship), the European Le Mans Series and the FIA World Endurance Championship. The four-event season will begin at the Dubai Autodrome in Dubai on 11 February 2023 and end at the Yas Marina Circuit in Abu Dhabi on 19 February 2023.
+depiction: Fédération_Internationale_de_l'Automobile_flag.svg
+depiction: flag_of_none.svg
+subject: Category:2023_in_Asian_sport
+subject: Category:2023_in_Emirati_motorsport
+subject: Category:2023_in_motorsport
+subject: Category:February_2023_sports_events_in_Asia
+subject: Category:Scheduled_motorsport_seasons
+subject: Category:Asian_Le_Mans_Series_seasons
+wikiPageID: 71012435
+wikiPageRevisionID: 1124374530
+wikiPageWikiLink: Car_Guy_Racing
+wikiPageWikiLink: American_Le_Mans_Series
+wikiPageWikiLink: Category:2023_in_Asian_sport
+wikiPageWikiLink: Category:2023_in_Emirati_motorsport
+wikiPageWikiLink: Category:2023_in_motorsport
+wikiPageWikiLink: Category:February_2023_sports_events_in_Asia
+wikiPageWikiLink: Category:Scheduled_motorsport_seasons
+wikiPageWikiLink: Brendon_Leitch
+wikiPageWikiLink: Honda
+wikiPageWikiLink: Honda_NSX_(second_generation)
+wikiPageWikiLink: Paul_di_Resta
+wikiPageWikiLink: United_Arab_Emirates
+wikiPageWikiLink: United_Autosports
+wikiPageWikiLink: Duqueine_D-08
+wikiPageWikiLink: V6_engine
+wikiPageWikiLink: Ligier_JS_P320
+wikiPageWikiLink: Christian_Bogle
+wikiPageWikiLink: Fédération_Internationale_de_l'Automobile
+wikiPageWikiLink: Ginetta_G61-LT-P3
+wikiPageWikiLink: Goodyear_Tire_and_Rubber_Company
+wikiPageWikiLink: Graff_Racing
+wikiPageWikiLink: Loris_Kessel
+wikiPageWikiLink: Autoracing_Club_Bratislava
+wikiPageWikiLink: BMW
+wikiPageWikiLink: BMW_B58
+wikiPageWikiLink: BMW_M4
+wikiPageWikiLink: Tomonobu_Fujii
+wikiPageWikiLink: Turbocharger
+wikiPageWikiLink: UAE
+wikiPageWikiLink: Dubailand
+wikiPageWikiLink: Le_Mans_Prototype
+wikiPageWikiLink: Rolex_Sports_Car_Series
+wikiPageWikiLink: 2022_Russian_invasion_of_Ukraine
+wikiPageWikiLink: 24_Hours_of_Le_Mans
+wikiPageWikiLink: Abu_Dhabi
+wikiPageWikiLink: Alexandre_Imperatori
+wikiPageWikiLink: Dubai
+wikiPageWikiLink: Dubai_Autodrome
+wikiPageWikiLink: European_Le_Mans_Series
+wikiPageWikiLink: FIA_World_Endurance_Championship
+wikiPageWikiLink: Fabian_Schiller
+wikiPageWikiLink: Ferrari_488
+wikiPageWikiLink: Nissan
+wikiPageWikiLink: Nissan_VK_engine
+wikiPageWikiLink: Nolan_Siegel
+wikiPageWikiLink: Category:Asian_Le_Mans_Series_seasons
+wikiPageWikiLink: James_Winslow
+wikiPageWikiLink: Aston_Martin
+wikiPageWikiLink: Aston_Martin_Vantage_(2018)
+wikiPageWikiLink: Lamborghini
+wikiPageWikiLink: Lamborghini_Huracán
+wikiPageWikiLink: Automobile_Club_de_l'Ouest
+wikiPageWikiLink: Marco_Mapelli
+wikiPageWikiLink: Philip_Hanson_(racing_driver)
+wikiPageWikiLink: Ferrari_F154_engine
+wikiPageWikiLink: Inter_Europol_Competition
+wikiPageWikiLink: Mercedes-AMG_GT
+wikiPageWikiLink: Mercedes-Benz_M156_engine
+wikiPageWikiLink: Michelin
+wikiPageWikiLink: Middle_East
+wikiPageWikiLink: Oreca_07
+wikiPageWikiLink: Raffaele_Marciello
+wikiPageWikiLink: Wyatt_Brichacek
+wikiPageWikiLink: Yas_Island
+wikiPageWikiLink: Yas_Marina_Circuit
+wikiPageWikiLink: United_SportsCar_Championship
+wikiPageWikiLink: V8_engine
+wikiPageWikiLink: Gibson_Technology
+wikiPageWikiLink: V10_engine
+wikiPageWikiLink: Charles_Crews
+thumbnail: flag_of_none.svg?width=300
+next: 2024
+previous: 2022
+series: Asian Le Mans Series
+year: 2023
+abstract: The 2023 Asian Le Mans Series will be the eleventh season of the Automobile Club de l'Ouest's Asian Le Mans Series. It is the fourth 24 Hours of Le Mans-based series created by the ACO, following the American Le Mans Series (since merged with the Rolex Sports Car Series to form the United SportsCar Championship), the European Le Mans Series and the FIA World Endurance Championship. The four-event season will begin at the Dubai Autodrome in Dubai on 11 February 2023 and end at the Yas Marina Circuit in Abu Dhabi on 19 February 2023.
+wasDerivedFrom: 2023_Asian_Le_Mans_Series?oldid=1124374530&ns=0
+wikiPageLength: 19399
+year: 2023
+isPrimaryTopicOf: 2023_Asian_Le_Mans_Series
+	

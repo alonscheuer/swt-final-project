@@ -1,0 +1,265 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Covid-19-protesterna i Kina 2022, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+label: 2022 COVID-19 protests in China
+seeAlso: Democracy_movements_of_China
+seeAlso: Blank_piece_of_paper
+depiction: Flag_of_the_Chinese_Communist_Party.svg
+depiction: National_Emblem_of_the_People's_Republic_of_China_(2).svg
+depiction: Flag_of_the_People's_Police_of_the_People's_Republic_of_China.svg
+depiction: Policemen_wearing_masks_patrolling_Wuhan_Tianhe_Airport_during_Wuhan_coronavirus_outbreak.jpg
+depiction: 2022_Chinese_University_Protest_List.jpg
+depiction: 2022_Urumqi_Protests.png
+depiction: Toronto_Chinese_Consulate_Protest_November_27th,_2022.jpg
+depiction: Urumqi_Road_Sign_at_U_Chicago_Candlelight_Vigil.jpg
+depiction: Washington_DC_Chinese_student_protest_20221128.png
+depiction: Wulumuqi_Road_After_Protest.jpg
+depiction: 西南交通大学学生悼念乌鲁木齐火灾逝者_10.jpg
+depiction: People's_Armed_Police_Flag.svg
+subject: Category:2022_riots
+subject: Category:Responses_to_the_COVID-19_pandemic_in_2022
+subject: Category:2022_in_China
+subject: Category:Protests_in_China
+subject: Category:Protests_over_responses_to_the_COVID-19_pandemic
+subject: Category:Xi_Jinping
+subject: Category:Chinese_democracy_movements
+subject: Category:Riots_and_civil_disorder_in_China
+subject: Category:Internet_censorship_in_China
+subject: Category:2022_protests
+subject: Category:COVID-19_pandemic_in_mainland_China
+subject: Category:Containment_efforts_related_to_the_COVID-19_pandemic
+subject: Category:Country_lockdowns
+wikiPageID: 72351345
+wikiPageRevisionID: 1125006636
+wikiPageWikiLink: President_of_Germany
+wikiPageWikiLink: Prime_Minister_of_Canada
+wikiPageWikiLink: Prime_Minister_of_the_United_Kingdom
+wikiPageWikiLink: Pro-democracy_camp_(Hong_Kong)
+wikiPageWikiLink: Protest
+wikiPageWikiLink: Protests_against_responses_to_the_COVID-19_pandemic
+wikiPageWikiLink: Qatar
+wikiPageWikiLink: MRNA_vaccine
+wikiPageWikiLink: One-party_state
+wikiPageWikiLink: Open_Letter_asking_Xi_Jinping_to_Resign
+wikiPageWikiLink: Category:2022_riots
+wikiPageWikiLink: Category:Responses_to_the_COVID-19_pandemic_in_2022
+wikiPageWikiLink: Beijing
+wikiPageWikiLink: Beijing_Forestry_University
+wikiPageWikiLink: Beijing_Sitong_Bridge_protest
+wikiPageWikiLink: Blank_piece_of_paper_(protest_tactic)
+wikiPageWikiLink: Democracy_movements_of_China
+wikiPageWikiLink: Democratic_Progressive_Party
+wikiPageWikiLink: Alliance_(esports)
+wikiPageWikiLink: Hong_Kong
+wikiPageWikiLink: Patrick_Henry
+wikiPageWikiLink: People's_Armed_Police
+wikiPageWikiLink: People's_Police_(China)
+wikiPageWikiLink: People's_Square
+wikiPageWikiLink: Renminbi
+wikiPageWikiLink: Reuters
+wikiPageWikiLink: Rishi_Sunak
+wikiPageWikiLink: United_States_National_Security_Council
+wikiPageWikiLink: University_of_Hong_Kong
+wikiPageWikiLink: Death_and_state_funeral_of_Jiang_Zemin
+wikiPageWikiLink: Internet_activism
+wikiPageWikiLink: Internet_censorship_in_China
+wikiPageWikiLink: Internet_in_China
+wikiPageWikiLink: Presidency_of_Joe_Biden
+wikiPageWikiLink: Category:2022_in_China
+wikiPageWikiLink: Category:Protests_in_China
+wikiPageWikiLink: 1989_Tiananmen_Square_protests_and_massacre
+wikiPageWikiLink: Colour_revolution
+wikiPageWikiLink: SARS-CoV-2_Omicron_variant
+wikiPageWikiLink: Chris_Tang
+wikiPageWikiLink: Civil_unrest
+wikiPageWikiLink: Embassy_of_the_United_States,_Beijing
+wikiPageWikiLink: Frank-Walter_Steinmeier
+wikiPageWikiLink: Freedom_of_speech
+wikiPageWikiLink: Freedom_of_the_press
+wikiPageWikiLink: Friedmann_equations
+wikiPageWikiLink: Friedrich_Engels
+wikiPageWikiLink: General_Secretary_of_the_Chinese_Communist_Party
+wikiPageWikiLink: Give_me_liberty,_or_give_me_death!
+wikiPageWikiLink: Government_of_China
+wikiPageWikiLink: Grant_Shapps
+wikiPageWikiLink: Mourning
+wikiPageWikiLink: The_New_York_Times
+wikiPageWikiLink: Category:Protests_over_responses_to_the_COVID-19_pandemic
+wikiPageWikiLink: Category:Xi_Jinping
+wikiPageWikiLink: Category:Chinese_democracy_movements
+wikiPageWikiLink: Category:Riots_and_civil_disorder_in_China
+wikiPageWikiLink: 2019–2020_Hong_Kong_protests
+wikiPageWikiLink: Category:Internet_censorship_in_China
+wikiPageWikiLink: Apple_Inc.
+wikiPageWikiLink: Armored_car_(military)
+wikiPageWikiLink: Liangmaqiao_station
+wikiPageWikiLink: Liberty_Square_(Taipei)
+wikiPageWikiLink: Lixia_District
+wikiPageWikiLink: Mainland_Affairs_Council
+wikiPageWikiLink: Mainland_China
+wikiPageWikiLink: Chinese_government_response_to_COVID-19
+wikiPageWikiLink: Sina_Weibo
+wikiPageWikiLink: Stanford_University
+wikiPageWikiLink: Communication_University_of_China,_Nanjing
+wikiPageWikiLink: Democracy_in_China
+wikiPageWikiLink: Zero-COVID
+wikiPageWikiLink: Zhao_Kezhi
+wikiPageWikiLink: Zhao_Lijian
+wikiPageWikiLink: Zhou_Fengsuo
+wikiPageWikiLink: Ürümqi
+wikiPageWikiLink: Mass_surveillance_in_China
+wikiPageWikiLink: BBC
+wikiPageWikiLink: BBC_News
+wikiPageWikiLink: COVID-19_lockdown_in_China
+wikiPageWikiLink: COVID-19_pandemic_in_mainland_China
+wikiPageWikiLink: Central,_Hong_Kong
+wikiPageWikiLink: Central_China
+wikiPageWikiLink: Tsinghua_University
+wikiPageWikiLink: Twitter
+wikiPageWikiLink: USD
+wikiPageWikiLink: Wang_Dan_(dissident)
+wikiPageWikiLink: Wang_Xiaohong
+wikiPageWikiLink: WeChat
+wikiPageWikiLink: Do_You_Hear_the_People_Sing%3F
+wikiPageWikiLink: Law_enforcement_in_China
+wikiPageWikiLink: Lockdown
+wikiPageWikiLink: 2022_FIFA_World_Cup
+wikiPageWikiLink: 2022_Guizhou_bus_crash
+wikiPageWikiLink: 2022_Ürümqi_fire
+wikiPageWikiLink: 20th_National_Congress_of_the_Chinese_Communist_Party
+wikiPageWikiLink: 3rd_Ring_Road_(Beijing)
+wikiPageWikiLink: Economy_of_China
+wikiPageWikiLink: Expansion_of_the_universe
+wikiPageWikiLink: Foreign_Secretary
+wikiPageWikiLink: Foxconn
+wikiPageWikiLink: Overseas_Chinese
+wikiPageWikiLink: Paramount_leader
+wikiPageWikiLink: Barricades
+wikiPageWikiLink: Fangcang_hospital
+wikiPageWikiLink: Protest_song
+wikiPageWikiLink: Guangzhou
+wikiPageWikiLink: Haizhu_District
+wikiPageWikiLink: Han_people
+wikiPageWikiLink: Hangzhou
+wikiPageWikiLink: Harvard_University
+wikiPageWikiLink: Health_Code
+wikiPageWikiLink: James_Cleverly
+wikiPageWikiLink: Tanglin
+wikiPageWikiLink: Telegram_(software)
+wikiPageWikiLink: The_Internationale
+wikiPageWikiLink: Category:2022_protests
+wikiPageWikiLink: Category:COVID-19_pandemic_in_mainland_China
+wikiPageWikiLink: Category:Containment_efforts_related_to_the_COVID-19_pandemic
+wikiPageWikiLink: Category:Country_lockdowns
+wikiPageWikiLink: Associated_Press
+wikiPageWikiLink: Chen_Jining
+wikiPageWikiLink: Chen_Min'er
+wikiPageWikiLink: Chen_Wenqing
+wikiPageWikiLink: Chen_Yixin
+wikiPageWikiLink: Chengdu
+wikiPageWikiLink: Chicago
+wikiPageWikiLink: China_Central_Television
+wikiPageWikiLink: Chinese_Communist_Party
+wikiPageWikiLink: Chongqing
+wikiPageWikiLink: Jiang_Zemin
+wikiPageWikiLink: Jinan
+wikiPageWikiLink: Joe_Biden
+wikiPageWikiLink: John_Kirby_(admiral)
+wikiPageWikiLink: Justin_Trudeau
+wikiPageWikiLink: Karl_Marx
+wikiPageWikiLink: Lanzhou
+wikiPageWikiLink: Tactics_and_methods_surrounding_the_2019–2020_Hong_Kong_protests
+wikiPageWikiLink: Taipei
+wikiPageWikiLink: Uyghur_people
+wikiPageWikiLink: Ding_Xuexiang
+wikiPageWikiLink: March_of_the_Volunteers
+wikiPageWikiLink: Politico
+wikiPageWikiLink: Great_Firewall
+wikiPageWikiLink: IPhone
+wikiPageWikiLink: ISO_216
+wikiPageWikiLink: Korla
+wikiPageWikiLink: Nanjing
+wikiPageWikiLink: New_York_City
+wikiPageWikiLink: Office_of_the_United_Nations_High_Commissioner_for_Human_Rights
+wikiPageWikiLink: R._Nicholas_Burns
+wikiPageWikiLink: Secretary_of_State_for_Business,_Energy_and_Industrial_Strategy
+wikiPageWikiLink: Shandong
+wikiPageWikiLink: Shanghai
+wikiPageWikiLink: Shijiazhuang
+wikiPageWikiLink: Wuhan
+wikiPageWikiLink: Xi'an
+wikiPageWikiLink: Xi_Jinping
+wikiPageWikiLink: Xi_Jinping_Administration
+wikiPageWikiLink: Xinjiang
+wikiPageWikiLink: Xinjiang_Production_and_Construction_Corps
+wikiPageWikiLink: Yale_University
+wikiPageWikiLink: Riot
+wikiPageWikiLink: Sport_utility_vehicle
+wikiPageWikiLink: Virtual_private_network
+wikiPageWikiLink: Neoauthoritarianism_(China)
+wikiPageWikiLink: Student_activism
+wikiPageWikiLink: List_of_websites_blocked_in_mainland_China
+wikiPageWikiLink: Political_demonstration
+wikiPageWikiLink: Rightful_resistance
+wikiPageWikiLink: Victim_blaming
+wikiPageWikiLink: Serve_the_people
+wikiPageWikiLink: Han_ethnicity
+wikiPageWikiLink: US_Ambassador_to_China
+wikiPageWikiLink: Chinese_Lunar_New_Year
+wikiPageWikiLink: Zero-COVID_policy
+wikiPageWikiLink: File:2022_Chinese_University_Protest_List.jpg
+wikiPageWikiLink: File:National_Emblem_of_the_People's_Republic_of_China_(2).svg
+wikiPageWikiLink: File:Policemen_wearing_masks_patrolling_Wuhan_Tianhe_Airport_during_Wuhan_coronavirus_outbreak.jpg
+wikiPageWikiLink: File:Toronto_Chinese_Consulate_Protest_November_27th,_2022.jpg
+wikiPageWikiLink: File:Urumqi_Road_Sign_at_U_Chicago_Candlelight_Vigil.jpg
+wikiPageWikiLink: File:Washington_DC_Chinese_student_protest_20221128.png
+wikiPageWikiLink: File:Wulumuqi_Road_After_Protest.jpg
+wikiPageWikiLink: File:西南交通大学学生悼念乌鲁木齐火灾逝者_10.jpg
+wikiPageWikiLink: Wiktionary:不自由毋寧死
+thumbnail: 2022_Urumqi_Protests.png?width=300
+causes: * Chinese government response to COVID-19
+* Zero-COVID policy
+* Ürümqi fire
+* Internet censorship
+* Increasing government authoritarianism and Xi Jinping's third term
+* Economic slowdown and lack of basic needs caused by lockdowns
+* Workplace practices of Foxconn
+date: --11-05
+goals: * End of the zero-COVID policy
+* Freedom of speech and freedom of the press
+* Resignation of Xi Jinping
+* End of the Chinese Communist Party's one-party rule
+leadfigures: Xi Jinping
+leadfigures: 
+leadfigures: No centralized leadership
+leadfigures: Chen Jining
+leadfigures: Chen Min'er
+leadfigures: Chen Wenqing
+leadfigures: Chen Yixin
+leadfigures: Ding Xuexiang
+leadfigures: Wang Xiaohong
+leadfigures: Zhao Kezhi
+mapframe: yes
+methods: Protests, protest songs, demonstrations, riots, civil unrest, student activism, internet activism
+partof: protests over responses to the COVID-19 pandemic and democracy movements in China
+place: Hong_Kong
+place: Mainland_China
+place: 
+side: Protesters
+side: Chinese Communist Party
+*25px Central People's Government
+* Law enforcement
+**  People's Police
+**  People's Armed Police
+status: Ongoing
+title: 2022
+wasDerivedFrom: 2022_COVID-19_protests_in_China?oldid=1125006636&ns=0
+wikiPageLength: 81271
+isPrimaryTopicOf: 2022_COVID-19_protests_in_China
+	

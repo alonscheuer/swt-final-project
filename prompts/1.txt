@@ -1,0 +1,69 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om NHL Winter Classic 2023, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	label: 2023 NHL Winter Classic
+comment: The 2023 NHL Winter Classic is an upcoming outdoor regular season National Hockey League (NHL) game, part of the Winter Classic series. The game will take place on January 2, 2023, at Fenway Park in Boston, Massachusetts, with the Boston Bruins hosting the Pittsburgh Penguins.
+depiction: 2023_NHL_Winter_Classic_logo.svg
+subject: Category:Boston_Bruins_games
+subject: Category:Ice_hockey_in_Boston
+subject: Category:2022–23_NHL_season
+subject: Category:2023_in_Boston
+subject: Category:2023_in_sports_in_Massachusetts
+subject: Category:January_2023_sports_events_in_the_United_States
+subject: Category:Scheduled_ice_hockey_competitions
+subject: Category:Pittsburgh_Penguins_games
+subject: Category:Fenway_Park
+subject: Category:Sports_competitions_in_Boston
+subject: Category:NHL_Winter_Classic
+wikiPageID: 69697773
+wikiPageRevisionID: 1112543871
+wikiPageWikiLink: Bowl_games
+wikiPageWikiLink: Category:Boston_Bruins_games
+wikiPageWikiLink: Category:Ice_hockey_in_Boston
+wikiPageWikiLink: 2010_NHL_Winter_Classic
+wikiPageWikiLink: 2022_NHL_Winter_Classic
+wikiPageWikiLink: Category:2022–23_NHL_season
+wikiPageWikiLink: Category:2023_in_Boston
+wikiPageWikiLink: Category:2023_in_sports_in_Massachusetts
+wikiPageWikiLink: Category:January_2023_sports_events_in_the_United_States
+wikiPageWikiLink: Category:Scheduled_ice_hockey_competitions
+wikiPageWikiLink: Boston
+wikiPageWikiLink: Boston_Bruins
+wikiPageWikiLink: Massachusetts
+wikiPageWikiLink: Category:Pittsburgh_Penguins_games
+wikiPageWikiLink: NHL_Winter_Classic
+wikiPageWikiLink: NHL_on_Sportsnet
+wikiPageWikiLink: NHL_on_TNT
+wikiPageWikiLink: Category:Fenway_Park
+wikiPageWikiLink: Category:Sports_competitions_in_Boston
+wikiPageWikiLink: 2022-23_NHL_season
+wikiPageWikiLink: Category:NHL_Winter_Classic
+wikiPageWikiLink: ESPN
+wikiPageWikiLink: Fenway_Park
+wikiPageWikiLink: Fenway_Sports_Group
+wikiPageWikiLink: College_football
+wikiPageWikiLink: Pittsburgh_Penguins
+wikiPageWikiLink: National_Hockey_League
+wikiPageWikiLink: New_Year's_Day
+wikiPageWikiLink: NHL_outdoor_game
+thumbnail: 2023_NHL_Winter_Classic_logo.svg?width=300
+arena: Fenway_Park
+city: Boston
+date: 2023-01-02
+gameName: 2023
+home: Boston_Bruins
+homePer: -
+next: 2024
+previous: 2022
+visitor: Pittsburgh_Penguins
+visitorPer: -
+abstract: The 2023 NHL Winter Classic is an upcoming outdoor regular season National Hockey League (NHL) game, part of the Winter Classic series. The game will take place on January 2, 2023, at Fenway Park in Boston, Massachusetts, with the Boston Bruins hosting the Pittsburgh Penguins.
+wasDerivedFrom: 2023_NHL_Winter_Classic?oldid=1112543871&ns=0
+wikiPageLength: 6302
+isPrimaryTopicOf: 2023_NHL_Winter_Classic
+	

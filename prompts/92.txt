@@ -1,0 +1,166 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Världsmästerskapen i skidflygning 2022, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: Event
+type: SportsEvent
+type: Event
+type: SocietalEvent
+type: Q1656682
+type: Event
+type: SportsEvent
+label: FIS Ski Flying World Championships 2022
+comment: The 2022 FIS Ski Flying World Championships were the 27th Ski Flying World Championships, held from 10 to 13 March 2022 in Vikersund, Norway. It is the fifth competition of its rank to be held at this location (previously in 1977, 1990, 2000 and 2012). The defending champion in the individual competition was German Karl Geiger and in the team competition the Norwegian national team. On 1 March 2022, following the 2022 Russian invasion of Ukraine, FIS decided to exclude athletes from Russia and Belarus from FIS competitions, with an immediate effect.
+name: FIS Ski Flying World Championships 2022
+name: FIS Ski Flying World Championships 2022
+depiction: VikersundbakkenWorld_Cup_Ski_flying_2011.jpg
+subject: Category:FIS_Ski_Flying_World_Championships
+subject: Category:FIS_Ski_Flying_World_Championships_2022
+subject: Category:2022_in_Norwegian_sport
+subject: Category:2022_in_ski_jumping
+subject: Category:March_2022_sports_events_in_Norway
+subject: Category:International_sports_competitions_hosted_by_Norway
+subject: Category:Skiing_competitions_in_Norway
+wikiPageID: 69709125
+wikiPageRevisionID: 1080647078
+wikiPageWikiLink: Casey_Larson
+wikiPageWikiLink: Category:FIS_Ski_Flying_World_Championships
+wikiPageWikiLink: Category:FIS_Ski_Flying_World_Championships_2022
+wikiPageWikiLink: Category:2022_in_Norwegian_sport
+wikiPageWikiLink: Category:2022_in_ski_jumping
+wikiPageWikiLink: Category:March_2022_sports_events_in_Norway
+wikiPageWikiLink: Dawid_Kubacki
+wikiPageWikiLink: Paweł_Wąsek
+wikiPageWikiLink: Peter_Prevc
+wikiPageWikiLink: Robert_Johansson
+wikiPageWikiLink: Vikersund
+wikiPageWikiLink: Vikersundbakken
+wikiPageWikiLink: Vladimir_Zografski
+wikiPageWikiLink: Robin_Pedersen
+wikiPageWikiLink: Constantin_Schmid
+wikiPageWikiLink: Anders_Håre
+wikiPageWikiLink: Matthew_Soukup
+wikiPageWikiLink: Ryōyū_Kobayashi
+wikiPageWikiLink: Eetu_Nousiainen
+wikiPageWikiLink: Muhammed_Ali_Bedir
+wikiPageWikiLink: Andreas_Wellinger
+wikiPageWikiLink: Andrzej_Stękała
+wikiPageWikiLink: Antti_Aalto_(ski_jumper)
+wikiPageWikiLink: Anže_Lanišek
+wikiPageWikiLink: Lovro_Kos
+wikiPageWikiLink: Simon_Ammann
+wikiPageWikiLink: Stefan_Kraft
+wikiPageWikiLink: Stephan_Leyhe
+wikiPageWikiLink: Yukiya_Satō
+wikiPageWikiLink: Čestmír_Kožíšek
+wikiPageWikiLink: Category:International_sports_competitions_hosted_by_Norway
+wikiPageWikiLink: Cene_Prevc
+wikiPageWikiLink: Timi_Zajc
+wikiPageWikiLink: 2022_Russian_invasion_of_Ukraine
+wikiPageWikiLink: Alex_Insam
+wikiPageWikiLink: Anders_Fannemel
+wikiPageWikiLink: Daniel-André_Tande
+wikiPageWikiLink: Daniel_Huber_(ski_jumper)
+wikiPageWikiLink: FIS_Ski_Flying_World_Championships
+wikiPageWikiLink: FIS_Ski_Flying_World_Championships_2012
+wikiPageWikiLink: Fatih_Arda_İpcioğlu
+wikiPageWikiLink: Norway
+wikiPageWikiLink: Halvor_Egner_Granerud
+wikiPageWikiLink: Jakub_Wolny
+wikiPageWikiLink: Jan_Hörl
+wikiPageWikiLink: Ski_flying
+wikiPageWikiLink: Artti_Aigro
+wikiPageWikiLink: Johann_André_Forfang
+wikiPageWikiLink: Junshirō_Kobayashi
+wikiPageWikiLink: Kamil_Stoch
+wikiPageWikiLink: Karl_Geiger
+wikiPageWikiLink: Kevin_Maltsev
+wikiPageWikiLink: Killian_Peier
+wikiPageWikiLink: Domen_Prevc
+wikiPageWikiLink: Manuel_Fettner
+wikiPageWikiLink: Marius_Lindvik
+wikiPageWikiLink: Markus_Eisenbichler
+wikiPageWikiLink: Piotr_Żyła
+wikiPageWikiLink: Gregor_Deschwanden
+wikiPageWikiLink: Michael_Hayböck
+wikiPageWikiLink: Naoki_Nakamura
+wikiPageWikiLink: Severin_Freund
+wikiPageWikiLink: Sondre_Ringen
+wikiPageWikiLink: Category:Skiing_competitions_in_Norway
+wikiPageWikiLink: FIS_Ski_Flying_World_Championships_1977
+wikiPageWikiLink: FIS_Ski_Flying_World_Championships_1990
+wikiPageWikiLink: FIS_Ski_Flying_World_Championships_2000
+wikiPageWikiLink: FIS_Ski_Flying_World_Championships_2020
+wikiPageWikiLink: FIS_Ski_Flying_World_Championships_2024
+wikiPageWikiLink: Iver_Olaussen
+wikiPageWikiLink: Sabirzhan_Muminov
+wikiPageWikiLink: Keiichi_Satō_(ski_jumper)
+wikiPageWikiLink: Anders_Ladehaug
+wikiPageWikiLink: Sander_Vossan_Eriksen
+wikiPageWikiLink: Benjamin_Østvold
+wikiPageWikiLink: Ulrich_Wohlgenannt
+wikiPageWikiLink: Giovanni_Bresadola
+wikiPageWikiLink: Bendik_Jakobsen_Heggli
+wikiPageWikiLink: Fredrik_Villumstad
+wikiPageWikiLink: Simen_Kvarstad
+wikiPageWikiLink: Anders_Varsi_Breivik
+wikiPageWikiLink: Andreas_Buskum
+wikiPageWikiLink: Danil_Vassilyev
+wikiPageWikiLink: Iver_Myhre
+wikiPageWikiLink: Jens_Gaarder
+wikiPageWikiLink: Jo_Rømme_Mellingsæter
+wikiPageWikiLink: Jonas_Viken
+wikiPageWikiLink: Kalle_Heikkinen_(ski_jumper)
+wikiPageWikiLink: Kristoffer_Sundal
+wikiPageWikiLink: Marius_Aas_Hast
+wikiPageWikiLink: Matias_Braathen
+wikiPageWikiLink: Muhammet_İrfan_Çintımar
+wikiPageWikiLink: Niko_Kytösaho
+wikiPageWikiLink: Ole_Gudbrand_Kihle_Gravermoen
+wikiPageWikiLink: Ole_Kristian_Baarset
+wikiPageWikiLink: Oscar_Westerheim
+wikiPageWikiLink: Pål_Håkon_Bjørtomt
+wikiPageWikiLink: Richard_Selbekk_Hansen
+wikiPageWikiLink: Sølve_Jokerud_Strand
+wikiPageWikiLink: Øystein_Thorshov
+silverSlo: 1
+thumbnail: VikersundbakkenWorld_Cup_Ski_flying_2011.jpg?width=300
+hostNor: yes
+sports: Ski_flying
+events: 2
+bronzeGer: 0
+bronzeNor: 1
+flagTemplate: flagcountry
+goldGer: 0
+goldNor: 1
+host: NOR
+logo: VikersundbakkenWorld Cup Ski flying 2011.jpg
+next: FIS_Ski_Flying_World_Championships_2024
+previous: FIS_Ski_Flying_World_Championships_2020
+silverGer: 1
+silverNor: 0
+size: 300
+stadium: Vikersundbakken HS240
+athletesParticipating: 55
+nationsParticipating: 16
+bronzeAut: 1
+goldAut: 0
+hostCity: Vikersund
+hostCity: Norway
+silverAut: 0
+closingCeremony: --03-13
+openingCeremony: --03-10
+abstract: The 2022 FIS Ski Flying World Championships were the 27th Ski Flying World Championships, held from 10 to 13 March 2022 in Vikersund, Norway. It is the fifth competition of its rank to be held at this location (previously in 1977, 1990, 2000 and 2012). The defending champion in the individual competition was German Karl Geiger and in the team competition the Norwegian national team. On 1 March 2022, following the 2022 Russian invasion of Ukraine, FIS decided to exclude athletes from Russia and Belarus from FIS competitions, with an immediate effect. Only seven national teams competed in the team competition – this is the smallest number in the history of the championship.
+bronzeSlo: 0
+goldSlo: 1
+wasDerivedFrom: FIS_Ski_Flying_World_Championships_2022?oldid=1080647078&ns=0
+wikiPageLength: 14780
+city: Vikersund
+city: Norway
+isPrimaryTopicOf: FIS_Ski_Flying_World_Championships_2022
+	

@@ -1,0 +1,214 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Paralympiska vinterspelen 2022, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: Event
+type: SportsEvent
+type: Event
+type: SocietalEvent
+type: Q1656682
+type: Event
+type: Olympics
+type: SportsEvent
+label: 2022 Winter Paralympics
+comment: The 2022 Winter Paralympics (Chinese: 2022年冬季残疾人奥林匹克运动会; pinyin: 2022 Nián Dōngjì Cánjí Rén Àolínpǐkè Yùndònghuì), commonly known as Beijing 2022 (Chinese: 北京2022), was an international winter multi-sport parasports event held in Beijing, China from 4 to 13 March 2022. This was the 13th Winter Paralympic Games, as administered by the International Paralympic Committee (IPC).
+seeAlso: Chronological_summary_of_the_2022_Winter_Paralympics
+homepage: https://www.beijing2022.cn/en/
+depiction: Biathlon_-_Paralympic_pictogram.svg
+depiction: Ice_sledge_hockey_-_Paralympic_pictogram.svg
+depiction: Wheelchair_curling_-_Paralympic_pictogram.svg
+depiction: Alpine_skiing_-_Paralympic_pictogram.svg
+depiction: Cross-country_skiing_-_Paralympic_pictogram.svg
+depiction: Snowboarding_-_Paralympic_pictogram.svg
+depiction: 2022_Winter_Olympics_clusters_location_map-en.svg
+depiction: 2022_Winter_Paralympics_cauldron_at_Yanqing_Winter_Olympic_Cultural_Square_(20220313142125).jpg
+depiction: 2022_Winter_Paralympics_games_countries.svg
+depiction: 2022_Winter_Paralympics_logo_(Full_art).svg
+depiction: 2022_Winter_Paralympics_team_numbers.svg
+subject: Category:2022_Winter_Paralympics
+subject: Category:2022_in_Chinese_sport
+subject: Category:2022_in_disability_sport
+subject: Category:2022_in_multi-sport_events
+subject: Category:March_2022_sports_events_in_China
+subject: Category:Sport_in_Zhangjiakou
+subject: Category:2020s_in_Beijing
+subject: Category:International_sports_competitions_hosted_by_China
+subject: Category:Multi-sport_events_in_China
+subject: Category:Winter_Paralympic_Games
+subject: Category:Sports_competitions_in_Beijing
+subject: Category:Sports_events_affected_by_the_2022_Russian_invasion_of_Ukraine
+wikiPageID: 34146722
+wikiPageRevisionID: 1109673713
+wikiPageWikiLink: Canada_at_the_2022_Winter_Paralympics
+wikiPageWikiLink: Belarus_Olympic_Committee
+wikiPageWikiLink: Belarusian_involvement_in_the_2022_Russian_invasion_of_Ukraine
+wikiPageWikiLink: President_of_the_People's_Republic_of_China
+wikiPageWikiLink: Puerto_Rico_at_the_2022_Winter_Paralympics
+wikiPageWikiLink: National_Paralympic_Committee
+wikiPageWikiLink: Olympic_Green
+wikiPageWikiLink: Olympic_Truce
+wikiPageWikiLink: 2008_Summer_Olympics
+wikiPageWikiLink: Category:2022_Winter_Paralympics
+wikiPageWikiLink: Category:2022_in_Chinese_sport
+wikiPageWikiLink: Category:2022_in_disability_sport
+wikiPageWikiLink: Category:2022_in_multi-sport_events
+wikiPageWikiLink: Category:March_2022_sports_events_in_China
+wikiPageWikiLink: Category:Sport_in_Zhangjiakou
+wikiPageWikiLink: Beijing
+wikiPageWikiLink: Beijing_National_Aquatics_Center
+wikiPageWikiLink: Beijing_National_Indoor_Stadium
+wikiPageWikiLink: Beijing_National_Stadium
+wikiPageWikiLink: Beijing_bid_for_the_2022_Winter_Olympics
+wikiPageWikiLink: Belarus
+wikiPageWikiLink: Biathlon_at_the_2022_Winter_Paralympics_–_Men's_6_kilometres
+wikiPageWikiLink: Biathlon_at_the_2022_Winter_Paralympics_–_Women's_10_kilometres
+wikiPageWikiLink: Biathlon
+wikiPageWikiLink: Biathlon_at_the_2022_Winter_Paralympics
+wikiPageWikiLink: Biathlon_at_the_2022_Winter_Paralympics_–_Men's_10_kilometres
+wikiPageWikiLink: Ukraine_at_the_2022_Winter_Paralympics
+wikiPageWikiLink: Uzbekistan
+wikiPageWikiLink: Vitaliy_Lukyanenko
+wikiPageWikiLink: Vladimir_Putin
+wikiPageWikiLink: 128th_IOC_Session
+wikiPageWikiLink: Category:2020s_in_Beijing
+wikiPageWikiLink: Category:Nations_at_the_2022_Winter_Paralympics
+wikiPageWikiLink: Russia
+wikiPageWikiLink: Nordic_skiing
+wikiPageWikiLink: 1994_Winter_Paralympics
+wikiPageWikiLink: General_Secretary_of_the_Chinese_Communist_Party
+wikiPageWikiLink: Multi-sport_event
+wikiPageWikiLink: Cross-country_skiing_(sport)
+wikiPageWikiLink: Opening_ceremony
+wikiPageWikiLink: Category:International_sports_competitions_hosted_by_China
+wikiPageWikiLink: Category:Multi-sport_events_in_China
+wikiPageWikiLink: Category:Winter_Paralympic_Games
+wikiPageWikiLink: 2020_Summer_Paralympics
+wikiPageWikiLink: Andrew_Parsons_(sports_administrator)
+wikiPageWikiLink: Li_Duan
+wikiPageWikiLink: Liechtenstein
+wikiPageWikiLink: Liudmyla_Liashenko
+wikiPageWikiLink: Zhang_Yimou
+wikiPageWikiLink: Zhangjiakou
+wikiPageWikiLink: Zhu_Yonggang
+wikiPageWikiLink: Parasports
+wikiPageWikiLink: Category:Sports_competitions_in_Beijing
+wikiPageWikiLink: Azerbaijan_at_the_2022_Winter_Paralympics
+wikiPageWikiLink: Bulgaria
+wikiPageWikiLink: Turkey
+wikiPageWikiLink: Wang_Pengyao
+wikiPageWikiLink: We_Are_Together._Sports
+wikiPageWikiLink: Winter_Paralympic_Games
+wikiPageWikiLink: Winter_Paralympic_Games_%22We_Are_Together._Sports%22
+wikiPageWikiLink: Winter_sport
+wikiPageWikiLink: Snowboarding
+wikiPageWikiLink: 2022_Russian_invasion_of_Ukraine
+wikiPageWikiLink: 2022_Winter_Olympics
+wikiPageWikiLink: 2024_Summer_Paralympics
+wikiPageWikiLink: 2026_Winter_Paralympics
+wikiPageWikiLink: 2006_Winter_Paralympics
+wikiPageWikiLink: 2008_Summer_Paralympics
+wikiPageWikiLink: Almaty_bid_for_the_2022_Winter_Olympics
+wikiPageWikiLink: Anatolii_Kovalevskyi
+wikiPageWikiLink: Curling
+wikiPageWikiLink: East_Asia
+wikiPageWikiLink: Alpine_skiing
+wikiPageWikiLink: Estonia
+wikiPageWikiLink: North_Korea
+wikiPageWikiLink: Nur-Sultan
+wikiPageWikiLink: Paralympic_symbols
+wikiPageWikiLink: Paramount_leader
+wikiPageWikiLink: Sighted_guide
+wikiPageWikiLink: Russian_Paralympic_Committee
+wikiPageWikiLink: 2002_Winter_Paralympics
+wikiPageWikiLink: International_Olympic_Committee
+wikiPageWikiLink: International_Paralympic_Committee
+wikiPageWikiLink: Iryna_Bui
+wikiPageWikiLink: Israel_at_the_2022_Winter_Paralympics
+wikiPageWikiLink: Temple_of_Heaven
+wikiPageWikiLink: Snowboarding_at_the_2022_Winter_Paralympics
+wikiPageWikiLink: Snowboarding_at_the_2022_Winter_Paralympics_–_Men's_snowboard_cross
+wikiPageWikiLink: 2018_Winter_Paralympics
+wikiPageWikiLink: Category:Sports_events_affected_by_the_2022_Russian_invasion_of_Ukraine
+wikiPageWikiLink: Armenia
+wikiPageWikiLink: Athlete
+wikiPageWikiLink: Athletes
+wikiPageWikiLink: China_National_Convention_Center
+wikiPageWikiLink: China_at_the_2022_Winter_Paralympics
+wikiPageWikiLink: Khanty-Mansiysk
+wikiPageWikiLink: Latvia
+wikiPageWikiLink: Tajikistan
+wikiPageWikiLink: Dmitry_Peskov
+wikiPageWikiLink: Dmytro_Suiarko
+wikiPageWikiLink: Kuala_Lumpur
+wikiPageWikiLink: Oleksandr_Kazik
+wikiPageWikiLink: Oleksandra_Kononova
+wikiPageWikiLink: Ranking
+wikiPageWikiLink: Serbia
+wikiPageWikiLink: World_Anti-Doping_Agency
+wikiPageWikiLink: Xi_Jinping
+wikiPageWikiLink: Xiaohaituo_Alpine_Skiing_Field
+wikiPageWikiLink: Yanqing_District
+wikiPageWikiLink: Para-athletics
+wikiPageWikiLink: Paralympic_sports
+wikiPageWikiLink: Yang_Jian_(snowboarder)
+wikiPageWikiLink: IOC_Session
+wikiPageWikiLink: Para_ice_hockey
+wikiPageWikiLink: Paralympic_Village
+wikiPageWikiLink: List_of_IPC_country_codes
+wikiPageWikiLink: International_Broadcast_Center
+wikiPageWikiLink: Closing_ceremony
+wikiPageWikiLink: File:Wheelchair_curling_-_Paralympic_pictogram.svg
+wikiPageWikiLink: File:Ice_sledge_hockey_-_Paralympic_pictogram.svg
+wikiPageWikiLink: File:Alpine_skiing_-_Paralympic_pictogram.svg
+wikiPageWikiLink: File:Cross-country_skiing_-_Paralympic_pictogram.svg
+wikiPageWikiLink: File:Biathlon_-_Paralympic_pictogram.svg
+wikiPageWikiLink: Borys_Babar
+wikiPageWikiLink: File:Snowboarding_-_Paralympic_pictogram.svg
+wikiPageWikiLink: File:2022_Winter_Olympics_clusters_location_map-en.svg
+wikiPageWikiLink: File:2022_Winter_Paralympics_cauldron_at_Yanqing_Winter_Olympic_Cultural_Square_(20220313142125).jpg
+wikiPageWikiLink: File:2022_Winter_Paralympics_games_countries.svg
+wikiPageWikiLink: File:2022_Winter_Paralympics_team_numbers.svg
+wikiPageWikiLink: Oleksandr_Mukshyn
+wikiPageWikiLink: Oleksandr_Nikonovych
+wikiPageWikiLink: Serhii_Kucheriavyi
+wikiPageWikiLink: Shougang_Ice_Hockey_Arena
+wikiPageExternalLink: https://www.beijing2022.cn/en/
+thumbnail: 2022_Winter_Paralympics_logo_(Full_art).svg?width=300
+cauldron: Li_Duan
+events: 78
+nations: 46
+after: Milan–Cortina
+before: 2018_Winter_Paralympics
+c: 瑞雪兆丰年
+c: 雪容融
+closing: --03-13
+imageSize: 201
+motto: 
+motto: Together for a Shared Future
+opening: --03-04
+p: 2022
+p: Ruìxuě zhào fēngnián
+p: Xuě Róng Róng
+s: 2022
+stadium: Beijing_National_Stadium
+title: Beijing
+title: Winter Paralympics
+years: XIII Paralympic Winter Games
+athletes: 564
+openedBy: President Xi Jinping
+summerNext: Paris 2024
+summerPrev: 2020_Summer_Paralympics
+winterNext: Milan-Cortina 2026
+winterPrev: 2018_Winter_Paralympics
+hostCity: Beijing, China
+abstract: The 2022 Winter Paralympics (Chinese: 2022年冬季残疾人奥林匹克运动会; pinyin: 2022 Nián Dōngjì Cánjí Rén Àolínpǐkè Yùndònghuì), commonly known as Beijing 2022 (Chinese: 北京2022), was an international winter multi-sport parasports event held in Beijing, China from 4 to 13 March 2022. This was the 13th Winter Paralympic Games, as administered by the International Paralympic Committee (IPC). Beijing was selected as the host city for the 2022 Winter Olympics and Paralympics in 2015 at the 128th IOC Session in Kuala Lumpur, Malaysia; taking into account its hosting of the 2008 Summer Paralympics, Beijing is the first city to have hosted both the Summer and Winter Olympics as well as the Summer and Winter Paralympics. This was the overall second Paralympics in China. It was the last of three consecutive Paralympics hosted in East Asia. These Games featured 564 athletes representing 46 National Paralympic Committees (NPCs), competing in 78 medal events across six sports. Participation in the Games was impacted by the ongoing Russian invasion of Ukraine; the International Olympic Committee (IOC) condemned Russia for violating the Olympic Truce, and called for both Russia and its supporter Belarus to be excluded from international sporting events. While the IPC initially announced that the countries' athletes would be allowed to compete independently under the Paralympic flag, it backtracked on 3 March 2022 – the eve of the opening ceremonies – following threats of a boycott by multiple NPCs, and announced that Belarusian and Russian athletes would be prohibited from competing. The Belarusian and Russian delegations competed at a replacement event from 17 to 21 March in Khanty-Mansiysk, Russia. Armenia, Kazakhstan and Tajikistan also competed at the replacement event. Host nation China finished at the top of the medal table, winning a total of 61 medals, of which 18 were gold, setting a new record as the most successful Asian country at a single Winter Paralympics with the most total medals, gold, silver, and bronze. Ukraine also made their best historical performance and finished in second place with 29 medals, of which 11 were gold, and Canada retained the third place achieved in 2010, 2014 and 2018 with a total of 25 medals, of which eight were gold again.
+hypernym: Winter
+wasDerivedFrom: 2022_Winter_Paralympics?oldid=1109673713&ns=0
+wikiPageLength: 52588
+isPrimaryTopicOf: 2022_Winter_Paralympics
+	

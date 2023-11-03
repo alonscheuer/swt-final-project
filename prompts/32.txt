@@ -1,0 +1,99 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Bob vid olympiska vinterspelen 2022, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: Event
+type: SportsEvent
+type: Event
+type: SocietalEvent
+type: Q1656682
+type: OlympicEvent
+type: Event
+type: Olympics
+type: SportsEvent
+label: Bobsleigh at the 2022 Winter Olympics
+comment: Bobsleigh at the 2022 Winter Olympics has been held at the Xiaohaituo Bobsleigh and Luge Track which is one of the Yanqing cluster venues. A total of four bobsleigh events were held, between 4 and 20 February 2022.
+homepage: DigitalCollectionAttachmentDownloadHandler.ashx%3FparentDocumentId=1568639&documentId=1568643
+depiction: Bobsleigh_pictogram.svg
+subject: Category:2022_in_bobsleigh
+subject: Category:Bobsleigh_at_the_2022_Winter_Olympics
+subject: Category:Bobsleigh_at_the_Winter_Olympics
+subject: Category:2022_Winter_Olympics_events
+wikiPageID: 65280393
+wikiPageRevisionID: 1123023331
+wikiPageWikiLink: Cam_Stones
+wikiPageWikiLink: Candy_Bauer
+wikiPageWikiLink: Category:2022_in_bobsleigh
+wikiPageWikiLink: Ben_Coakwell
+wikiPageWikiLink: Bobsleigh_at_the_Winter_Olympics
+wikiPageWikiLink: Deborah_Levi
+wikiPageWikiLink: Matthias_Sommer
+wikiPageWikiLink: Ryan_Sommer
+wikiPageWikiLink: Christian_Rasp
+wikiPageWikiLink: Christine_de_Bruin
+wikiPageWikiLink: Christoph_Hafer
+wikiPageWikiLink: Christopher_Weber
+wikiPageWikiLink: Elana_Meyers_Taylor
+wikiPageWikiLink: Thorsten_Margis
+wikiPageWikiLink: 2018_Winter_Olympics
+wikiPageWikiLink: Bobsleigh_at_the_2018_Winter_Olympics
+wikiPageWikiLink: Category:Bobsleigh_at_the_2022_Winter_Olympics
+wikiPageWikiLink: Category:Bobsleigh_at_the_Winter_Olympics
+wikiPageWikiLink: 2022_Winter_Olympics
+wikiPageWikiLink: Alexander_Schüller
+wikiPageWikiLink: Alexandra_Burghardt
+wikiPageWikiLink: Category:2022_Winter_Olympics_events
+wikiPageWikiLink: Florian_Bauer
+wikiPageWikiLink: Francesco_Friedrich
+wikiPageWikiLink: International_Olympic_Committee
+wikiPageWikiLink: Johannes_Lochner
+wikiPageWikiLink: Justin_Kripps
+wikiPageWikiLink: Kaillie_Humphries
+wikiPageWikiLink: Laura_Nolte
+wikiPageWikiLink: Sylvia_Hoffman
+wikiPageWikiLink: Mariama_Jamanka
+wikiPageWikiLink: Xiaohaituo_Bobsleigh_and_Luge_Track
+wikiPageWikiLink: UTC+8
+wikiPageWikiLink: Bobsleigh_at_the_2026_Winter_Olympics
+wikiPageWikiLink: File:Bobsleigh_pictogram.svg
+wikiPageExternalLink: DigitalCollectionAttachmentDownloadHandler.ashx%3FparentDocumentId=1568639&documentId=1568643
+thumbnail: Bobsleigh_pictogram.svg?width=300
+competitors: 165
+nations: 23
+bronzeGer: 1
+bronzeUsa: 1
+caption: Bobsleigh pictogram
+dates: --02-20
+event: 2022
+event: Bobsleigh
+flagTemplate: FlagIOC
+goldGer: 3
+goldUsa: 1
+next: 2026
+prev: 2018
+silverGer: 3
+silverUsa: 1
+team: NOC
+venue: Xiaohaituo_Bobsleigh_and_Luge_Track
+venue: 
+bronzeCan: 2
+goldCan: 0
+silverCan: 0
+games: 2022
+abstract: Bobsleigh at the 2022 Winter Olympics has been held at the Xiaohaituo Bobsleigh and Luge Track which is one of the Yanqing cluster venues. A total of four bobsleigh events were held, between 4 and 20 February 2022. In July 2018, the International Olympic Committee (IOC) officially added the women's monobob event to the program, increasing the total number of events to four. The IOC also transferred six quotas from the men's events to the women's. The quota limit of 170 athletes remained the same from the 2018 Winter Olympics. A total of four events have been contested, two each for men and women.
+competitorsMen: 119
+competitorsWomen: 46
+numEvents: 4
+nextEvent: Bobsleigh_at_the_2026_Winter_Olympics
+wasDerivedFrom: Bobsleigh_at_the_2022_Winter_Olympics?oldid=1123023331&ns=0
+wikiPageLength: 7935
+games: 2022 Winter
+event: Bobsleigh_at_the_Winter_Olympics
+previousEvent: Bobsleigh_at_the_2018_Winter_Olympics
+isPrimaryTopicOf: Bobsleigh_at_the_2022_Winter_Olympics
+	

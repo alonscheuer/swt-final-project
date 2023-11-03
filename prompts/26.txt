@@ -1,0 +1,61 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Amstel Gold Race 2022, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	label: 2022 Amstel Gold Race
+comment: The 2022 Amstel Gold Race was a road cycling one-day race that took place on 10 April 2022 in the Netherlands. It was the 56th edition of the Amstel Gold Race and the 14th event of the 2022 UCI World Tour. The race was won by Michał Kwiatkowski in a photo finish with Benoît Cosnefroy.
+name: 2022
+subject: Category:2022_UCI_World_Tour
+subject: Category:2022_in_Dutch_sport
+subject: Category:April_2022_sports_events_in_the_Netherlands
+subject: Category:Amstel_Gold_Race
+wikiPageID: 70511608
+wikiPageRevisionID: 1095044818
+wikiPageWikiLink: 2022_UCI_World_Tour
+wikiPageWikiLink: Category:2022_UCI_World_Tour
+wikiPageWikiLink: Category:2022_in_Dutch_sport
+wikiPageWikiLink: Category:April_2022_sports_events_in_the_Netherlands
+wikiPageWikiLink: Benoît_Cosnefroy
+wikiPageWikiLink: Mathieu_van_der_Poel
+wikiPageWikiLink: 2021_Amstel_Gold_Race
+wikiPageWikiLink: Stefan_Küng
+wikiPageWikiLink: Category:Amstel_Gold_Race
+wikiPageWikiLink: Tiesj_Benoot
+wikiPageWikiLink: Alexander_Kamp
+wikiPageWikiLink: Amstel_Gold_Race
+wikiPageWikiLink: Dylan_Teuns
+wikiPageWikiLink: UCI_WorldTeam
+wikiPageWikiLink: Kasper_Asgreen
+wikiPageWikiLink: Marc_Hirschi
+wikiPageWikiLink: Michael_Matthews_(cyclist)
+wikiPageWikiLink: Michał_Kwiatkowski
+wikiPageWikiLink: Road_bicycle_racing
+wikiPageWikiLink: UCI_Professional_Continental
+wikiPageWikiLink: 2023_Amstel_Gold_Race
+colwidth: 20
+date: 2022-04-10
+distance: 254.1
+first: Michał_Kwiatkowski
+next: 2023
+previous: 2021
+second: Benoît_Cosnefroy
+series: 2022
+style: 20.0
+third: Tiesj_Benoot
+time: 21679.0
+unit: km
+raceNo: 14
+seasonNo: 32
+firstNat: POL
+secondNat: FRA
+stages: 1
+thirdNat: BEL
+abstract: The 2022 Amstel Gold Race was a road cycling one-day race that took place on 10 April 2022 in the Netherlands. It was the 56th edition of the Amstel Gold Race and the 14th event of the 2022 UCI World Tour. The race was won by Michał Kwiatkowski in a photo finish with Benoît Cosnefroy.
+wasDerivedFrom: 2022_Amstel_Gold_Race?oldid=1095044818&ns=0
+wikiPageLength: 4739
+isPrimaryTopicOf: 2022_Amstel_Gold_Race
+	

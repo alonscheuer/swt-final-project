@@ -1,0 +1,534 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om U17-Europamästerskapet i fotboll för herrar 2022, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: Event
+type: SportsEvent
+type: Event
+type: SocietalEvent
+type: Tournament
+type: Q1656682
+type: Q500834
+type: Event
+type: SoccerTournament
+type: SportsEvent
+label: 2022 UEFA European Under-17 Championship
+comment: The 2022 UEFA European Under-17 Championship (also known as UEFA Under-17 Euro 2022) was the 19th UEFA European Under-17 Championship (38th edition if the Under-16 era is also included), the annual international youth football championship organised by UEFA for the men's under-17 national teams of Europe. Israel was hosting the tournament. A total of 16 teams played in the tournament, with players born on or after 1 January 2005 eligible to participate.
+name: UEFA European Under-17 Championship
+depiction: WikiAir_IL-13-05_A18.jpg
+depiction: No_image_available.svg
+depiction: Haberfeld_Stadium18.jpg
+depiction: Ness_Ziona_Stadium_(9).jpg
+depiction: Ramat_Gan_Ramat_Gan_Stadium_2.jpg
+depiction: 2022_UEFA_European_Under-17_Championship_logo.svg
+subject: Category:2021–22_in_UEFA_football
+subject: Category:2022_in_youth_association_football
+subject: Category:June_2022_sports_events_in_Europe
+subject: Category:May_2022_sports_events_in_Europe
+subject: Category:UEFA_European_Under-17_Championship
+subject: Category:International_association_football_competitions_hosted_by_Israel
+wikiPageID: 62103407
+wikiPageRevisionID: 1120607861
+wikiPageWikiLink: Rodrigo_Ribeiro_(footballer,_born_2005)
+wikiPageWikiLink: Romanian_Football_Federation
+wikiPageWikiLink: Rory_Wilson
+wikiPageWikiLink: Saël_Kumbedi
+wikiPageWikiLink: 2007_UEFA_European_Under-17_Championship
+wikiPageWikiLink: 2008_UEFA_European_Under-17_Championship
+wikiPageWikiLink: 2009_UEFA_European_Under-17_Championship
+wikiPageWikiLink: 2011_UEFA_European_Under-17_Championship
+wikiPageWikiLink: 2012_UEFA_European_Under-17_Championship
+wikiPageWikiLink: 2021_UEFA_European_Under-17_Championship
+wikiPageWikiLink: 2023_UEFA_European_Under-17_Championship
+wikiPageWikiLink: Category:2021–22_in_UEFA_football
+wikiPageWikiLink: Category:2022_in_youth_association_football
+wikiPageWikiLink: Category:June_2022_sports_events_in_Europe
+wikiPageWikiLink: Category:May_2022_sports_events_in_Europe
+wikiPageWikiLink: Jorne_Spileers
+wikiPageWikiLink: Jovan_Mijatović
+wikiPageWikiLink: Jovan_Milošević
+wikiPageWikiLink: Jovan_Šljivić
+wikiPageWikiLink: João_Veloso
+wikiPageWikiLink: Paul_Wanner
+wikiPageWikiLink: Rishon_LeZion
+wikiPageWikiLink: UTC+03:00
+wikiPageWikiLink: Croatian_Football_Federation
+wikiPageWikiLink: Mathys_Tel
+wikiPageWikiLink: French_Football_Federation
+wikiPageWikiLink: Gabriel_Misehouy
+wikiPageWikiLink: Category:UEFA_European_Under-17_Championship
+wikiPageWikiLink: 2017_UEFA_European_Under-17_Championship
+wikiPageWikiLink: 2018_UEFA_European_Under-17_Championship
+wikiPageWikiLink: 2019_UEFA_European_Under-17_Championship
+wikiPageWikiLink: 2020_UEFA_European_Under-17_Championship
+wikiPageWikiLink: Antoni_Milambo
+wikiPageWikiLink: Ljubljana
+wikiPageWikiLink: Lod
+wikiPageWikiLink: Sidney_Raebiger
+wikiPageWikiLink: Penalty_shoot-out_(association_football)
+wikiPageWikiLink: 2003_UEFA_European_Under-17_Championship
+wikiPageWikiLink: 2004_UEFA_European_Under-17_Championship
+wikiPageWikiLink: 2005_UEFA_European_Under-17_Championship
+wikiPageWikiLink: 2006_UEFA_European_Under-17_Championship
+wikiPageWikiLink: Category:International_association_football_competitions_hosted_by_Israel
+wikiPageWikiLink: Axel_Gueguin
+wikiPageWikiLink: Ayman_Aiki
+wikiPageWikiLink: COVID-19_pandemic_in_Europe
+wikiPageWikiLink: Tom_Bischof
+wikiPageWikiLink: UEFA
+wikiPageWikiLink: UEFA_European_Under-17_Championship
+wikiPageWikiLink: UEFA_European_Under-19_Championship
+wikiPageWikiLink: UEFA_Women's_Under-17_Championship
+wikiPageWikiLink: UEFA_Women's_Under-19_Championship
+wikiPageWikiLink: Warren_Zaïre-Emery
+wikiPageWikiLink: Willy_Delajod
+wikiPageWikiLink: Haberfeld_Stadium
+wikiPageWikiLink: Lod_Municipal_Stadium
+wikiPageWikiLink: Ness_Ziona_Stadium
+wikiPageWikiLink: 2013_UEFA_European_Under-17_Championship
+wikiPageWikiLink: 2014_UEFA_European_Under-17_Championship
+wikiPageWikiLink: 2015_UEFA_European_Under-17_Championship
+wikiPageWikiLink: 2016_UEFA_European_Under-17_Championship
+wikiPageWikiLink: 2022_UEFA_European_Under-17_Championship_qualification
+wikiPageWikiLink: Aleksandar_Stanković_(footballer,_born_2005)
+wikiPageWikiLink: Dário_Essugo
+wikiPageWikiLink: Désiré_Doué
+wikiPageWikiLink: Dženan_Pejčinović
+wikiPageWikiLink: Football_Association_of_Wales
+wikiPageWikiLink: Noah_Sahsah
+wikiPageWikiLink: Football_Association_of_Iceland
+wikiPageWikiLink: Football_Federation_of_Armenia
+wikiPageWikiLink: Football_Federation_of_Macedonia
+wikiPageWikiLink: Goal_difference
+wikiPageWikiLink: Israel_Summer_Time
+wikiPageWikiLink: Isaac_Babadi
+wikiPageWikiLink: Israel
+wikiPageWikiLink: Jardell_Kanga
+wikiPageWikiLink: Jason_van_Duiven
+wikiPageWikiLink: Javier_Boñar
+wikiPageWikiLink: Arijon_Ibrahimović
+wikiPageWikiLink: Association_football
+wikiPageWikiLink: Austrian_Football_Association
+wikiPageWikiLink: Martin_Georgiev
+wikiPageWikiLink: Iker_Bravo
+wikiPageWikiLink: Mike_Kleijn
+wikiPageWikiLink: Nelson_Weiper
+wikiPageWikiLink: Ness_Ziona
+wikiPageWikiLink: Netanya
+wikiPageWikiLink: Netanya_Stadium
+wikiPageWikiLink: Netherlands_national_under-17_football_team
+wikiPageWikiLink: Nyon
+wikiPageWikiLink: Oliwier_Sławiński
+wikiPageWikiLink: Ramat_Gan
+wikiPageWikiLink: Ramat_Gan_Stadium
+wikiPageWikiLink: João_Gonçalves_(footballer,_born_2005)
+wikiPageWikiLink: File:No_image_available.svg
+wikiPageWikiLink: Helgi_Mikael_Jónasson
+wikiPageWikiLink: Philipp_Schulz
+wikiPageWikiLink: Christian-Petru_Ciochirca
+wikiPageWikiLink: Snir_Levi
+wikiPageWikiLink: Karem_Zoabi
+wikiPageWikiLink: Dean_Huijsen
+wikiPageWikiLink: David_Mella
+wikiPageWikiLink: Juxhin_Xhaja
+wikiPageWikiLink: Jaden_Slory
+wikiPageWikiLink: Tommaso_Guercio
+wikiPageWikiLink: Luca_Di_Maggio
+wikiPageWikiLink: Luca_Lipani
+wikiPageWikiLink: Laurin_Ulrich
+wikiPageWikiLink: Stanis_Idumbo-Muzambo
+wikiPageWikiLink: João_Muniz
+wikiPageWikiLink: Can_Uzun
+wikiPageWikiLink: Oualid_Agougil
+wikiPageWikiLink: Tim_van_den_Heuvel
+wikiPageWikiLink: Yoram_Boerhout
+wikiPageWikiLink: File:Ramat_Gan_Ramat_Gan_Stadium_2.jpg
+wikiPageWikiLink: File:WikiAir_IL-13-05_A18.JPG
+wikiPageWikiLink: Leonardo_de_Oliveira
+wikiPageWikiLink: File:Haberfeld_Stadium18.jpg
+wikiPageWikiLink: Chemsdine_Talbi
+wikiPageWikiLink: Dario_Bel
+wikiPageWikiLink: Henrik_Nalbandyan
+wikiPageWikiLink: Markus_Jensen
+wikiPageWikiLink: Jasmin_Šabotić
+wikiPageWikiLink: David_Fuxman
+wikiPageWikiLink: Afonso_Moreira_(footballer)
+wikiPageWikiLink: Alessandro_Bolzan
+wikiPageWikiLink: Alexander_Simmelhack
+wikiPageWikiLink: Alexis_Kabamba
+wikiPageWikiLink: Andrei_Florin_Chivulete
+wikiPageWikiLink: Dani_Rodriguez
+wikiPageWikiLink: Dawid_Drachal
+wikiPageWikiLink: El-Chadaille_Bitshiabu
+wikiPageWikiLink: Elias_Hansborg-Sørensen
+wikiPageWikiLink: Emil_Højlund
+wikiPageWikiLink: File:Ness_Ziona_Stadium_(9).jpg
+wikiPageWikiLink: Francesco_Pio_Esposito
+wikiPageWikiLink: Igor_Stojčevski
+wikiPageWikiLink: Ivan_Lima
+wikiPageWikiLink: Jaden_Fernando_Slory
+wikiPageWikiLink: Jan-Carlo_Simić
+wikiPageWikiLink: José_Rodrigues_(footballer)
+wikiPageWikiLink: Kevin_Bruno
+wikiPageWikiLink: Luis_Gomes_(footballer)
+wikiPageWikiLink: Magnus_Mackenzie
+wikiPageWikiLink: Manuel_Mendonça
+wikiPageWikiLink: Mateja_Radonjić
+wikiPageWikiLink: Maurice_Krattenmacher
+wikiPageWikiLink: Naim_Byar
+wikiPageWikiLink: Noah_Nartey
+wikiPageWikiLink: Paulo_Fritschi
+wikiPageWikiLink: Stefan_Traykov_(footballer)
+wikiPageWikiLink: Tom_Owen_(referee)
+wikiPageWikiLink: Tom_Saettel
+wikiPageWikiLink: Ussumane_Djaló
+wikiPageWikiLink: Valentin_Atangana_Edoa
+wikiPageWikiLink: Vojin_Serafimović
+wikiPageWikiLink: Yan_Yusopove
+wikiPageWikiLink: Zoumana_Diallo
+wikiPageExternalLink: https://www.uefa.com/under17/
+wikiPageExternalLink: https://www.uefa.com/under17/season=2019/standings/round=2000949/
+wikiPageExternalLink: https://www.uefa.com/under17/draws/2022/2001384/
+wikiPageExternalLink: https://www.uefa.com/under17/match/2034752--israel-vs-luxembourg/
+wikiPageExternalLink: https://www.uefa.com/under17/match/2034753--italy-vs-germany/
+wikiPageExternalLink: https://www.uefa.com/under17/match/2034754--france-vs-poland/
+wikiPageExternalLink: https://www.uefa.com/under17/match/2034755--bulgaria-vs-netherlands/
+wikiPageExternalLink: https://www.uefa.com/under17/match/2034756--serbia-vs-belgium/
+wikiPageExternalLink: https://www.uefa.com/under17/match/2034757--turkey-vs-spain/
+wikiPageExternalLink: https://www.uefa.com/under17/match/2034758--denmark-vs-sweden/
+wikiPageExternalLink: https://www.uefa.com/under17/match/2034759--scotland-vs-portugal/
+wikiPageExternalLink: https://www.uefa.com/under17/match/2034760--israel-vs-italy/
+wikiPageExternalLink: https://www.uefa.com/under17/match/2034761--germany-vs-luxembourg/
+wikiPageExternalLink: https://www.uefa.com/under17/match/2034762--france-vs-bulgaria/
+wikiPageExternalLink: https://www.uefa.com/under17/match/2034763--netherlands-vs-poland/
+wikiPageExternalLink: https://www.uefa.com/under17/match/2034764--serbia-vs-turkey/
+wikiPageExternalLink: https://www.uefa.com/under17/match/2034765--spain-vs-belgium/
+wikiPageExternalLink: https://www.uefa.com/under17/match/2034766--denmark-vs-scotland/
+wikiPageExternalLink: https://www.uefa.com/under17/match/2034767--portugal-vs-sweden/
+wikiPageExternalLink: https://www.uefa.com/under17/match/2034768--germany-vs-israel/
+wikiPageExternalLink: https://www.uefa.com/under17/match/2034769--luxembourg-vs-italy/
+wikiPageExternalLink: https://www.uefa.com/under17/match/2034770--netherlands-vs-france/
+wikiPageExternalLink: https://www.uefa.com/under17/match/2034771--poland-vs-bulgaria/
+wikiPageExternalLink: https://www.uefa.com/under17/match/2034772--spain-vs-serbia/
+wikiPageExternalLink: https://www.uefa.com/under17/match/2034773--belgium-vs-turkey/
+wikiPageExternalLink: https://www.uefa.com/under17/match/2034774--portugal-vs-denmark/
+wikiPageExternalLink: https://www.uefa.com/under17/match/2034775--sweden-vs-scotland/
+wikiPageExternalLink: https://www.uefa.com/under17/match/2034777--germany-vs-france/
+wikiPageExternalLink: https://www.uefa.com/under17/match/2034778--netherlands-vs-italy/
+wikiPageExternalLink: https://www.uefa.com/under17/match/2034779--denmark-vs-serbia/
+wikiPageExternalLink: https://www.uefa.com/under17/match/2034780--spain-vs-portugal/
+wikiPageExternalLink: https://www.uefa.com/under17/match/2034781--france-vs-portugal/
+wikiPageExternalLink: https://www.uefa.com/under17/match/2034782--netherlands-vs-serbia/
+wikiPageExternalLink: https://www.uefa.com/under17/match/2034783--france-vs-netherlands/
+wikiPageExternalLink: https://www.uefa.com/under17/statistics/
+thumbnail: 2022_UEFA_European_Under-17_Championship_logo.svg?width=300
+1OwnGoal: * Luis Gomes 
+* João Muniz 
+* Magnus Mackenzie
+5Goals: * Jovan Milošević
+attendance: 132
+attendance: 162
+attendance: 164
+attendance: 184
+attendance: 190
+attendance: 204
+attendance: 262
+attendance: 270
+attendance: 340
+attendance: 483
+attendance: 1170
+attendance: 1424
+attendance: 2276
+attendance: 6091
+cities: 5
+confederations: 1
+count: 3
+country: Israel
+date: 2022-05-16
+date: 2022-05-17
+date: 2022-05-19
+date: 2022-05-20
+date: 2022-05-22
+date: 2022-05-23
+date: 2022-05-25
+date: 2022-05-26
+date: 2022-05-29
+date: 2022-06-01
+dates: --05-16
+float: none
+goals: 101
+goals: Lima
+goals: Rodrigues
+goals: Gomes
+goals: Ulrich
+goals: Bruno
+goals: Bolzan
+goals: Esposito
+goals: Mella
+goals: Moreira
+goals: Georgiev
+goals: Mijatović
+goals: Talbi
+goals: Milošević
+goals: Diallo
+goals: Simić
+goals: *Uzun
+goals: Uzun
+goals: Ibrahimović
+goals: *Milošević
+goals: Bischof
+goals: Traykov
+goals: Slory
+goals: Muniz
+goals: Pejčinović
+goals: Di Maggio
+goals: Milambo
+goals: Nartey
+goals: Kanga
+goals: *Wilson
+goals: Wanner
+goals: *Kanga
+goals: Guercio
+goals: Kumbedi
+goals: Raebiger
+goals: *Boñar 
+*Bravo
+goals: *Idumbo-Muzambo
+goals: *Kanga 
+*De Oliveira
+goals: *Lima 
+*Rodrigues 
+*Veloso 
+*Moreira 
+*Ribeiro
+goals: *Mackenzie
+goals: *Misehouy 
+*Van Duiven
+goals: *Ribeiro 
+*Veloso 
+*Moreira
+goals: *Rodriguez 
+*Bravo
+goals: *Sahsah
+goals: *Simmelhack 
+*Mackenzie 
+*Jensen
+goals: *Šljivić 
+*Milošević
+goals: Aiki
+goals: Babadi
+goals: Boerhout
+goals: Boñar
+goals: Byar
+goals: Doué
+goals: Drachal
+goals: E. Højlund
+goals: Essugo
+goals: Gueguin
+goals: Hansborg-Sørensen
+goals: Huijsen
+goals: Idumbo-Muzambo
+goals: Lipani
+goals: Misehouy
+goals: Saettel
+goals: Spileers
+goals: Sławiński
+goals: Tel
+goals: Van Duiven
+goals: Weiper
+goals: Yusopove
+goals: Zaïre-Emery
+goals: Zoabi
+matches: 31
+nextseason: 2023
+numTeams: 16
+otherTitles: 
+penalties: *Huijsen 
+*Van den Heuvel 
+*Agougil 
+*Kleijn 
+*Babadi
+penalties: *Gueguin 
+*Diallo 
+*Kabamba 
+*Byar 
+*Tel 
+*Bitshiabu
+penalties: *Schulz 
+*Pejčinović 
+*Bischof 
+*Ibrahimović 
+*Krattenmacher 
+*Fritschi
+penalties: * Zaïre-Emery
+* Byar
+* Atangana Edoa
+* Kabamba
+* Tel
+* Diallo
+penalties: * Gonçalves
+* Muniz
+* Rodrigues
+* Essugo
+* Djaló
+* Mendonça
+penalties: * Stanković
+* Radonjić
+* Šljivić
+* Serafimović
+penaltyscore: 3
+penaltyscore: 5
+penaltyscore: 6
+prevseason: 2019
+prevseason: 2020
+prevseason: 2021
+referee: Tom Owen
+referee: Andrei Chivulete
+referee: Christian-Petru Ciochirca
+referee: Andrei Florin Chivulete
+referee: Helgi Mikael Jónasson
+referee: Dario Bel
+referee: Henrik Nalbandyan
+referee: Willy Delajod
+referee: Thomas Gary Owen
+referee: Igor Stojčevski
+report: https://www.uefa.com/under17/match/2034752--israel-vs-luxembourg/
+report: https://www.uefa.com/under17/match/2034753--italy-vs-germany/
+report: https://www.uefa.com/under17/match/2034754--france-vs-poland/
+report: https://www.uefa.com/under17/match/2034755--bulgaria-vs-netherlands/
+report: https://www.uefa.com/under17/match/2034756--serbia-vs-belgium/
+report: https://www.uefa.com/under17/match/2034757--turkey-vs-spain/
+report: https://www.uefa.com/under17/match/2034758--denmark-vs-sweden/
+report: https://www.uefa.com/under17/match/2034759--scotland-vs-portugal/
+report: https://www.uefa.com/under17/match/2034760--israel-vs-italy/
+report: https://www.uefa.com/under17/match/2034761--germany-vs-luxembourg/
+report: https://www.uefa.com/under17/match/2034762--france-vs-bulgaria/
+report: https://www.uefa.com/under17/match/2034763--netherlands-vs-poland/
+report: https://www.uefa.com/under17/match/2034764--serbia-vs-turkey/
+report: https://www.uefa.com/under17/match/2034765--spain-vs-belgium/
+report: https://www.uefa.com/under17/match/2034766--denmark-vs-scotland/
+report: https://www.uefa.com/under17/match/2034767--portugal-vs-sweden/
+report: https://www.uefa.com/under17/match/2034768--germany-vs-israel/
+report: https://www.uefa.com/under17/match/2034769--luxembourg-vs-italy/
+report: https://www.uefa.com/under17/match/2034770--netherlands-vs-france/
+report: https://www.uefa.com/under17/match/2034771--poland-vs-bulgaria/
+report: https://www.uefa.com/under17/match/2034772--spain-vs-serbia/
+report: https://www.uefa.com/under17/match/2034773--belgium-vs-turkey/
+report: https://www.uefa.com/under17/match/2034774--portugal-vs-denmark/
+report: https://www.uefa.com/under17/match/2034775--sweden-vs-scotland/
+report: https://www.uefa.com/under17/match/2034777--germany-vs-france/
+report: https://www.uefa.com/under17/match/2034778--netherlands-vs-italy/
+report: https://www.uefa.com/under17/match/2034779--denmark-vs-serbia/
+report: https://www.uefa.com/under17/match/2034780--spain-vs-portugal/
+report: https://www.uefa.com/under17/match/2034781--france-vs-portugal/
+report: https://www.uefa.com/under17/match/2034782--netherlands-vs-serbia/
+report: https://www.uefa.com/under17/match/2034783--france-vs-netherlands/
+score: 0
+score: 1
+score: 2
+score: 3
+score: 4
+score: 6
+size: 200
+source: https://www.uefa.com/under17/statistics/
+stadium: Rishon_LeZion
+stadium: Lod
+stadium: Haberfeld_Stadium
+stadium: Lod_Municipal_Stadium
+stadium: Ness_Ziona_Stadium
+stadium: Ness_Ziona
+stadium: Netanya
+stadium: Netanya_Stadium
+stadium: Ramat_Gan
+stadium: Ramat_Gan_Stadium
+time: 1140.0
+time: 1200.0
+time: 1260.0
+time: 1050.0
+time: 870.0
+time: 990.0
+topScorer: Jovan Milošević
+tourneyName: UEFA European Under-17 Championship
+updated: 2022-05-29
+venues: 5
+width: 300
+year: 2022
+1Goal: * Jorne Spileers
+* Chemsdine Talbi
+* Martin Georgiev
+* Stefan Traykov
+* Elias Hansborg-Sørensen
+* Emil Højlund
+* Markus Jensen
+* Noah Nartey
+* Noah Sahsah
+* Alexander Simmelhack
+* Ayman Aiki
+* Naim Byar
+* Axel Gueguin
+* Tom Saettel
+* Tom Bischof
+* Arijon Ibrahimović
+* Dženan Pejčinović
+* Laurin Ulrich
+* Paul Wanner
+* Karem Zoabi
+* Alessandro Bolzan
+* Kevin Bruno
+* Luca Di Maggio
+* Luca Lipani
+* Francesco Pio Esposito
+* Isaac Babadi
+* Antoni Milambo
+
+* Dawid Drachal
+* Tommaso Guercio
+* Oliwier Sławiński
+* Dário Essugo
+* Magnus Mackenzie
+* Rory Wilson
+* Jovan Mijatović
+* Jan-Carlo Simić
+* Jovan Šljivić
+* David Mella
+* Dani Rodriguez
+* Leonardo de Oliveira
+2Goals: * Stanis Idumbo-Muzambo
+* Zoumana Diallo
+* Désiré Doué
+* Saël Kumbedi
+* Warren Zaïre-Emery
+* Sidney Raebiger
+* Yan Yusopove
+* Yoram Boerhout
+* Dean Huijsen
+* Gabriel Misehouy
+* Jaden Slory
+* Ivan Lima
+* Rodrigo Ribeiro
+* José Rodrigues
+* Javier Boñar
+* Iker Bravo
+* Can Uzun
+3Goals: * Mathys Tel
+* Nelson Weiper
+* Jason van Duiven
+* João Veloso
+4Goals: * Afonso Moreira
+* Jardell Kanga
+abstract: The 2022 UEFA European Under-17 Championship (also known as UEFA Under-17 Euro 2022) was the 19th UEFA European Under-17 Championship (38th edition if the Under-16 era is also included), the annual international youth football championship organised by UEFA for the men's under-17 national teams of Europe. Israel was hosting the tournament. A total of 16 teams played in the tournament, with players born on or after 1 January 2005 eligible to participate. Netherlands, having won the title in 2018 and 2019, were the two-times title holders, since the 2020 and 2021 editions were cancelled due to the COVID-19 pandemic in Europe and the title was not awarded.
+wasDerivedFrom: 2022_UEFA_European_Under-17_Championship?oldid=1120607861&ns=0
+wikiPageLength: 44601
+time: 14:30
+time: 16:30
+time: 17:30
+time: 19:00
+time: 20:00
+time: 21:00
+isPrimaryTopicOf: 2022_UEFA_European_Under-17_Championship
+	

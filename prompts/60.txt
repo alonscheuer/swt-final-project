@@ -1,0 +1,89 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Concacaf Gold Cup 2023, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: Event
+type: SportsEvent
+type: Event
+type: SocietalEvent
+type: Tournament
+type: Q1656682
+type: Q500834
+type: Event
+type: SoccerTournament
+type: SportsEvent
+label: 2023 CONCACAF Gold Cup
+comment: The 2023 CONCACAF Gold Cup will be the 17th edition of the CONCACAF Gold Cup, the biennial international men's football championship of the North, Central American and Caribbean region organized by CONCACAF. The tournament will take place from 24 June to 16 July 2023. The final will be held at SoFi Stadium in Inglewood, California, a suburb of Los Angeles. The United States are the defending champions, having won the 2021 edition.
+name: CONCACAF Gold Cup
+depiction: Concacaf_Gold_Cup_2021.svg
+subject: Category:2022–23_in_CONCACAF_football
+subject: Category:July_2023_sports_events_in_North_America
+subject: Category:June_2023_sports_events_in_North_America
+subject: Category:Scheduled_association_football_competitions
+subject: Category:CONCACAF_Gold_Cup_tournaments
+wikiPageID: 65200547
+wikiPageRevisionID: 1122989689
+wikiPageWikiLink: Qatar_Airways
+wikiPageWikiLink: Qatar_national_football_team
+wikiPageWikiLink: 2011_CONCACAF_Gold_Cup
+wikiPageWikiLink: 2013_CONCACAF_Gold_Cup
+wikiPageWikiLink: 2023_CONCACAF_Gold_Cup_qualification
+wikiPageWikiLink: Category:2022–23_in_CONCACAF_football
+wikiPageWikiLink: Category:July_2023_sports_events_in_North_America
+wikiPageWikiLink: Category:June_2023_sports_events_in_North_America
+wikiPageWikiLink: Category:Scheduled_association_football_competitions
+wikiPageWikiLink: Corona_(beer)
+wikiPageWikiLink: Category:CONCACAF_Gold_Cup_tournaments
+wikiPageWikiLink: French_language
+wikiPageWikiLink: 2021_CONCACAF_Gold_Cup
+wikiPageWikiLink: Los_Angeles
+wikiPageWikiLink: SoFi_Stadium
+wikiPageWikiLink: 2002_CONCACAF_Gold_Cup
+wikiPageWikiLink: 2003_CONCACAF_Gold_Cup
+wikiPageWikiLink: 2005_CONCACAF_Gold_Cup
+wikiPageWikiLink: CONCACAF
+wikiPageWikiLink: CONCACAF_Championship
+wikiPageWikiLink: CONCACAF_Gold_Cup
+wikiPageWikiLink: CONCACAF_Gold_Cup_records_and_statistics
+wikiPageWikiLink: 2015_CONCACAF_Gold_Cup
+wikiPageWikiLink: 2017_CONCACAF_Gold_Cup
+wikiPageWikiLink: 2022_FIFA_World_Cup
+wikiPageWikiLink: 2022–23_CONCACAF_Nations_League
+wikiPageWikiLink: 2022–23_CONCACAF_Nations_League_A
+wikiPageWikiLink: Dutch_language
+wikiPageWikiLink: FIFA_World_Rankings
+wikiPageWikiLink: Grupo_Modelo
+wikiPageWikiLink: Association_football
+wikiPageWikiLink: Spanish_language
+wikiPageWikiLink: Inglewood,_California
+wikiPageWikiLink: CONCACAF_Ranking_Index
+wikiPageExternalLink: https://www.concacaf.com/gold-cup/
+thumbnail: Concacaf_Gold_Cup_2021.svg?width=300
+caption: Dutch: Dit is van ons
+caption: French:
+C'est à nous
+caption: Spanish: Esto Es Nuestro
+caption: This Is Ours
+cities: TBA
+confederations: 2
+country: United States
+dates: --06-24
+nextseason: 2025
+numTeams: 16
+otherTitles: CONCACAF Gold Cup 2023
+otherTitles: Copa de Oro de la CONCACAF 2023
+otherTitles: Coupe D'or CONCACAF 2023
+prevseason: 2021
+tourneyName: CONCACAF Gold Cup
+venues: TBA
+year: 2023
+abstract: The 2023 CONCACAF Gold Cup will be the 17th edition of the CONCACAF Gold Cup, the biennial international men's football championship of the North, Central American and Caribbean region organized by CONCACAF. The tournament will take place from 24 June to 16 July 2023. The final will be held at SoFi Stadium in Inglewood, California, a suburb of Los Angeles. The United States are the defending champions, having won the 2021 edition.
+wasDerivedFrom: 2023_CONCACAF_Gold_Cup?oldid=1122989689&ns=0
+wikiPageLength: 6030
+isPrimaryTopicOf: 2023_CONCACAF_Gold_Cup
+	

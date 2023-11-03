@@ -1,0 +1,77 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Världsmästerskapen i kortbanesimning 2022, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	label: 2022 FINA World Swimming Championships (25 m)
+comment: The 16th FINA World Swimming Championships (25 m) are scheduled to take place from 13 to 18 December 2022 in Melbourne, Australia at the Melbourne Sports and Aquatic Centre. Swimming events in the championships will be conducted in a 25-metre outdoor (short course) pool. For the first time at a FINA World Swimming Championships (25 m), the 800 metre freestyle will be contested for men and the 1500 metre freestyle for women, with qualification for competition determined based on times assessed per the FINA points system.
+name: 2022
+subject: Category:2022_in_Australian_sport
+subject: Category:2022_in_swimming
+subject: Category:December_2022_events_in_Oceania
+subject: Category:Scheduled_sports_events
+subject: Category:FINA_World_Swimming_Championships_(25_m)
+subject: Category:Sports_competitions_in_Melbourne
+subject: Category:International_aquatics_competitions_hosted_by_Australia
+subject: Category:Sports_events_affected_by_the_2022_Russian_invasion_of_Ukraine
+wikiPageID: 69345082
+wikiPageRevisionID: 1124024126
+wikiPageWikiLink: 2021_FINA_World_Swimming_Championships_(25_m)
+wikiPageWikiLink: 2022_in_sports
+wikiPageWikiLink: Category:2022_in_Australian_sport
+wikiPageWikiLink: Category:2022_in_swimming
+wikiPageWikiLink: Category:December_2022_events_in_Oceania
+wikiPageWikiLink: Belarus
+wikiPageWikiLink: Denmark
+wikiPageWikiLink: Lithuania
+wikiPageWikiLink: Lithuanian_Swimming_Federation
+wikiPageWikiLink: Ukraine
+wikiPageWikiLink: Swimming_Australia
+wikiPageWikiLink: Norwegian_Swimming_Federation
+wikiPageWikiLink: Category:Scheduled_sports_events
+wikiPageWikiLink: Court_of_Arbitration_for_Sport
+wikiPageWikiLink: Melbourne
+wikiPageWikiLink: Melbourne_Sports_and_Aquatic_Centre
+wikiPageWikiLink: Russia
+wikiPageWikiLink: Estonian_Swimming_Federation
+wikiPageWikiLink: Category:FINA_World_Swimming_Championships_(25_m)
+wikiPageWikiLink: Category:Sports_competitions_in_Melbourne
+wikiPageWikiLink: Category:International_aquatics_competitions_hosted_by_Australia
+wikiPageWikiLink: Australia
+wikiPageWikiLink: British_Swimming
+wikiPageWikiLink: 2022_Russian_invasion_of_Ukraine
+wikiPageWikiLink: Estonia
+wikiPageWikiLink: FINA
+wikiPageWikiLink: Faroe_Islands
+wikiPageWikiLink: Finland
+wikiPageWikiLink: Norway
+wikiPageWikiLink: Palace_of_Water_Sports
+wikiPageWikiLink: International_Olympic_Committee
+wikiPageWikiLink: Category:Sports_events_affected_by_the_2022_Russian_invasion_of_Ukraine
+wikiPageWikiLink: Kazan
+wikiPageWikiLink: Latvia
+wikiPageWikiLink: Sweden
+wikiPageWikiLink: Swedish_Swimming_Federation
+wikiPageWikiLink: Iceland
+wikiPageWikiLink: Icelandic_Swimming_Association
+wikiPageWikiLink: Short_course
+wikiPageWikiLink: FINA_World_Swimming_Championships_(25_m)
+wikiPageWikiLink: List_of_swimming_competitions
+wikiPageWikiLink: Finnish_Swimming_Federation
+wikiPageWikiLink: Swimming_Canada
+wikiPageWikiLink: 2022_Russia_invasion_of_Ukraine
+wikiPageWikiLink: 2024_FINA_World_Swimming_Championships_(25_m)
+dates: --12-18
+next: 2024
+previous: 2021
+venues: Melbourne_Sports_and_Aquatic_Centre
+hostcity: Melbourne
+hostcity: Australia
+abstract: The 16th FINA World Swimming Championships (25 m) are scheduled to take place from 13 to 18 December 2022 in Melbourne, Australia at the Melbourne Sports and Aquatic Centre. Swimming events in the championships will be conducted in a 25-metre outdoor (short course) pool. For the first time at a FINA World Swimming Championships (25 m), the 800 metre freestyle will be contested for men and the 1500 metre freestyle for women, with qualification for competition determined based on times assessed per the FINA points system. The Championships were originally scheduled for 17 to 22 December 2022 at the Palace of Water Sports in Kazan, Russia, and were relocated in response to the 2022 Russia invasion of Ukraine. All athletes and officials from Russia and Belarus are banned from the Championships.
+wasDerivedFrom: 2022_FINA_World_Swimming_Championships_(25_m)?oldid=1124024126&ns=0
+wikiPageLength: 37395
+isPrimaryTopicOf: 2022_FINA_World_Swimming_Championships_(25_m)
+	

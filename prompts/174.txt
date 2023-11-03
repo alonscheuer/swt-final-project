@@ -1,0 +1,206 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Concacaf Champions League 2023, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: Event
+type: SportsEvent
+type: Event
+type: SocietalEvent
+type: Tournament
+type: Q1656682
+type: Q500834
+type: Event
+type: SoccerTournament
+type: SportsEvent
+label: 2023 CONCACAF Champions League
+comment: The 2023 CONCACAF Champions League (officially the 2023 Scotiabank CONCACAF Champions League for sponsorship reasons) will be the 15th edition of the CONCACAF Champions League under its current name, and overall the 58th edition of the premier football club competition organized by CONCACAF, the regional governing body of North America, Central America, and the Caribbean. Seattle Sounders FC was the title holder, but they did not qualify for this tournament and will be unable to defend their title.
+name: CONCACAF Champions League
+depiction: Green_pog.svg
+depiction: Black_pog.svg
+depiction: Blue_pog.svg
+depiction: Red_pog.svg
+depiction: TransparentPlaceholder.png
+subject: Category:2022–23_in_CONCACAF_football
+subject: Category:2023_CONCACAF_Champions_League
+subject: Category:April_2023_sports_events_in_North_America
+subject: Category:June_2023_sports_events_in_North_America
+subject: Category:March_2023_sports_events_in_North_America
+subject: Category:May_2023_sports_events_in_North_America
+subject: Category:Scheduled_association_football_competitions
+subject: Category:CONCACAF_Champions_League_seasons
+wikiPageID: 68583000
+wikiPageRevisionID: 1123290581
+wikiPageWikiLink: Caribbean_Football_Union
+wikiPageWikiLink: Q2_Stadium
+wikiPageWikiLink: San_Pedro_Sula
+wikiPageWikiLink: San_Salvador
+wikiPageWikiLink: Santiago
+wikiPageWikiLink: Scotiabank
+wikiPageWikiLink: 2011–12_CONCACAF_Champions_League
+wikiPageWikiLink: Category:2022–23_in_CONCACAF_football
+wikiPageWikiLink: Category:2023_CONCACAF_Champions_League
+wikiPageWikiLink: Category:April_2023_sports_events_in_North_America
+wikiPageWikiLink: Category:June_2023_sports_events_in_North_America
+wikiPageWikiLink: Category:March_2023_sports_events_in_North_America
+wikiPageWikiLink: Category:May_2023_sports_events_in_North_America
+wikiPageWikiLink: Category:Scheduled_association_football_competitions
+wikiPageWikiLink: Vancouver
+wikiPageWikiLink: Vancouver_Whitecaps_FC
+wikiPageWikiLink: Violette_AC
+wikiPageWikiLink: Estadio_Hidalgo
+wikiPageWikiLink: Estadio_Jalisco
+wikiPageWikiLink: North_American_Football_Union
+wikiPageWikiLink: Club_León
+wikiPageWikiLink: Monterrey
+wikiPageWikiLink: 2018_CONCACAF_Champions_League
+wikiPageWikiLink: 2018_CONCACAF_League
+wikiPageWikiLink: 2019_CONCACAF_Champions_League
+wikiPageWikiLink: 2020_CONCACAF_Champions_League
+wikiPageWikiLink: 2021_CONCACAF_Champions_League
+wikiPageWikiLink: León,_Guanajuato
+wikiPageWikiLink: Liga_Deportiva_Alajuelense
+wikiPageWikiLink: Los_Angeles
+wikiPageWikiLink: Los_Angeles_FC
+wikiPageWikiLink: MLS_Cup_2022
+wikiPageWikiLink: Subaru_Park
+wikiPageWikiLink: Club_Deportivo_Olimpia
+wikiPageWikiLink: Overtime_(sports)
+wikiPageWikiLink: Penalty_shoot-out_(association_football)
+wikiPageWikiLink: Austin,_Texas
+wikiPageWikiLink: Austin_FC
+wikiPageWikiLink: BC_Place
+wikiPageWikiLink: Banc_of_California_Stadium
+wikiPageWikiLink: C.D._Olimpia
+wikiPageWikiLink: C.F._Pachuca
+wikiPageWikiLink: CONCACAF
+wikiPageWikiLink: CONCACAF_Champions_League
+wikiPageWikiLink: Central_American_Football_Union
+wikiPageWikiLink: Tigres_UANL
+wikiPageWikiLink: Two-legged_tie
+wikiPageWikiLink: 2014–15_CONCACAF_Champions_League
+wikiPageWikiLink: 2016–17_CONCACAF_Champions_League
+wikiPageWikiLink: 2021–22_Liga_MX_season
+wikiPageWikiLink: 2022_CONCACAF_Champions_League
+wikiPageWikiLink: 2022_CONCACAF_League
+wikiPageWikiLink: 2022_Canadian_Championship
+wikiPageWikiLink: 2022_Caribbean_Club_Championship
+wikiPageWikiLink: 2022_Major_League_Soccer_season
+wikiPageWikiLink: 2022_U.S._Open_Cup
+wikiPageWikiLink: 2023_CONCACAF_Champions_League
+wikiPageWikiLink: 2024_CONCACAF_Champions_League
+wikiPageWikiLink: Category:CONCACAF_Champions_League_seasons
+wikiPageWikiLink: Alajuela
+wikiPageWikiLink: Alianza_F.C.
+wikiPageWikiLink: Eastern_Time_Zone
+wikiPageWikiLink: Estadio_Alejandro_Morera_Soto
+wikiPageWikiLink: Estadio_Cibao_FC
+wikiPageWikiLink: Estadio_Cuscatlán
+wikiPageWikiLink: Estadio_General_Francisco_Morazán
+wikiPageWikiLink: Estadio_León
+wikiPageWikiLink: Estadio_Rommel_Fernández
+wikiPageWikiLink: Estadio_Universitario_(UANL)
+wikiPageWikiLink: Exploria_Stadium
+wikiPageWikiLink: F.C._Motagua
+wikiPageWikiLink: Pachuca
+wikiPageWikiLink: Panama_City
+wikiPageWikiLink: Guadalajara
+wikiPageWikiLink: Tauro_F.C.
+wikiPageWikiLink: Association_football
+wikiPageWikiLink: Atlas_F.C.
+wikiPageWikiLink: Chester
+wikiPageWikiLink: Away_goals_rule
+wikiPageWikiLink: Philadelphia_Union
+wikiPageWikiLink: Miami
+wikiPageWikiLink: Orlando,_Florida
+wikiPageWikiLink: Orlando_City_SC
+wikiPageWikiLink: Real_C.D._España
+wikiPageWikiLink: Seattle_Sounders_FC
+wikiPageWikiLink: File:Red_pog.svg
+wikiPageWikiLink: File:Green_pog.svg
+wikiPageWikiLink: File:Blue_pog.svg
+wikiPageExternalLink: https://www.concacaf.com/champions-league/
+thumbnail: Red_pog.svg?width=300
+associations: 8
+date: 2023-03-07
+date: 2023-03-08
+date: 2023-03-09
+date: 2023-03-14
+date: 2023-03-15
+date: 2023-03-16
+dates: --03-07
+id: R16-1.1
+id: R16-1.2
+id: R16-2.1
+id: R16-2.2
+id: R16-3.1
+id: R16-3.2
+id: R16-4.1
+id: R16-4.2
+id: R16-5.1
+id: R16-5.2
+id: R16-6.1
+id: R16-6.2
+id: R16-7.1
+id: R16-7.2
+id: R16-8.1
+id: R16-8.2
+nextseason: 2024
+numTeams: 16
+otherTitles: 2023
+prevseason: 2022
+stadium: Q2_Stadium
+stadium: San_Pedro_Sula
+stadium: San_Salvador
+stadium: Santiago
+stadium: Vancouver
+stadium: Estadio_Hidalgo
+stadium: Estadio_Jalisco
+stadium: Monterrey
+stadium: León,_Guanajuato
+stadium: Los_Angeles
+stadium: Subaru_Park
+stadium: Austin,_Texas
+stadium: BC_Place
+stadium: Banc_of_California_Stadium
+stadium: Alajuela
+stadium: Estadio_Alejandro_Morera_Soto
+stadium: Estadio_Cibao_FC
+stadium: Estadio_Cuscatlán
+stadium: Estadio_General_Francisco_Morazán
+stadium: Estadio_León
+stadium: Estadio_Rommel_Fernández
+stadium: Estadio_Universitario_(UANL)
+stadium: Exploria_Stadium
+stadium: Pachuca
+stadium: Panama_City
+stadium: Guadalajara
+stadium: Chester
+stadium: Orlando,_Florida
+team: Austin FC
+team: León
+team: Los Angeles FC
+team: Orlando City SC
+team: Pachuca
+team: Philadelphia Union
+team: Vancouver Whitecaps FC
+team: Atlas
+team: Olimpia
+team: Alajuelense
+team: Alianza
+team: Motagua
+team: Violette
+team: UANL
+team: Real España
+team: Tauro
+tourneyName: CONCACAF Champions League
+year: 2023
+abstract: The 2023 CONCACAF Champions League (officially the 2023 Scotiabank CONCACAF Champions League for sponsorship reasons) will be the 15th edition of the CONCACAF Champions League under its current name, and overall the 58th edition of the premier football club competition organized by CONCACAF, the regional governing body of North America, Central America, and the Caribbean. Seattle Sounders FC was the title holder, but they did not qualify for this tournament and will be unable to defend their title.
+wasDerivedFrom: 2023_CONCACAF_Champions_League?oldid=1123290581&ns=0
+wikiPageLength: 29976
+isPrimaryTopicOf: 2023_CONCACAF_Champions_League
+	

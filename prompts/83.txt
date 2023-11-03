@@ -1,0 +1,128 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Junior Eurovision Song Contest 2022, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: SpatialThing
+label: Junior Eurovision Song Contest 2022
+comment: The Junior Eurovision Song Contest 2022 is the 20th edition of the annual Junior Eurovision Song Contest. The final will take place in Yerevan, Armenia on 11 December 2022, following the country's victory at the 2021 contest with the song "Qami Qami" by Maléna. Organised by the European Broadcasting Union (EBU) and host broadcaster Public Television Company of Armenia (AMPTV), the contest will be held at the Karen Demirchyan Sports and Concerts Complex. This will be the second time that Armenia hosts the Junior Eurovision Song Contest, the first being in 2011.
+name: Junior Eurovision Song Contest
+lat: 40.1881
+long: 44.4833
+depiction: Blue_pog.svg
+depiction: Karen_Demirchyan_Sports_and_Concerts_Complex_shot_from_air,_May_2019.jpg
+depiction: Junior_Eurovision_2022_logo.jpeg
+subject: Category:2022_song_contests
+subject: Category:Junior_Eurovision_Song_Contest_2022
+subject: Category:Junior_Eurovision_Song_Contest_by_year
+wikiPageID: 69551444
+wikiPageRevisionID: 1125012445
+wikiPageWikiLink: Carla_Lazzari
+wikiPageWikiLink: Category:2022_song_contests
+wikiPageWikiLink: Public_Television_Company_of_Armenia
+wikiPageWikiLink: Rosa_Linn
+wikiPageWikiLink: Category:Junior_Eurovision_Song_Contest_2022
+wikiPageWikiLink: Bart_Arens
+wikiPageWikiLink: Brazilian_Portuguese
+wikiPageWikiLink: Hrvy
+wikiPageWikiLink: Ukrainian_language
+wikiPageWikiLink: Universal_Music_Group
+wikiPageWikiLink: Category:Junior_Eurovision_Song_Contest_by_year
+wikiPageWikiLink: Matheu_Hinzen
+wikiPageWikiLink: TG4
+wikiPageWikiLink: Radiotelevizija_Slovenija
+wikiPageWikiLink: Eesti_Rahvusringhääling
+wikiPageWikiLink: English_language
+wikiPageWikiLink: French_language
+wikiPageWikiLink: Garik_Papoyan
+wikiPageWikiLink: Georgian_language
+wikiPageWikiLink: NPO_3
+wikiPageWikiLink: NPO_Zapp
+wikiPageWikiLink: Macedonian_language
+wikiPageWikiLink: Maléna_(singer)
+wikiPageWikiLink: Snap_(Rosa_Linn_song)
+wikiPageWikiLink: Stéphane_Bern
+wikiPageWikiLink: BBC
+wikiPageWikiLink: BBC_One
+wikiPageWikiLink: CBBC
+wikiPageWikiLink: Tony_Aguilar_(radio_personality)
+wikiPageWikiLink: 2022_Russian_invasion_of_Ukraine
+wikiPageWikiLink: Albanian_language
+wikiPageWikiLink: Dutch_language
+wikiPageWikiLink: European_Broadcasting_Union
+wikiPageWikiLink: Eurovision_Song_Contest
+wikiPageWikiLink: Eurovision_Song_Contest_2016
+wikiPageWikiLink: Eurovision_Song_Contest_2022
+wikiPageWikiLink: Eurovision_Young_Musicians_2022
+wikiPageWikiLink: Federal_Foreign_Office
+wikiPageWikiLink: France_2
+wikiPageWikiLink: Nikol_Pashinyan
+wikiPageWikiLink: Norddeutscher_Rundfunk
+wikiPageWikiLink: Francesca_Fialdini
+wikiPageWikiLink: Georgia_in_the_Junior_Eurovision_Song_Contest_2021
+wikiPageWikiLink: Top
+wikiPageWikiLink: Irish_language
+wikiPageWikiLink: Israeli_Public_Broadcasting_Corporation
+wikiPageWikiLink: Italian_language
+wikiPageWikiLink: Iveta_Mukuchyan
+wikiPageWikiLink: Armenia
+wikiPageWikiLink: Armenian_language
+wikiPageWikiLink: Junior_Eurovision_Song_Contest
+wikiPageWikiLink: Junior_Eurovision_Song_Contest_2019
+wikiPageWikiLink: Karen_Demirchyan_Complex
+wikiPageWikiLink: Kazakh_language
+wikiPageWikiLink: KiKa
+wikiPageWikiLink: La_1_(Spanish_TV_channel)
+wikiPageWikiLink: Lauren_Layfield
+wikiPageWikiLink: TVE_Internacional
+wikiPageWikiLink: TVP1
+wikiPageWikiLink: TVP_Polonia
+wikiPageWikiLink: Martin_Österdahl
+wikiPageWikiLink: Polish_language
+wikiPageWikiLink: Portuguese_language
+wikiPageWikiLink: Spanish_language
+wikiPageWikiLink: ITV_(TV_network)
+wikiPageWikiLink: RTCG
+wikiPageWikiLink: RTP_Internacional
+wikiPageWikiLink: RTP_África
+wikiPageWikiLink: Rai_1
+wikiPageWikiLink: September_2022_Armenia–Azerbaijan_clashes
+wikiPageWikiLink: Serbian_language
+wikiPageWikiLink: Yerevan
+wikiPageWikiLink: NPO_Start
+wikiPageWikiLink: TVP_ABC
+wikiPageWikiLink: Karina_Ignatyan
+wikiPageWikiLink: RTP_1
+wikiPageWikiLink: RTS_2
+wikiPageWikiLink: File:Karen_Demirchyan_Sports_and_Concerts_Complex_shot_from_air,_May_2019.jpg
+wikiPageExternalLink: https://junioreurovision.tv/
+yellow: Y
+thumbnail: Junior_Eurovision_2022_logo.jpeg?width=300
+theme: Spin the Magic
+caption: Location of the selected host city
+debut: None
+float: right
+host: Public_Television_Company_of_Armenia
+label: Yerevan
+logo: Junior Eurovision 2022 logo.jpeg
+mark: Blue pog.svg
+venue: Armenia
+venue: Karen_Demirchyan_Complex
+venue: Yerevan
+width: 200
+year: 2022
+point: 40.18805555555556 44.483333333333334
+abstract: The Junior Eurovision Song Contest 2022 is the 20th edition of the annual Junior Eurovision Song Contest. The final will take place in Yerevan, Armenia on 11 December 2022, following the country's victory at the 2021 contest with the song "Qami Qami" by Maléna. Organised by the European Broadcasting Union (EBU) and host broadcaster Public Television Company of Armenia (AMPTV), the contest will be held at the Karen Demirchyan Sports and Concerts Complex. This will be the second time that Armenia hosts the Junior Eurovision Song Contest, the first being in 2011. Sixteen countries will participate in the contest. The United Kingdom will return after a sixteen-year absence, while Azerbaijan, Bulgaria, Germany and Russia will not take part, with the latter's broadcasters having been indefinitely suspended from the EBU due to the 2022 Russian invasion of Ukraine.
+entries: 16
+final: 2022-12-11
+exproducer: David Tserunyan
+exsupervisor: Martin_Österdahl
+green: Y
+wasDerivedFrom: Junior_Eurovision_Song_Contest_2022?oldid=1125012445&ns=0
+wikiPageLength: 31022
+isPrimaryTopicOf: Junior_Eurovision_Song_Contest_2022
+geometry: POINT(44.483333587646 40.188056945801)
+	

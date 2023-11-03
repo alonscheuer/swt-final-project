@@ -1,0 +1,52 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Världsmästerskapet i bandy för herrar 2023, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	label: 2023 Bandy World Championship
+subject: Category:2023_in_Swedish_sport
+subject: Category:2023_in_bandy
+subject: Category:April_2023_sports_events_in_Europe
+subject: Category:Events_affected_by_the_2022_Russian_invasion_of_Ukraine
+subject: Category:March_2023_sports_events_in_Europe
+subject: Category:Bandy_World_Championships
+subject: Category:International_bandy_competitions_hosted_by_Sweden
+wikiPageID: 72277260
+wikiPageRevisionID: 1124108692
+wikiPageWikiLink: Category:2023_in_Swedish_sport
+wikiPageWikiLink: Category:2023_in_bandy
+wikiPageWikiLink: Category:April_2023_sports_events_in_Europe
+wikiPageWikiLink: Category:Events_affected_by_the_2022_Russian_invasion_of_Ukraine
+wikiPageWikiLink: Category:March_2023_sports_events_in_Europe
+wikiPageWikiLink: Russia
+wikiPageWikiLink: Russo-Ukrainian_War
+wikiPageWikiLink: 2019_Bandy_World_Championship
+wikiPageWikiLink: 2020_Bandy_World_Championship
+wikiPageWikiLink: Federation_of_International_Bandy
+wikiPageWikiLink: Category:Bandy_World_Championships
+wikiPageWikiLink: Category:International_bandy_competitions_hosted_by_Sweden
+wikiPageWikiLink: COVID-19_pandemic
+wikiPageWikiLink: 2022_Bandy_World_Championship
+wikiPageWikiLink: 2022_Russian_invasion_of_Ukraine
+wikiPageWikiLink: Sweden
+wikiPageWikiLink: Swedish_Bandy_Association
+wikiPageWikiLink: 2024_Bandy_World_Championship
+cities: TBA
+dates: TBA
+nextseason: 2024
+numTeams: 8
+otherTitles: XXXXIInd Bandy World Championship
+prevseason: 2020_Bandy_World_Championship
+prevseason: Syktyvkar 2022
+size: 260
+type: other
+venues: TBA
+year: 2023
+hostCities: TBA
+wasDerivedFrom: 2023_Bandy_World_Championship?oldid=1124108692&ns=0
+wikiPageLength: 3153
+isPrimaryTopicOf: 2023_Bandy_World_Championship
+	

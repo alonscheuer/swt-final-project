@@ -28,8 +28,8 @@ def postprocess(triples):
 
 def clean_triple(triple):
 	property = remove_prefix(triple['prop']['value'])
-	value = triple['value']['value']
-	return property, value
+	value = remove_prefix(triple['value']['value'])
+	return f"{property}: {value}"
 
 
 def get_triples(dbr):
@@ -51,7 +51,8 @@ def main():
 	args = create_arg_parser()
 	items = load(open(args.input_file))
 	for item in tqdm(items):
-		item["triples"] = get_triples(item["dbr"])
+		triples = get_triples(item["dbr"])
+		item["triples"] = "\n".join(triples)
 	dump(items, open(args.output_file, "w"))
 
 

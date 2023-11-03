@@ -1,0 +1,182 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Katalonien runt 2022, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	label: 2022 Volta a Catalunya
+comment: The 2022 Volta a Catalunya was a road cycling stage race that took place between 21 and 27 March 2022. The race took place primarily in the autonomous community of Catalonia in northeastern Spain, with the rest of the route in the department of Pyrénées-Orientales (known as Northern Catalonia) in southern France. It was the 101st edition of the Volta a Catalunya and the seventh race of the 2022 UCI World Tour.
+name: 2022
+depiction: Jersey_red_number.svg
+depiction: Mediummountainstage.svg
+depiction: Mountainstage.svg
+depiction: Plainstage.svg
+depiction: Jersey_red_lines_volta.svg
+depiction: Jersey_green_lines_volta.svg
+depiction: Jersey_green_number.svg
+depiction: Jersey_orange_lines_volta.svg
+depiction: Jersey_blue_lines_volta.svg
+depiction: 2022_-_Volta_a_Catalunya_-_Riudoms_01.jpg
+depiction: 2022_-_Volta_a_Catalunya_-_Riudoms_05.jpg
+subject: Category:2022_UCI_World_Tour
+subject: Category:2022_in_Spanish_road_cycling
+subject: Category:March_2022_sports_events_in_France
+subject: Category:March_2022_sports_events_in_Spain
+subject: Category:Volta_a_Catalunya_by_year
+wikiPageID: 70312091
+wikiPageRevisionID: 1093458310
+wikiPageWikiLink: Calella
+wikiPageWikiLink: Cambrils
+wikiPageWikiLink: Carlos_Rodríguez_(cyclist)
+wikiPageWikiLink: Carlos_Verona
+wikiPageWikiLink: Catalonia
+wikiPageWikiLink: Pyrénées-Orientales
+wikiPageWikiLink: Quentin_Pacher
+wikiPageWikiLink: Sam_Oomen
+wikiPageWikiLink: Sant_Feliu_de_Guíxols
+wikiPageWikiLink: Montjuïc_Castle
+wikiPageWikiLink: 2022_UCI_World_Tour
+wikiPageWikiLink: Category:2022_UCI_World_Tour
+wikiPageWikiLink: Category:2022_in_Spanish_road_cycling
+wikiPageWikiLink: Category:March_2022_sports_events_in_France
+wikiPageWikiLink: Category:March_2022_sports_events_in_Spain
+wikiPageWikiLink: Ben_O'Connor_(cyclist)
+wikiPageWikiLink: Boí_Taüll_Resort
+wikiPageWikiLink: Departments_of_France
+wikiPageWikiLink: Hugo_Hofstetter
+wikiPageWikiLink: Jonas_Iversby_Hvideberg
+wikiPageWikiLink: Jonathan_Caicedo
+wikiPageWikiLink: João_Almeida_(cyclist)
+wikiPageWikiLink: Juan_Ayuso
+wikiPageWikiLink: Juan_Sebastián_Molano
+wikiPageWikiLink: Perpignan
+wikiPageWikiLink: Richard_Carapaz
+wikiPageWikiLink: Riudoms
+wikiPageWikiLink: Union_Cycliste_Internationale
+wikiPageWikiLink: Urko_Berrade
+wikiPageWikiLink: Vilanova_i_la_Geltrú
+wikiPageWikiLink: Volta_a_Catalunya
+wikiPageWikiLink: 1985_Volta_a_Catalunya
+wikiPageWikiLink: Colombian_National_Road_Race_Championships
+wikiPageWikiLink: Mattias_Skjelmose_Jensen
+wikiPageWikiLink: Salou
+wikiPageWikiLink: General_classification
+wikiPageWikiLink: Points_classification
+wikiPageWikiLink: Giulio_Ciccone
+wikiPageWikiLink: Montjuïc
+wikiPageWikiLink: Nairo_Quintana
+wikiPageWikiLink: Category:Volta_a_Catalunya_by_year
+wikiPageWikiLink: Andrea_Bagioli
+wikiPageWikiLink: Simon_Clarke_(cyclist)
+wikiPageWikiLink: Simone_Velasco
+wikiPageWikiLink: Steven_Kruijswijk
+wikiPageWikiLink: Combativity_award
+wikiPageWikiLink: 2002_Volta_a_Catalunya
+wikiPageWikiLink: Autonomous_communities_of_Spain
+wikiPageWikiLink: Barcelona
+wikiPageWikiLink: Tobias_Halland_Johannessen
+wikiPageWikiLink: Torstein_Træen
+wikiPageWikiLink: 2021_Volta_a_Catalunya
+wikiPageWikiLink: 2022_Russian_invasion_of_Ukraine
+wikiPageWikiLink: Adrià_Moreno
+wikiPageWikiLink: Ander_Okamika
+wikiPageWikiLink: Damien_Howson
+wikiPageWikiLink: Dylan_Teuns
+wikiPageWikiLink: Eduard_Prades
+wikiPageWikiLink: Amaury_Sport_Organisation
+wikiPageWikiLink: Ethan_Vernon
+wikiPageWikiLink: Fernando_Barceló
+wikiPageWikiLink: Northern_Catalonia
+wikiPageWikiLink: Guillaume_Boivin
+wikiPageWikiLink: Guillaume_Martin
+wikiPageWikiLink: Henri_Vandenabeele
+wikiPageWikiLink: Ivo_Oliveira
+wikiPageWikiLink: Jai_Hindley
+wikiPageWikiLink: Jan_Bakelants
+wikiPageWikiLink: Javier_Romo
+wikiPageWikiLink: Costa_Daurada
+wikiPageWikiLink: UCI_WorldTeam
+wikiPageWikiLink: Attila_Valter
+wikiPageWikiLink: Jesús_Herrada
+wikiPageWikiLink: Joan_Bou
+wikiPageWikiLink: Kaden_Groves
+wikiPageWikiLink: King_of_the_Mountains
+wikiPageWikiLink: L'Escala
+wikiPageWikiLink: La_Molina_(ski_resort)
+wikiPageWikiLink: La_Pobla_de_Segur
+wikiPageWikiLink: La_Seu_d'Urgell
+wikiPageWikiLink: Sylvain_Moniquet
+wikiPageWikiLink: Team_classification
+wikiPageWikiLink: Young_rider_classification
+wikiPageWikiLink: Dorian_Godon
+wikiPageWikiLink: Manuel_Peñalver
+wikiPageWikiLink: Marc_Soler
+wikiPageWikiLink: Martin_Laas
+wikiPageWikiLink: Phil_Bauhaus
+wikiPageWikiLink: Sonny_Colbrelli
+wikiPageWikiLink: Michael_Matthews_(cyclist)
+wikiPageWikiLink: Mikel_Bizkarra
+wikiPageWikiLink: Sergio_Higuita
+wikiPageWikiLink: Wout_Poels
+wikiPageWikiLink: Road_bicycle_racing
+wikiPageWikiLink: UCI_Professional_Continental
+wikiPageWikiLink: Cycling_stage_race
+wikiPageWikiLink: File:Jersey_red_number.svg
+wikiPageWikiLink: File:Mountainstage.svg
+wikiPageWikiLink: File:Plainstage.svg
+wikiPageWikiLink: File:Jersey_green_number.svg
+wikiPageWikiLink: File:Mediummountainstage.svg
+wikiPageWikiLink: File:Jersey_blue_lines_volta.svg
+wikiPageWikiLink: File:Jersey_green_lines_volta.svg
+wikiPageWikiLink: File:Jersey_orange_lines_volta.svg
+wikiPageWikiLink: File:Jersey_red_lines_volta.svg
+wikiPageWikiLink: 2023_Volta_a_Catalunya
+wikiPageWikiLink: File:2022_-_Volta_a_Catalunya_-_Riudoms_01.jpg
+wikiPageExternalLink: https://www.voltacatalunya.cat/en/
+wikiPageExternalLink: overall-route%7Carchive-date=14
+wikiPageExternalLink: VC22_LLIBRE%20RUTA_2022.pdf%7Carchive-date=14
+wikiPageExternalLink: VC22_LLIBRE%20RUTA_2022.pdf%7Ctitle=101
+teamColor: red_number
+youth: Sergio_Higuita
+youthColor: orange lines volta
+youthNat: COL
+thumbnail: 2022_-_Volta_a_Catalunya_-_Riudoms_05.jpg?width=300
+mountains: Sergio_Higuita
+mountainsColor: red lines volta
+mountainsNat: COL
+colwidth: 20
+date: --03-27
+distance: 1213.9
+first: Sergio_Higuita
+imageCaption: Peloton passing through Riudoms on Stage 6
+imageSize: 300
+next: 2023
+points: Kaden_Groves
+points: yes
+previous: 2021
+second: Richard_Carapaz
+series: 2022
+style: 20.0
+third: João_Almeida_(cyclist)
+time: 107613.0
+title: Final points classification
+title: Final team classification
+title: Final mountains classification
+unit: km
+firstColor: green lines volta
+raceNo: 7
+seasonNo: 32
+pointsColor: blue lines volta
+pointsNat: AUS
+firstNat: COL
+secondNat: ECU
+stages: 7
+thirdNat: POR
+abstract: The 2022 Volta a Catalunya was a road cycling stage race that took place between 21 and 27 March 2022. The race took place primarily in the autonomous community of Catalonia in northeastern Spain, with the rest of the route in the department of Pyrénées-Orientales (known as Northern Catalonia) in southern France. It was the 101st edition of the Volta a Catalunya and the seventh race of the 2022 UCI World Tour.
+rider: no
+wasDerivedFrom: 2022_Volta_a_Catalunya?oldid=1093458310&ns=0
+wikiPageLength: 48628
+isPrimaryTopicOf: 2022_Volta_a_Catalunya
+	

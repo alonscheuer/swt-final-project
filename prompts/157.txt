@@ -1,0 +1,25 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Tysklandsbiljetten, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	label: Deutschlandticket
+subject: Category:2022_in_politics
+subject: Category:Scholz_cabinet
+subject: Category:Public_transport_in_Germany
+subject: Category:Fare_collection_systems
+wikiPageID: 72244439
+wikiPageRevisionID: 1124135638
+wikiPageWikiLink: Category:2022_in_politics
+wikiPageWikiLink: Category:Scholz_cabinet
+wikiPageWikiLink: 9-Euro-Ticket
+wikiPageWikiLink: Category:Public_transport_in_Germany
+wikiPageWikiLink: Category:Fare_collection_systems
+wikiPageWikiLink: Klimaticket
+wasDerivedFrom: Deutschlandticket?oldid=1124135638&ns=0
+wikiPageLength: 1590
+isPrimaryTopicOf: Deutschlandticket
+	

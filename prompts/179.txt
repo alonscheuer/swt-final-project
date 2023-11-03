@@ -1,0 +1,60 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om VM i snooker 2023, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	label: 2023 World Snooker Championship
+comment: The 2023 World Snooker Championship (officially the 2023 Cazoo World Snooker Championship) is an upcoming professional snooker tournament that will be held from 15 April to 1 May 2023 at the Crucible Theatre in Sheffield, England, the 47th consecutive year that the World Snooker Championship will be staged at the venue. Organised by the World Snooker Tour, it will be the final ranking tournament of the 2022–23 snooker season. It will be sponsored for the first time by British car retailer Cazoo, which will be the title sponsor of all three Triple Crown tournaments during the season, in addition to five other events on the professional tour. It will be broadcast in the UK by the BBC, which extended a deal to broadcast the three Triple Crown events until 2027.
+depiction: Cazoo.svg
+depiction: Sheffield_Crucible_theatre.png
+subject: Category:World_Snooker_Championships
+subject: Category:2020s_in_Sheffield
+subject: Category:2020s_in_South_Yorkshire
+subject: Category:2023_in_English_sport
+subject: Category:2023_in_snooker
+subject: Category:April_2023_sports_events_in_the_United_Kingdom
+subject: Category:May_2023_sports_events_in_the_United_Kingdom
+subject: Category:Scheduled_sports_events
+wikiPageID: 70538611
+wikiPageRevisionID: 1089352429
+wikiPageWikiLink: Ronnie_O'Sullivan
+wikiPageWikiLink: Category:World_Snooker_Championships
+wikiPageWikiLink: Category:2020s_in_Sheffield
+wikiPageWikiLink: Category:2020s_in_South_Yorkshire
+wikiPageWikiLink: Category:2023_in_English_sport
+wikiPageWikiLink: Category:2023_in_snooker
+wikiPageWikiLink: Category:April_2023_sports_events_in_the_United_Kingdom
+wikiPageWikiLink: Category:May_2023_sports_events_in_the_United_Kingdom
+wikiPageWikiLink: Judd_Trump
+wikiPageWikiLink: List_of_snooker_ranking_tournaments
+wikiPageWikiLink: Category:Scheduled_sports_events
+wikiPageWikiLink: Crucible_Theatre
+wikiPageWikiLink: Snooker
+wikiPageWikiLink: Stephen_Hendry
+wikiPageWikiLink: COVID-19_pandemic
+wikiPageWikiLink: Cazoo
+wikiPageWikiLink: 2022_World_Snooker_Championship
+wikiPageWikiLink: 2022–23_snooker_season
+wikiPageWikiLink: Triple_Crown_(snooker)
+wikiPageWikiLink: Sheffield
+wikiPageWikiLink: World_Snooker_Championship
+wikiPageWikiLink: World_Snooker_Tour
+wikiPageWikiLink: File:Sheffield_Crucible_theatre.png
+wikiPageExternalLink: https://wst.tv/tournaments/betfred-world-championship/
+thumbnail: Cazoo.svg?width=300
+organisation: World_Snooker_Tour
+tournamentName: 2023
+country: England
+format: List_of_snooker_ranking_tournaments
+location: Sheffield
+logo: File:Cazoo.svg
+previous: 2022
+venue: Crucible_Theatre
+abstract: The 2023 World Snooker Championship (officially the 2023 Cazoo World Snooker Championship) is an upcoming professional snooker tournament that will be held from 15 April to 1 May 2023 at the Crucible Theatre in Sheffield, England, the 47th consecutive year that the World Snooker Championship will be staged at the venue. Organised by the World Snooker Tour, it will be the final ranking tournament of the 2022–23 snooker season. It will be sponsored for the first time by British car retailer Cazoo, which will be the title sponsor of all three Triple Crown tournaments during the season, in addition to five other events on the professional tour. It will be broadcast in the UK by the BBC, which extended a deal to broadcast the three Triple Crown events until 2027. Ronnie O'Sullivan will be the defending champion, having won his seventh world title at the 2022 event, where he defeated Judd Trump 18–13 in the final.
+wasDerivedFrom: 2023_World_Snooker_Championship?oldid=1089352429&ns=0
+wikiPageLength: 7489
+isPrimaryTopicOf: 2023_World_Snooker_Championship
+	

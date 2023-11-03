@@ -1,0 +1,353 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Tipsligan 2022, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: SportsTeamSeason
+type: FootballLeagueSeason
+type: SportsSeason
+label: 2022 Veikkausliiga
+comment: The 2022 Veikkausliiga is the 92nd season of top-tier football in Finland. HJK are the defending champions.
+homepage: www.veikkausliiga.com
+subject: Category:2021–22_in_European_association_football_leagues
+subject: Category:2022_in_Finnish_football
+subject: Category:2022–23_in_European_association_football_leagues
+subject: Category:Veikkausliiga_seasons
+wikiPageID: 70545254
+wikiPageRevisionID: 1119412957
+wikiPageWikiLink: Puma_(brand)
+wikiPageWikiLink: 2023–24_UEFA_Champions_League
+wikiPageWikiLink: 2023–24_UEFA_Europa_Conference_League
+wikiPageWikiLink: Category:2021–22_in_European_association_football_leagues
+wikiPageWikiLink: Category:2022_in_Finnish_football
+wikiPageWikiLink: Category:2022–23_in_European_association_football_leagues
+wikiPageWikiLink: Benjamin_Källman
+wikiPageWikiLink: Bismark_Adjei-Boateng
+wikiPageWikiLink: Bojan_Radulović_(footballer)
+wikiPageWikiLink: Bolt_Arena
+wikiPageWikiLink: John_Owoeri
+wikiPageWikiLink: Joonas_Vahtera
+wikiPageWikiLink: Petri_Viljanen
+wikiPageWikiLink: Petteri_Pennanen
+wikiPageWikiLink: Umbro
+wikiPageWikiLink: Vaasa
+wikiPageWikiLink: Vaasan_Palloseura
+wikiPageWikiLink: Valkeakoski
+wikiPageWikiLink: Veikkausliiga
+wikiPageWikiLink: Veritas_Stadion
+wikiPageWikiLink: Volkswagen
+wikiPageWikiLink: Eastern_European_Summer_Time
+wikiPageWikiLink: Craft_of_Scandinavia
+wikiPageWikiLink: Mehmet_Hetemaj
+wikiPageWikiLink: Sakari_Mattila
+wikiPageWikiLink: Category:Veikkausliiga_seasons
+wikiPageWikiLink: Ekenäs_IF
+wikiPageWikiLink: Elisa_(company)
+wikiPageWikiLink: Grass
+wikiPageWikiLink: Mixu_Paatelainen
+wikiPageWikiLink: Apu_(magazine)
+wikiPageWikiLink: Lee_Erwin_(footballer)
+wikiPageWikiLink: Loorents_Hertsi
+wikiPageWikiLink: Simo_Roiha
+wikiPageWikiLink: Simo_Valakari
+wikiPageWikiLink: Kotkan_Työväen_Palloilijat
+wikiPageWikiLink: Tim_Väyrynen
+wikiPageWikiLink: Timi_Lahti
+wikiPageWikiLink: Timo_Furuholm
+wikiPageWikiLink: Toni_Kallio
+wikiPageWikiLink: Toni_Koskela
+wikiPageWikiLink: Turku
+wikiPageWikiLink: Turun_Palloseura
+wikiPageWikiLink: Tuure_Siira
+wikiPageWikiLink: Wiklöf_Holding_Arena
+wikiPageWikiLink: 2021_Veikkausliiga
+wikiPageWikiLink: 2022_Veikkausliiga
+wikiPageWikiLink: AC_Oulu
+wikiPageWikiLink: Adidas
+wikiPageWikiLink: Agon_Sadiku
+wikiPageWikiLink: Aktia_Bank
+wikiPageWikiLink: Altin_Zeqiri
+wikiPageWikiLink: Daniel_O'Shaughnessy
+wikiPageWikiLink: Daniel_Rantanen
+wikiPageWikiLink: Duarte_Tammilehto
+wikiPageWikiLink: Dé_(footballer,_born_1998)
+wikiPageWikiLink: Eastern_European_Time
+wikiPageWikiLink: Espoo
+wikiPageWikiLink: FC_Honka
+wikiPageWikiLink: FC_Inter_Turku
+wikiPageWikiLink: FC_Lahti
+wikiPageWikiLink: FIFA
+wikiPageWikiLink: Finland
+wikiPageWikiLink: Nike,_Inc.
+wikiPageWikiLink: Oulu
+wikiPageWikiLink: HIFK_Fotboll
+wikiPageWikiLink: Helsingin_Jalkapalloklubi
+wikiPageWikiLink: Helsinki
+wikiPageWikiLink: Hietalahti_Stadium
+wikiPageWikiLink: Jacob_Bushue
+wikiPageWikiLink: Jakobstad
+wikiPageWikiLink: Jakobstads_Centralplan
+wikiPageWikiLink: Tampere
+wikiPageWikiLink: Tampere_Stadium
+wikiPageWikiLink: Tapiolan_Urheilupuisto
+wikiPageWikiLink: Teemu_Penninkangas
+wikiPageWikiLink: Teemu_Tainio
+wikiPageWikiLink: Tehtaan_kenttä
+wikiPageWikiLink: Raatti_Stadion
+wikiPageWikiLink: Association_football
+wikiPageWikiLink: Atte_Sihvonen
+wikiPageWikiLink: Joaquín_Gómez_(football_manager)
+wikiPageWikiLink: Johan_Brunell
+wikiPageWikiLink: Juri_Kinnunen
+wikiPageWikiLink: Jussi_Nuorela
+wikiPageWikiLink: Jānis_Ikaunieks_(footballer)
+wikiPageWikiLink: Kai_Meriluoto
+wikiPageWikiLink: Kalle_Multanen
+wikiPageWikiLink: Kari_Arkivuo
+wikiPageWikiLink: Lahti
+wikiPageWikiLink: Lahti_Stadium
+wikiPageWikiLink: Artificial_turf
+wikiPageWikiLink: Mariehamn
+wikiPageWikiLink: IFK_Mariehamn
+wikiPageWikiLink: Ilves_(football)
+wikiPageWikiLink: Kuopio
+wikiPageWikiLink: Kuopion_Palloseura
+wikiPageWikiLink: Michael_López_(Argentine_footballer)
+wikiPageWikiLink: OmaSP_Stadion
+wikiPageWikiLink: Raatti_Stadium
+wikiPageWikiLink: Rasmus_Karjalainen
+wikiPageWikiLink: Sebastian_Strandvall
+wikiPageWikiLink: Seinäjoen_Jalkapallokerho
+wikiPageWikiLink: Seinäjoki
+wikiPageWikiLink: Ykkönen
+wikiPageWikiLink: Vesa_Vasara
+wikiPageWikiLink: FC_Haka
+wikiPageWikiLink: FF_Jaro
+wikiPageWikiLink: Ålandstidningen
+wikiPageWikiLink: Savon_Sanomat_Areena
+wikiPageWikiLink: Lahden_Stadion
+wikiPageWikiLink: 2023_Veikkausliiga
+wikiPageWikiLink: 2023_Ykkönen
+wikiPageWikiLink: Daniel_Norrmén
+wikiPageWikiLink: Ilir_Zeneli
+wikiPageWikiLink: Jyrki_Ahola
+wikiPageWikiLink: Lassi_Nurmos
+wikiPageExternalLink: www.veikkausliiga.com
+wikiPageExternalLink: https://www.flashscore.com/football/finland/veikkausliiga/
+wikiPageExternalLink: ff-jaro-jatkaa-karsintaa-liigapaikasta
+wikiPageExternalLink: https://int.soccerway.com/national/finland/veikkausliiga/2022/regular-season/r66785/
+wikiPageExternalLink: https://us.soccerway.com/national/finland/veikkausliiga/2022/regular-season/r66785/
+wikiPageExternalLink: results
+attendance: 1052
+attendance: 1091
+attendance: 1698
+attendance: 2389
+attendance: 2621
+competition: Veikkausliiga
+date: 2022-10-12
+date: 2022-10-17
+date: 2022-10-19
+date: 2022-10-20
+date: 2022-10-22
+date: 2022-10-23
+date: 2022-10-26
+date: 2022-10-30
+date: April 2022
+goals: *Karjalainen
+goals: *Alanko 
+*Kuittinen 
+*Multanen 
+*Hudd 
+*Niemi
+goals: *Brunell 
+*Bushue
+goals: *Efimov
+goals: *Erwin
+goals: *Hertsi
+goals: *Jakonen 
+*Roiha 
+*Rantanen
+goals: *Jääskä
+goals: *Kinnunen
+goals: *Niska
+goals: *Pakkanen
+goals: *Räisänen 
+*Vahtera
+goals: *Sihvonen
+goals: *Zeqiri 
+*Penninkangas
+h: 340
+h: 857
+h: 1086
+h: 1467
+h: 1844
+h: 2122
+h: 2240
+h: 2286
+h: 2336
+h: 2358
+h: 4650
+h: 7103
+l: 224
+l: 234
+l: 332
+l: 614
+l: 786
+l: 1010
+l: 1212
+l: 1238
+l: 1394
+l: 2074
+l: 3446
+location: Vaasa
+location: Valkeakoski
+location: Turku
+location: Oulu
+location: Lahti
+location: Seinäjoki
+matches: 74
+nextseason: 2023
+notes: † Promoted from Ykkönen 2021
+p: 1
+p: 2
+p: 3
+p: 4
+p: 5
+p: 6
+p: 7
+p: 8
+p: 9
+p: 10
+p: 11
+p: 12
+prevseason: 2021
+referee: Petri_Viljanen
+referee: Dennis Antamo
+referee: Ville Nevalainen
+referee: Joni Hyytiä
+referee: Peiman Simani
+referee: Oliver Reitala
+referee: Mohammad Al-Emara
+report: ff-jaro-jatkaa-karsintaa-liigapaikasta
+s: 672
+s: 1320
+s: 2193
+s: 2652
+s: 3250
+s: 3524
+s: 3561
+s: 3941
+s: 4432
+s: 5394
+s: 8096
+s: 9565
+s: 48600
+score: 0
+score: 1
+score: 2
+score: 4
+season: 2022
+source: results
+stadium: Veritas_Stadion
+stadium: Turku
+stadium: Hietalahti_Stadium
+stadium: Jakobstad
+stadium: Jakobstads_Centralplan
+stadium: Tehtaan_kenttä
+stadium: Lahti_Stadium
+stadium: OmaSP_Stadion
+stadium: Raatti_Stadium
+t: Vaasan_Palloseura
+t: AC_Oulu
+t: FC_Honka
+t: FC_Inter_Turku
+t: FC_Lahti
+t: HIFK_Fotboll
+t: Helsingin_Jalkapalloklubi
+t: IFK_Mariehamn
+t: Ilves_(football)
+t: Kuopion_Palloseura
+t: Seinäjoen_Jalkapallokerho
+t: FC_Haka
+team: Vaasan_Palloseura
+team: Ekenäs_IF
+team: Turun_Palloseura
+team: AC_Oulu
+team: FC_Inter_Turku
+team: FC_Lahti
+team: Seinäjoen_Jalkapallokerho
+team: FC_Haka
+team: FF_Jaro
+time: 1020.0
+time: 1080.0
+time: 900.0
+time: 1110.0
+updated: 2022-07-02
+a: 336
+a: 660
+a: 731
+a: 884
+a: 1187
+a: 1301
+a: 1314
+a: 1625
+a: 1762
+a: 1798
+a: 2216
+a: 3188
+a: 4048
+u: 2022-04-27
+nt: †
+pr: 490
+pr: 736
+pr: 879
+pr: 924
+pr: 1183
+pr: 1190
+pr: 1321
+pr: 1426
+pr: 1530
+pr: 1620
+pr: 1727
+pr: 1828
+pr: 2184
+aet: yes
+biggestAwayWin: --07-02
+biggestAwayWin: Oulu 0–6 VPS
+biggestHomeWin: --04-25
+biggestHomeWin: --04-29
+biggestHomeWin: --06-22
+biggestHomeWin: Honka 5–1 SJK
+biggestHomeWin: Inter Turku 4–0 Mariehamn
+biggestHomeWin: Inter Turku 5–1 Lahti
+continentalcup: 2023–24_UEFA_Champions_League
+continentalcup: 2023–24_UEFA_Europa_Conference_League
+highestScoring: --04-25
+highestScoring: --06-18
+highestScoring: --06-22
+highestScoring: --07-02
+highestScoring: HIFK 1–5 VPS
+highestScoring: Honka 5–1 SJK
+highestScoring: Inter Turku 5–1 Lahti
+highestScoring: Oulu 0–6 VPS
+leagueTopscorer: Benjamin_Källman
+leagueTopscorer: Lee_Erwin_(footballer)
+leagueTopscorer: Tim_Väyrynen
+longestLosses: 5
+longestLosses: Seinäjoen_Jalkapallokerho
+longestUnbeaten: 10
+longestUnbeaten: Kuopion_Palloseura
+longestWinless: 10
+longestWinless: HIFK_Fotboll
+longestWins: 5
+longestWins: Kuopion_Palloseura
+totalGoals: 207
+abstract: The 2022 Veikkausliiga is the 92nd season of top-tier football in Finland. HJK are the defending champions.
+wasDerivedFrom: 2022_Veikkausliiga?oldid=1119412957&ns=0
+wikiPageLength: 28730
+isPrimaryTopicOf: 2022_Veikkausliiga
+	

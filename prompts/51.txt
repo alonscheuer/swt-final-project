@@ -1,0 +1,98 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Kvalspelet till Europamästerskapet i fotboll 2024, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: Event
+type: SportsEvent
+type: Event
+type: SocietalEvent
+type: Tournament
+type: Q1656682
+type: Q500834
+type: Event
+type: SoccerTournament
+type: SportsEvent
+label: UEFA Euro 2024 qualifying
+comment: The UEFA Euro 2024 qualifying tournament is an upcoming football competition that will be played from March 2023 to March 2024 to determine the 23 UEFA member men's national teams that will join the automatically qualified host team Germany in the UEFA Euro 2024 final tournament. The competition will be linked with the 2022–23 UEFA Nations League, which will give countries a secondary route to qualify for the final tournament.
+name: UEFA Euro 2024 qualifying
+depiction: UEFA_Euro_2016_qualifying.png
+depiction: UEFA_Euro_2024_Qualifiers_Map.png
+subject: Category:2022–23_in_UEFA_football
+subject: Category:2023–24_in_UEFA_football
+subject: Category:June_2023_sports_events_in_Europe
+subject: Category:March_2023_sports_events_in_Europe
+subject: Category:March_2024_sports_events_in_Europe
+subject: Category:November_2023_sports_events_in_Europe
+subject: Category:October_2023_sports_events_in_Europe
+subject: Category:September_2023_sports_events_in_Europe
+subject: Category:UEFA_European_Championship_qualifying
+subject: Category:UEFA_Euro_2024
+subject: Category:UEFA_Euro_2024_qualifying
+subject: Category:Sports_events_affected_by_the_2022_Russian_invasion_of_Ukraine
+wikiPageID: 51403302
+wikiPageRevisionID: 1122896771
+wikiPageWikiLink: Belarusian_involvement_in_the_2022_Russian_invasion_of_Ukraine
+wikiPageWikiLink: Category:2022–23_in_UEFA_football
+wikiPageWikiLink: Category:2023–24_in_UEFA_football
+wikiPageWikiLink: Category:June_2023_sports_events_in_Europe
+wikiPageWikiLink: Category:March_2023_sports_events_in_Europe
+wikiPageWikiLink: Category:March_2024_sports_events_in_Europe
+wikiPageWikiLink: Category:November_2023_sports_events_in_Europe
+wikiPageWikiLink: Category:October_2023_sports_events_in_Europe
+wikiPageWikiLink: Category:September_2023_sports_events_in_Europe
+wikiPageWikiLink: Russia_national_football_team
+wikiPageWikiLink: Frankfurt
+wikiPageWikiLink: Germany_national_football_team
+wikiPageWikiLink: Nagorno-Karabakh_conflict
+wikiPageWikiLink: Category:UEFA_European_Championship_qualifying
+wikiPageWikiLink: UEFA
+wikiPageWikiLink: UEFA_Euro_1972
+wikiPageWikiLink: UEFA_Euro_1976
+wikiPageWikiLink: UEFA_Euro_1980
+wikiPageWikiLink: UEFA_Euro_1984
+wikiPageWikiLink: UEFA_Euro_1988
+wikiPageWikiLink: UEFA_Euro_1992
+wikiPageWikiLink: UEFA_Euro_1996
+wikiPageWikiLink: UEFA_Euro_2000
+wikiPageWikiLink: UEFA_Euro_2004
+wikiPageWikiLink: UEFA_Euro_2008
+wikiPageWikiLink: UEFA_Euro_2012
+wikiPageWikiLink: UEFA_Euro_2016
+wikiPageWikiLink: UEFA_Euro_2020
+wikiPageWikiLink: UEFA_Euro_2020_qualifying
+wikiPageWikiLink: UEFA_Euro_2024
+wikiPageWikiLink: UEFA_Euro_2024_qualifying_play-offs
+wikiPageWikiLink: West_Germany_national_football_team
+wikiPageWikiLink: 2022_Russian_invasion_of_Ukraine
+wikiPageWikiLink: 2022–23_UEFA_Nations_League
+wikiPageWikiLink: 2023_UEFA_Nations_League_Finals
+wikiPageWikiLink: Festhalle_Frankfurt
+wikiPageWikiLink: Central_European_Summer_Time
+wikiPageWikiLink: Kosovo–Serbia_relations
+wikiPageWikiLink: Category:UEFA_Euro_2024
+wikiPageWikiLink: Category:UEFA_Euro_2024_qualifying
+wikiPageWikiLink: Category:Sports_events_affected_by_the_2022_Russian_invasion_of_Ukraine
+wikiPageWikiLink: Association_football
+wikiPageWikiLink: Bosnia_and_Herzegovina–Kosovo_relations
+wikiPageWikiLink: Round-robin_tournament
+wikiPageWikiLink: Status_of_Gibraltar
+wikiPageWikiLink: File:UEFA_Euro_2024_Qualifiers_Map.png
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/
+wikiPageExternalLink: https://www.uefa.com/euro-2024/
+thumbnail: UEFA_Euro_2016_qualifying.png?width=300
+dates: --03-23
+dates: 
+nextseason: 2028
+numTeams: 53
+prevseason: 2020
+tourneyName: UEFA Euro 2024 qualifying
+abstract: The UEFA Euro 2024 qualifying tournament is an upcoming football competition that will be played from March 2023 to March 2024 to determine the 23 UEFA member men's national teams that will join the automatically qualified host team Germany in the UEFA Euro 2024 final tournament. The competition will be linked with the 2022–23 UEFA Nations League, which will give countries a secondary route to qualify for the final tournament. A total of 53 UEFA member associations entered the qualifying process. The draw for the qualifying group stage took place at the Festhalle in Frankfurt on 9 October 2022.
+wasDerivedFrom: UEFA_Euro_2024_qualifying?oldid=1122896771&ns=0
+wikiPageLength: 27095
+isPrimaryTopicOf: UEFA_Euro_2024_qualifying
+	

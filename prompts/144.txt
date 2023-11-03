@@ -1,0 +1,81 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Världsmästerskapen i simsport 2023, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	label: 2023 World Aquatics Championships
+comment: The 2023 World Aquatics Championships, the 20th edition of the FINA World Aquatics Championships, will be held in Fukuoka, Japan, between 14 to 30 July 2023. Originally scheduled to be held in 2021, the championships were pushed back one year to be held from 13–29 May 2022 in response to the rescheduling of the 2020 Summer Olympics in Tokyo to 2021, as a result of the COVID-19 pandemic. The event was then postponed a second time to year 2023 due to the COVID-19 pandemic situation like travel restrictions and the measures currently in place in Japan. In its place, Budapest hosted the 19th Championships from 18 June – 3 July 2022.
+homepage: https://www.fina-fukuoka2022.org/en/
+name: 20
+depiction: 2022_FINA_World_Championships_logo.svg
+subject: Category:2023_in_Japanese_sport
+subject: Category:2023_in_multi-sport_events
+subject: Category:2023_in_water_sports
+subject: Category:Scheduled_sports_events
+subject: Category:Sports_competitions_in_Fukuoka
+subject: Category:International_aquatics_competitions_hosted_by_Japan
+subject: Category:FINA_World_Aquatics_Championships
+subject: Category:Sports_events_postponed_due_to_the_COVID-19_pandemic
+wikiPageID: 40017725
+wikiPageRevisionID: 1121473204
+wikiPageWikiLink: Qatar
+wikiPageWikiLink: Category:2023_in_Japanese_sport
+wikiPageWikiLink: Category:2023_in_multi-sport_events
+wikiPageWikiLink: Category:2023_in_water_sports
+wikiPageWikiLink: Hungary
+wikiPageWikiLink: Category:Scheduled_sports_events
+wikiPageWikiLink: 1995_Summer_Universiade
+wikiPageWikiLink: Category:Sports_competitions_in_Fukuoka
+wikiPageWikiLink: Fukuoka
+wikiPageWikiLink: Category:International_aquatics_competitions_hosted_by_Japan
+wikiPageWikiLink: 2017_World_Aquatics_Championships
+wikiPageWikiLink: 2019_World_Aquatics_Championships
+wikiPageWikiLink: 2020_Summer_Olympics
+wikiPageWikiLink: Fukuoka_Convention_Center
+wikiPageWikiLink: 2001_World_Aquatics_Championships
+wikiPageWikiLink: Category:FINA_World_Aquatics_Championships
+wikiPageWikiLink: Barcelona
+wikiPageWikiLink: Budapest
+wikiPageWikiLink: Buenos_Aires
+wikiPageWikiLink: COVID-19_pandemic
+wikiPageWikiLink: COVID-19_pandemic_in_Japan
+wikiPageWikiLink: Turkey
+wikiPageWikiLink: UAE
+wikiPageWikiLink: 2013_World_Aquatics_Championships
+wikiPageWikiLink: 2022_World_Aquatics_Championships
+wikiPageWikiLink: Abu_Dhabi
+wikiPageWikiLink: FINA
+wikiPageWikiLink: FINA_World_Aquatics_Championships
+wikiPageWikiLink: Guadalajara
+wikiPageWikiLink: Gwangju
+wikiPageWikiLink: Istanbul
+wikiPageWikiLink: Japan
+wikiPageWikiLink: Category:Sports_events_postponed_due_to_the_COVID-19_pandemic
+wikiPageWikiLink: Argentina
+wikiPageWikiLink: China
+wikiPageWikiLink: Doha
+wikiPageWikiLink: South_Korea
+wikiPageWikiLink: Nanjing
+wikiPageWikiLink: Naruhito
+wikiPageWikiLink: Travel_during_the_COVID-19_pandemic
+wikiPageWikiLink: Water_polo_at_the_2023_World_Aquatics_Championships
+wikiPageWikiLink: Artistic_swimming_at_the_2023_World_Aquatics_Championships
+wikiPageWikiLink: Diving_at_the_2023_World_Aquatics_Championships
+wikiPageWikiLink: Open_water_swimming_at_the_2023_World_Aquatics_Championships
+wikiPageWikiLink: Swimming_at_the_2023_World_Aquatics_Championships
+wikiPageExternalLink: https://www.fina-fukuoka2022.org/en/
+thumbnail: 2022_FINA_World_Championships_logo.svg?width=300
+dates: --07-30
+next: Doha 2024
+opened: Naruhito
+previous: 2022_World_Aquatics_Championships
+venues: 4
+hostcity: Fukuoka, Japan
+abstract: The 2023 World Aquatics Championships, the 20th edition of the FINA World Aquatics Championships, will be held in Fukuoka, Japan, between 14 to 30 July 2023. Originally scheduled to be held in 2021, the championships were pushed back one year to be held from 13–29 May 2022 in response to the rescheduling of the 2020 Summer Olympics in Tokyo to 2021, as a result of the COVID-19 pandemic. The event was then postponed a second time to year 2023 due to the COVID-19 pandemic situation like travel restrictions and the measures currently in place in Japan. In its place, Budapest hosted the 19th Championships from 18 June – 3 July 2022. It will be the second time Fukuoka hosts this meet, 22 years after the 2001 World Aquatics Championships.
+wasDerivedFrom: 2023_World_Aquatics_Championships?oldid=1121473204&ns=0
+wikiPageLength: 10971
+isPrimaryTopicOf: 2023_World_Aquatics_Championships
+	

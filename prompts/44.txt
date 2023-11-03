@@ -1,0 +1,73 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Världsmästerskapen i alpin skidsport 2023, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: Event
+type: SportsEvent
+type: Event
+type: SocietalEvent
+type: Q1656682
+type: Event
+type: SportsEvent
+label: FIS Alpine World Ski Championships 2023
+name: FIS Alpine World Ski Championships 2023
+homepage: https://www.courchevelmeribel2023.com/
+name: FIS Alpine World Ski Championships 2023
+subject: Category:FIS_Alpine_World_Championships_2023
+subject: Category:FIS_Alpine_World_Ski_Championships
+subject: Category:2023_in_French_sport
+subject: Category:2023_in_alpine_skiing
+subject: Category:February_2023_sports_events_in_Europe
+subject: Category:Scheduled_sports_events
+subject: Category:International_sports_competitions_hosted_by_France
+subject: Category:Alpine_skiing_competitions_in_France
+wikiPageID: 72200898
+wikiPageRevisionID: 1123303230
+wikiPageWikiLink: Category:FIS_Alpine_World_Championships_2023
+wikiPageWikiLink: Category:FIS_Alpine_World_Ski_Championships
+wikiPageWikiLink: Category:2023_in_French_sport
+wikiPageWikiLink: Category:2023_in_alpine_skiing
+wikiPageWikiLink: Category:February_2023_sports_events_in_Europe
+wikiPageWikiLink: Val-d'Isère
+wikiPageWikiLink: Category:Scheduled_sports_events
+wikiPageWikiLink: 1992_Winter_Olympics
+wikiPageWikiLink: Courchevel
+wikiPageWikiLink: Saalbach-Hinterglemm
+wikiPageWikiLink: French_Alps
+wikiPageWikiLink: Méribel
+wikiPageWikiLink: Category:International_sports_competitions_hosted_by_France
+wikiPageWikiLink: Ski_jumping
+wikiPageWikiLink: Austrian_Ski_Association
+wikiPageWikiLink: 2021–22_FIS_Alpine_Ski_World_Cup
+wikiPageWikiLink: Category:Alpine_skiing_competitions_in_France
+wikiPageWikiLink: FIS_Alpine_Ski_World_Cup
+wikiPageWikiLink: FIS_Alpine_World_Ski_Championships
+wikiPageWikiLink: FIS_Alpine_World_Ski_Championships_2021
+wikiPageWikiLink: France
+wikiPageWikiLink: Central_European_Time
+wikiPageWikiLink: Nordic_combined
+wikiPageWikiLink: International_Ski_Federation
+wikiPageWikiLink: Peter_Schröcksnadel
+wikiPageWikiLink: FIS_Alpine_World_Ski_Championships_2025
+wikiPageWikiLink: Costa_Navarino
+wikiPageWikiLink: FIS_points
+wikiPageWikiLink: Fédération_Française_de_Ski
+wikiPageExternalLink: https://www.courchevelmeribel2023.com/
+country: France
+next: FIS_Alpine_World_Ski_Championships_2025
+previous: FIS_Alpine_World_Ski_Championships_2021
+size: 150
+hostCity: Courchevel and Méribel
+closingCeremony: 2023-02-19
+openingCeremony: 2023-02-05
+wasDerivedFrom: FIS_Alpine_World_Ski_Championships_2023?oldid=1123303230&ns=0
+wikiPageLength: 6622
+city: Courchevel
+city: Méribel
+isPrimaryTopicOf: FIS_Alpine_World_Ski_Championships_2023
+	

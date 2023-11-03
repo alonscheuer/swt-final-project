@@ -1,0 +1,107 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Skidskytte vid paralympiska vinterspelen 2022, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	label: Biathlon at the 2022 Winter Paralympics
+comment: Biathlon was one of the competitions at the 2022 Winter Paralympics in Beijing, China. In total, 18 medal events were held.
+subject: Category:2022_in_biathlon
+subject: Category:Biathlon_at_the_2022_Winter_Paralympics
+subject: Category:Biathlon_at_the_Winter_Paralympics
+subject: Category:Biathlon_competitions_in_China
+subject: Category:2022_Winter_Paralympics_events
+wikiPageID: 69504027
+wikiPageRevisionID: 1098699808
+wikiPageWikiLink: Category:2022_in_biathlon
+wikiPageWikiLink: Benjamin_Daviet
+wikiPageWikiLink: Biathlon_at_the_2018_Winter_Paralympics
+wikiPageWikiLink: Biathlon_at_the_2022_Winter_Olympics
+wikiPageWikiLink: Category:Biathlon_at_the_2022_Winter_Paralympics
+wikiPageWikiLink: Category:Biathlon_at_the_Winter_Paralympics
+wikiPageWikiLink: Category:Biathlon_competitions_in_China
+wikiPageWikiLink: Vitaliy_Lukyanenko
+wikiPageWikiLink: Anja_Wicker
+wikiPageWikiLink: Leonie_Maria_Walter
+wikiPageWikiLink: Linn_Kazmaier
+wikiPageWikiLink: Liu_Mengtao
+wikiPageWikiLink: Liu_Zixu
+wikiPageWikiLink: Liudmyla_Liashenko
+wikiPageWikiLink: Yu_Shuang
+wikiPageWikiLink: Zhao_Zhiqing
+wikiPageWikiLink: Brittany_Hudak
+wikiPageWikiLink: Wang_Yue_(para-biathlete)
+wikiPageWikiLink: 2022_Winter_Paralympics
+wikiPageWikiLink: Alexandr_Gerlits
+wikiPageWikiLink: Anatolii_Kovalevskyi
+wikiPageWikiLink: Category:2022_Winter_Paralympics_events
+wikiPageWikiLink: Sighted_guide
+wikiPageWikiLink: Grygorii_Vovchynskyi
+wikiPageWikiLink: Guo_Yujie
+wikiPageWikiLink: International_Paralympic_Committee
+wikiPageWikiLink: Iryna_Bui
+wikiPageWikiLink: Taras_Rad
+wikiPageWikiLink: Paralympic_biathlon
+wikiPageWikiLink: Kendall_Gretsch
+wikiPageWikiLink: Dmytro_Suiarko
+wikiPageWikiLink: Marco_Maier
+wikiPageWikiLink: Mark_Arendz
+wikiPageWikiLink: Martin_Fleig
+wikiPageWikiLink: Oksana_Masters
+wikiPageWikiLink: Oksana_Shyshkova
+wikiPageWikiLink: Oleksandr_Kazik
+wikiPageWikiLink: Oleksandra_Kononova
+wikiPageWikiLink: Shan_Yilin
+wikiPageWikiLink: Pirmin_Strecker
+wikiPageWikiLink: Wang_Guanyu
+wikiPageWikiLink: Florian_Baumann
+wikiPageWikiLink: Li_Yalin
+wikiPageWikiLink: Borys_Babar
+wikiPageWikiLink: Vitaliy_Kazakov
+wikiPageWikiLink: Oleksandr_Mukshyn
+wikiPageWikiLink: Oleksandr_Nikonovych
+wikiPageWikiLink: Serhii_Kucheriavyi
+wikiPageExternalLink: PWG2022_BTH_B99_BTH-------------------------------.pdf
+wikiPageExternalLink: PWG2022_BTH_B99_BTH-------------------------------.pdf
+wikiPageExternalLink: 2021_11_23_QC_Beijing2022_v1.8.pdf
+hostChn: yes
+competitors: 86
+nations: 14
+bronzeChn: 6
+bronzeFra: 0
+bronzeGer: 3
+bronzeKaz: 1
+bronzeUkr: 5
+bronzeUsa: 1
+date: 2022-03-15
+dates: --03-11
+event: 2022
+event: Biathlon
+flagTemplate: flagIPCteam
+goldChn: 4
+goldFra: 1
+goldGer: 1
+goldKaz: 0
+goldUkr: 8
+goldUsa: 3
+host: CHN
+prev: 2018
+silverChn: 2
+silverFra: 0
+silverGer: 4
+silverKaz: 0
+silverUkr: 9
+silverUsa: 2
+url: PWG2022_BTH_B99_BTH-------------------------------.pdf
+venue: National Biathlon Center
+bronzeCan: 2
+goldCan: 1
+silverCan: 1
+games: 2022
+abstract: Biathlon was one of the competitions at the 2022 Winter Paralympics in Beijing, China. In total, 18 medal events were held.
+wasDerivedFrom: Biathlon_at_the_2022_Winter_Paralympics?oldid=1098699808&ns=0
+wikiPageLength: 10289
+isPrimaryTopicOf: Biathlon_at_the_2022_Winter_Paralympics
+	

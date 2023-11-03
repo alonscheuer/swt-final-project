@@ -1,0 +1,171 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Miamis Grand Prix 2022, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: Event
+type: SportsEvent
+type: Event
+type: SocietalEvent
+type: Q1656682
+type: Event
+type: GrandPrix
+type: SportsEvent
+label: 2022 Miami Grand Prix
+comment: The 2022 Miami Grand Prix (officially known as the Formula 1 Crypto.com Miami Grand Prix 2022) was a Formula One motor race that was held on May 8, 2022, at the Miami International Autodrome in Miami Gardens, Florida, United States. It was the first edition of the Miami Grand Prix and the fifth round of the 2022 Formula One World Championship. The race was won by Max Verstappen, ahead of championship leader and pole-sitter Charles Leclerc in second and his teammate Carlos Sainz Jr. in third. Verstappen also set the fastest lap.
+seeAlso: 2022_Formula_One_World_Championship
+name: Formula 1 Crypto.comMiami Grand Prix2022
+depiction: 1rightarrow_blue.svg
+depiction: Hard_Rock_Stadium_Circuit_2022.svg
+location: United_States
+location: Florida
+location: Miami_Gardens
+location: Miami_International_Autodrome
+subject: Category:2022_Formula_One_races
+subject: Category:2022_in_American_motorsport
+subject: Category:2022_in_sports_in_Florida
+subject: Category:May_2022_sports_events_in_the_United_States
+subject: Category:Miami_Grand_Prix
+wikiPageID: 67471311
+wikiPageRevisionID: 1125012050
+wikiPageWikiLink: Carlos_Sainz_Jr.
+wikiPageWikiLink: Saudi_Aramco
+wikiPageWikiLink: Category:2022_Formula_One_races
+wikiPageWikiLink: Category:2022_in_American_motorsport
+wikiPageWikiLink: Category:2022_in_sports_in_Florida
+wikiPageWikiLink: Category:May_2022_sports_events_in_the_United_States
+wikiPageWikiLink: Category:Miami_Grand_Prix
+wikiPageWikiLink: Horsepower
+wikiPageWikiLink: Renault_in_Formula_One
+wikiPageWikiLink: UTC−04:00
+wikiPageWikiLink: United_States
+wikiPageWikiLink: Valtteri_Bottas
+wikiPageWikiLink: Virtual_safety_car
+wikiPageWikiLink: UTC−4
+wikiPageWikiLink: 107%25_rule
+wikiPageWikiLink: Max_Verstappen
+wikiPageWikiLink: McLaren
+wikiPageWikiLink: Safety_car
+wikiPageWikiLink: George_Russell_(racing_driver)
+wikiPageWikiLink: Red_flag_(racing_flags)
+wikiPageWikiLink: 2019_Mexican_Grand_Prix
+wikiPageWikiLink: Lewis_Hamilton
+wikiPageWikiLink: Yuki_Tsunoda
+wikiPageWikiLink: Zhou_Guanyu
+wikiPageWikiLink: Williams_Grand_Prix_Engineering
+wikiPageWikiLink: 2022_Emilia_Romagna_Grand_Prix
+wikiPageWikiLink: 2022_Formula_One_World_Championship
+wikiPageWikiLink: 2022_Spanish_Grand_Prix
+wikiPageWikiLink: 2022_W_Series_Miami_round
+wikiPageWikiLink: 2023_Miami_Grand_Prix
+wikiPageWikiLink: Alexander_Albon
+wikiPageWikiLink: Alfa_Romeo_in_Formula_One
+wikiPageWikiLink: Alpine_F1_Team
+wikiPageWikiLink: Daniel_Ricciardo
+wikiPageWikiLink: Eastern_Time
+wikiPageWikiLink: Esteban_Ocon
+wikiPageWikiLink: Fernando_Alonso
+wikiPageWikiLink: Florida
+wikiPageWikiLink: Nicholas_Latifi
+wikiPageWikiLink: Fastest_lap
+wikiPageWikiLink: Haas_F1_Team
+wikiPageWikiLink: Aston_Martin_in_Formula_One
+wikiPageWikiLink: Charles_Leclerc
+wikiPageWikiLink: Kevin_Magnussen
+wikiPageWikiLink: Lance_Stroll
+wikiPageWikiLink: Lando_Norris
+wikiPageWikiLink: Miami_Gardens
+wikiPageWikiLink: Pierre_Gasly
+wikiPageWikiLink: Pirelli
+wikiPageWikiLink: Mercedes-Benz_in_Formula_One
+wikiPageWikiLink: Mercedes_AMG_High_Performance_Powertrains
+wikiPageWikiLink: Miami_Gardens,_Florida
+wikiPageWikiLink: Miami_Grand_Prix
+wikiPageWikiLink: Miami_International_Autodrome
+wikiPageWikiLink: Mick_Schumacher
+wikiPageWikiLink: Red_Bull_Powertrains
+wikiPageWikiLink: Red_Bull_Racing
+wikiPageWikiLink: Scuderia_AlphaTauri
+wikiPageWikiLink: Scuderia_Ferrari
+wikiPageWikiLink: Sebastian_Vettel
+wikiPageWikiLink: Sergio_Pérez
+wikiPageWikiLink: File:Hard_Rock_Stadium_Circuit_2022.svg
+wikiPageWikiLink: File:1rightarrow_blue.svg
+wikiPageExternalLink: %7Ctitle=Report
+wikiPageExternalLink: 91a18f38fdb1924b554809cf3fef5626%7Ctitle=A
+thumbnail: Hard_Rock_Stadium_Circuit_2022.svg?width=300
+nextRound: 2022
+previousRound: 2022
+poleTime: 1
+caption: Layout of the Miami International Autodrome
+course: Purpose-built temporary circuit
+grandPrix: Miami
+location: United_States
+location: Florida
+location: Miami_Gardens
+location: Miami_International_Autodrome
+officialName: Formula 1 Crypto.com Miami Grand Prix 2022
+type: F1
+year: 2022
+courseKm: 5.412
+courseMi: 3.363
+distanceKm: 308.484
+distanceLaps: 57
+distanceMi: 191.585
+fastCountry: NED
+fastDriver: Max_Verstappen
+fastTeam: Red_Bull_Powertrains
+fastTeam: Red_Bull_Racing
+fastTime: 1
+firstCountry: NED
+firstDriver: Max_Verstappen
+firstTeam: Red_Bull_Powertrains
+firstTeam: Red_Bull_Racing
+nameOfRace: Miami_Grand_Prix
+nextRaceInSeason: 2022
+nextYear'sRace: 2023
+previousRaceInSeason: 2022
+previousYear'sRace: None
+secondCountry: MON
+secondDriver: Charles_Leclerc
+secondTeam: Scuderia_Ferrari
+thirdCountry: ESP
+thirdDriver: Carlos_Sainz_Jr.
+thirdTeam: Scuderia_Ferrari
+yearOfRace: 2022
+poleCountry: MON
+poleDriver: Charles_Leclerc
+poleTeam: Scuderia_Ferrari
+raceNo: 5
+seasonNo: 22
+weather: Warm, partly cloudy
+fastLap: 54
+abstract: The 2022 Miami Grand Prix (officially known as the Formula 1 Crypto.com Miami Grand Prix 2022) was a Formula One motor race that was held on May 8, 2022, at the Miami International Autodrome in Miami Gardens, Florida, United States. It was the first edition of the Miami Grand Prix and the fifth round of the 2022 Formula One World Championship. The race was won by Max Verstappen, ahead of championship leader and pole-sitter Charles Leclerc in second and his teammate Carlos Sainz Jr. in third. Verstappen also set the fastest lap.
+fullDate: 2022-05-08
+wasDerivedFrom: 2022_Miami_Grand_Prix?oldid=1125012050&ns=0
+course: 5.412
+course: 5.412223872
+distance: 308.32617024
+distance: 308.484
+wikiPageLength: 31638
+course: 5412.0
+course: 5412.22
+distance: 308326.0
+distance: 308484.0
+distanceLaps: 57
+fastestDriver: Max_Verstappen
+fastestDriverTeam: Red_Bull_Racing
+firstDriver: Max_Verstappen
+firstDriverTeam: Red_Bull_Racing
+poleDriver: Charles_Leclerc
+poleDriverTeam: Scuderia_Ferrari
+secondDriver: Charles_Leclerc
+secondTeam: Scuderia_Ferrari
+thirdDriver: Carlos_Sainz_Jr.
+thirdTeam: Scuderia_Ferrari
+isPrimaryTopicOf: 2022_Miami_Grand_Prix
+	

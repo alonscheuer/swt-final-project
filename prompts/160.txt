@@ -1,0 +1,126 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Spanien vid världsmästerskapen i friidrott 2022, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	label: Spain at the 2022 World Athletics Championships
+comment: Spain competed at the 2022 World Championships in Athletics in Eugene, United States, from 15 July to 24 July 2022.
+homepage: http://www.rfea.es/
+subject: Category:2022_in_Spanish_sport
+subject: Category:Spain_at_the_World_Championships_in_Athletics
+subject: Category:Nations_at_the_2022_World_Athletics_Championships
+wikiPageID: 71315722
+wikiPageRevisionID: 1108102280
+wikiPageWikiLink: Carlos_Mayo
+wikiPageWikiLink: Carlos_Tobalina_(athlete)
+wikiPageWikiLink: Carolina_Robles
+wikiPageWikiLink: Sara_Gallego
+wikiPageWikiLink: 2022_World_Athletics_Championships_–_Men's_10,000_metres
+wikiPageWikiLink: 2022_World_Athletics_Championships_–_Men's_110_metres_hurdles
+wikiPageWikiLink: 2022_World_Athletics_Championships_–_Men's_1500_metres
+wikiPageWikiLink: 2022_World_Athletics_Championships_–_Men's_20_kilometres_walk
+wikiPageWikiLink: 2022_World_Athletics_Championships_–_Men's_35_kilometres_walk
+wikiPageWikiLink: 2022_World_Athletics_Championships_–_Men's_4_×_100_metres_relay
+wikiPageWikiLink: 2022_World_Athletics_Championships_–_Men's_5000_metres
+wikiPageWikiLink: 2022_World_Athletics_Championships_–_Men's_800_metres
+wikiPageWikiLink: 2022_World_Athletics_Championships_–_Men's_hammer_throw
+wikiPageWikiLink: 2022_World_Athletics_Championships_–_Men's_shot_put
+wikiPageWikiLink: 2022_World_Athletics_Championships_–_Men's_triple_jump
+wikiPageWikiLink: 2022_World_Athletics_Championships_–_Mixed_4_×_400_metres_relay
+wikiPageWikiLink: 2022_World_Athletics_Championships_–_Women's_100_metres
+wikiPageWikiLink: 2022_World_Athletics_Championships_–_Women's_20_kilometres_walk
+wikiPageWikiLink: 2022_World_Athletics_Championships_–_Women's_3000_metres_steeplechase
+wikiPageWikiLink: 2022_World_Athletics_Championships_–_Women's_35_kilometres_walk
+wikiPageWikiLink: 2022_World_Athletics_Championships_–_Women's_4_×_100_metres_relay
+wikiPageWikiLink: 2022_World_Athletics_Championships_–_Women's_4_×_400_metres_relay
+wikiPageWikiLink: 2022_World_Athletics_Championships_–_Women's_hammer_throw
+wikiPageWikiLink: 2022_World_Athletics_Championships_–_Women's_heptathlon
+wikiPageWikiLink: 2022_World_Athletics_Championships_–_Women's_long_jump
+wikiPageWikiLink: 2022_World_Athletics_Championships_–_Women's_shot_put
+wikiPageWikiLink: Category:2022_in_Spanish_sport
+wikiPageWikiLink: Paula_Sevilla
+wikiPageWikiLink: United_States
+wikiPageWikiLink: Jesús_Gómez_(sprinter)
+wikiPageWikiLink: María_Belén_Toimil
+wikiPageWikiLink: María_Isabel_Pérez
+wikiPageWikiLink: María_Pérez_(racewalker)
+wikiPageWikiLink: Claudia_Conte
+wikiPageWikiLink: Enrique_Llopis
+wikiPageWikiLink: Fátima_Diame
+wikiPageWikiLink: Mohamed_Katir
+wikiPageWikiLink: Álvaro_Martín_(racewalker)
+wikiPageWikiLink: Álvaro_de_Arriba
+wikiPageWikiLink: Óscar_Husillos
+wikiPageWikiLink: Víctor_Ruiz_(athlete)
+wikiPageWikiLink: Category:Spain_at_the_World_Championships_in_Athletics
+wikiPageWikiLink: 2022_World_Athletics_Championships_–_Men's_3000_metres_steeplechase
+wikiPageWikiLink: 2022_World_Athletics_Championships_–_Men's_javelin_throw
+wikiPageWikiLink: 2022_World_Athletics_Championships_–_Men's_long_jump
+wikiPageWikiLink: 2022_World_Athletics_Championships_–_Women's_1500_metres
+wikiPageWikiLink: 2022_World_Athletics_Championships_–_Women's_400_metres_hurdles
+wikiPageWikiLink: Adel_Mechaal
+wikiPageWikiLink: Adrián_Ben
+wikiPageWikiLink: Alberto_Amezcua
+wikiPageWikiLink: Daniel_Arce
+wikiPageWikiLink: Eugene,_Oregon
+wikiPageWikiLink: Eusebio_Cáceres
+wikiPageWikiLink: Pablo_Torrijos
+wikiPageWikiLink: List_of_Spanish_records_in_athletics
+wikiPageWikiLink: Irene_Sánchez-Escribano
+wikiPageWikiLink: Iñaki_Cañal
+wikiPageWikiLink: Javier_Cienfuegos
+wikiPageWikiLink: Jaël_Bestué
+wikiPageWikiLink: Asier_Martínez
+wikiPageWikiLink: Category:Nations_at_the_2022_World_Athletics_Championships
+wikiPageWikiLink: Laura_García-Caro
+wikiPageWikiLink: Laura_Hernández
+wikiPageWikiLink: Laura_Redondo
+wikiPageWikiLink: Diego_García_(racewalker)
+wikiPageWikiLink: Marc_Tur
+wikiPageWikiLink: Mariano_García
+wikiPageWikiLink: Mario_García_Romo
+wikiPageWikiLink: Marta_Pérez_(athlete)
+wikiPageWikiLink: Pol_Retamal
+wikiPageWikiLink: Sonia_Molina-Prados
+wikiPageWikiLink: Spain
+wikiPageWikiLink: Héctor_Santos_(athlete)
+wikiPageWikiLink: Ignacio_Fontes
+wikiPageWikiLink: Miguel_Ángel_López_(racewalker)
+wikiPageWikiLink: Raquel_González_(athlete)
+wikiPageWikiLink: Sebastián_Martos
+wikiPageWikiLink: Sergio_López_(sprinter)
+wikiPageWikiLink: Spain_at_the_2017_World_Championships_in_Athletics
+wikiPageWikiLink: Aauri_Lorena_Bokesa
+wikiPageWikiLink: 2022_World_Championships_in_Athletics
+wikiPageWikiLink: Carmen_Avilés
+wikiPageWikiLink: Bernat_Canet
+wikiPageWikiLink: Álvaro_López_(racewalker)
+wikiPageWikiLink: Manu_Quijera
+wikiPageWikiLink: Eva_Santidrián
+wikiPageWikiLink: Spain_at_the_2021_World_Championships_in_Athletics
+wikiPageExternalLink: http://www.rfea.es/
+wikiPageExternalLink: oregon22
+appearances: auto
+endDate: 2022-07-24
+location: United_States
+location: Eugene,_Oregon
+next: 2023
+previous: 2019
+rank: 39
+startDate: 2022-07-15
+website: http://www.rfea.es/
+year: 2022
+bronze: 2
+gold: 0
+silver: 0
+games: World Championships in Athletics
+abstract: Spain competed at the 2022 World Championships in Athletics in Eugene, United States, from 15 July to 24 July 2022.
+fedname: Real Federación Española de Atletismo
+iaaf: ESP
+wasDerivedFrom: Spain_at_the_2022_World_Athletics_Championships?oldid=1108102280&ns=0
+wikiPageLength: 11666
+isPrimaryTopicOf: Spain_at_the_2022_World_Athletics_Championships
+	

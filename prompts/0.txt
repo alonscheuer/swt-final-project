@@ -1,0 +1,207 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Världsmästerskapet i rugby 2023, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: Article100022903
+type: Artifact100021939
+type: Container103094503
+type: Crockery103133538
+type: Cup103147509
+type: Instrumentality103575240
+type: Object100002684
+type: PhysicalEntity100001930
+type: Tableware104381994
+type: Ware104550840
+type: Whole100003553
+label: 2023 Rugby World Cup
+comment: The 2023 Rugby World Cup is scheduled to be the tenth men's Rugby World Cup, the quadrennial world championship for men's rugby union teams. It is scheduled to take place in France from 8 September to 28 October 2023 in nine venues across the country. The opening match and final will take place at the Stade de France, in the commune of Saint-Denis, north of Paris. The tournament will take place in the bicentenary year of the "invention" of the sport by William Webb Ellis. Originally, the tournament was scheduled to last the typical six weeks; however, on 23 February 2021, World Rugby announced an additional week to accommodate the additional rest day requirement for player welfare. This means that teams will have a minimum of five rest days for all matches, optimising recovery and preparat
+seeAlso: 2023_Rugby_World_Cup_bids
+name: 2023
+depiction: Allianzcoupdenvoi.jpg
+depiction: Stade_Vélodrome_(20150405).jpg
+depiction: Stade_de_la_Beaujoire.jpg
+depiction: Rugby_World_Cup_2023_logo.svg
+depiction: 6m_toulousain_tiré_par_Mike_Maignan,_Toulouse,_6_mai_2018_(TFC_-_LOSC).jpg
+depiction: Bordeaux_Larnaca_Nouveau_Stade_4.jpg
+depiction: Germany_vs_Poland_0-0_(27103531294).jpg
+depiction: Parc_OL.jpg
+depiction: Lille_vs_PSG_2019_-_Stade_Pierre_Mauroy.jpg
+depiction: Stade_Geoffroy-Guichard_-_Saint-Etienne_(10-11-2013).jpg
+subject: Category:International_rugby_union_competitions_hosted_by_France
+subject: Category:2023_Rugby_World_Cup
+subject: Category:2023_in_rugby_union
+subject: Category:2023–24_in_French_rugby_union
+subject: Category:October_2023_sports_events_in_Europe
+subject: Category:Scheduled_rugby_football_competitions
+subject: Category:September_2023_sports_events_in_Europe
+subject: Category:Rugby_World_Cup_tournaments
+wikiPageID: 43039669
+wikiPageRevisionID: 1124011567
+wikiPageWikiLink: Canada_national_rugby_union_team
+wikiPageWikiLink: Romania_national_rugby_union_team
+wikiPageWikiLink: Rueil-Malmaison
+wikiPageWikiLink: Rugby_Africa
+wikiPageWikiLink: Rugby_Europe
+wikiPageWikiLink: Rugby_World_Cup
+wikiPageWikiLink: Rugby_union
+wikiPageWikiLink: Scotland_national_rugby_union_team
+wikiPageWikiLink: Category:International_rugby_union_competitions_hosted_by_France
+wikiPageWikiLink: 2007_Rugby_World_Cup
+wikiPageWikiLink: Category:2023_Rugby_World_Cup
+wikiPageWikiLink: Category:2023_in_rugby_union
+wikiPageWikiLink: Category:2023–24_in_French_rugby_union
+wikiPageWikiLink: Category:October_2023_sports_events_in_Europe
+wikiPageWikiLink: Category:Scheduled_rugby_football_competitions
+wikiPageWikiLink: Category:September_2023_sports_events_in_Europe
+wikiPageWikiLink: Bordeaux
+wikiPageWikiLink: Bourgoin-Jallieu
+wikiPageWikiLink: Perros-Guirec
+wikiPageWikiLink: United_States_national_rugby_union_team
+wikiPageWikiLink: Versailles,_Yvelines
+wikiPageWikiLink: Villeneuve-d'Ascq
+wikiPageWikiLink: 1991_Rugby_World_Cup
+wikiPageWikiLink: 1995_Rugby_World_Cup
+wikiPageWikiLink: Croissy-sur-Seine
+wikiPageWikiLink: Saint-Denis,_Seine-Saint-Denis
+wikiPageWikiLink: Saint-Etienne
+wikiPageWikiLink: Saint-Étienne
+wikiPageWikiLink: Sudamérica_Rugby
+wikiPageWikiLink: England_national_rugby_union_team
+wikiPageWikiLink: French_Rugby_Federation
+wikiPageWikiLink: Montpellier
+wikiPageWikiLink: NBC_Sports
+wikiPageWikiLink: Category:Rugby_World_Cup_tournaments
+wikiPageWikiLink: 2019_Rugby_World_Cup
+wikiPageWikiLink: 2019_Rugby_World_Cup_Final
+wikiPageWikiLink: Lens,_Pas-de-Calais
+wikiPageWikiLink: Libourne
+wikiPageWikiLink: Lille
+wikiPageWikiLink: Lormont
+wikiPageWikiLink: Lyon
+wikiPageWikiLink: Sky_Sport_(New_Zealand)
+wikiPageWikiLink: Stade_Geoffroy-Guichard
+wikiPageWikiLink: Stade_Pierre-Mauroy
+wikiPageWikiLink: Stade_Vélodrome
+wikiPageWikiLink: Stade_de_France
+wikiPageWikiLink: Stade_de_la_Beaujoire
+wikiPageWikiLink: Stadium_de_Toulouse
+wikiPageWikiLink: Ziggo_Sport
+wikiPageWikiLink: Île_de_Ré
+wikiPageWikiLink: Overtime_(sports)
+wikiPageWikiLink: 1999_Rugby_World_Cup
+wikiPageWikiLink: Avignon
+wikiPageWikiLink: Toulon
+wikiPageWikiLink: Toulouse
+wikiPageWikiLink: Tours
+wikiPageWikiLink: USA_Rugby
+wikiPageWikiLink: Wales_national_rugby_union_team
+wikiPageWikiLink: William_Webb_Ellis
+wikiPageWikiLink: Stadium_Municipal
+wikiPageWikiLink: 2023_Rugby_World_Cup_Pool_A
+wikiPageWikiLink: 2023_Rugby_World_Cup_Pool_B
+wikiPageWikiLink: 2023_Rugby_World_Cup_Pool_C
+wikiPageWikiLink: 2023_Rugby_World_Cup_Pool_D
+wikiPageWikiLink: 2024_Summer_Olympics
+wikiPageWikiLink: 2027_Rugby_World_Cup
+wikiPageWikiLink: Aix-les-Bains
+wikiPageWikiLink: Allianz_Riviera
+wikiPageWikiLink: Décines-Charpieu
+wikiPageWikiLink: Nine_Network
+wikiPageWikiLink: Nouveau_Stade_de_Bordeaux
+wikiPageWikiLink: Parc_Olympique_Lyonnais
+wikiPageWikiLink: Paris
+wikiPageWikiLink: History_of_the_Rugby_World_Cup
+wikiPageWikiLink: Ireland_national_rugby_union_team
+wikiPageWikiLink: Irish_Rugby_Football_Union
+wikiPageWikiLink: Italian_Rugby_Federation
+wikiPageWikiLink: Stade_Geoffroy_Guichard
+wikiPageWikiLink: Argentine_Rugby_Union
+wikiPageWikiLink: Asia_Rugby
+wikiPageWikiLink: Chile_national_rugby_union_team
+wikiPageWikiLink: La_Baule-Escoublac
+wikiPageWikiLink: Le_Touquet
+wikiPageWikiLink: SuperSport_(South_African_broadcaster)
+wikiPageWikiLink: TF1_Group
+wikiPageWikiLink: Single-elimination
+wikiPageWikiLink: Marseille
+wikiPageWikiLink: Portugal_national_rugby_union_team
+wikiPageWikiLink: South_Africa_national_rugby_union_team
+wikiPageWikiLink: South_African_Rugby_Union
+wikiPageWikiLink: Spain_national_rugby_union_team
+wikiPageWikiLink: ITV_Sport
+wikiPageWikiLink: Nantes
+wikiPageWikiLink: Nice
+wikiPageWikiLink: Oceania_Rugby
+wikiPageWikiLink: RAI
+wikiPageWikiLink: World_Rugby
+wikiPageWikiLink: World_Rugby_Rankings
+wikiPageWikiLink: Penalty_shootout
+wikiPageWikiLink: Sky_Sport_Italia
+wikiPageWikiLink: Spain_rugby_union_team
+wikiPageWikiLink: Stan_Sport
+wikiPageWikiLink: Romania_rugby_union_team
+wikiPageWikiLink: File:Stade_de_la_Beaujoire.jpg
+wikiPageWikiLink: File:Germany_vs_Poland_0-0_(27103531294).jpg
+wikiPageWikiLink: File:Parc_OL.jpg
+wikiPageWikiLink: File:Allianzcoupdenvoi.jpg
+wikiPageWikiLink: File:6m_toulousain_tiré_par_Mike_Maignan,_Toulouse,_6_mai_2018_(TFC_-_LOSC).jpg
+wikiPageWikiLink: File:Bordeaux_Larnaca_Nouveau_Stade_4.jpg
+wikiPageWikiLink: File:Lille_vs_PSG_2019_-_Stade_Pierre_Mauroy.jpg
+wikiPageWikiLink: File:Stade_Geoffroy-Guichard_-_Saint-Etienne_(10-11-2013).jpg
+wikiPageWikiLink: File:Stade_Vélodrome_(20150405).jpg
+thumbnail: Rugby_World_Cup_2023_logo.svg?width=300
+nations: 20
+caption: WeAre2023!
+date: 2023-10-14
+date: 2023-10-15
+date: 2023-10-20
+date: 2023-10-21
+date: 2023-10-27
+date: 2023-10-28
+float: center
+home: Winner of SF1
+home: Loser of SF1
+home: Winner of Pool A
+home: Winner of Pool B
+home: Winner of Pool C
+home: Winner of Pool D
+home: Winner of QF1
+home: Winner of QF3
+host: France
+logo: Rugby World Cup 2023 logo.svg
+otherTitles: Coupe du monde de rugby 2023
+precededBy: 2019
+score: SF1
+score: SF2
+score: QF1
+score: QF2
+score: QF3
+score: QF4
+stadium: Saint-Denis,_Seine-Saint-Denis
+stadium: Stade_Vélodrome
+stadium: Stade_de_France
+stadium: Marseille
+succeededBy: 2027
+time: 1020.0
+time: 1260.0
+width: 410
+datefrom: --09-08
+dateto: 2023-10-28
+away: Winner of SF2
+away: Loser of SF2
+away: Runner-up of Pool A
+away: Runner-up of Pool B
+away: Runner-up of Pool C
+away: Runner-up of Pool D
+away: Winner of QF2
+away: Winner of QF4
+abstract: The 2023 Rugby World Cup is scheduled to be the tenth men's Rugby World Cup, the quadrennial world championship for men's rugby union teams. It is scheduled to take place in France from 8 September to 28 October 2023 in nine venues across the country. The opening match and final will take place at the Stade de France, in the commune of Saint-Denis, north of Paris. The tournament will take place in the bicentenary year of the "invention" of the sport by William Webb Ellis. Originally, the tournament was scheduled to last the typical six weeks; however, on 23 February 2021, World Rugby announced an additional week to accommodate the additional rest day requirement for player welfare. This means that teams will have a minimum of five rest days for all matches, optimising recovery and preparation for the tournament. It will be the third time France has hosted the Rugby World Cup, having previously hosted the 2007 Rugby World Cup, as well as the 1991 Rugby World Cup as joint hosts with England, Ireland, Scotland and Wales. It precedes the 2024 Summer Olympics in Paris and will take place less than a year before the Olympic opening ceremony. The defending champions are South Africa, who defeated England 32–12 in the 2019 final. Chile will make its first ever appearance at the Rugby World Cup, and Portugal will return for its second appearance, after 16 years.
+wasDerivedFrom: 2023_Rugby_World_Cup?oldid=1124011567&ns=0
+wikiPageLength: 29922
+isPrimaryTopicOf: 2023_Rugby_World_Cup
+	

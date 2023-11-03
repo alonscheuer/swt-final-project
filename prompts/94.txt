@@ -1,0 +1,136 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Kvalspelet till Europamästerskapet i fotboll 2024 (grupp F), skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: Event
+type: Event
+type: Q1656682
+type: Event
+label: UEFA Euro 2024 qualifying Group F
+comment: Group F of UEFA Euro 2024 qualifying is one of the ten groups to decide which teams will qualify for the UEFA Euro 2024 final tournament in Germany. Group F consists of five teams: Austria, Azerbaijan, Belgium, Estonia and Sweden. The teams will play against each other home-and-away in a round-robin format. The top two teams will qualify directly for the final tournament. The participants of the qualifying play-offs will be decided based on their performance in the 2022–23 UEFA Nations League.
+subject: Category:2022–23_in_Austrian_football
+subject: Category:2022–23_in_Azerbaijani_football
+subject: Category:2022–23_in_Belgian_football
+subject: Category:2023_in_Estonian_football
+subject: Category:2023_in_Swedish_football
+subject: Category:UEFA_Euro_2024_qualifying
+wikiPageID: 70800632
+wikiPageRevisionID: 1124986169
+wikiPageWikiLink: Category:2022–23_in_Austrian_football
+wikiPageWikiLink: Category:2022–23_in_Azerbaijani_football
+wikiPageWikiLink: Category:2022–23_in_Belgian_football
+wikiPageWikiLink: Belgium_national_football_team
+wikiPageWikiLink: UTC+03:00
+wikiPageWikiLink: Friends_Arena
+wikiPageWikiLink: UTC+04:00
+wikiPageWikiLink: Austria_national_football_team
+wikiPageWikiLink: Azerbaijan_national_football_team
+wikiPageWikiLink: Brussels
+wikiPageWikiLink: UEFA_Euro_2024
+wikiPageWikiLink: UEFA_Euro_2024_qualifying_play-offs
+wikiPageWikiLink: 2022–23_UEFA_Nations_League
+wikiPageWikiLink: Estonia_national_football_team
+wikiPageWikiLink: Central_European_Summer_Time
+wikiPageWikiLink: Central_European_Time
+wikiPageWikiLink: Category:2023_in_Estonian_football
+wikiPageWikiLink: Category:2023_in_Swedish_football
+wikiPageWikiLink: Category:UEFA_Euro_2024_qualifying
+wikiPageWikiLink: UTC+01:00
+wikiPageWikiLink: King_Baudouin_Stadium
+wikiPageWikiLink: Sweden_national_football_team
+wikiPageWikiLink: UEFA_Euro_2024_qualifying
+wikiPageWikiLink: Round-robin_tournament
+wikiPageWikiLink: UTC+02:00
+wikiPageWikiLink: Solna
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036393/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036301/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036323/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036324/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036346/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036369/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036392/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036416/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036438/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036439/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036461/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036484/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036485/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036508/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036300/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036347/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036370/
+wikiPageExternalLink: https://www.uefa.com/euro-2024/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036415/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036462/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036507/
+date: 2023-03-24
+date: 2023-03-27
+date: 2023-06-17
+date: 2023-06-20
+date: 2023-09-09
+date: 2023-09-12
+date: 2023-10-13
+date: 2023-10-16
+date: 2023-11-16
+date: 2023-11-19
+id: Belgium v Sweden
+id: Sweden v Belgium
+id: Austria v Sweden
+id: Sweden v Austria
+id: Azerbaijan v Sweden
+id: Sweden v Azerbaijan
+id: Belgium v Estonia
+id: Estonia v Belgium
+id: Austria v Azerbaijan
+id: Azerbaijan v Austria
+id: Azerbaijan v Belgium
+id: Belgium v Azerbaijan
+id: Belgium v Austria
+id: Austria v Belgium
+id: Austria v Estonia
+id: Azerbaijan v Estonia
+id: Estonia v Austria
+id: Estonia v Azerbaijan
+id: Estonia v Sweden
+id: Sweden v Estonia
+location: Solna, Sweden
+location: Brussels, Belgium
+report: https://www.uefa.com/european-qualifiers/match/2036393/
+report: https://www.uefa.com/european-qualifiers/match/2036301/
+report: https://www.uefa.com/european-qualifiers/match/2036323/
+report: https://www.uefa.com/european-qualifiers/match/2036324/
+report: https://www.uefa.com/european-qualifiers/match/2036346/
+report: https://www.uefa.com/european-qualifiers/match/2036369/
+report: https://www.uefa.com/european-qualifiers/match/2036392/
+report: https://www.uefa.com/european-qualifiers/match/2036416/
+report: https://www.uefa.com/european-qualifiers/match/2036438/
+report: https://www.uefa.com/european-qualifiers/match/2036439/
+report: https://www.uefa.com/european-qualifiers/match/2036461/
+report: https://www.uefa.com/european-qualifiers/match/2036484/
+report: https://www.uefa.com/european-qualifiers/match/2036485/
+report: https://www.uefa.com/european-qualifiers/match/2036508/
+report: https://www.uefa.com/european-qualifiers/match/2036300/
+report: https://www.uefa.com/european-qualifiers/match/2036347/
+report: https://www.uefa.com/european-qualifiers/match/2036370/
+report: https://www.uefa.com/european-qualifiers/match/2036415/
+report: https://www.uefa.com/european-qualifiers/match/2036462/
+report: https://www.uefa.com/european-qualifiers/match/2036507/
+stadium: Friends_Arena
+stadium: King_Baudouin_Stadium
+time: 1080.0
+time: 900.0
+time: 1245.0
+abstract: Group F of UEFA Euro 2024 qualifying is one of the ten groups to decide which teams will qualify for the UEFA Euro 2024 final tournament in Germany. Group F consists of five teams: Austria, Azerbaijan, Belgium, Estonia and Sweden. The teams will play against each other home-and-away in a round-robin format. The top two teams will qualify directly for the final tournament. The participants of the qualifying play-offs will be decided based on their performance in the 2022–23 UEFA Nations League.
+wasDerivedFrom: UEFA_Euro_2024_qualifying_Group_F?oldid=1124986169&ns=0
+wikiPageLength: 9979
+time: 15:00
+time: 18:00
+time: 20:45
+isPrimaryTopicOf: UEFA_Euro_2024_qualifying_Group_F
+	

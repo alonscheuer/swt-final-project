@@ -1,0 +1,138 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Riksdagsvalet i Finland 2023, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: Event
+type: Event
+type: SocietalEvent
+type: Q1656682
+type: Q40231
+type: Election
+type: Event
+label: 2023 Finnish parliamentary election
+comment: Parliamentary elections will be held in Finland on 2 April 2023, or earlier if the parliament is dissolved ahead of schedule, and will elect members of parliament for the 2023–2027 convocation.
+depiction: Annika_Saarikko_2020_(cropped).jpg
+depiction: Prime_Minister_of_Finland_Sanna_Marin_2019_(cropped).jpg
+depiction: EPP_Summit,_20_October_2022,_Brussels_(52441455194)_(cropped).jpg
+depiction: Hjallis_Harkimo.jpg
+depiction: Finnish_Opinion_Polling,_30_Day_Moving_Average,_2019-2023.png
+depiction: Li_Andersson_16.3.2020.jpg
+depiction: Maria_Ohisalo_2019_(cropped).jpg
+depiction: Riikka_Purra_20220702_(cropped).jpg
+depiction: Sari_Esaayah_cropped_(cropped).jpg
+depiction: Anna-Maja_Henriksson_2021_(cropped).jpg
+subject: Category:Future_elections_in_Europe
+subject: Category:General_elections_in_Finland
+wikiPageID: 60515106
+wikiPageRevisionID: 1124880407
+wikiPageWikiLink: Prime_Minister_of_Finland
+wikiPageWikiLink: Sanna_Marin
+wikiPageWikiLink: Sari_Essayah
+wikiPageWikiLink: Category:Future_elections_in_Europe
+wikiPageWikiLink: Petteri_Orpo
+wikiPageWikiLink: Riikka_Purra
+wikiPageWikiLink: Open_list
+wikiPageWikiLink: Movement_Now
+wikiPageWikiLink: Category:General_elections_in_Finland
+wikiPageWikiLink: Anna-Maja_Henriksson
+wikiPageWikiLink: Annika_Saarikko
+wikiPageWikiLink: Antti_Rinne
+wikiPageWikiLink: Li_Andersson
+wikiPageWikiLink: Social_Democratic_Party_of_Finland
+wikiPageWikiLink: Åland
+wikiPageWikiLink: Uusimaa_(electoral_district)
+wikiPageWikiLink: COVID-19_pandemic_in_Finland
+wikiPageWikiLink: 2021_Finnish_municipal_elections
+wikiPageWikiLink: D'Hondt_method
+wikiPageWikiLink: Finland
+wikiPageWikiLink: Finns_Party
+wikiPageWikiLink: Parliament_of_Finland
+wikiPageWikiLink: Proportional_representation
+wikiPageWikiLink: Harry_Harkimo
+wikiPageWikiLink: Finland_Proper_(electoral_district)
+wikiPageWikiLink: Swedish_People's_Party_of_Finland
+wikiPageWikiLink: Helsinki_(electoral_district)
+wikiPageWikiLink: Dissolution_of_parliament
+wikiPageWikiLink: Maria_Ohisalo
+wikiPageWikiLink: Pirkanmaa
+wikiPageWikiLink: Pirkanmaa_(constituency)
+wikiPageWikiLink: National_Coalition_Party
+wikiPageWikiLink: Vaasa_(electoral_district)
+wikiPageWikiLink: Savonia-Karelia_(electoral_district)
+wikiPageWikiLink: Finnish_postal_service
+wikiPageWikiLink: File:Finnish_Opinion_Polling,_30_Day_Moving_Average,_2019-2023.png
+thumbnail: Prime_Minister_of_Finland_Sanna_Marin_2019_(cropped).jpg?width=300
+leaderSince: 2015-08-29
+leaderSince: 2016-06-06
+leaderSince: 2016-06-11
+leaderSince: 2016-06-12
+leaderSince: 2018-04-21
+leaderSince: 2019-06-15
+leaderSince: 2020-08-23
+leaderSince: 2020-09-05
+leaderSince: 2021-08-14
+majoritySeats: 101
+opinionPolls: Opinion polling for the next Finnish parliamentary election
+beforeElection: Sanna_Marin
+beforeParty: Social_Democratic_Party_of_Finland
+color: B41F79
+color: FFDD93
+country: Finland
+electionDate: By 2023
+image: --10-20
+lastElection: 1
+lastElection: 5
+lastElection: 9
+lastElection: 16
+lastElection: 20
+lastElection: 31
+lastElection: 38
+lastElection: 39
+lastElection: 40
+leader: Sanna_Marin
+leader: Sari_Essayah
+leader: Petteri_Orpo
+leader: Riikka_Purra
+leader: Anna-Maja_Henriksson
+leader: Annika_Saarikko
+leader: Li_Andersson
+leader: Harry_Harkimo
+leader: Maria_Ohisalo
+leadersSeat: Uusimaa_(electoral_district)
+leadersSeat: Finland_Proper_(electoral_district)
+leadersSeat: Helsinki_(electoral_district)
+leadersSeat: Pirkanmaa_(constituency)
+leadersSeat: Vaasa_(electoral_district)
+leadersSeat: Savonia-Karelia_(electoral_district)
+mapSize: 250
+nextElection: 2027
+ongoing: yes
+party: Movement_Now
+party: Swedish_People's_Party_of_Finland
+party: Finns Party
+party: Green League
+party: National Coalition Party
+party: Social Democratic Party of Finland
+party: Centre Party
+party: Left Alliance
+party: Christian Democrats
+previousElection: 2019
+previousYear: 2019
+seatsForElection: All 200 seats in Parliament
+title: Prime_Minister_of_Finland
+type: parliamentary
+abstract: Parliamentary elections will be held in Finland on 2 April 2023, or earlier if the parliament is dissolved ahead of schedule, and will elect members of parliament for the 2023–2027 convocation.
+wasDerivedFrom: 2023_Finnish_parliamentary_election?oldid=1124880407&ns=0
+wikiPageLength: 10291
+affiliation: Social_Democratic_Party_of_Finland
+affiliation: Finns_Party
+country: Finland
+firstLeader: Sanna_Marin
+secondLeader: Riikka_Purra
+isPrimaryTopicOf: 2023_Finnish_parliamentary_election
+	

@@ -1,0 +1,84 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Tour de France Femmes 2023, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	label: 2023 Tour de France Femmes
+homepage: en
+name: 2023
+depiction: Hillystage.svg
+depiction: Mountainstage.svg
+depiction: Plainstage.svg
+depiction: Time_Trial.svg
+subject: Category:2023_Tour_de_France
+subject: Category:2023_UCI_Women's_World_Tour
+subject: Category:2023_in_French_sport
+subject: Category:2023_in_women's_road_cycling
+subject: Category:July_2023_sports_events_in_France
+subject: Category:Scheduled_sports_events
+wikiPageID: 72163404
+wikiPageRevisionID: 1122420498
+wikiPageWikiLink: Cahors
+wikiPageWikiLink: Pyrenees
+wikiPageWikiLink: Rodez
+wikiPageWikiLink: 2023_Tour_de_France
+wikiPageWikiLink: Category:2023_Tour_de_France
+wikiPageWikiLink: Category:2023_UCI_Women's_World_Tour
+wikiPageWikiLink: Category:2023_in_French_sport
+wikiPageWikiLink: Category:2023_in_women's_road_cycling
+wikiPageWikiLink: Category:July_2023_sports_events_in_France
+wikiPageWikiLink: Blagnac
+wikiPageWikiLink: Pau,_Pyrénées-Atlantiques
+wikiPageWikiLink: Union_Cycliste_Internationale
+wikiPageWikiLink: Individual_time_trial
+wikiPageWikiLink: Category:Scheduled_sports_events
+wikiPageWikiLink: Collonges-la-Rouge
+wikiPageWikiLink: Massif_Central
+wikiPageWikiLink: Mauriac,_Cantal
+wikiPageWikiLink: Clermont-Ferrand
+wikiPageWikiLink: Col_du_Tourmalet
+wikiPageWikiLink: Grand_Tour_(cycling)
+wikiPageWikiLink: Montignac-Lascaux
+wikiPageWikiLink: 2019_La_Course_by_Le_Tour_de_France
+wikiPageWikiLink: Annemiek_van_Vleuten
+wikiPageWikiLink: Tour_de_France_Femmes
+wikiPageWikiLink: 2022_Tour_de_France_Femmes
+wikiPageWikiLink: Albi
+wikiPageWikiLink: European_Broadcasting_Union
+wikiPageWikiLink: France_Télévisions
+wikiPageWikiLink: Lannemezan
+wikiPageWikiLink: Marion_Rousse
+wikiPageWikiLink: Onet-le-Château
+wikiPageWikiLink: 2023_Tour_de_France_Femmes,_Stage_1_to_Stage_8
+wikiPageWikiLink: 2023_UCI_Women's_World_Tour
+wikiPageWikiLink: File:Hillystage.svg
+wikiPageWikiLink: File:Mountainstage.svg
+wikiPageWikiLink: File:Plainstage.svg
+wikiPageWikiLink: File:Time_Trial.svg
+wikiPageWikiLink: 2024_Tour_de_France_Femmes
+wikiPageExternalLink: overall-route
+wikiPageExternalLink: en
+teamColor: yellow_number
+youthColor: white
+thumbnail: Plainstage.svg?width=300
+mountainsColor: polkadot
+date: --07-30
+distance: 956
+imageSize: 360
+next: 2024
+previous: 2022
+series: 2023
+unit: km
+firstColor: yellow
+raceNo: 21
+seasonNo: 29
+pointsColor: green
+stages: 8
+combativityColor: red_number
+wasDerivedFrom: 2023_Tour_de_France_Femmes?oldid=1122420498&ns=0
+wikiPageLength: 11177
+isPrimaryTopicOf: 2023_Tour_de_France_Femmes
+	

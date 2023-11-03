@@ -1,0 +1,97 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Rodel vid olympiska vinterspelen 2022, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: Event
+type: SportsEvent
+type: Event
+type: SocietalEvent
+type: Q1656682
+type: OlympicEvent
+type: Event
+type: Olympics
+type: SportsEvent
+label: Luge at the 2022 Winter Olympics
+comment: Luge at the 2022 Winter Olympics will be held at the Xiaohaituo Bobsleigh and Luge Track which is one of the Yanqing cluster venues between 5 and 10 February 2022. A total of 106 quota spots were distributed to the sport of luge, a decline of four from the 2018 Winter Olympics. A total of four events were contested, one for men, one open event, one for women and one mixed.
+homepage: DigitalCollectionAttachmentDownloadHandler.ashx%3FparentDocumentId=1568639&documentId=1568646
+depiction: Luge_pictogram.svg
+subject: Category:Luge_at_the_2022_Winter_Olympics
+subject: Category:Luge_at_the_Winter_Olympics
+subject: Category:2022_in_luge
+subject: Category:2022_Winter_Olympics_events
+wikiPageID: 65230364
+wikiPageRevisionID: 1081769744
+wikiPageWikiLink: Roberts_Plūme_(luger)
+wikiPageWikiLink: Sascha_Benecken
+wikiPageWikiLink: Category:Luge_at_the_2022_Winter_Olympics
+wikiPageWikiLink: Category:Luge_at_the_Winter_Olympics
+wikiPageWikiLink: Category:2022_in_luge
+wikiPageWikiLink: Elīza_Tīruma
+wikiPageWikiLink: Mārtiņš_Bots
+wikiPageWikiLink: Thomas_Steu
+wikiPageWikiLink: Anna_Berreiter
+wikiPageWikiLink: Lorenz_Koller
+wikiPageWikiLink: Luge_at_the_Winter_Olympics
+wikiPageWikiLink: Madeleine_Egle
+wikiPageWikiLink: Tobias_Arlt
+wikiPageWikiLink: Tobias_Wendl
+wikiPageWikiLink: Toni_Eggert
+wikiPageWikiLink: 2022_Winter_Olympics
+wikiPageWikiLink: Category:2022_Winter_Olympics_events
+wikiPageWikiLink: Luge_at_the_2018_Winter_Olympics
+wikiPageWikiLink: Tatiana_Ivanova
+wikiPageWikiLink: Johannes_Ludwig
+wikiPageWikiLink: Dominik_Fischnaller
+wikiPageWikiLink: Kristers_Aparjods
+wikiPageWikiLink: Natalie_Geisenberger
+wikiPageWikiLink: Wolfgang_Kindl
+wikiPageWikiLink: Xiaohaituo_Bobsleigh_and_Luge_Track
+wikiPageWikiLink: UTC+8
+wikiPageWikiLink: Luge_at_the_2026_Winter_Olympics
+wikiPageWikiLink: File:Luge_pictogram.svg
+wikiPageExternalLink: DigitalCollectionAttachmentDownloadHandler.ashx%3FparentDocumentId=1568639&documentId=1568646
+thumbnail: Luge_pictogram.svg?width=300
+bronzeRoc: 1
+goldRoc: 0
+silverRoc: 0
+competitors: 106
+nations: 26
+bronzeGer: 0
+bronzeIta: 1
+caption: Luge pictogram
+dates: --02-10
+event: 2022
+event: Luge
+flagTemplate: flagIOC
+goldGer: 4
+goldIta: 0
+next: 2026
+prev: 2018
+silverGer: 2
+silverIta: 0
+venue: Xiaohaituo_Bobsleigh_and_Luge_Track
+venue: 
+bronzeLat: 1
+goldLat: 0
+silverLat: 0
+bronzeAut: 1
+games: 2022
+goldAut: 0
+silverAut: 2
+abstract: Luge at the 2022 Winter Olympics will be held at the Xiaohaituo Bobsleigh and Luge Track which is one of the Yanqing cluster venues between 5 and 10 February 2022. A total of 106 quota spots were distributed to the sport of luge, a decline of four from the 2018 Winter Olympics. A total of four events were contested, one for men, one open event, one for women and one mixed.
+competitorsMen: 71
+competitorsWomen: 35
+numEvents: 4
+nextEvent: Luge_at_the_2026_Winter_Olympics
+wasDerivedFrom: Luge_at_the_2022_Winter_Olympics?oldid=1081769744&ns=0
+wikiPageLength: 7561
+games: 2022 Winter
+event: Luge_at_the_Winter_Olympics
+previousEvent: Luge_at_the_2018_Winter_Olympics
+isPrimaryTopicOf: Luge_at_the_2022_Winter_Olympics
+	

@@ -1,0 +1,130 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Sportvagns-VM 2023, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: MotorsportSeason
+type: SportsSeason
+label: 2023 FIA World Endurance Championship
+comment: 2023 FIA World Endurance ChampionshipPrevious2022Next The 2023 FIA World Endurance Championship will be the eleventh season of the FIA World Endurance Championship, an auto racing series organised by the Fédération Internationale de l'Automobile (FIA) and the Automobile Club de l'Ouest (ACO). The series is open to prototype and grand tourer-style racing cars divided into three categories. World Championship titles will be awarded to the leading manufacturers and drivers in both the prototype and grand tourer divisions.
+name: Peugeot
+depiction: Flag_of_none.svg
+subject: Category:2023_FIA_World_Endurance_Championship_season
+subject: Category:2023_in_motorsport
+subject: Category:Scheduled_motorsport_seasons
+subject: Category:FIA_World_Endurance_Championship_seasons
+wikiPageID: 71631021
+wikiPageRevisionID: 1124784557
+wikiPageWikiLink: Cadillac
+wikiPageWikiLink: Proton_Competition
+wikiPageWikiLink: 2022_FIA_World_Endurance_Championship
+wikiPageWikiLink: Category:2023_FIA_World_Endurance_Championship_season
+wikiPageWikiLink: Category:2023_in_motorsport
+wikiPageWikiLink: Category:Scheduled_motorsport_seasons
+wikiPageWikiLink: Belgium
+wikiPageWikiLink: Ben_Keating
+wikiPageWikiLink: Brendon_Hartley
+wikiPageWikiLink: Josh_Pierson
+wikiPageWikiLink: José_María_López
+wikiPageWikiLink: Jota_Sport
+wikiPageWikiLink: Paul_di_Resta
+wikiPageWikiLink: Peugeot
+wikiPageWikiLink: Peugeot_9X8
+wikiPageWikiLink: Peugeot_Sport
+wikiPageWikiLink: Richard_Westbrook
+wikiPageWikiLink: United_Autosports
+wikiPageWikiLink: United_States
+wikiPageWikiLink: 1000_Miles_of_Sebring
+wikiPageWikiLink: Corvette_Racing
+wikiPageWikiLink: Ryō_Hirakawa
+wikiPageWikiLink: Circuit_de_Spa-Francorchamps
+wikiPageWikiLink: Circuit_de_la_Sarthe
+wikiPageWikiLink: Fuji_Speedway
+wikiPageWikiLink: Fédération_Internationale_de_l'Automobile
+wikiPageWikiLink: Monza
+wikiPageWikiLink: LMDh
+wikiPageWikiLink: Category:FIA_World_Endurance_Championship_seasons
+wikiPageWikiLink: António_Félix_da_Costa
+wikiPageWikiLink: Loïc_Duval
+wikiPageWikiLink: Cadillac_V-LMDh
+wikiPageWikiLink: Shizuoka_Prefecture
+wikiPageWikiLink: Signatech
+wikiPageWikiLink: Stavelot
+wikiPageWikiLink: Auto_racing
+wikiPageWikiLink: Autodromo_Nazionale_di_Monza
+wikiPageWikiLink: Bahrain
+wikiPageWikiLink: Bahrain_International_Circuit
+wikiPageWikiLink: Tom_Blomqvist
+wikiPageWikiLink: Toyota
+wikiPageWikiLink: Toyota_GR010_Hybrid
+wikiPageWikiLink: Toyota_Gazoo_Racing_Europe
+wikiPageWikiLink: W_Racing_Team
+wikiPageWikiLink: Will_Stevens
+wikiPageWikiLink: Le_Mans_Hypercar
+wikiPageWikiLink: 24_Hours_of_Le_Mans
+wikiPageWikiLink: 6_Hours_of_Fuji
+wikiPageWikiLink: 6_Hours_of_Monza
+wikiPageWikiLink: 6_Hours_of_Portimão
+wikiPageWikiLink: 6_Hours_of_Spa-Francorchamps
+wikiPageWikiLink: 8_Hours_of_Bahrain
+wikiPageWikiLink: AF_Corse
+wikiPageWikiLink: Alex_Lynn
+wikiPageWikiLink: Algarve
+wikiPageWikiLink: Algarve_International_Circuit
+wikiPageWikiLink: Earl_Bamber
+wikiPageWikiLink: FIA_World_Endurance_Championship
+wikiPageWikiLink: Ferrari
+wikiPageWikiLink: Ferrari_499P
+wikiPageWikiLink: Filipe_Albuquerque
+wikiPageWikiLink: Florida
+wikiPageWikiLink: France
+wikiPageWikiLink: Nicky_Catsburg
+wikiPageWikiLink: Nico_Müller
+wikiPageWikiLink: Oyama,_Shizuoka
+wikiPageWikiLink: Grand_tourer
+wikiPageWikiLink: Gustavo_Menezes
+wikiPageWikiLink: Italy
+wikiPageWikiLink: Japan
+wikiPageWikiLink: Jean-Éric_Vergne
+wikiPageWikiLink: Team_Penske
+wikiPageWikiLink: Chevrolet
+wikiPageWikiLink: Chevrolet_Corvette_C8.R
+wikiPageWikiLink: Chip_Ganassi_Racing
+wikiPageWikiLink: Kamui_Kobayashi
+wikiPageWikiLink: Le_Mans
+wikiPageWikiLink: Sébastien_Buemi
+wikiPageWikiLink: Automobile_Club_de_l'Ouest
+wikiPageWikiLink: Philip_Hanson_(racing_driver)
+wikiPageWikiLink: Porsche
+wikiPageWikiLink: Porsche_963
+wikiPageWikiLink: Portimão
+wikiPageWikiLink: Portugal
+wikiPageWikiLink: Mike_Conway
+wikiPageWikiLink: Mikkel_Jensen_(racing_driver)
+wikiPageWikiLink: Oliver_Jarvis
+wikiPageWikiLink: Oreca_07
+wikiPageWikiLink: Sebring,_Florida
+wikiPageWikiLink: Sebring_International_Raceway
+wikiPageWikiLink: Ye_Yifei
+wikiPageWikiLink: YouTube
+wikiPageWikiLink: Sakhir
+wikiPageWikiLink: V8_engine
+wikiPageWikiLink: Gibson_Technology
+wikiPageExternalLink: www.fiawec.com
+thumbnail: Flag_of_none.svg?width=300
+group: N
+next: 2024
+previous: 2022
+series: FIA World Endurance Championship
+year: 2023
+abstract: 2023 FIA World Endurance ChampionshipPrevious2022Next The 2023 FIA World Endurance Championship will be the eleventh season of the FIA World Endurance Championship, an auto racing series organised by the Fédération Internationale de l'Automobile (FIA) and the Automobile Club de l'Ouest (ACO). The series is open to prototype and grand tourer-style racing cars divided into three categories. World Championship titles will be awarded to the leading manufacturers and drivers in both the prototype and grand tourer divisions. It is the first season in which LMDh (Le Mans Daytona h) entries will be allowed to compete for championship points alongside LMH (Le Mans Hypercar) entries, after being permitted on a race-by-race basis in 2022.
+wasDerivedFrom: 2023_FIA_World_Endurance_Championship?oldid=1124784557&ns=0
+wikiPageLength: 15426
+year: 2023
+series: FIA_World_Endurance_Championship
+isPrimaryTopicOf: 2023_FIA_World_Endurance_Championship
+	

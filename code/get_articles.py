@@ -3,7 +3,6 @@ import requests
 import bs4
 from json import load, dump
 from tqdm import tqdm
-from utils import remove_prefix
 
 
 def create_arg_parser():

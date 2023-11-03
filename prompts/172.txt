@@ -1,0 +1,56 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Cyclassics Hamburg 2022, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	label: 2022 Hamburg Cyclassics
+comment: The 2022 Bemer Cyclassics was a road cycling one-day race that took place on 21 August 2022 in Germany. It was the 24th edition of EuroEyes Cyclassics and the 27th event of the 2022 UCI World Tour. It was won by Marco Haller in the sprint.
+name: 2022
+subject: Category:2022_UCI_World_Tour
+subject: Category:2022_in_German_sport
+subject: Category:August_2022_sports_events_in_Germany
+wikiPageID: 71571194
+wikiPageRevisionID: 1109588468
+wikiPageWikiLink: 2022_UCI_World_Tour
+wikiPageWikiLink: Category:2022_UCI_World_Tour
+wikiPageWikiLink: Category:2022_in_German_sport
+wikiPageWikiLink: Category:August_2022_sports_events_in_Germany
+wikiPageWikiLink: Hugo_Hofstetter
+wikiPageWikiLink: Patrick_Konrad
+wikiPageWikiLink: Max_Kanter
+wikiPageWikiLink: 2019_EuroEyes_Cyclassics
+wikiPageWikiLink: Alexander_Kristoff
+wikiPageWikiLink: EuroEyes_Cyclassics
+wikiPageWikiLink: Jasper_Philipsen
+wikiPageWikiLink: UCI_WorldTeam
+wikiPageWikiLink: Jhonatan_Narváez
+wikiPageWikiLink: Marco_Haller_(cyclist)
+wikiPageWikiLink: Phil_Bauhaus
+wikiPageWikiLink: Quinten_Hermans
+wikiPageWikiLink: Wout_van_Aert
+wikiPageWikiLink: Road_bicycle_racing
+wikiPageWikiLink: UCI_Professional_Continental
+colwidth: 20
+date: 2022-08-21
+distance: 204.7
+first: Marco_Haller_(cyclist)
+previous: 2019
+second: Wout_van_Aert
+series: 2022
+style: 20.0
+third: Quinten_Hermans
+time: 16643.0
+unit: km
+raceNo: 27
+firstNat: AUT
+secondNat: BEL
+stages: 1
+thirdNat: BEL
+abstract: The 2022 Bemer Cyclassics was a road cycling one-day race that took place on 21 August 2022 in Germany. It was the 24th edition of EuroEyes Cyclassics and the 27th event of the 2022 UCI World Tour. It was won by Marco Haller in the sprint.
+wasDerivedFrom: 2022_Hamburg_Cyclassics?oldid=1109588468&ns=0
+wikiPageLength: 3416
+isPrimaryTopicOf: 2022_Hamburg_Cyclassics
+	

@@ -1,0 +1,177 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Ungerns Grand Prix 2022, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: Event
+type: SportsEvent
+type: Event
+type: SocietalEvent
+type: Q1656682
+type: Event
+type: GrandPrix
+type: SportsEvent
+label: 2022 Hungarian Grand Prix
+comment: The 2022 Hungarian Grand Prix (officially known as the Formula 1 Aramco Magyar Nagydíj 2022) was a Formula One motor race held on 31 July 2022 at the Hungaroring in Mogyoród, Hungary over a distance of 70 laps. The race was the thirty-seventh Hungarian Grand Prix to be held as part of the Formula One World Championship.
+seeAlso: 2022_Formula_One_World_Championship
+name: Formula 1 AramcoMagyar Nagydíj2022
+depiction: 1downarrow_red.svg
+depiction: 1rightarrow_blue.svg
+depiction: 1uparrow_green.svg
+depiction: Hungaroring.svg
+location: Hungaroring
+location: Hungary
+location: Mogyoród
+subject: Category:Hungarian_Grand_Prix
+subject: Category:2022_Formula_One_races
+subject: Category:2022_in_Hungarian_sport
+subject: Category:July_2022_sports_events_in_Hungary
+wikiPageID: 64074610
+wikiPageRevisionID: 1118528939
+wikiPageWikiLink: Carlos_Sainz_Jr.
+wikiPageWikiLink: Saudi_Aramco
+wikiPageWikiLink: Category:Hungarian_Grand_Prix
+wikiPageWikiLink: 2022_Budapest_Formula_2_round
+wikiPageWikiLink: 2022_Budapest_Formula_3_round
+wikiPageWikiLink: Category:2022_Formula_One_races
+wikiPageWikiLink: Category:2022_in_Hungarian_sport
+wikiPageWikiLink: Category:July_2022_sports_events_in_Hungary
+wikiPageWikiLink: Hungarian_Grand_Prix
+wikiPageWikiLink: Hungaroring
+wikiPageWikiLink: Hungary
+wikiPageWikiLink: List_of_Formula_One_polesitters
+wikiPageWikiLink: Renault_in_Formula_One
+wikiPageWikiLink: Robert_Kubica
+wikiPageWikiLink: Valtteri_Bottas
+wikiPageWikiLink: Virtual_safety_car
+wikiPageWikiLink: 107%25_rule
+wikiPageWikiLink: Mattia_Binotto
+wikiPageWikiLink: Max_Verstappen
+wikiPageWikiLink: McLaren
+wikiPageWikiLink: George_Russell_(racing_driver)
+wikiPageWikiLink: Mogyoród
+wikiPageWikiLink: Anthony_Davidson
+wikiPageWikiLink: Lewis_Hamilton
+wikiPageWikiLink: Sky_Sports_F1
+wikiPageWikiLink: Yuki_Tsunoda
+wikiPageWikiLink: Zhou_Guanyu
+wikiPageWikiLink: Williams_Grand_Prix_Engineering
+wikiPageWikiLink: Drag_reduction_system
+wikiPageWikiLink: 2021_Hungarian_Grand_Prix
+wikiPageWikiLink: 2022_Belgian_Grand_Prix
+wikiPageWikiLink: 2022_Formula_One_World_Championship
+wikiPageWikiLink: 2022_French_Grand_Prix
+wikiPageWikiLink: Alex_Albon
+wikiPageWikiLink: Alexander_Albon
+wikiPageWikiLink: Alfa_Romeo_in_Formula_One
+wikiPageWikiLink: Alpine_F1_Team
+wikiPageWikiLink: Daniel_Ricciardo
+wikiPageWikiLink: Esteban_Ocon
+wikiPageWikiLink: Fernando_Alonso
+wikiPageWikiLink: Formula_One
+wikiPageWikiLink: Nicholas_Latifi
+wikiPageWikiLink: Fastest_lap
+wikiPageWikiLink: Glossary_of_motorsport_terms
+wikiPageWikiLink: Haas_F1_Team
+wikiPageWikiLink: Ted_Kravitz
+wikiPageWikiLink: Aston_Martin_in_Formula_One
+wikiPageWikiLink: Charles_Leclerc
+wikiPageWikiLink: Kevin_Magnussen
+wikiPageWikiLink: Lance_Stroll
+wikiPageWikiLink: Lando_Norris
+wikiPageWikiLink: Pierre_Gasly
+wikiPageWikiLink: Pirelli
+wikiPageWikiLink: Pole_position
+wikiPageWikiLink: Mercedes-Benz_in_Formula_One
+wikiPageWikiLink: Mercedes_AMG_High_Performance_Powertrains
+wikiPageWikiLink: Mick_Schumacher
+wikiPageWikiLink: Red_Bull_Powertrains
+wikiPageWikiLink: Red_Bull_Racing
+wikiPageWikiLink: Scuderia_AlphaTauri
+wikiPageWikiLink: Scuderia_Ferrari
+wikiPageWikiLink: Sebastian_Vettel
+wikiPageWikiLink: Sergio_Pérez
+wikiPageWikiLink: Formula_One_World_Championship
+wikiPageWikiLink: Parc_fermé
+wikiPageWikiLink: UTC+02:00
+wikiPageWikiLink: Black_and_orange_flag
+wikiPageWikiLink: File:1rightarrow_blue.svg
+wikiPageWikiLink: File:1uparrow_green.svg
+wikiPageWikiLink: File:1downarrow_red.svg
+wikiPageWikiLink: 2023_Hungarian_Grand_Prix
+thumbnail: Hungaroring.svg?width=300
+nextRound: 2022
+previousRound: 2022
+poleTime: 1
+attendance: 290000
+caption: Layout of the Hungaroring
+country: Hungary
+course: Permanent racing facility
+date: --07-31
+grandPrix: Hungarian
+location: Hungaroring
+location: Mogyoród, Hungary
+officialName: Formula 1 Aramco Magyar Nagydíj 2022
+type: F1
+year: 2022
+courseKm: 4.381
+courseMi: 2.722
+distanceKm: 306.67
+distanceLaps: 70
+distanceMi: 190.531
+fastCountry: GBR
+fastDriver: Lewis_Hamilton
+fastTeam: Mercedes-Benz_in_Formula_One
+fastTime: 1
+firstCountry: NED
+firstDriver: Max_Verstappen
+firstTeam: Red_Bull_Powertrains
+firstTeam: Red_Bull_Racing
+nameOfRace: Hungarian_Grand_Prix
+nextRaceInSeason: 2022
+nextYear'sRace: 2023
+previousRaceInSeason: 2022
+previousYear'sRace: 2021
+secondCountry: GBR
+secondDriver: Lewis_Hamilton
+secondTeam: Mercedes-Benz_in_Formula_One
+thirdCountry: GBR
+thirdDriver: George_Russell_(racing_driver)
+thirdTeam: Mercedes-Benz_in_Formula_One
+yearOfRace: 2022
+poleCountry: GBR
+poleDriver: George_Russell_(racing_driver)
+poleTeam: Mercedes-Benz_in_Formula_One
+raceNo: 13
+seasonNo: 22
+weather: Overcast with drizzle throughout, light rain at the end
+fastLap: 57
+abstract: The 2022 Hungarian Grand Prix (officially known as the Formula 1 Aramco Magyar Nagydíj 2022) was a Formula One motor race held on 31 July 2022 at the Hungaroring in Mogyoród, Hungary over a distance of 70 laps. The race was the thirty-seventh Hungarian Grand Prix to be held as part of the Formula One World Championship. The race was won by Max Verstappen from the 10th position on the starting grid, while Mercedes drivers Lewis Hamilton and George Russell finished second and third respectively, with Russell having started from pole position. Ferrari drivers Carlos Sainz Jr. and Charles Leclerc both started strongly but could not hold up until the end of the race, finishing fourth and sixth respectively. Championship leader Verstappen extended his lead over Leclerc to 80 points.
+wasDerivedFrom: 2022_Hungarian_Grand_Prix?oldid=1118528939&ns=0
+course: 4.380634368
+course: 4.381
+distance: 306.629921664
+distance: 306.67
+wikiPageLength: 38454
+course: 4380.63
+course: 4381.0
+distance: 306630.0
+distance: 306670.0
+distanceLaps: 70
+country: Hungary
+fastestDriver: Lewis_Hamilton
+fastestDriverTeam: Mercedes-Benz_in_Formula_One
+firstDriver: Max_Verstappen
+firstDriverTeam: Red_Bull_Racing
+poleDriver: George_Russell_(racing_driver)
+poleDriverTeam: Mercedes-Benz_in_Formula_One
+secondDriver: Lewis_Hamilton
+secondTeam: Mercedes-Benz_in_Formula_One
+thirdDriver: George_Russell_(racing_driver)
+thirdTeam: Mercedes-Benz_in_Formula_One
+isPrimaryTopicOf: 2022_Hungarian_Grand_Prix
+	

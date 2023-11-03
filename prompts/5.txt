@@ -1,0 +1,69 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Oscarsgalan 2023, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+label: 95th Academy Awards
+comment: The 95th Academy Awards ceremony, presented by the Academy of Motion Picture Arts and Sciences (AMPAS), will honor films released in 2022, and is scheduled to take place at the Dolby Theatre in Los Angeles, California on March 12, 2023. Comedian Jimmy Kimmel will host the show for the third time, after having done so for the 89th and 90th editions of the ceremony.
+homepage: U.S.
+subject: Category:2023_in_Los_Angeles
+subject: Category:2022_awards_in_the_United_States
+subject: Category:2022_film_awards
+subject: Category:Academy_Awards_ceremonies
+subject: Category:2023_awards_in_the_United_States
+subject: Category:March_2023_events_in_the_United_States
+wikiPageID: 70760262
+wikiPageRevisionID: 1124990932
+wikiPageWikiLink: California
+wikiPageWikiLink: Category:2023_in_Los_Angeles
+wikiPageWikiLink: Hollywood,_Los_Angeles
+wikiPageWikiLink: Peter_Weir
+wikiPageWikiLink: Category:2022_awards_in_the_United_States
+wikiPageWikiLink: Category:2022_film_awards
+wikiPageWikiLink: Category:Academy_Awards_ceremonies
+wikiPageWikiLink: Glenn_Weiss
+wikiPageWikiLink: Los_Angeles
+wikiPageWikiLink: List_of_Academy_Awards_broadcasters
+wikiPageWikiLink: 2022_in_film
+wikiPageWikiLink: 89th_Academy_Awards
+wikiPageWikiLink: 90th_Academy_Awards
+wikiPageWikiLink: Academy_of_Motion_Picture_Arts_and_Sciences
+wikiPageWikiLink: American_Broadcasting_Company
+wikiPageWikiLink: Category:2023_awards_in_the_United_States
+wikiPageWikiLink: Category:March_2023_events_in_the_United_States
+wikiPageWikiLink: Euzhan_Palcy
+wikiPageWikiLink: Governors_Awards
+wikiPageWikiLink: Jean_Hersholt_Humanitarian_Award
+wikiPageWikiLink: Academy_Honorary_Award
+wikiPageWikiLink: Jimmy_Kimmel
+wikiPageWikiLink: Diane_Warren
+wikiPageWikiLink: Dolby_Theatre
+wikiPageWikiLink: Michael_J._Fox
+wikiPageWikiLink: YouTube
+wikiPageWikiLink: List_of_submissions_to_the_95th_Academy_Awards_for_Best_International_Feature_Film
+wikiPageWikiLink: Ricky_Kirshner
+wikiPageExternalLink: %7CAcademy
+wikiPageExternalLink: %7CThe
+wikiPageExternalLink: Oscars
+award: Academy Awards
+date: 2023-03-12
+director: Glenn Weiss
+host: Jimmy_Kimmel
+last: 94
+network: ABC
+next: 96
+number: 95
+producer: 
+producer: Glenn Weiss
+producer: Ricky Kirshner
+site: Dolby_Theatre
+site: Hollywood, Los Angeles, California, U.S.
+abstract: The 95th Academy Awards ceremony, presented by the Academy of Motion Picture Arts and Sciences (AMPAS), will honor films released in 2022, and is scheduled to take place at the Dolby Theatre in Los Angeles, California on March 12, 2023. Comedian Jimmy Kimmel will host the show for the third time, after having done so for the 89th and 90th editions of the ceremony.
+wasDerivedFrom: 95th_Academy_Awards?oldid=1124990932&ns=0
+wikiPageLength: 4229
+isPrimaryTopicOf: 95th_Academy_Awards
+	

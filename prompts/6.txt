@@ -1,0 +1,142 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Oslodådet 2022, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+label: 2022 Oslo shooting
+comment: On 25 June 2022, two people were killed and twenty-one people were wounded in a mass shooting in Oslo, Norway. Police are treating the incident as an "act of Islamist terrorism". The target may have been the Oslo LGBTQ pride event, which was hosted by the local branch of the Norwegian Organisation for Sexual and Gender Diversity.
+depiction: C.J.Hambros_plass_after_2022_Oslo_shootings.jpg
+depiction: Matapour.png
+depiction: Mourning_flowers_at_C.J.Hambros_plass_after_shootings.jpg
+subject: Category:2022_in_LGBT_history
+subject: Category:2022_mass_shootings_in_Europe
+subject: Category:2022_murders_in_Norway
+subject: Category:21st_century_in_Oslo
+subject: Category:Islamic_terrorist_incidents_in_2022
+subject: Category:June_2022_crimes_in_Europe
+subject: Category:June_2022_events_in_Norway
+subject: Category:LGBT_and_Islam
+subject: Category:LGBT_in_Norway
+subject: Category:Terrorist_incidents_in_Europe_in_2022
+subject: Category:Attacks_on_nightclubs
+subject: Category:Attacks_on_bars_in_Europe
+subject: Category:Deaths_by_firearm_in_Norway
+subject: Category:Mass_shootings_in_Norway
+subject: Category:Spree_shootings_in_Norway
+subject: Category:Crime_in_Oslo
+subject: Category:Islamic_terrorism_and_Norway
+subject: Category:Violence_against_LGBT_people_in_Europe
+wikiPageID: 71138864
+wikiPageRevisionID: 1124963284
+wikiPageWikiLink: Pride_parade
+wikiPageWikiLink: Sanandaj
+wikiPageWikiLink: Sanna_Marin
+wikiPageWikiLink: Sauli_Niinistö
+wikiPageWikiLink: Profetens_Ummah
+wikiPageWikiLink: 2011_Norway_attacks
+wikiPageWikiLink: Category:2022_in_LGBT_history
+wikiPageWikiLink: Category:2022_mass_shootings_in_Europe
+wikiPageWikiLink: Category:2022_murders_in_Norway
+wikiPageWikiLink: Category:21st_century_in_Oslo
+wikiPageWikiLink: Category:Islamic_terrorist_incidents_in_2022
+wikiPageWikiLink: Category:June_2022_crimes_in_Europe
+wikiPageWikiLink: Category:June_2022_events_in_Norway
+wikiPageWikiLink: Category:LGBT_and_Islam
+wikiPageWikiLink: Category:LGBT_in_Norway
+wikiPageWikiLink: Category:Terrorist_incidents_in_Europe_in_2022
+wikiPageWikiLink: Arfan_Bhatti
+wikiPageWikiLink: Jonas_Gahr_Støre
+wikiPageWikiLink: Ursula_von_der_Leyen
+wikiPageWikiLink: Utøya
+wikiPageWikiLink: Verdens_Gang
+wikiPageWikiLink: Rainbow_flag
+wikiPageWikiLink: Preses_(Church_of_Norway)
+wikiPageWikiLink: Press_conference
+wikiPageWikiLink: Terror_alert_system
+wikiPageWikiLink: Masud_Gharahkhani
+wikiPageWikiLink: Gay_bar
+wikiPageWikiLink: Category:Attacks_on_nightclubs
+wikiPageWikiLink: Church_of_Norway
+wikiPageWikiLink: Emmanuel_Macron
+wikiPageWikiLink: Murder
+wikiPageWikiLink: NRK
+wikiPageWikiLink: Criminal_charge
+wikiPageWikiLink: LGBT_pride
+wikiPageWikiLink: LGBT_rights_opposition
+wikiPageWikiLink: Category:Attacks_on_bars_in_Europe
+wikiPageWikiLink: Category:Deaths_by_firearm_in_Norway
+wikiPageWikiLink: Category:Mass_shootings_in_Norway
+wikiPageWikiLink: Category:Spree_shootings_in_Norway
+wikiPageWikiLink: Anti-gender_movement
+wikiPageWikiLink: Allahu_Akbar
+wikiPageWikiLink: MP_40
+wikiPageWikiLink: Bærum
+wikiPageWikiLink: White_House
+wikiPageWikiLink: 2022_Bratislava_shooting
+wikiPageWikiLink: Category:Crime_in_Oslo
+wikiPageWikiLink: Category:Islamic_terrorism_and_Norway
+wikiPageWikiLink: Aftenposten
+wikiPageWikiLink: Amnesty_International
+wikiPageWikiLink: Anders_Behring_Breivik
+wikiPageWikiLink: Eskil_Pedersen
+wikiPageWikiLink: Norwegian_Iranians
+wikiPageWikiLink: Norwegian_Organisation_for_Sexual_and_Gender_Diversity
+wikiPageWikiLink: Norwegian_Police_Security_Service
+wikiPageWikiLink: Oslo
+wikiPageWikiLink: Oslo_University_Hospital
+wikiPageWikiLink: Central_European_Summer_Time
+wikiPageWikiLink: Nightclub
+wikiPageWikiLink: Harald_V_of_Norway
+wikiPageWikiLink: Iran
+wikiPageWikiLink: Islamic_State
+wikiPageWikiLink: Islamic_extremism
+wikiPageWikiLink: Islamic_terrorism
+wikiPageWikiLink: Islamic_terrorism_in_Europe
+wikiPageWikiLink: Terrorism
+wikiPageWikiLink: Category:Violence_against_LGBT_people_in_Europe
+wikiPageWikiLink: Attempted_murder
+wikiPageWikiLink: John_Christian_Elden
+wikiPageWikiLink: Marie_Benedicte_Bjørnland
+wikiPageWikiLink: Domestic_terrorist
+wikiPageWikiLink: Olav_Fykse_Tveit
+wikiPageWikiLink: Radicalize
+wikiPageWikiLink: Mass_shooting
+wikiPageWikiLink: Paranoid_schizophrenia
+wikiPageWikiLink: UTC+02:00
+wikiPageWikiLink: LGBTQ_pride
+wikiPageWikiLink: Anti-LGBT
+wikiPageWikiLink: Crown_Prince_Haakon
+wikiPageWikiLink: EU_Commission
+wikiPageWikiLink: File:Matapour.png
+wikiPageWikiLink: File:Mourning_flowers_at_C.J.Hambros_plass_after_shootings.jpg
+thumbnail: C.J.Hambros_plass_after_2022_Oslo_shootings.jpg?width=300
+caption: The police blockade at the location where the shooting took place
+date: 2022-06-25
+fatalities: 2
+injuries: 21
+location: Oslo, Norway
+motive: Islamic_extremism
+motive: Anti-LGBT sentiment
+motive: 
+partof: Islamic_terrorism_in_Europe
+timezone: 120.0
+title: 2022
+type: Mass_shooting
+weapons: * MP 40 submachine gun
+* Other unidentified small arms
+accused: Arfan_Bhatti
+accused: 
+accused: Zaniar Matapour
+charges: Murder
+charges: Terrorism
+charges: Attempted_murder
+charges: 
+abstract: On 25 June 2022, two people were killed and twenty-one people were wounded in a mass shooting in Oslo, Norway. Police are treating the incident as an "act of Islamist terrorism". The target may have been the Oslo LGBTQ pride event, which was hosted by the local branch of the Norwegian Organisation for Sexual and Gender Diversity. Police arrested Zaniar Matapour, a Norwegian citizen from Sanandaj, Iran, who lived in Norway since 1991. They later confirmed that they had known of Matapour since 2015, saying that he had been radicalized into Islamic extremism. They also said he had a "history of violence and threats", as well as mental health issues. He has been charged with murder, attempted murder, and terrorism.
+wasDerivedFrom: 2022_Oslo_shooting?oldid=1124963284&ns=0
+wikiPageLength: 43268
+isPrimaryTopicOf: 2022_Oslo_shooting
+	

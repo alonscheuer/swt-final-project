@@ -1,0 +1,77 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Världsmästerskapen i nordisk skidsport 2023, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: Event
+type: SportsEvent
+type: Event
+type: SocietalEvent
+type: Q1656682
+type: Event
+type: SportsEvent
+label: FIS Nordic World Ski Championships 2023
+comment: The 43rd FIS Nordic World Ski Championships will be held from 21 February to 5 March 2023 in Planica, Slovenia. It will be the first time that the country will host the World Championships.
+name: FIS Nordic World Ski Championships 2023
+homepage: en
+name: FIS Nordic World Ski Championships 2023
+depiction: Planica_s_Ciprnika_DP_2016-07-24.jpg
+depiction: FIS_Nordic_World_Ski_Championships_2023.png
+subject: Category:FIS_Nordic_World_Ski_Championships
+subject: Category:2023_in_Slovenian_sport
+subject: Category:2023_in_cross-country_skiing
+subject: Category:2023_in_ski_jumping
+subject: Category:February_2023_sports_events_in_Europe
+subject: Category:March_2023_sports_events_in_Europe
+subject: Category:Scheduled_sports_events
+subject: Category:International_sports_competitions_hosted_by_Slovenia
+subject: Category:Nordic_skiing_competitions_in_Slovenia
+wikiPageID: 72066889
+wikiPageRevisionID: 1121839016
+wikiPageWikiLink: Category:FIS_Nordic_World_Ski_Championships
+wikiPageWikiLink: Category:2023_in_Slovenian_sport
+wikiPageWikiLink: Category:2023_in_cross-country_skiing
+wikiPageWikiLink: Category:2023_in_ski_jumping
+wikiPageWikiLink: Category:February_2023_sports_events_in_Europe
+wikiPageWikiLink: Category:March_2023_sports_events_in_Europe
+wikiPageWikiLink: Bloudkova_velikanka
+wikiPageWikiLink: Category:Scheduled_sports_events
+wikiPageWikiLink: Cross-country_skiing
+wikiPageWikiLink: Ski_jumping
+wikiPageWikiLink: Planica
+wikiPageWikiLink: Category:International_sports_competitions_hosted_by_Slovenia
+wikiPageWikiLink: Trondheim
+wikiPageWikiLink: Eastern_European_Time
+wikiPageWikiLink: FIS_Nordic_World_Ski_Championships
+wikiPageWikiLink: FIS_Nordic_World_Ski_Championships_2021
+wikiPageWikiLink: Nordic_combined
+wikiPageWikiLink: Planica_Nordic_Centre
+wikiPageWikiLink: Rateče
+wikiPageWikiLink: Category:Nordic_skiing_competitions_in_Slovenia
+wikiPageWikiLink: Fédération_Internationale_de_Ski
+wikiPageWikiLink: FIS_Nordic_World_Ski_Championships_2025
+wikiPageWikiLink: File:Planica_s_Ciprnika_DP_2016-07-24.jpg
+wikiPageExternalLink: en
+thumbnail: FIS_Nordic_World_Ski_Championships_2023.png?width=300
+wikiPageInterLanguageLink: Nordische_Skiweltmeisterschaften_2023
+wikiPageInterLanguageLink: Campionati_mondiali_di_sci_nordico_2023
+wikiPageInterLanguageLink: Mistrzostwa_Świata_w_Narciarstwie_Klasycznym_2023
+events: 24
+country: Slovenia
+logo: FIS Nordic World Ski Championships 2023.png
+next: Trondheim 2025
+previous: 2021
+size: 260
+hostCity: Planica
+closingCeremony: 2023-03-05
+openingCeremony: 2023-02-21
+abstract: The 43rd FIS Nordic World Ski Championships will be held from 21 February to 5 March 2023 in Planica, Slovenia. It will be the first time that the country will host the World Championships.
+wasDerivedFrom: FIS_Nordic_World_Ski_Championships_2023?oldid=1121839016&ns=0
+wikiPageLength: 10578
+city: Planica
+isPrimaryTopicOf: FIS_Nordic_World_Ski_Championships_2023
+	

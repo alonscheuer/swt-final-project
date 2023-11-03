@@ -1,0 +1,39 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Carl XVI Gustafs 50-årsjubileum som regent, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+label: Golden Jubilee of Carl XVI Gustaf
+comment: The Golden Jubilee of Carl XVI Gustaf will be celebrated in 2023 in the Kingdom of Sweden, to mark the 50th anniversary of the accession of King Carl XVI Gustaf on 15 September 1973. The 500th anniversary of the election of Gustav Vasa as King of Sweden will also marked be during the Jubilee year. A number of events have been planned to mark the Jubilee in several places across Sweden throughout the year.
+name: Golden Jubilee of Carl XVI Gustaf
+depiction: Jubileum_2023.jpg
+subject: Category:Events_in_Sweden
+subject: Category:2023_in_Sweden
+subject: Category:Swedish_monarchy
+subject: Category:Golden_jubilees
+wikiPageID: 71888183
+wikiPageRevisionID: 1113723582
+wikiPageWikiLink: Carl_XVI_Gustaf
+wikiPageWikiLink: Category:Events_in_Sweden
+wikiPageWikiLink: Category:2023_in_Sweden
+wikiPageWikiLink: Category:Swedish_monarchy
+wikiPageWikiLink: Golden_Jubilee_of_Elizabeth_II
+wikiPageWikiLink: Golden_Jubilee_of_Queen_Victoria
+wikiPageWikiLink: Golden_jubilee
+wikiPageWikiLink: Monarchy_of_Sweden
+wikiPageWikiLink: Stockholm_Palace
+wikiPageWikiLink: Category:Golden_jubilees
+wikiPageWikiLink: Golden_Jubilee_of_Margrethe_II
+wikiPageWikiLink: Sweden
+wikiPageExternalLink: jubileum2023
+thumbnail: Jubileum_2023.jpg?width=300
+date: 2023
+abstract: The Golden Jubilee of Carl XVI Gustaf will be celebrated in 2023 in the Kingdom of Sweden, to mark the 50th anniversary of the accession of King Carl XVI Gustaf on 15 September 1973. The 500th anniversary of the election of Gustav Vasa as King of Sweden will also marked be during the Jubilee year. A number of events have been planned to mark the Jubilee in several places across Sweden throughout the year.
+wasDerivedFrom: Golden_Jubilee_of_Carl_XVI_Gustaf?oldid=1113723582&ns=0
+wikiPageLength: 3848
+isPrimaryTopicOf: Golden_Jubilee_of_Carl_XVI_Gustaf
+	

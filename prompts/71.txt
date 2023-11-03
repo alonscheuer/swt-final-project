@@ -1,0 +1,131 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Fotbollsallsvenskan 2023, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: SportsTeamSeason
+type: FootballLeagueSeason
+type: SportsSeason
+label: 2023 Allsvenskan
+depiction: Black_pog.svg
+depiction: TransparentPlaceholder.png
+subject: Category:Allsvenskan_seasons
+subject: Category:2022–23_in_European_association_football_leagues
+subject: Category:2023_in_Swedish_association_football_leagues
+subject: Category:2023–24_in_European_association_football_leagues
+wikiPageID: 72270209
+wikiPageRevisionID: 1123763299
+wikiPageWikiLink: Puma_(brand)
+wikiPageWikiLink: Påskbergsvallen
+wikiPageWikiLink: Category:Allsvenskan_seasons
+wikiPageWikiLink: Category:2022–23_in_European_association_football_leagues
+wikiPageWikiLink: Category:2023_in_Swedish_association_football_leagues
+wikiPageWikiLink: Category:2023–24_in_European_association_football_leagues
+wikiPageWikiLink: Borås
+wikiPageWikiLink: Borås_Arena
+wikiPageWikiLink: Degerfors
+wikiPageWikiLink: Degerfors_IF
+wikiPageWikiLink: Holmen_(company)
+wikiPageWikiLink: Umbro
+wikiPageWikiLink: Unibet
+wikiPageWikiLink: Uppsala
+wikiPageWikiLink: Varberg
+wikiPageWikiLink: Varbergs_BoIS
+wikiPageWikiLink: Volkswagen
+wikiPageWikiLink: Studenternas_IP
+wikiPageWikiLink: Craft_of_Scandinavia
+wikiPageWikiLink: Friends_Arena
+wikiPageWikiLink: Gamla_Ullevi
+wikiPageWikiLink: Gothenburg
+wikiPageWikiLink: Mjällby_AIF
+wikiPageWikiLink: 2021_Allsvenskan
+wikiPageWikiLink: Malmö
+wikiPageWikiLink: Malmö_FF
+wikiPageWikiLink: Stadion,_Malmö
+wikiPageWikiLink: Stockholm
+wikiPageWikiLink: Stora_Valla
+wikiPageWikiLink: Strandvallen
+wikiPageWikiLink: Åge_Hareide
+wikiPageWikiLink: Örjans_Vall
+wikiPageWikiLink: BK_Häcken
+wikiPageWikiLink: Tvillingderbyt
+wikiPageWikiLink: Värnamo
+wikiPageWikiLink: Djurgårdens_IF_Fotboll–Hammarby_Fotboll_rivalry
+wikiPageWikiLink: Two-legged_tie
+wikiPageWikiLink: 2022_Allsvenskan
+wikiPageWikiLink: 2022_Superettan
+wikiPageWikiLink: 2022–23_Svenska_Cupen
+wikiPageWikiLink: 2022–23_UEFA_Champions_League
+wikiPageWikiLink: 2022–23_UEFA_Europa_Conference_League
+wikiPageWikiLink: AIK_Fotboll
+wikiPageWikiLink: AIK–IFK_Göteborg_rivalry
+wikiPageWikiLink: Adidas
+wikiPageWikiLink: Allsvenskan
+wikiPageWikiLink: Daniel_Bäckström
+wikiPageWikiLink: FIFA
+wikiPageWikiLink: Finnvedsvallen
+wikiPageWikiLink: Bravida_Arena
+wikiPageWikiLink: Nike,_Inc.
+wikiPageWikiLink: Norrköping
+wikiPageWikiLink: Gothenburg_derbies
+wikiPageWikiLink: Guldfågeln_Arena
+wikiPageWikiLink: Halmstad
+wikiPageWikiLink: Halmstads_BK
+wikiPageWikiLink: Hammarby_Fotboll
+wikiPageWikiLink: Helsingborgs_IF–Malmö_FF_rivalry
+wikiPageWikiLink: Henok_Goitom
+wikiPageWikiLink: Henrik_Rydström
+wikiPageWikiLink: Tele2_Arena
+wikiPageWikiLink: AIK_Fotboll–Hammarby_Fotboll_rivalry
+wikiPageWikiLink: Kalmar
+wikiPageWikiLink: Kalmar_FF
+wikiPageWikiLink: Superettan
+wikiPageWikiLink: Djurgårdens_IF_Fotboll
+wikiPageWikiLink: Artificial_turf
+wikiPageWikiLink: Poaceae
+wikiPageWikiLink: Solna_Municipality
+wikiPageWikiLink: Grimsta_IP
+wikiPageWikiLink: Hällevik
+wikiPageWikiLink: IFK_Göteborg
+wikiPageWikiLink: IFK_Göteborg–Malmö_FF_rivalry
+wikiPageWikiLink: IFK_Norrköping
+wikiPageWikiLink: IFK_Värnamo
+wikiPageWikiLink: IF_Brommapojkarna
+wikiPageWikiLink: IF_Elfsborg
+wikiPageWikiLink: IK_Sirius_Fotboll
+wikiPageWikiLink: Select_Sport
+wikiPageWikiLink: Serneke
+wikiPageWikiLink: 2024–25_UEFA_Champions_League
+wikiPageWikiLink: 2024–25_UEFA_Europa_Conference_League
+wikiPageWikiLink: Nya_Parken
+wikiPageWikiLink: Andreas_Brännström
+wikiPageWikiLink: Öster
+wikiPageWikiLink: 2023_Superettan
+wikiPageWikiLink: 2023_Division_1_(Swedish_football)
+wikiPageWikiLink: 2023_in_Swedish_football
+wikiPageWikiLink: 2023–24_Svenska_Cupen
+wikiPageWikiLink: 2024_Allsvenskan
+wikiPageWikiLink: Wikipedia:Citation_needed
+wikiPageExternalLink: table.asp%3Fleague=sweden&tid=g
+wikiPageExternalLink: https://svenskfotboll.se/allsvenskan/
+wikiPageExternalLink: https://www.svenskfotboll.se/serier-cuper/tabell-och-resultat/allsvenskan-2021/88307/
+wikiPageExternalLink: 127938
+thumbnail: Black_pog.svg?width=300
+caption: Location of teams in 2023 Allsvenskan
+competition: Allsvenskan
+float: right
+matches: 240
+nextseason: 2024
+prevseason: 2022
+season: 2023
+width: 350
+continentalcup: 2024–25_UEFA_Champions_League
+continentalcup: 2024–25_UEFA_Europa_Conference_League
+wasDerivedFrom: 2023_Allsvenskan?oldid=1123763299&ns=0
+wikiPageLength: 25460
+isPrimaryTopicOf: 2023_Allsvenskan
+	

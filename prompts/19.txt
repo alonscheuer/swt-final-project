@@ -1,0 +1,97 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Melodifestivalen 2023, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+label: Melodifestivalen 2023
+seeAlso: Melodifestivalen_2022
+name: Melodifestivalen
+subject: Category:Melodifestivalen
+wikiPageID: 72321363
+wikiPageRevisionID: 1124950036
+wikiPageWikiLink: Casanovas
+wikiPageWikiLink: Scandinavium
+wikiPageWikiLink: Melodifestivalen_2005
+wikiPageWikiLink: Melodifestivalen_2008
+wikiPageWikiLink: Melodifestivalen_2011
+wikiPageWikiLink: Melodifestivalen_2012
+wikiPageWikiLink: Melodifestivalen_2014
+wikiPageWikiLink: Melodifestivalen_2015
+wikiPageWikiLink: Melodifestivalen_2016
+wikiPageWikiLink: Melodifestivalen_2017
+wikiPageWikiLink: Melodifestivalen_2019
+wikiPageWikiLink: Melodifestivalen_2020
+wikiPageWikiLink: Melodifestivalen_2021
+wikiPageWikiLink: Ben_and_Tan
+wikiPageWikiLink: Category:Melodifestivalen
+wikiPageWikiLink: Jon_Henrik_Fjällgren
+wikiPageWikiLink: Patrik_Jean
+wikiPageWikiLink: Paul_Rey
+wikiPageWikiLink: Victor_Crone
+wikiPageWikiLink: Mattias_Andréasson
+wikiPageWikiLink: Melodifestivalen
+wikiPageWikiLink: Melodifestivalen_2018
+wikiPageWikiLink: Melodifestivalen_2022
+wikiPageWikiLink: SARS-CoV-2_Omicron_variant
+wikiPageWikiLink: Saab_Arena
+wikiPageWikiLink: Friends_Arena
+wikiPageWikiLink: Gothenburg
+wikiPageWikiLink: Myra_Granberg
+wikiPageWikiLink: Theoz
+wikiPageWikiLink: Thomas_G:son
+wikiPageWikiLink: Anderz_Wrethov
+wikiPageWikiLink: Liamoo
+wikiPageWikiLink: Lidköping
+wikiPageWikiLink: Linköping
+wikiPageWikiLink: Linnea_Deb
+wikiPageWikiLink: Liverpool
+wikiPageWikiLink: Loreen_(singer)
+wikiPageWikiLink: Loulou_Lamotte
+wikiPageWikiLink: Malmö
+wikiPageWikiLink: Malmö_Arena
+wikiPageWikiLink: Stockholm
+wikiPageWikiLink: Örnsköldsvik
+wikiPageWikiLink: Axel_Schylström
+wikiPageWikiLink: Cazzi_Opeia
+wikiPageWikiLink: Tone_Sekelius
+wikiPageWikiLink: Wiktoria_Johansson
+wikiPageWikiLink: William_Segerdahl
+wikiPageWikiLink: Albin_Johnsén
+wikiPageWikiLink: Eurovision_Song_Contest_2023
+wikiPageWikiLink: Eva_Rydberg
+wikiPageWikiLink: Ewa_Roos
+wikiPageWikiLink: Farah_Abadi
+wikiPageWikiLink: Nordman
+wikiPageWikiLink: Joy_Deb
+wikiPageWikiLink: Jesper_Rönndahl
+wikiPageWikiLink: Jimmy_Jansson
+wikiPageWikiLink: Laurell_(singer)
+wikiPageWikiLink: Sveriges_Television
+wikiPageWikiLink: Marcus_&_Martinus
+wikiPageWikiLink: Mariette_Hansson
+wikiPageWikiLink: Sparbanken_Lidköping_Arena
+wikiPageWikiLink: Hägglunds_Arena
+wikiPageWikiLink: The_Mamas
+wikiPageWikiLink: Panetoz
+wikiPageWikiLink: Peter_Boström
+wikiPageExternalLink: melodifestivalen
+wikiPageExternalLink: https://www.dn.se/kultur/hit-kommer-melodifestivalen-2023/
+semi: 2023-03-04
+vote: Final: 50% public vote, 50% jury vote
+vote: Heats and semi-final: 100% public vote
+host: Sveriges_Television
+year: 2023
+entries: 28
+final: 2023-03-11
+heat: 2023-02-04
+heat: 2023-02-11
+heat: 2023-02-18
+heat: 2023-02-25
+wasDerivedFrom: Melodifestivalen_2023?oldid=1124950036&ns=0
+wikiPageLength: 17333
+isPrimaryTopicOf: Melodifestivalen_2023
+	

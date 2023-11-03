@@ -1,0 +1,119 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Backhoppning vid olympiska vinterspelen 2022, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: Event
+type: SportsEvent
+type: Event
+type: SocietalEvent
+type: Q1656682
+type: OlympicEvent
+type: Event
+type: Olympics
+type: SportsEvent
+label: Ski jumping at the 2022 Winter Olympics
+comment: Ski jumping at the 2022 Winter Olympics was held at the Snow Ruyi hill in Zhangjiakou, China. The events were held between 5 and 14 February 2022. In July 2018, the International Olympic Committee (IOC) officially added the mixed team event to the Olympic program, increasing the total number of events to 5. A total of 105 quota spots (65 men and 40 women) were distributed to the sport, the same as the 2018 Winter Olympics. A total of five events were contested, three for men, one for women and one mixed.
+homepage: DigitalCollectionAttachmentDownloadHandler.ashx%3FparentDocumentId=1568639&documentId=1568650
+depiction: Ski_jumping_pictogram.svg
+subject: Category:2022_in_ski_jumping
+subject: Category:Ski_jumping_at_the_2022_Winter_Olympics
+subject: Category:Ski_jumping_at_the_Winter_Olympics
+subject: Category:2022_Winter_Olympics_events
+wikiPageID: 68265274
+wikiPageRevisionID: 1081770071
+wikiPageWikiLink: Category:2022_in_ski_jumping
+wikiPageWikiLink: Dawid_Kubacki
+wikiPageWikiLink: Peter_Prevc
+wikiPageWikiLink: Urša_Bogataj
+wikiPageWikiLink: Constantin_Schmid
+wikiPageWikiLink: Matthew_Soukup
+wikiPageWikiLink: Ryōyū_Kobayashi
+wikiPageWikiLink: 2018_Winter_Olympics
+wikiPageWikiLink: Lovro_Kos
+wikiPageWikiLink: Mackenzie_Boyd-Clowes
+wikiPageWikiLink: Ski_jumping_at_the_Winter_Olympics
+wikiPageWikiLink: Snow_Ruyi_National_Ski_Jumping_Centre
+wikiPageWikiLink: Stefan_Kraft
+wikiPageWikiLink: Stephan_Leyhe
+wikiPageWikiLink: Competition
+wikiPageWikiLink: Zhangjiakou
+wikiPageWikiLink: Category:Ski_jumping_at_the_2022_Winter_Olympics
+wikiPageWikiLink: Category:Ski_jumping_at_the_Winter_Olympics
+wikiPageWikiLink: Cene_Prevc
+wikiPageWikiLink: Timi_Zajc
+wikiPageWikiLink: 2022_Winter_Olympics
+wikiPageWikiLink: Abigail_Strate
+wikiPageWikiLink: Alexandria_Loutitt
+wikiPageWikiLink: Daniel_Huber_(ski_jumper)
+wikiPageWikiLink: Danil_Sadreev
+wikiPageWikiLink: Category:2022_Winter_Olympics_events
+wikiPageWikiLink: Evgenii_Klimov
+wikiPageWikiLink: Nika_Križnar
+wikiPageWikiLink: International_Olympic_Committee
+wikiPageWikiLink: Irina_Avvakumova
+wikiPageWikiLink: Irma_Makhinia
+wikiPageWikiLink: Jan_Hörl
+wikiPageWikiLink: Karl_Geiger
+wikiPageWikiLink: Katharina_Althaus
+wikiPageWikiLink: Manuel_Fettner
+wikiPageWikiLink: Marius_Lindvik
+wikiPageWikiLink: Markus_Eisenbichler
+wikiPageWikiLink: Time_in_China
+wikiPageWikiLink: Ski_jumping_at_the_2018_Winter_Olympics
+wikiPageWikiLink: Ski_jumping_at_the_2022_Winter_Olympics_–_Men's_large_hill_individual
+wikiPageWikiLink: Ski_jumping_at_the_2022_Winter_Olympics_–_Men's_large_hill_team
+wikiPageWikiLink: Ski_jumping_at_the_2022_Winter_Olympics_–_Men's_normal_hill_individual
+wikiPageWikiLink: Ski_jumping_at_the_2022_Winter_Olympics_–_Mixed_team
+wikiPageWikiLink: Ski_jumping_at_the_2022_Winter_Olympics_–_Women's_normal_hill_individual
+wikiPageWikiLink: Winter_Olympics
+wikiPageWikiLink: File:Ski_jumping_pictogram.svg
+wikiPageExternalLink: DigitalCollectionAttachmentDownloadHandler.ashx%3FparentDocumentId=1568639&documentId=1568650
+silverSlo: 1
+thumbnail: Ski_jumping_pictogram.svg?width=300
+bronzeRoc: 0
+goldRoc: 0
+silverRoc: 1
+competitors: 105
+bronzeGer: 2
+bronzeNor: 0
+bronzePol: 1
+caption: Ski jumping pictogram
+dates: --02-14
+event: 2022
+event: Ski jumping
+flagTemplate: flagIOC
+goldGer: 0
+goldNor: 1
+goldPol: 0
+next: 2026
+prev: 2018
+silverGer: 1
+silverNor: 0
+silverPol: 0
+venue: Snow_Ruyi_National_Ski_Jumping_Centre
+bronzeCan: 1
+goldCan: 0
+silverCan: 0
+bronzeJpn: 0
+goldJpn: 1
+silverJpn: 1
+bronzeAut: 0
+games: 2022
+goldAut: 1
+silverAut: 1
+abstract: Ski jumping at the 2022 Winter Olympics was held at the Snow Ruyi hill in Zhangjiakou, China. The events were held between 5 and 14 February 2022. In July 2018, the International Olympic Committee (IOC) officially added the mixed team event to the Olympic program, increasing the total number of events to 5. A total of 105 quota spots (65 men and 40 women) were distributed to the sport, the same as the 2018 Winter Olympics. A total of five events were contested, three for men, one for women and one mixed. On 7 February, Canada won the bronze medal in the mixed team competition, the first ever ski jumping medal for the country at the Winter Olympics.
+bronzeSlo: 1
+goldSlo: 2
+numEvents: 5
+wasDerivedFrom: Ski_jumping_at_the_2022_Winter_Olympics?oldid=1081770071&ns=0
+wikiPageLength: 11261
+games: 2022 Winter
+event: Ski_jumping_at_the_Winter_Olympics
+previousEvent: Ski_jumping_at_the_2018_Winter_Olympics
+isPrimaryTopicOf: Ski_jumping_at_the_2022_Winter_Olympics
+	

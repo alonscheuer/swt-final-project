@@ -1,0 +1,207 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Roadracing-VM 2023, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: SpatialThing
+type: MotorsportSeason
+type: SportsSeason
+label: 2023 MotoGP World Championship
+comment: 2023 F.I.M. Grand Prix motorcycle racing season.Previous2022Next2023 Moto2 World Championship2023 Moto3 World Championship2023 MotoE World Championship The 2023 FIM MotoGP World Championship will be the premier class of the 75th F.I.M. Road Racing World Championship season.
+lat: 25.4167
+long: 51.5
+depiction: Green_pog.svg
+depiction: Francesco_'Pecco'_Bagnaia_at_the_2022_San_Marino_Grand_Prix_at_Misano.jpg
+subject: Category:Grand_Prix_motorcycle_racing_seasons
+subject: Category:2023_in_Grand_Prix_motorcycle_racing
+subject: Category:Scheduled_motorsport_seasons
+wikiPageID: 70943823
+wikiPageRevisionID: 1124830598
+wikiPageWikiLink: Qatar
+wikiPageWikiLink: Scarperia_e_San_Piero
+wikiPageWikiLink: Category:Grand_Prix_motorcycle_racing_seasons
+wikiPageWikiLink: Category:2023_in_Grand_Prix_motorcycle_racing
+wikiPageWikiLink: Category:Scheduled_motorsport_seasons
+wikiPageWikiLink: Brad_Binder
+wikiPageWikiLink: Aragon_motorcycle_Grand_Prix
+wikiPageWikiLink: Argentine_Republic_motorcycle_Grand_Prix
+wikiPageWikiLink: Hohenstein-Ernstthal
+wikiPageWikiLink: Honda
+wikiPageWikiLink: Honda_RC213V
+wikiPageWikiLink: Jorge_Martín
+wikiPageWikiLink: Remy_Gardner
+wikiPageWikiLink: Repsol_Honda
+wikiPageWikiLink: Repsol_Honda_Team
+wikiPageWikiLink: VR46_Racing_Team
+wikiPageWikiLink: Valencia
+wikiPageWikiLink: Dutch_TT
+wikiPageWikiLink: Indonesian_motorcycle_Grand_Prix
+wikiPageWikiLink: LCR_Team
+wikiPageWikiLink: Portuguese_motorcycle_Grand_Prix
+wikiPageWikiLink: Pramac_Racing
+wikiPageWikiLink: Maverick_Viñales
+wikiPageWikiLink: Sachsenring
+wikiPageWikiLink: Spanish_motorcycle_Grand_Prix
+wikiPageWikiLink: Qatar_motorcycle_Grand_Prix
+wikiPageWikiLink: RNF_Racing
+wikiPageWikiLink: Circuit_Ricardo_Tormo
+wikiPageWikiLink: Circuit_de_Barcelona-Catalunya
+wikiPageWikiLink: Circuit_de_la_Sarthe
+wikiPageWikiLink: Circuit_of_the_Americas
+wikiPageWikiLink: Circuito_de_Jerez_–_Ángel_Nieto
+wikiPageWikiLink: Enea_Bastianini
+wikiPageWikiLink: Franco_Morbidelli
+wikiPageWikiLink: Gas_Gas
+wikiPageWikiLink: Grand_Prix_motorcycle_racing
+wikiPageWikiLink: Greater_Noida
+wikiPageWikiLink: Misano_Adriatico
+wikiPageWikiLink: Misano_World_Circuit_Marco_Simoncelli
+wikiPageWikiLink: Mobility_Resort_Motegi
+wikiPageWikiLink: Montmeló
+wikiPageWikiLink: Motegi,_Tochigi
+wikiPageWikiLink: Mugello_Circuit
+wikiPageWikiLink: Valencian_Community_motorcycle_Grand_Prix
+wikiPageWikiLink: 2012_British_motorcycle_Grand_Prix
+wikiPageWikiLink: Aprilia
+wikiPageWikiLink: Aprilia_RS-GP
+wikiPageWikiLink: Aprilia_Racing
+wikiPageWikiLink: Losail_International_Circuit
+wikiPageWikiLink: Luca_Marini
+wikiPageWikiLink: Lusail
+wikiPageWikiLink: Magyar_Nemzetkozi_Motodrome
+wikiPageWikiLink: Mandalika_International_Street_Circuit
+wikiPageWikiLink: Silverstone
+wikiPageWikiLink: Silverstone_Circuit
+wikiPageWikiLink: Álex_Márquez
+wikiPageWikiLink: Álex_Rins
+wikiPageWikiLink: Malaysian_motorcycle_Grand_Prix
+wikiPageWikiLink: Augusto_Fernández_(motorcyclist)
+wikiPageWikiLink: Austin,_Texas
+wikiPageWikiLink: Autódromo_Termas_de_Río_Hondo
+wikiPageWikiLink: British_Grand_Prix
+wikiPageWikiLink: Buddh_International_Circuit
+wikiPageWikiLink: Buriram
+wikiPageWikiLink: Central_Lombok_Regency
+wikiPageWikiLink: Fédération_Internationale_de_Motocyclisme
+wikiPageWikiLink: Japanese_motorcycle_Grand_Prix
+wikiPageWikiLink: 2022_Russian_invasion_of_Ukraine
+wikiPageWikiLink: 2023_Moto2_World_Championship
+wikiPageWikiLink: 2023_Moto3_World_Championship
+wikiPageWikiLink: 2023_MotoE_World_Championship
+wikiPageWikiLink: Aleix_Espargaró
+wikiPageWikiLink: Algarve_International_Circuit
+wikiPageWikiLink: Almaty
+wikiPageWikiLink: Darryn_Binder
+wikiPageWikiLink: Ducati
+wikiPageWikiLink: Ducati_Corse
+wikiPageWikiLink: Ducati_Desmosedici
+wikiPageWikiLink: Fabio_Di_Giannantonio
+wikiPageWikiLink: Fabio_Quartararo
+wikiPageWikiLink: Francesco_Bagnaia
+wikiPageWikiLink: British_motorcycle_Grand_Prix
+wikiPageWikiLink: German_motorcycle_Grand_Prix
+wikiPageWikiLink: Italian_motorcycle_Grand_Prix
+wikiPageWikiLink: Kazakhstan_motorcycle_Grand_Prix
+wikiPageWikiLink: List_of_Grand_Prix_motorcycle_circuits
+wikiPageWikiLink: List_of_Grand_Prix_motorcycle_races
+wikiPageWikiLink: Road_racing
+wikiPageWikiLink: Gresini_Racing
+wikiPageWikiLink: Gresini_Racing_MotoGP
+wikiPageWikiLink: Jack_Miller_(motorcyclist)
+wikiPageWikiLink: Tech3
+wikiPageWikiLink: Termas_de_Río_Hondo
+wikiPageWikiLink: Hungarian_motorcycle_Grand_Prix
+wikiPageWikiLink: Assen
+wikiPageWikiLink: Chang_International_Circuit
+wikiPageWikiLink: Jerez_de_la_Frontera
+wikiPageWikiLink: Joan_Mir
+wikiPageWikiLink: Johann_Zarco
+wikiPageWikiLink: KTM
+wikiPageWikiLink: KTM_RC16
+wikiPageWikiLink: Le_Mans
+wikiPageWikiLink: Superbike_World_Championship
+wikiPageWikiLink: Suzuki_MotoGP
+wikiPageWikiLink: TT_Circuit_Assen
+wikiPageWikiLink: Takaaki_Nakagami
+wikiPageWikiLink: Thailand_motorcycle_Grand_Prix
+wikiPageWikiLink: Australian_motorcycle_Grand_Prix
+wikiPageWikiLink: Austrian_motorcycle_Grand_Prix
+wikiPageWikiLink: Marc_Márquez
+wikiPageWikiLink: Marco_Bezzecchi
+wikiPageWikiLink: Phillip_Island
+wikiPageWikiLink: Phillip_Island_Grand_Prix_Circuit
+wikiPageWikiLink: Pol_Espargaró
+wikiPageWikiLink: Portimão
+wikiPageWikiLink: Sokol_International_Racetrack
+wikiPageWikiLink: Spielberg,_Styria
+wikiPageWikiLink: French_motorcycle_Grand_Prix
+wikiPageWikiLink: Indian_motorcycle_Grand_Prix
+wikiPageWikiLink: Kymi_Ring
+wikiPageWikiLink: Michelin
+wikiPageWikiLink: Miguel_Oliveira
+wikiPageWikiLink: Catalan_motorcycle_Grand_Prix
+wikiPageWikiLink: Raúl_Fernández_(motorcyclist)
+wikiPageWikiLink: Red_Bull_KTM_Factory_Racing
+wikiPageWikiLink: Red_Bull_Ring
+wikiPageWikiLink: Sepang_International_Circuit
+wikiPageWikiLink: Yamaha_Motor_Company
+wikiPageWikiLink: Yamaha_Motor_Racing
+wikiPageWikiLink: Yamaha_YZR-M1
+wikiPageWikiLink: Sepang_(town)
+wikiPageWikiLink: Tech3_KTM_Factory_Racing
+wikiPageWikiLink: Finnish_motorcycle_Grand_Prix
+wikiPageWikiLink: Motorcycle_Grand_Prix_of_the_Americas
+wikiPageWikiLink: San_Marino_and_Rimini_Riviera_motorcycle_Grand_Prix
+wikiPageWikiLink: File:Francesco_'Pecco'_Bagnaia_at_the_2022_San_Marino_Grand_Prix_at_Misano.jpg
+wikiPageWikiLink: 2023_Superbike_World_Championship
+wikiPageExternalLink: www.motogp.com
+thumbnail: Francesco_'Pecco'_Bagnaia_at_the_2022_San_Marino_Grand_Prix_at_Misano.jpg?width=300
+label1Size: 100
+alt: Grand Prix locations in the world
+caption: Location of non-European Grands Prix in 2023.
+float: left
+footer: 2023
+label: Argentine_Republic_motorcycle_Grand_Prix
+label: Indonesian_motorcycle_Grand_Prix
+label: Qatar_motorcycle_Grand_Prix
+label: Malaysian_motorcycle_Grand_Prix
+label: Japanese_motorcycle_Grand_Prix
+label: Kazakhstan_motorcycle_Grand_Prix
+label: Thailand_motorcycle_Grand_Prix
+label: Australian_motorcycle_Grand_Prix
+label: Indian_motorcycle_Grand_Prix
+label: Motorcycle_Grand_Prix_of_the_Americas
+label2Size: 100
+label3Size: 100
+label4Size: 100
+label5Size: 100
+label6Size: 100
+label7Size: 100
+label8Size: 100
+label9Size: 100
+mark: Green pog.svg
+position: bottom
+position: left
+position: right
+position: top
+series: Grand Prix motorcycle racing
+title: F.I.M. Grand Prix motorcycle racing season.
+width: 775
+year: 2023
+previouslink: 2022
+nextlink: 2024
+point: 25.416666666666668 51.5
+abstract: 2023 F.I.M. Grand Prix motorcycle racing season.Previous2022Next2023 Moto2 World Championship2023 Moto3 World Championship2023 MotoE World Championship The 2023 FIM MotoGP World Championship will be the premier class of the 75th F.I.M. Road Racing World Championship season.
+label0Size: 100
+wasDerivedFrom: 2023_MotoGP_World_Championship?oldid=1124830598&ns=0
+wikiPageLength: 31428
+title: F.I.M.Grand Prix motorcycle racingseason.
+year: 2023
+series: Grand_Prix_motorcycle_racing
+isPrimaryTopicOf: 2023_MotoGP_World_Championship
+geometry: POINT(51.5 25.416666030884)
+	

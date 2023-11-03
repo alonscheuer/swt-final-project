@@ -1,0 +1,88 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Skeleton vid olympiska vinterspelen 2022, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: Event
+type: SportsEvent
+type: Event
+type: SocietalEvent
+type: Q1656682
+type: OlympicEvent
+type: Event
+type: Olympics
+type: SportsEvent
+label: Skeleton at the 2022 Winter Olympics
+comment: Skeleton at the 2022 Winter Olympics was held at the Xiaohaituo Bobsleigh and Luge Track in Yanqing District, China. The events took place between 10 and 12 February 2022. A total of two skeleton events were held, one each for men and women. A total of 50 quotas (25 per gender) were distributed to the sport, the same as the 2018 Winter Olympics. However, five men's quotas were transferred to the women's event to achieve gender equality. A total of 2 events were contested, one each for men and women.
+homepage: DigitalCollectionAttachmentDownloadHandler.ashx%3FparentDocumentId=1568639&documentId=1568651
+depiction: Skeleton_pictogram.svg
+subject: Category:2022_in_skeleton
+subject: Category:Skeleton_at_the_2022_Winter_Olympics
+subject: Category:Skeleton_at_the_Winter_Olympics
+subject: Category:2022_Winter_Olympics_events
+wikiPageID: 68571706
+wikiPageRevisionID: 1081770012
+wikiPageWikiLink: Category:2022_in_skeleton
+wikiPageWikiLink: Christopher_Grotheer
+wikiPageWikiLink: 2018_Winter_Olympics
+wikiPageWikiLink: Skeleton_at_the_Winter_Olympics
+wikiPageWikiLink: Category:Skeleton_at_the_2022_Winter_Olympics
+wikiPageWikiLink: Category:Skeleton_at_the_Winter_Olympics
+wikiPageWikiLink: Axel_Jungk
+wikiPageWikiLink: 2022_Winter_Olympics
+wikiPageWikiLink: Category:2022_Winter_Olympics_events
+wikiPageWikiLink: Hannah_Neise
+wikiPageWikiLink: International_Olympic_Committee
+wikiPageWikiLink: Jaclyn_Narracott
+wikiPageWikiLink: China
+wikiPageWikiLink: Kimberley_Bos
+wikiPageWikiLink: Xiaohaituo_Bobsleigh_and_Luge_Track
+wikiPageWikiLink: Yan_Wengang
+wikiPageWikiLink: Yanqing_District
+wikiPageWikiLink: Time_in_China
+wikiPageWikiLink: Skeleton_at_the_2018_Winter_Olympics
+wikiPageWikiLink: Skeleton_at_the_2022_Winter_Olympics_–_Men's
+wikiPageWikiLink: Skeleton_at_the_2022_Winter_Olympics_–_Women's
+wikiPageWikiLink: File:Skeleton_pictogram.svg
+wikiPageExternalLink: DigitalCollectionAttachmentDownloadHandler.ashx%3FparentDocumentId=1568639&documentId=1568651
+thumbnail: Skeleton_pictogram.svg?width=300
+hostChn: yes
+bronzeNed: 1
+competitors: 50
+goldNed: 0
+nations: 21
+silverNed: 0
+bronzeChn: 1
+bronzeGer: 0
+caption: Skeleton pictogram
+dates: --02-12
+event: 2022
+event: Skeleton
+flagTemplate: flagIOC
+goldChn: 0
+goldGer: 2
+host: CHN
+next: 2026
+prev: 2018
+silverChn: 0
+silverGer: 1
+venue: Xiaohaituo_Bobsleigh_and_Luge_Track
+bronzeAus: 0
+games: 2022
+goldAus: 0
+silverAus: 1
+abstract: Skeleton at the 2022 Winter Olympics was held at the Xiaohaituo Bobsleigh and Luge Track in Yanqing District, China. The events took place between 10 and 12 February 2022. A total of two skeleton events were held, one each for men and women. A total of 50 quotas (25 per gender) were distributed to the sport, the same as the 2018 Winter Olympics. However, five men's quotas were transferred to the women's event to achieve gender equality. A total of 2 events were contested, one each for men and women.
+competitorsMen: 25
+competitorsWomen: 25
+numEvents: 2
+wasDerivedFrom: Skeleton_at_the_2022_Winter_Olympics?oldid=1081770012&ns=0
+wikiPageLength: 8398
+games: 2022 Winter
+event: Skeleton_at_the_Winter_Olympics
+previousEvent: Skeleton_at_the_2018_Winter_Olympics
+isPrimaryTopicOf: Skeleton_at_the_2022_Winter_Olympics
+	

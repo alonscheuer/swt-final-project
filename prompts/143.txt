@@ -1,0 +1,116 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Skidskytte vid olympiska vinterspelen 2022, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: Event
+type: SportsEvent
+type: Event
+type: SocietalEvent
+type: Q1656682
+type: OlympicEvent
+type: Event
+type: Olympics
+type: SportsEvent
+label: Biathlon at the 2022 Winter Olympics
+comment: Biathlon at the 2022 Winter Olympics was held at the National Biathlon Centre, in the Zhangjiakou cluster of competition venues, 180 kilometres (110 mi) north of Beijing, at an elevation of 1,665 metres (5,463 ft), from 5 to 18 February 2022. A total of 210 quota spots (110 per gender) were distributed to the sport, a decline of 20 from the 2018 Winter Olympics. A total of 11 events were contested, five for men, five for women and one mixed.
+homepage: DigitalCollectionAttachmentDownloadHandler.ashx%3FparentDocumentId=1568639&documentId=1568640
+depiction: Biathlon_pictogram.svg
+subject: Category:2022_in_biathlon
+subject: Category:Biathlon_at_the_2022_Winter_Olympics
+subject: Category:Biathlon_at_the_Winter_Olympics
+subject: Category:Biathlon_competitions_in_China
+subject: Category:2022_Winter_Olympics_events
+wikiPageID: 68265989
+wikiPageRevisionID: 1081769331
+wikiPageWikiLink: Quentin_Fillon_Maillet
+wikiPageWikiLink: File:Biathlon_pictogram.svg
+wikiPageWikiLink: Category:2022_in_biathlon
+wikiPageWikiLink: Biathlon_at_the_2018_Winter_Olympics
+wikiPageWikiLink: Biathlon_at_the_Winter_Olympics
+wikiPageWikiLink: Denise_Herrmann
+wikiPageWikiLink: Julia_Simon_(biathlete)
+wikiPageWikiLink: Category:Biathlon_at_the_2022_Winter_Olympics
+wikiPageWikiLink: Category:Biathlon_at_the_Winter_Olympics
+wikiPageWikiLink: Category:Biathlon_competitions_in_China
+wikiPageWikiLink: Uliana_Nigmatullina
+wikiPageWikiLink: Vanessa_Hinz
+wikiPageWikiLink: Vanessa_Voigt
+wikiPageWikiLink: Vetle_Sjåstad_Christiansen
+wikiPageWikiLink: Kuyangshu_Nordic_Center_and_Biathlon_Center
+wikiPageWikiLink: Maxim_Tsvetkov
+wikiPageWikiLink: Said_Karimulla_Khalili
+wikiPageWikiLink: Elvira_Öberg
+wikiPageWikiLink: Franziska_Preuß
+wikiPageWikiLink: Mona_Brorsson
+wikiPageWikiLink: 2018_Winter_Olympics
+wikiPageWikiLink: 2020–21_Biathlon_World_Cup
+wikiPageWikiLink: Anton_Smolski
+wikiPageWikiLink: Linn_Persson
+wikiPageWikiLink: Simon_Desthieux
+wikiPageWikiLink: Sturla_Holm_Lægreid
+wikiPageWikiLink: Émilien_Jacquelin
+wikiPageWikiLink: Tiril_Eckhoff
+wikiPageWikiLink: 2021–22_Biathlon_World_Cup
+wikiPageWikiLink: 2022_Winter_Olympics
+wikiPageWikiLink: Alexander_Loginov_(biathlon)
+wikiPageWikiLink: Anaïs_Chevalier-Bouchet
+wikiPageWikiLink: Eduard_Latypov
+wikiPageWikiLink: Category:2022_Winter_Olympics_events
+wikiPageWikiLink: Fabien_Claude
+wikiPageWikiLink: Hanna_Öberg
+wikiPageWikiLink: Irina_Kazakevich
+wikiPageWikiLink: Tarjei_Bø
+wikiPageWikiLink: Johannes_Thingnes_Bø
+wikiPageWikiLink: Justine_Braisaz-Bouchet
+wikiPageWikiLink: Svetlana_Mironova_(biathlete)
+wikiPageWikiLink: Dorothea_Wierer
+wikiPageWikiLink: Marte_Olsbu_Røiseland
+wikiPageWikiLink: Martin_Ponsiluoma
+wikiPageWikiLink: Kristina_Reztsova
+wikiPageWikiLink: UTC+8
+wikiPageExternalLink: DigitalCollectionAttachmentDownloadHandler.ashx%3FparentDocumentId=1568639&documentId=1568640
+silverBlr: 1
+thumbnail: Biathlon_pictogram.svg?width=300
+bronzeRoc: 3
+goldRoc: 0
+silverRoc: 1
+bronzeFra: 0
+bronzeGer: 1
+bronzeIta: 1
+bronzeNor: 6
+bronzeSwe: 0
+caption: Biathlon pictogram
+dates: --02-18
+event: 2022
+event: Biathlon
+flagTemplate: flagIOC
+goldFra: 3
+goldGer: 1
+goldIta: 0
+goldNor: 6
+goldSwe: 1
+next: 2026
+prev: 2018
+silverFra: 4
+silverGer: 0
+silverIta: 0
+silverNor: 2
+silverSwe: 3
+venue: Kuyangshu_Nordic_Center_and_Biathlon_Center
+games: 2022
+abstract: Biathlon at the 2022 Winter Olympics was held at the National Biathlon Centre, in the Zhangjiakou cluster of competition venues, 180 kilometres (110 mi) north of Beijing, at an elevation of 1,665 metres (5,463 ft), from 5 to 18 February 2022. A total of 210 quota spots (110 per gender) were distributed to the sport, a decline of 20 from the 2018 Winter Olympics. A total of 11 events were contested, five for men, five for women and one mixed.
+bronzeBlr: 0
+goldBlr: 0
+numEvents: 11
+wasDerivedFrom: Biathlon_at_the_2022_Winter_Olympics?oldid=1081769331&ns=0
+wikiPageLength: 13046
+games: 2022 Winter
+event: Biathlon_at_the_Winter_Olympics
+previousEvent: Biathlon_at_the_2018_Winter_Olympics
+isPrimaryTopicOf: Biathlon_at_the_2022_Winter_Olympics
+	

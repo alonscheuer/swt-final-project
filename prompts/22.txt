@@ -1,0 +1,187 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Deutschland Cup 2022, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	label: 2022 Deutschland Cup
+comment: The 2022 Deutschland Cup was the 33rd edition of the tournament, held between 10 and 13 November 2022.
+subject: Category:2021–22_in_German_ice_hockey
+subject: Category:November_2022_sports_events_in_Germany
+subject: Category:Sport_in_Krefeld
+subject: Category:Deutschland_Cup
+wikiPageID: 71842136
+wikiPageRevisionID: 1122671734
+wikiPageWikiLink: Category:2021–22_in_German_ice_hockey
+wikiPageWikiLink: Category:November_2022_sports_events_in_Germany
+wikiPageWikiLink: David_Kickert
+wikiPageWikiLink: David_Madlener
+wikiPageWikiLink: Denis_Godla
+wikiPageWikiLink: Deutschland_Cup
+wikiPageWikiLink: Patrik_Koch
+wikiPageWikiLink: König_Palast
+wikiPageWikiLink: Mathias_From
+wikiPageWikiLink: Frederik_Tiffels
+wikiPageWikiLink: Georg_Sørensen
+wikiPageWikiLink: Morten_Poulsen
+wikiPageWikiLink: Mário_Grman
+wikiPageWikiLink: Mário_Lunter
+wikiPageWikiLink: Andreas_Eder
+wikiPageWikiLink: Lukas_Haudum
+wikiPageWikiLink: Overtime_(ice_hockey)
+wikiPageWikiLink: Category:Sport_in_Krefeld
+wikiPageWikiLink: 2021_Deutschland_Cup
+wikiPageWikiLink: Adrián_Holešinský
+wikiPageWikiLink: Nicolai_Meyer
+wikiPageWikiLink: Nicolai_Weichel
+wikiPageWikiLink: Central_European_Time
+wikiPageWikiLink: Category:Deutschland_Cup
+wikiPageWikiLink: Dominik_Bokk
+wikiPageWikiLink: Dominik_Riečický
+wikiPageWikiLink: Dominique_Heinrich
+wikiPageWikiLink: Marc_Michaelis
+wikiPageWikiLink: Marco_Kasper
+wikiPageWikiLink: Krefeld
+wikiPageWikiLink: Kristian_Jensen_(ice_hockey)
+wikiPageWikiLink: Mikkel_Aagaard
+wikiPageWikiLink: Dustin_Strahlmeier
+wikiPageWikiLink: Frederik_Dichow
+wikiPageWikiLink: Christian_Wejse
+wikiPageWikiLink: Mirko_Pantkowski
+wikiPageWikiLink: Danjo_Leonhardt
+wikiPageWikiLink: Daniel_Schmölz
+wikiPageWikiLink: Florian_Baltram
+wikiPageWikiLink: Tobias_Eder
+wikiPageWikiLink: Felix_Scheel
+wikiPageWikiLink: Bernd_Wolf
+wikiPageWikiLink: Mads_Larsen_(ice_hockey)
+wikiPageWikiLink: Mislav_Rosandič
+wikiPageWikiLink: Stefan_Gaffal
+wikiPageWikiLink: Colin_Ugbekile
+wikiPageWikiLink: Mads_Eller
+wikiPageWikiLink: Justin_Schütz
+wikiPageWikiLink: Leon_Hüttl
+wikiPageWikiLink: Lucas_Thaler
+wikiPageWikiLink: Luis_Schinko
+wikiPageWikiLink: Tim_Fleischer
+wikiPageWikiLink: Anders_Koch
+wikiPageWikiLink: Alexander_Ehl
+wikiPageWikiLink: David_Maier_(ice_hockey)
+wikiPageWikiLink: Tim_Wohlgemuth
+wikiPageWikiLink: Viliam_Čacho
+wikiPageWikiLink: 2023_Deutschland_Cup
+wikiPageWikiLink: Alexander_Blank
+wikiPageWikiLink: Daniil_Fominych
+wikiPageWikiLink: David_Reinbacher
+wikiPageWikiLink: Julius_Karrer
+wikiPageWikiLink: Lukas_Kainz
+wikiPageWikiLink: Michal_Beňo
+wikiPageWikiLink: Ramon_Schnetzer
+wikiPageWikiLink: Mario_Zimmermann
+wikiPageExternalLink: IHM042200_76_6_0.pdf
+wikiPageExternalLink: IHM042901_74_4_0.pdf
+wikiPageExternalLink: IHM042902_74_4_0.pdf
+wikiPageExternalLink: IHM042903_74_3_0.pdf
+wikiPageExternalLink: IHM042904_74_3_0.pdf
+wikiPageExternalLink: IHM042905_74_3_0.pdf
+wikiPageExternalLink: IHM042906_74_4_0.pdf
+reference: IHM042901_74_4_0.pdf
+reference: IHM042902_74_4_0.pdf
+reference: IHM042903_74_3_0.pdf
+reference: IHM042904_74_3_0.pdf
+reference: IHM042905_74_3_0.pdf
+reference: IHM042906_74_4_0.pdf
+attendance: 830
+attendance: 1600
+attendance: 1680
+attendance: 1706
+attendance: 3310
+attendance: 3854
+cities: 1
+count: 9
+country: Germany
+date: 2022-11-10
+date: 2022-11-12
+date: 2022-11-13
+dates: --11-13
+fourth: SVK
+goals: 11
+goals: 14
+goals: 18
+goals: 27
+goals: 1073.0
+goals:  Haudum  – 60:32
+goals:  Čacho  – 55:22
+goals:  Fleischer  – 59:46
+goals:  Schmölz  – 63:30
+goals:  Leonhardt  – 28:34
+nextseason: 2023
+numTeams: 4
+penalties: 2
+penalties: 4
+penalties: 6
+penalties: 8
+penalties: 10
+penalties: 12
+penalties: 25
+penalties: 29
+penalties: 32
+points: 3
+prevseason: 2021
+score: 1
+score: 3
+second: AUT
+stadium: König_Palast
+stadium: Krefeld
+third: DEN
+time: 1080.0
+time: 660.0
+time: 870.0
+time: 975.0
+time: 1185.0
+tourneyName: Deutschland Cup
+type: ih
+venues: 1
+winners: GER
+year: 2022
+periods: 
+scoringLeader: Mathias From
+linesman: Jonas Merten
+linesman: Tobias Schwenk
+linesman: Joshua Römer
+linesman: Tim Heffner
+linesman: Yannik Koziol
+official: Martin Fraňo
+official: Benjamin Hoppe
+official: Gordon Schukies
+official: Marian Rohatsch
+official: Kilian Hinterdobler
+progression: 0
+progression: 1
+shots: 15
+shots: 21
+shots: 22
+shots: 24
+shots: 27
+shots: 30
+shots: 31
+shots: 32
+shots: 36
+shots: 39
+shots: 45
+games: 6
+goalie: David_Kickert
+goalie: David_Madlener
+goalie: Denis_Godla
+goalie: Georg_Sørensen
+goalie: Dominik_Riečický
+goalie: Dustin_Strahlmeier
+goalie: Frederik_Dichow
+goalie: Mirko_Pantkowski
+abstract: The 2022 Deutschland Cup was the 33rd edition of the tournament, held between 10 and 13 November 2022.
+wasDerivedFrom: 2022_Deutschland_Cup?oldid=1122671734&ns=0
+wikiPageLength: 8712
+isPrimaryTopicOf: 2022_Deutschland_Cup
+	

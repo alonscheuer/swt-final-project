@@ -1,0 +1,145 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om China Eastern Airlines Flight 5735, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: SpatialThing
+label: China Eastern Airlines Flight 5735
+comment: China Eastern Airlines Flight 5735 was a scheduled domestic passenger flight in China from Kunming to Guangzhou. On 21 March 2022, the Boeing 737-89P aircraft operating the service descended steeply mid-flight and struck the ground at high speed in Teng County, Wuzhou, Guangxi Zhuang Autonomous Region, killing all 123 passengers and 9 crew members. Multiple reports are asserting that the airplane was deliberately crashed, but the official investigation by the National Transportation Safety Board (NTSB) and Civil Aviation Administration of China (CAAC) is ongoing. It is the third deadliest air crash in China after China Southern Airlines Flight 3943 and China Northwest Airlines Flight 2303.
+name: China Eastern Airlines Flight 5735
+lat: 23.3242
+long: 111.112
+depiction: China_Eastern_Airlines_-_Boeing_737-800_-_B-1791_-_Yunnan_peacock_livery_-_Shanghai_Hongqiao.jpg
+depiction: China_Eastern_Airlines_Flight_5735_flight_path.svg
+depiction: MU5735_3月25日，搜救搜索现场_On_March_25,_the_search_continues.jpg
+depiction: 东航MU5735班机坠毁现场.jpg
+depiction: 东航MU5735班机第一部黑匣子寻获现场_Black_box_of_crashed_flight_MU5735_retrieved.jpg
+subject: Category:Aviation_accidents_and_incidents_in_China
+subject: Category:2022_disasters_in_China
+subject: Category:Aviation_accidents_and_incidents_in_2022
+subject: Category:March_2022_events_in_China
+subject: Category:History_of_Guangxi
+subject: Category:China_Eastern_Airlines_accidents_and_incidents
+subject: Category:Accidents_and_incidents_involving_the_Boeing_737_Next_Generation
+subject: Category:Wuzhou
+wikiPageID: 70358057
+wikiPageRevisionID: 1125028359
+wikiPageWikiLink: 737-800
+wikiPageWikiLink: Category:Aviation_accidents_and_incidents_in_China
+wikiPageWikiLink: Category:2022_disasters_in_China
+wikiPageWikiLink: Category:Aviation_accidents_and_incidents_in_2022
+wikiPageWikiLink: Category:March_2022_events_in_China
+wikiPageWikiLink: Beihai
+wikiPageWikiLink: Boeing
+wikiPageWikiLink: Boeing_737_MAX
+wikiPageWikiLink: Boeing_737_MAX_groundings
+wikiPageWikiLink: Detection_dog
+wikiPageWikiLink: Hong_Kong_Stock_Exchange
+wikiPageWikiLink: List_of_accidents_and_incidents_involving_the_Boeing_737
+wikiPageWikiLink: Pete_Buttigieg
+wikiPageWikiLink: VariFlight
+wikiPageWikiLink: Vistara
+wikiPageWikiLink: Coordinated_Universal_Time
+wikiPageWikiLink: UTC+08:00
+wikiPageWikiLink: Category:History_of_Guangxi
+wikiPageWikiLink: Civil_Aviation_Administration_of_China
+wikiPageWikiLink: Gol_Transportes_Aéreos_Flight_1907
+wikiPageWikiLink: The_Wall_Street_Journal
+wikiPageWikiLink: Li_Keqiang
+wikiPageWikiLink: Liu_Ning
+wikiPageWikiLink: Category:China_Eastern_Airlines_accidents_and_incidents
+wikiPageWikiLink: Chinese_Communist_Party_Committee_Secretary
+wikiPageWikiLink: Closed-circuit_television
+wikiPageWikiLink: Emergency_landing
+wikiPageWikiLink: Pilot_in_command
+wikiPageWikiLink: Baoshan,_Yunnan
+wikiPageWikiLink: CFM_International
+wikiPageWikiLink: COVID-19_pandemic_in_mainland_China
+wikiPageWikiLink: Top_of_descent
+wikiPageWikiLink: List_of_Boeing_customer_codes
+wikiPageWikiLink: ABC_News
+wikiPageWikiLink: Air_India_Express
+wikiPageWikiLink: Air_traffic_control
+wikiPageWikiLink: Aircraft_livery
+wikiPageWikiLink: Aircraft_registration
+wikiPageWikiLink: Federal_Aviation_Administration
+wikiPageWikiLink: Flight_data_recorder
+wikiPageWikiLink: Boeing_737_Max
+wikiPageWikiLink: Flight_recorder
+wikiPageWikiLink: Emergency_locator_transmitter
+wikiPageWikiLink: Category:Accidents_and_incidents_involving_the_Boeing_737_Next_Generation
+wikiPageWikiLink: Guangxi
+wikiPageWikiLink: Guangzhou
+wikiPageWikiLink: Guangzhou_Baiyun_International_Airport
+wikiPageWikiLink: Guilin
+wikiPageWikiLink: Hechi
+wikiPageWikiLink: Hezhou
+wikiPageWikiLink: Teng_County
+wikiPageWikiLink: China_Eastern_Airlines
+wikiPageWikiLink: China_Eastern_Airlines_Flight_5210
+wikiPageWikiLink: China_Eastern_Yunnan_Airlines
+wikiPageWikiLink: China_Northwest_Airlines_Flight_2303
+wikiPageWikiLink: China_Southern_Airlines_Flight_3943
+wikiPageWikiLink: Chinese_Communist_Party
+wikiPageWikiLink: Laibin
+wikiPageWikiLink: Landing_gear
+wikiPageWikiLink: Tailplane
+wikiPageWikiLink: Directorate_General_of_Civil_Aviation_(India)
+wikiPageWikiLink: CFM_International_CFM56
+wikiPageWikiLink: SpiceJet
+wikiPageWikiLink: Domestic_passenger_flight
+wikiPageWikiLink: Kunming
+wikiPageWikiLink: Kunming_Changshui_International_Airport
+wikiPageWikiLink: Category:Wuzhou
+wikiPageWikiLink: Wuzhou
+wikiPageWikiLink: Xi_Jinping
+wikiPageWikiLink: Maneuvering_Characteristics_Augmentation_System
+wikiPageWikiLink: Mayday
+wikiPageWikiLink: Sky_marshal
+wikiPageWikiLink: Search_and_rescue
+wikiPageWikiLink: Second_officer_(aviation)
+wikiPageWikiLink: Unmanned_aerial_vehicle
+wikiPageWikiLink: Time_in_China
+wikiPageWikiLink: First_officer_(aviation)
+wikiPageWikiLink: Flap_(aeronautics)
+wikiPageWikiLink: National_Transportation_Safety_Board
+wikiPageWikiLink: Suicide_by_pilot
+wikiPageWikiLink: Wingtip_device
+wikiPageWikiLink: Stabilizer_(aeronautics)
+wikiPageWikiLink: File:China_Eastern_Airlines_Flight_5735_flight_path.svg
+wikiPageWikiLink: File:MU5735_3月25日，搜救搜索现场_On_March_25,_the_search_continues.jpg
+wikiPageWikiLink: File:东航MU5735班机坠毁现场.jpg
+wikiPageWikiLink: File:东航MU5735班机第一部黑匣子寻获现场_Black_box_of_crashed_flight_MU5735_retrieved.jpg
+wikiPageExternalLink: c90000-9974599.html
+thumbnail: China_Eastern_Airlines_-_Boeing_737-800_-_B-1791_-_Yunnan_peacock_livery_-_Shanghai_Hongqiao.jpg?width=300
+alt: A white plane with peacock-themed livery seconds to touchdown
+callsign: CHINA EASTERN 5735
+caption: B-1791, the aircraft involved in the accident, in 2018
+crew: 9
+date: 2022-03-21
+fatalities: 132
+imageUpright: 1.2
+operator: China_Eastern_Yunnan_Airlines
+origin: Kunming_Changshui_International_Airport
+passengers: 123
+site: Molang Village, Teng County, Wuzhou, Guangxi, China
+summary: Crashed into terrain; possible intentional crash, under investigation
+point: 23.324166666666667 111.11194444444445
+destination: Guangzhou_Baiyun_International_Airport
+aircraftType: 737-800
+occupants: 132
+occurrenceType: Incident
+survivors: 0
+tailNumber: B-1791
+abstract: China Eastern Airlines Flight 5735 was a scheduled domestic passenger flight in China from Kunming to Guangzhou. On 21 March 2022, the Boeing 737-89P aircraft operating the service descended steeply mid-flight and struck the ground at high speed in Teng County, Wuzhou, Guangxi Zhuang Autonomous Region, killing all 123 passengers and 9 crew members. Multiple reports are asserting that the airplane was deliberately crashed, but the official investigation by the National Transportation Safety Board (NTSB) and Civil Aviation Administration of China (CAAC) is ongoing. It is the third deadliest air crash in China after China Southern Airlines Flight 3943 and China Northwest Airlines Flight 2303.
+iata: MU5735
+icao: CES5735
+wasDerivedFrom: China_Eastern_Airlines_Flight_5735?oldid=1125028359&ns=0
+wikiPageLength: 54182
+isPrimaryTopicOf: China_Eastern_Airlines_Flight_5735
+geometry: POINT(111.11194610596 23.324167251587)
+	

@@ -1,0 +1,90 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Documenta fifteen, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: Event
+type: Event
+type: SocietalEvent
+type: Q1656682
+type: Convention
+type: Event
+label: Documenta fifteen
+comment: Documenta fifteen is the 15th edition of documenta, a contemporary art exhibition held in Kassel, Germany between June and September 2022.
+name: documenta fifteen
+name: documenta fifteen
+location: Germany
+location: Kassel
+subject: Category:2022_in_Germany
+subject: Category:2022_in_art
+subject: Category:Antisemitic_attacks_and_incidents_in_Europe
+subject: Category:Germany–Indonesia_relations
+subject: Category:Antisemitism_in_Germany
+subject: Category:Documenta
+subject: Category:Boycott,_Divestment_and_Sanctions
+subject: Category:Germany–Israel_relations
+wikiPageID: 67990126
+wikiPageRevisionID: 1118103118
+wikiPageWikiLink: California_Penal_Code
+wikiPageWikiLink: Category:2022_in_Germany
+wikiPageWikiLink: Category:2022_in_art
+wikiPageWikiLink: Bazon_Brock
+wikiPageWikiLink: Boycott,_Divestment_and_Sanctions
+wikiPageWikiLink: Deutschlandfunk
+wikiPageWikiLink: Claudia_Roth
+wikiPageWikiLink: Frank-Walter_Steinmeier
+wikiPageWikiLink: Germany
+wikiPageWikiLink: Murder
+wikiPageWikiLink: Contemporary_art
+wikiPageWikiLink: The_New_York_Times
+wikiPageWikiLink: Category:Antisemitic_attacks_and_incidents_in_Europe
+wikiPageWikiLink: Antisemitism
+wikiPageWikiLink: COVID-19_pandemic
+wikiPageWikiLink: Category:Germany–Indonesia_relations
+wikiPageWikiLink: Documenta
+wikiPageWikiLink: Documenta_14
+wikiPageWikiLink: ARTnews.com
+wikiPageWikiLink: Category:Antisemitism_in_Germany
+wikiPageWikiLink: Category:Documenta
+wikiPageWikiLink: Palestinians
+wikiPageWikiLink: Central_Council_of_Jews_in_Germany
+wikiPageWikiLink: History_of_the_far-right_in_Spain
+wikiPageWikiLink: Israel
+wikiPageWikiLink: Israeli–Palestinian_conflict
+wikiPageWikiLink: The_Art_Newspaper
+wikiPageWikiLink: Category:Boycott,_Divestment_and_Sanctions
+wikiPageWikiLink: Kassel
+wikiPageWikiLink: Law_of_Germany
+wikiPageWikiLink: Art_exhibition
+wikiPageWikiLink: Category:Germany–Israel_relations
+wikiPageWikiLink: Olaf_Scholz
+wikiPageWikiLink: Nazi_symbolism
+wikiPageWikiLink: Ruangrupa
+wikiPageWikiLink: Stereotypes_of_Jews
+wikiPageWikiLink: Artnet_News
+wikiPageWikiLink: Federal_government_of_Germany
+wikiPageExternalLink: https://documenta-fifteen.de/en/
+wikiPageExternalLink: https://www.artnews.com/art-news/market/ruangrupa-picked-as-artistic-director-of-documenta-15-11953/
+wikiPageExternalLink: https://web.archive.org/web/20201126234830/https:/www.artnews.com/art-news/market/ruangrupa-picked-as-artistic-director-of-documenta-15-11953/
+wikiPageExternalLink: fake-documenta-invitations-cause-confusion-and-disappointment
+wikiPageExternalLink: documenta-15.html
+wikiPageExternalLink: documenta-15-participants-1888786
+wikiPageExternalLink: fake-documenta-invitations-cause-confusion-and-disappointment
+begins: 2022-06-18
+ends: 2022-09-25
+country: Germany
+cs1Dates: y
+date: June 2022
+genre: Art_exhibition
+location: Kassel
+prev: Documenta_14
+abstract: Documenta fifteen is the 15th edition of documenta, a contemporary art exhibition held in Kassel, Germany between June and September 2022.
+wasDerivedFrom: Documenta_fifteen?oldid=1118103118&ns=0
+wikiPageLength: 15537
+genre: Art_exhibition
+isPrimaryTopicOf: Documenta_fifteen
+	

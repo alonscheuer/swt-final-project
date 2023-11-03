@@ -1,0 +1,114 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Copa Sudamericana 2023, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: Event
+type: SportsEvent
+type: Event
+type: SocietalEvent
+type: Tournament
+type: Q1656682
+type: Q500834
+type: Event
+type: SoccerTournament
+type: SportsEvent
+label: 2023 Copa Sudamericana
+comment: The 2023 Copa CONMEBOL Sudamericana will be the 22nd edition of the CONMEBOL Sudamericana (also referred to as the Copa Sudamericana), South America's secondary club football tournament organized by CONMEBOL. The winners of the 2023 Copa Sudamericana will earn the right to play against the winners of the 2023 Copa Libertadores in the . They will also automatically qualify for the group stage.
+name: Copa Sudamericana
+subject: Category:2023_Copa_Sudamericana
+subject: Category:2023_in_South_American_football
+subject: Category:Scheduled_association_football_competitions
+subject: Category:Copa_Sudamericana_seasons
+wikiPageID: 70803273
+wikiPageRevisionID: 1124903343
+wikiPageWikiLink: Caracas_F.C.
+wikiPageWikiLink: San_Lorenzo_de_Almagro
+wikiPageWikiLink: Santos_FC
+wikiPageWikiLink: 2022_Copa_Bolivia
+wikiPageWikiLink: 2023_Copa_Libertadores
+wikiPageWikiLink: Category:2023_Copa_Sudamericana
+wikiPageWikiLink: Category:2023_in_South_American_football
+wikiPageWikiLink: Category:Scheduled_association_football_competitions
+wikiPageWikiLink: Botafogo_de_Futebol_e_Regatas
+wikiPageWikiLink: Defensa_y_Justicia
+wikiPageWikiLink: Defensor_Sporting
+wikiPageWikiLink: Delfín_S.C.
+wikiPageWikiLink: Deportivo_Táchira_F.C.
+wikiPageWikiLink: Peñarol
+wikiPageWikiLink: Copa_Sudamericana
+wikiPageWikiLink: Cienciano
+wikiPageWikiLink: Club_Atlético_Palmaflor
+wikiPageWikiLink: Club_Atlético_River_Plate_(Montevideo)
+wikiPageWikiLink: Club_Atlético_Tigre
+wikiPageWikiLink: Club_Blooming
+wikiPageWikiLink: Club_Deportivo_Guabirá
+wikiPageWikiLink: Club_Deportivo_Palestino
+wikiPageWikiLink: Club_Deportivo_Universidad_Católica
+wikiPageWikiLink: Club_General_Caballero_(Juan_León_Mallorquín)
+wikiPageWikiLink: Club_Guaraní
+wikiPageWikiLink: Club_Universitario_de_Deportes
+wikiPageWikiLink: Club_de_Gimnasia_y_Esgrima_La_Plata
+wikiPageWikiLink: Goiás_Esporte_Clube
+wikiPageWikiLink: Club_Deportivo_Universidad_César_Vallejo
+wikiPageWikiLink: Águilas_Doradas_Rionegro
+wikiPageWikiLink: C.D._Cobresal
+wikiPageWikiLink: C.D._Cuenca
+wikiPageWikiLink: C.S.D._Independiente_del_Valle
+wikiPageWikiLink: C.S._Emelec
+wikiPageWikiLink: CONMEBOL
+wikiPageWikiLink: 2022_Argentine_Primera_División
+wikiPageWikiLink: 2022_Bolivian_Primera_División_season
+wikiPageWikiLink: 2022_Campeonato_Brasileiro_Série_A
+wikiPageWikiLink: 2022_Categoría_Primera_A_season
+wikiPageWikiLink: 2022_Chilean_Primera_División
+wikiPageWikiLink: 2022_Copa_Bicentenario
+wikiPageWikiLink: 2022_Copa_Paraguay
+wikiPageWikiLink: 2022_Copa_Sudamericana
+wikiPageWikiLink: 2022_Ecuadorian_Serie_A
+wikiPageWikiLink: 2022_Liga_1_(Peru)
+wikiPageWikiLink: 2022_Paraguayan_Primera_División_season
+wikiPageWikiLink: 2022_Uruguayan_Primera_División_season
+wikiPageWikiLink: 2022_Venezuelan_Primera_División_season
+wikiPageWikiLink: Academia_Puerto_Cabello
+wikiPageWikiLink: América_Futebol_Clube_(MG)
+wikiPageWikiLink: Danubio_F.C.
+wikiPageWikiLink: Escuela_Municipal_Deportivo_Binacional
+wikiPageWikiLink: Estudiantes_de_La_Plata
+wikiPageWikiLink: Estudiantes_de_Mérida_F.C.
+wikiPageWikiLink: Category:Copa_Sudamericana_seasons
+wikiPageWikiLink: Association_football
+wikiPageWikiLink: Atlético_Junior
+wikiPageWikiLink: Audax_Italiano
+wikiPageWikiLink: L.D.U._Quito
+wikiPageWikiLink: São_Paulo_FC
+wikiPageWikiLink: Tacuary
+wikiPageWikiLink: Sportivo_Ameliano
+wikiPageWikiLink: South_America
+wikiPageWikiLink: Independiente_Santa_Fe
+wikiPageWikiLink: Newell's_Old_Boys
+wikiPageWikiLink: Oriente_Petrolero
+wikiPageWikiLink: Red_Bull_Bragantino
+wikiPageWikiLink: 2024_Copa_Libertadores
+wikiPageWikiLink: 2024_Copa_Sudamericana
+wikiPageWikiLink: 2024_Recopa_Sudamericana
+associations: 10
+dates: --03-07
+dates: 
+nextseason: 2024
+numTeams: 44
+otherTitles: Copa CONMEBOL Sudamericana 2023
+prevseason: 2022
+tourneyName: Copa Sudamericana
+year: 2023
+abstract: The 2023 Copa CONMEBOL Sudamericana will be the 22nd edition of the CONMEBOL Sudamericana (also referred to as the Copa Sudamericana), South America's secondary club football tournament organized by CONMEBOL. The winners of the 2023 Copa Sudamericana will earn the right to play against the winners of the 2023 Copa Libertadores in the . They will also automatically qualify for the group stage. Independiente del Valle are the titleholders, but since they qualified for the 2023 Copa Libertadores group stage as Copa Sudamericana champions, they will only be able to defend their title if they end in third place of their Copa Libertadores group.
+backgroundcolor: FFFFCC
+message: or competitions. All teams must pass certain eligibility requirements in order to compete, including being in the top division of their member association in 2023.
+wasDerivedFrom: 2023_Copa_Sudamericana?oldid=1124903343&ns=0
+wikiPageLength: 19180
+isPrimaryTopicOf: 2023_Copa_Sudamericana
+	

@@ -1,0 +1,174 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Frankrikes Grand Prix 2022, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: Event
+type: SportsEvent
+type: Event
+type: SocietalEvent
+type: Q1656682
+type: Event
+type: GrandPrix
+type: SportsEvent
+label: 2022 French Grand Prix
+comment: The 2022 French Grand Prix (officially known as the Formula 1 Lenovo Grand Prix de France 2022) was a Formula One motor race held on 24 July 2022 at the Circuit Paul Ricard in Le Castellet, France. Going into the race with 2 consecutive wins for Ferrari and a solid qualifying performance that saw him in pole position, championship challenger Charles Leclerc and Ferrari were favoured for the win, which would have reduced their arrears to the championship leader and title holder Max Verstappen. However, Leclerc, who had been leading the race, spun out on lap 18, gifting the win to Verstappen. Mercedes drivers Lewis Hamilton and George Russell finished second and third, respectively, giving the team their first double podium of the season.
+seeAlso: 2022_Formula_One_World_Championship
+name: Formula 1 LenovoGrand Prix de France2022
+depiction: Le_Castellet_circuit_map_Formula_One_2019_and_2021_with_corner_names_English_19_07_2021.svg
+depiction: 2022_French_Grand_Prix_(52279025006).png
+depiction: 1downarrow_red.svg
+depiction: 1rightarrow_blue.svg
+depiction: 1uparrow_green.svg
+location: Provence-Alpes-Côte_d'Azur
+location: Circuit_Paul_Ricard
+location: France
+location: Le_Castellet,_Var
+subject: Category:2022_Formula_One_races
+subject: Category:2022_in_French_motorsport
+subject: Category:July_2022_sports_events_in_France
+subject: Category:French_Grand_Prix
+wikiPageID: 63732610
+wikiPageRevisionID: 1125013330
+wikiPageWikiLink: Carlos_Sainz_Jr.
+wikiPageWikiLink: Provence-Alpes-Côte_d'Azur
+wikiPageWikiLink: Saudi_Aramco
+wikiPageWikiLink: 2022_Le_Castellet_Formula_2_round
+wikiPageWikiLink: Category:2022_Formula_One_races
+wikiPageWikiLink: Category:2022_in_French_motorsport
+wikiPageWikiLink: Category:July_2022_sports_events_in_France
+wikiPageWikiLink: Renault_in_Formula_One
+wikiPageWikiLink: Robert_Kubica
+wikiPageWikiLink: Valtteri_Bottas
+wikiPageWikiLink: Virtual_safety_car
+wikiPageWikiLink: 107%25_rule
+wikiPageWikiLink: Max_Verstappen
+wikiPageWikiLink: McLaren
+wikiPageWikiLink: Safety_car
+wikiPageWikiLink: Circuit_Paul_Ricard
+wikiPageWikiLink: French_Grand_Prix
+wikiPageWikiLink: George_Russell_(racing_driver)
+wikiPageWikiLink: Grand_Prix_Drivers'_Association
+wikiPageWikiLink: Category:French_Grand_Prix
+wikiPageWikiLink: Lewis_Hamilton
+wikiPageWikiLink: Yuki_Tsunoda
+wikiPageWikiLink: Zhou_Guanyu
+wikiPageWikiLink: Williams_Grand_Prix_Engineering
+wikiPageWikiLink: 2021_French_Grand_Prix
+wikiPageWikiLink: 2022_Austrian_Grand_Prix
+wikiPageWikiLink: 2022_European_heat_waves
+wikiPageWikiLink: 2022_Formula_One_World_Championship
+wikiPageWikiLink: 2022_Hungarian_Grand_Prix
+wikiPageWikiLink: Alex_Albon
+wikiPageWikiLink: Alexander_Albon
+wikiPageWikiLink: Alfa_Romeo_in_Formula_One
+wikiPageWikiLink: Alpine_F1_Team
+wikiPageWikiLink: Daniel_Ricciardo
+wikiPageWikiLink: Esteban_Ocon
+wikiPageWikiLink: Fernando_Alonso
+wikiPageWikiLink: Formula_One
+wikiPageWikiLink: France
+wikiPageWikiLink: Nicholas_Latifi
+wikiPageWikiLink: Central_European_Summer_Time
+wikiPageWikiLink: Fastest_lap
+wikiPageWikiLink: Haas_F1_Team
+wikiPageWikiLink: Aston_Martin_in_Formula_One
+wikiPageWikiLink: Charles_Leclerc
+wikiPageWikiLink: Kevin_Magnussen
+wikiPageWikiLink: Lance_Stroll
+wikiPageWikiLink: Lando_Norris
+wikiPageWikiLink: Le_Castellet,_Var
+wikiPageWikiLink: Pierre_Gasly
+wikiPageWikiLink: Pirelli
+wikiPageWikiLink: Mercedes_F1
+wikiPageWikiLink: Mercedes-Benz_in_Formula_One
+wikiPageWikiLink: Mercedes_AMG_High_Performance_Powertrains
+wikiPageWikiLink: Mick_Schumacher
+wikiPageWikiLink: Nyck_de_Vries
+wikiPageWikiLink: Red_Bull_Powertrains
+wikiPageWikiLink: Red_Bull_Racing
+wikiPageWikiLink: Scuderia_AlphaTauri
+wikiPageWikiLink: Scuderia_Ferrari
+wikiPageWikiLink: Sebastian_Vettel
+wikiPageWikiLink: Sergio_Pérez
+wikiPageWikiLink: FIA
+wikiPageWikiLink: File:1rightarrow_blue.svg
+wikiPageWikiLink: File:1uparrow_green.svg
+wikiPageWikiLink: File:1downarrow_red.svg
+wikiPageWikiLink: File:2022_French_Grand_Prix_(52279025006).png
+thumbnail: Le_Castellet_circuit_map_Formula_One_2019_and_2021_with_corner_names_English_19_07_2021.svg?width=300
+nextRound: 2022
+previousRound: 2022
+poleTime: 1
+attendance: 200000
+caption: Layout of the Circuit Paul Ricard
+country: France
+course: Permanent racing circuit
+date: --07-24
+grandPrix: French
+location: Circuit_Paul_Ricard
+location: Le Castellet, Provence-Alpes-Côte d'Azur, France
+officialName: Formula 1 Lenovo Grand Prix de France 2022
+type: F1
+year: 2022
+courseKm: 5.842
+courseMi: 3.63
+distanceKm: 309.626
+distanceLaps: 53
+distanceMi: 192.432
+fastCountry: ESP
+fastDriver: Carlos_Sainz_Jr.
+fastTeam: Scuderia_Ferrari
+fastTime: 1
+firstCountry: NED
+firstDriver: Max_Verstappen
+firstTeam: Red_Bull_Powertrains
+firstTeam: Red_Bull_Racing
+nameOfRace: French_Grand_Prix
+nextRaceInSeason: 2022
+nextYear'sRace: None
+previousRaceInSeason: 2022
+previousYear'sRace: 2021
+secondCountry: GBR
+secondDriver: Lewis_Hamilton
+secondTeam: Mercedes-Benz_in_Formula_One
+thirdCountry: GBR
+thirdDriver: George_Russell_(racing_driver)
+thirdTeam: Mercedes-Benz_in_Formula_One
+yearOfRace: 2022
+poleCountry: MON
+poleDriver: Charles_Leclerc
+poleTeam: Scuderia_Ferrari
+raceNo: 12
+seasonNo: 22
+weather: Sunny
+fastLap: 51
+abstract: The 2022 French Grand Prix (officially known as the Formula 1 Lenovo Grand Prix de France 2022) was a Formula One motor race held on 24 July 2022 at the Circuit Paul Ricard in Le Castellet, France. Going into the race with 2 consecutive wins for Ferrari and a solid qualifying performance that saw him in pole position, championship challenger Charles Leclerc and Ferrari were favoured for the win, which would have reduced their arrears to the championship leader and title holder Max Verstappen. However, Leclerc, who had been leading the race, spun out on lap 18, gifting the win to Verstappen. Mercedes drivers Lewis Hamilton and George Russell finished second and third, respectively, giving the team their first double podium of the season. The race was arguably a turning point in the season, as Verstappen and Red Bull powered on to a streak of victories that saw them become Champions, whilst Ferrari never recovered from the points and pace deficit that arose over the remainder of the season, a fact highlighted by the Monegasque driver's scream of despair and frustration after crashing out.
+wasDerivedFrom: 2022_French_Grand_Prix?oldid=1125013330&ns=0
+course: 5.84191872
+course: 5.842
+distance: 309.626
+distance: 309.689284608
+wikiPageLength: 33519
+course: 5841.92
+course: 5842.0
+distance: 309626.0
+distance: 309689.0
+distanceLaps: 53
+country: France
+fastestDriver: Carlos_Sainz_Jr.
+fastestDriverTeam: Scuderia_Ferrari
+firstDriver: Max_Verstappen
+firstDriverTeam: Red_Bull_Racing
+poleDriver: Charles_Leclerc
+poleDriverTeam: Scuderia_Ferrari
+secondDriver: Lewis_Hamilton
+secondTeam: Mercedes-Benz_in_Formula_One
+thirdDriver: George_Russell_(racing_driver)
+thirdTeam: Mercedes-Benz_in_Formula_One
+isPrimaryTopicOf: 2022_French_Grand_Prix
+	

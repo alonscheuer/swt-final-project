@@ -1,0 +1,189 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Rättegången mellan Johnny Depp och Amber Heard, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	label: Depp v. Heard
+comment: John C. Depp, II v. Amber Laura Heard was a trial held in Fairfax County, Virginia, from April 11 to June 1, 2022, that ruled on allegations of defamation between formerly married American actors Johnny Depp and Amber Heard. Depp, as plaintiff, filed a complaint of defamation against defendant Heard claiming $50 million in damages; Heard filed counterclaims against Depp claiming $100 million in damages.
+name: Depp v. Heard
+depiction: Seal_of_Virginia.svg
+depiction: Johnny_Depp_Alice_Through_the_Looking_Glass_premiere.jpg
+depiction: Amber_Heard_by_Gage_Skidmore_(cropped).jpg
+subject: Category:2022_in_American_law
+subject: Category:April_2022_events_in_the_United_States
+subject: Category:May_2022_events_in_the_United_States
+subject: Category:Domestic_violence_in_the_United_States
+subject: Category:United_States_defamation_case_law
+subject: Category:2022_in_women's_history
+subject: Category:2022_in_Virginia
+subject: Category:The_Washington_Post
+subject: Category:Legal_history_of_Virginia
+subject: Category:Johnny_Depp
+subject: Category:2020s_trials
+subject: Category:History_of_women_in_Virginia
+wikiPageID: 70542685
+wikiPageRevisionID: 1124555380
+wikiPageWikiLink: Camille_Vasquez
+wikiPageWikiLink: Category:2022_in_American_law
+wikiPageWikiLink: Roberta_Kaplan
+wikiPageWikiLink: Ron_Schnell
+wikiPageWikiLink: Non-disclosure_agreement
+wikiPageWikiLink: Category:April_2022_events_in_the_United_States
+wikiPageWikiLink: Category:May_2022_events_in_the_United_States
+wikiPageWikiLink: Debra_Katz
+wikiPageWikiLink: Defamation
+wikiPageWikiLink: Depp_v_News_Group_Newspapers_Ltd
+wikiPageWikiLink: Category:Domestic_violence_in_the_United_States
+wikiPageWikiLink: Category:United_States_defamation_case_law
+wikiPageWikiLink: Johnny_Depp
+wikiPageWikiLink: Joshua_Tree_National_Park
+wikiPageWikiLink: Paul_Bettany
+wikiPageWikiLink: Paula_Todd
+wikiPageWikiLink: Republican_Party_(United_States)
+wikiPageWikiLink: Restraining_order
+wikiPageWikiLink: DARVO
+wikiPageWikiLink: United_Talent_Agency
+wikiPageWikiLink: Vanity_Fair_(magazine)
+wikiPageWikiLink: Vice_(magazine)
+wikiPageWikiLink: Violence_Against_Women_Act
+wikiPageWikiLink: Defendant
+wikiPageWikiLink: Category:2022_in_women's_history
+wikiPageWikiLink: Domestic_violence_against_men
+wikiPageWikiLink: Eastern_Columbia_Building
+wikiPageWikiLink: Intimate_partner_violence
+wikiPageWikiLink: Propaganda
+wikiPageWikiLink: Penney_S._Azcarate
+wikiPageWikiLink: Category:2022_in_Virginia
+wikiPageWikiLink: Confirmation_bias
+wikiPageWikiLink: MeToo
+wikiPageWikiLink: Generation_Z
+wikiPageWikiLink: Op-ed
+wikiPageWikiLink: Opening_statement
+wikiPageWikiLink: Circuit_Court
+wikiPageWikiLink: Ellen_Barkin
+wikiPageWikiLink: Elon_Musk
+wikiPageWikiLink: Gamergate_(harassment_campaign)
+wikiPageWikiLink: Good_Morning_America
+wikiPageWikiLink: The_New_York_Times
+wikiPageWikiLink: The_Rum_Diary_(film)
+wikiPageWikiLink: The_Sun_(United_Kingdom)
+wikiPageWikiLink: The_Talented_Mr._Ripley_(film)
+wikiPageWikiLink: The_Washington_Post
+wikiPageWikiLink: Damages
+wikiPageWikiLink: Category:The_Washington_Post
+wikiPageWikiLink: Andrew_Nicol_(judge)
+wikiPageWikiLink: Aquaman_(film)
+wikiPageWikiLink: Chilling_effect
+wikiPageWikiLink: Sky_News
+wikiPageWikiLink: Sky_News_Australia
+wikiPageWikiLink: Snopes
+wikiPageWikiLink: Closing_argument
+wikiPageWikiLink: Pro_hac_vice
+wikiPageWikiLink: MeToo_movement
+wikiPageWikiLink: Bahamas
+wikiPageWikiLink: BuzzFeed_News
+wikiPageWikiLink: Actual_malice
+wikiPageWikiLink: TikTok
+wikiPageWikiLink: Time's_Up_(organization)
+wikiPageWikiLink: Toxic_masculinity
+wikiPageWikiLink: Tubi
+wikiPageWikiLink: Twitter
+wikiPageWikiLink: Warner_Bros.
+wikiPageWikiLink: WebMD
+wikiPageWikiLink: Hashtag
+wikiPageWikiLink: Jeremy_W._Peters
+wikiPageWikiLink: Jury_instructions
+wikiPageWikiLink: Jury_selection_in_the_United_States
+wikiPageWikiLink: Jury_sequestration
+wikiPageWikiLink: Livestreaming
+wikiPageWikiLink: 2022_Russian_invasion_of_Ukraine
+wikiPageWikiLink: Category:Legal_history_of_Virginia
+wikiPageWikiLink: Alt-right
+wikiPageWikiLink: Amber_Heard
+wikiPageWikiLink: American_Civil_Liberties_Union
+wikiPageWikiLink: Curtis_Publishing_Co._v._Butts
+wikiPageWikiLink: DC_Films
+wikiPageWikiLink: Daily_Mail
+wikiPageWikiLink: Dan_Wootton
+wikiPageWikiLink: Category:Johnny_Depp
+wikiPageWikiLink: Facebook
+wikiPageWikiLink: Fairfax_County,_Virginia
+wikiPageWikiLink: Fear_and_Loathing_in_Las_Vegas_(film)
+wikiPageWikiLink: First_Amendment_to_the_United_States_Constitution
+wikiPageWikiLink: Discovery_(law)
+wikiPageWikiLink: Gold_digger
+wikiPageWikiLink: Michele_Dauber
+wikiPageWikiLink: Harvey_Weinstein
+wikiPageWikiLink: James_Franco
+wikiPageWikiLink: Jennifer_Freyd
+wikiPageWikiLink: Tarana_Burke
+wikiPageWikiLink: Counterclaim
+wikiPageWikiLink: Court_of_Appeal_(England_and_Wales)
+wikiPageWikiLink: The_Arizona_Republic
+wikiPageWikiLink: The_Art_of_Elysium
+wikiPageWikiLink: The_Atlantic
+wikiPageWikiLink: The_Daily_Wire
+wikiPageWikiLink: The_Guardian
+wikiPageWikiLink: The_Independent
+wikiPageWikiLink: Category:2020s_trials
+wikiPageWikiLink: Category:History_of_women_in_Virginia
+wikiPageWikiLink: Children's_Hospital_Los_Angeles
+wikiPageWikiLink: Kate_Moss
+wikiPageWikiLink: L'Oréal
+wikiPageWikiLink: TMZ
+wikiPageWikiLink: High_Court_judge_(England_and_Wales)
+wikiPageWikiLink: Dobbs_v._Jackson_Women's_Health_Organization
+wikiPageWikiLink: Domestic_violence
+wikiPageWikiLink: Mary_Anne_Franks
+wikiPageWikiLink: Burden_of_proof_(law)
+wikiPageWikiLink: Civil_law_(legal_system)
+wikiPageWikiLink: IO_Tillett_Wright
+wikiPageWikiLink: Instagram
+wikiPageWikiLink: New_York_Times_Co._v._Sullivan
+wikiPageWikiLink: NewsWhip
+wikiPageWikiLink: YouTube
+wikiPageWikiLink: Sunny_Hundal
+wikiPageWikiLink: Viral_video
+wikiPageWikiLink: Plaintiff
+wikiPageWikiLink: First_Amendment
+wikiPageWikiLink: Walter_Hamada
+wikiPageWikiLink: Women's_rights
+wikiPageWikiLink: Independent_(United_States)
+wikiPageWikiLink: Voir_dire
+wikiPageWikiLink: Forensic_psychologist
+wikiPageWikiLink: Plea_in_bar
+wikiPageWikiLink: Substantially_true
+wikiPageExternalLink: https://ffxtrail.azurewebsites.net/
+wikiPageExternalLink: high-profile-cases
+wikiPageExternalLink: https://web.archive.org/web/20220526180427/https:/ffxtrail.azurewebsites.net/
+wikiPageExternalLink: 71fd876a-02ed-11e9-b5df-5d3874f1ac36_story.html
+wikiPageExternalLink: playlist%3Flist=PLG8IrydigQfdKsFYAX-qaHwZD6wCVHplF
+wikiPageExternalLink: playlist%3Flist=PLoW1SIeAWaWb1IDY_WuLKvZygiJudUBSd
+thumbnail: Seal_of_Virginia.svg?width=300
+court: Fairfax County Circuit Court
+date: 2022-05-26
+footer: Johnny Depp  and Amber Heard
+fullName: John C. Depp, II v. Amber Laura Heard
+image: Amber Heard by Gage Skidmore .jpg
+image: Johnny Depp Alice Through the Looking Glass premiere.jpg
+imagesize: 100
+judges: Penney_S._Azcarate
+judges: .
+startDate: 2022-04-11
+url: https://web.archive.org/web/20220526180427/https:/ffxtrail.azurewebsites.net/
+width: 160
+width: 162
+verdict: Depp's complaint:
+verdict: Heard was found liable in all three matters of defamation raised. Depp was awarded $10 million  in compensatory damages and $5 million in punitive damages .
+
+Heard's counterclaims:
+verdict: Depp was found liable in one of three matters of defamation raised and Heard was awarded $2 million  in compensatory damages.
+abstract: MeToo movement, and women's rights. The jury ruled that Heard's to "sexual violence" and "domestic abuse" were false and defamed Depp with actual malice and awarded Depp $10 million in compensatory damages and $5 million in punitive damages from Heard, although the court reduced the punitive damages to $350,000 due to a limit imposed by Virginia state law. They also ruled that Waldman had defamed Heard by falsely alleging that she and her friends "roughed up" Depp's penthouse as part of a "hoax." They awarded Heard $2 million in compensatory damages and $0 in punitive damages from Depp. Separately, the jury ruled that Waldman's other allegations of Heard's "sexual violence hoax" and "abuse hoax" against Depp had not been proven defamatory.
+dateDecided: 2022-06-01
+wasDerivedFrom: Depp_v._Heard?oldid=1124555380&ns=0
+wikiPageLength: 147647
+isPrimaryTopicOf: Depp_v._Heard
+	

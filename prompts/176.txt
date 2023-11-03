@@ -1,0 +1,167 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Alpin skidåkning vid olympiska vinterspelen 2022, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: Event
+type: SportsEvent
+type: Event
+type: SocietalEvent
+type: Q1656682
+type: OlympicEvent
+type: Event
+type: Olympics
+type: SportsEvent
+label: Alpine skiing at the 2022 Winter Olympics
+comment: Alpine skiing at the 2022 Winter Olympics was held at the Yanqing National Alpine Ski Centre in Yanqing District, China. The competitions took place from 6 to 20 February 2022. Speed events were held on "Rock" course and technical events on "Ice River" course, for both men and women. Team event was held on "Rainbow." A total of 306 quota spots (153 per gender) were distributed to the alpine skiing, a reduction of 14 from 2018. Eleven events were contested: five for men, five for women, and one mixed (team).
+homepage: DigitalCollectionAttachmentDownloadHandler.ashx%3FparentDocumentId=1568639&documentId=1568642
+depiction: Alpine_skiing_pictogram.svg
+subject: Category:2022_in_alpine_skiing
+subject: Category:2022_Winter_Olympics_events
+subject: Category:Alpine_skiing_at_the_2022_Winter_Olympics
+subject: Category:Alpine_skiing_at_the_Winter_Olympics
+subject: Category:Alpine_skiing_competitions_in_China
+wikiPageID: 68265304
+wikiPageRevisionID: 1094995696
+wikiPageWikiLink: Sara_Hector
+wikiPageWikiLink: National_Olympic_Committee
+wikiPageWikiLink: Category:2022_in_alpine_skiing
+wikiPageWikiLink: Beat_Feuz
+wikiPageWikiLink: Julian_Rauchfuß
+wikiPageWikiLink: Petra_Vlhová
+wikiPageWikiLink: Coordinated_Universal_Time
+wikiPageWikiLink: Corinne_Suter
+wikiPageWikiLink: Mathieu_Faivre
+wikiPageWikiLink: Matthias_Mayer
+wikiPageWikiLink: Ryan_Cochran-Siegle
+wikiPageWikiLink: Clément_Noël
+wikiPageWikiLink: Emma_Aicher
+wikiPageWikiLink: Mirjam_Puchner
+wikiPageWikiLink: Nadia_Delago
+wikiPageWikiLink: Thea_Louise_Stjernesund
+wikiPageWikiLink: Lena_Dürr
+wikiPageWikiLink: Linus_Straßer
+wikiPageWikiLink: Stefan_Brennsteiner
+wikiPageWikiLink: Žan_Kranjec
+wikiPageWikiLink: Ice_River_(ski_course)
+wikiPageWikiLink: Wendy_Holdener
+wikiPageWikiLink: 2022_Winter_Olympics
+wikiPageWikiLink: Aleksander_Aamodt_Kilde
+wikiPageWikiLink: Alexander_Schmid
+wikiPageWikiLink: Alpine_skiing_at_the_2022_Winter_Olympics_–_Men's_combined
+wikiPageWikiLink: Alpine_skiing_at_the_2022_Winter_Olympics_–_Men's_downhill
+wikiPageWikiLink: Alpine_skiing_at_the_2022_Winter_Olympics_–_Men's_giant_slalom
+wikiPageWikiLink: Alpine_skiing_at_the_2022_Winter_Olympics_–_Men's_slalom
+wikiPageWikiLink: Alpine_skiing_at_the_2022_Winter_Olympics_–_Men's_super-G
+wikiPageWikiLink: Alpine_skiing_at_the_2022_Winter_Olympics_–_Women's_combined
+wikiPageWikiLink: Alpine_skiing_at_the_2022_Winter_Olympics_–_Women's_downhill
+wikiPageWikiLink: Alpine_skiing_at_the_2022_Winter_Olympics_–_Women's_giant_slalom
+wikiPageWikiLink: Alpine_skiing_at_the_2022_Winter_Olympics_–_Women's_slalom
+wikiPageWikiLink: Alpine_skiing_at_the_2022_Winter_Olympics_–_Women's_super-G
+wikiPageWikiLink: Alpine_skiing_at_the_Winter_Olympics
+wikiPageWikiLink: Alpine_skiing_at_the_2018_Winter_Olympics
+wikiPageWikiLink: Alpine_skiing_at_the_2022_Winter_Olympics_–_Mixed_team
+wikiPageWikiLink: Category:2022_Winter_Olympics_events
+wikiPageWikiLink: Category:Alpine_skiing_at_the_2022_Winter_Olympics
+wikiPageWikiLink: Category:Alpine_skiing_at_the_Winter_Olympics
+wikiPageWikiLink: Category:Alpine_skiing_competitions_in_China
+wikiPageWikiLink: Fabian_Wilkens_Solheim
+wikiPageWikiLink: Federica_Brignone
+wikiPageWikiLink: Genting_Snow_Park
+wikiPageWikiLink: James_Crawford_(alpine_skier)
+wikiPageWikiLink: China
+wikiPageWikiLink: Johan_Clarey
+wikiPageWikiLink: Johannes_Strolz
+wikiPageWikiLink: Katharina_Huber
+wikiPageWikiLink: Katharina_Liensberger
+wikiPageWikiLink: Katharina_Truppe
+wikiPageWikiLink: Lara_Gut-Behrami
+wikiPageWikiLink: Timon_Haugan
+wikiPageWikiLink: Marco_Odermatt
+wikiPageWikiLink: Maria_Therese_Tviberg
+wikiPageWikiLink: Sofia_Goggia
+wikiPageWikiLink: Michael_Matt
+wikiPageWikiLink: Michelle_Gisin
+wikiPageWikiLink: Mina_Fürst_Holtmann
+wikiPageWikiLink: Rasmus_Windingstad
+wikiPageWikiLink: Sebastian_Foss-Solevåg
+wikiPageWikiLink: Yanqing_District
+wikiPageWikiLink: Yanqing_National_Alpine_Skiing_Centre
+wikiPageWikiLink: Rock_(ski_course)
+wikiPageWikiLink: Time_in_China
+wikiPageWikiLink: UTC+8
+wikiPageWikiLink: File:Alpine_skiing_pictogram.svg
+wikiPageExternalLink: DigitalCollectionAttachmentDownloadHandler.ashx%3FparentDocumentId=1568639&documentId=1568642
+silverSlo: 1
+thumbnail: Alpine_skiing_pictogram.svg?width=300
+bronzeFra: 1
+bronzeGer: 0
+bronzeIta: 2
+bronzeNor: 3
+bronzeSvk: 0
+bronzeSwe: 0
+bronzeUsa: 0
+caption: Alpine skiing pictogram
+caption: Locations in China
+dates: --02-20
+event: 2022
+event: Alpine skiing
+flagTemplate: flagIOC
+float: right
+goldFra: 1
+goldGer: 0
+goldIta: 0
+goldNor: 0
+goldSvk: 1
+goldSwe: 1
+goldUsa: 0
+label: (Xiaohaituo)
+latDeg: 40
+latMin: 32
+lonDeg: 115
+lonMin: 48
+next: 2026
+pos: top
+prev: 2018
+relief: yes
+silverFra: 1
+silverGer: 1
+silverIta: 2
+silverNor: 1
+silverSvk: 0
+silverSwe: 0
+silverUsa: 1
+venue: Yanqing_District
+venue: Yanqing_National_Alpine_Skiing_Centre
+venue: "Ice River" ,
+venue: "Rainbow" ,
+venue: "Rock" ,
+width: 220
+bronzeCan: 1
+goldCan: 0
+silverCan: 0
+latSec: 30
+lonSec: 9
+bronzeAut: 1
+bronzeSui: 3
+games: 2022
+goldAut: 3
+goldSui: 5
+marksize: 5
+silverAut: 3
+silverSui: 1
+abstract: Alpine skiing at the 2022 Winter Olympics was held at the Yanqing National Alpine Ski Centre in Yanqing District, China. The competitions took place from 6 to 20 February 2022. Speed events were held on "Rock" course and technical events on "Ice River" course, for both men and women. Team event was held on "Rainbow." A total of 306 quota spots (153 per gender) were distributed to the alpine skiing, a reduction of 14 from 2018. Eleven events were contested: five for men, five for women, and one mixed (team).
+bronzeSlo: 0
+goldSlo: 0
+numEvents: 11
+wasDerivedFrom: Alpine_skiing_at_the_2022_Winter_Olympics?oldid=1094995696&ns=0
+wikiPageLength: 19797
+games: 2022 Winter
+event: Alpine_skiing_at_the_Winter_Olympics
+previousEvent: Alpine_skiing_at_the_2018_Winter_Olympics
+isPrimaryTopicOf: Alpine_skiing_at_the_2022_Winter_Olympics
+	

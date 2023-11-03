@@ -1,0 +1,185 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Fotbollstragedin på östra Java, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: SpatialThing
+label: Kanjuruhan Stadium disaster
+comment: On 1 October 2022, a fatal human crush occurred following an association football match at Kanjuruhan Stadium in Malang Regency, East Java, Indonesia. Following a loss by home side Arema to rivals Persebaya Surabaya, around 3,000 Arema supporters invaded the pitch. Police said the rioting supporters attacked the players and the team officials. The police attempted to protect the players and stop the riot but the crowds clashed with the security forces. In response, riot police units deployed tear gas, which triggered a stampede of people in the stadium trying to escape from the effects of the gas. A crush formed at an exit, resulting in fans being asphyxiated.
+lat: -2.0
+long: 110.0
+depiction: Banner_in_Malang_after_Kanjuruhan_Disaster.jpg
+depiction: Early_pitch_invasion_at_Kanjuruhan_Stadium_before_stampede_-_ANTARA_TV.jpg
+depiction: Funeral_Procession_for_One_of_the_Victims_of_the_Kanjuruhan_Stadium_Stampede_in_Nglegok,_Blitar,_East_Java.jpg
+depiction: Gate_13_kanjuruhan_1.png
+depiction: Kanjuruhan_disaster_tear_gas_trajectory.jpg
+depiction: South_stand_after_tear_gas_fired_in_to_the_crowd_-_Narasi_TV.jpg
+depiction: Visit_of_the_Chief_of_Indonesian_National_Police,_Minister_of_Youth_and_Sports_Affairs,_East_Java_Governor,_and_FAI_President_at_Kanjuruhan_Stadium.jpg
+subject: Category:Crowd_collapses_and_crushes
+subject: Category:Riots_and_civil_disorder_in_Indonesia
+subject: Category:2020s_in_Java
+subject: Category:2022_disasters_in_Indonesia
+subject: Category:Controversies_in_Indonesia
+subject: Category:Human_stampedes_in_2022
+subject: Category:Man-made_disasters_in_Indonesia
+subject: Category:History_of_East_Java
+subject: Category:Association_football_controversies
+subject: Category:Association_football_riots
+subject: Category:Stadium_disasters
+subject: Category:Arema_F.C.
+subject: Category:Human_stampedes_in_Asia
+subject: Category:October_2022_events_in_Indonesia
+subject: Category:Persebaya_Surabaya
+subject: Category:2022_in_Indonesian_football
+wikiPageID: 71890108
+wikiPageRevisionID: 1124914166
+wikiPageWikiLink: Camilla,_Queen_Consort
+wikiPageWikiLink: President_of_Germany
+wikiPageWikiLink: Category:Crowd_collapses_and_crushes
+wikiPageWikiLink: Category:Riots_and_civil_disorder_in_Indonesia
+wikiPageWikiLink: Category:2020s_in_Java
+wikiPageWikiLink: Category:2022_disasters_in_Indonesia
+wikiPageWikiLink: Category:Controversies_in_Indonesia
+wikiPageWikiLink: Category:Human_stampedes_in_2022
+wikiPageWikiLink: Category:Man-made_disasters_in_Indonesia
+wikiPageWikiLink: Basuki_Hadimuljono
+wikiPageWikiLink: Behind_closed_doors_(sport)
+wikiPageWikiLink: Borussia_Dortmund
+wikiPageWikiLink: Aremania
+wikiPageWikiLink: Joko_Widodo
+wikiPageWikiLink: List_of_human_stampedes_and_crushes
+wikiPageWikiLink: Listyo_Sigit_Prabowo
+wikiPageWikiLink: Armoured_personnel_carriers
+wikiPageWikiLink: People's_Representative_Council
+wikiPageWikiLink: Persebaya_Surabaya
+wikiPageWikiLink: Persib_Bandung
+wikiPageWikiLink: Time_in_Indonesia
+wikiPageWikiLink: Category:History_of_East_Java
+wikiPageWikiLink: Coordinated_Universal_Time
+wikiPageWikiLink: Negligence
+wikiPageWikiLink: Police_misconduct
+wikiPageWikiLink: Frank-Walter_Steinmeier
+wikiPageWikiLink: Gianni_Infantino
+wikiPageWikiLink: Minister_of_Youth_and_Sports_(Malaysia)
+wikiPageWikiLink: Ministry_of_State_Owned_Enterprises_(Indonesia)
+wikiPageWikiLink: Mobile_Brigade_Corps
+wikiPageWikiLink: Crowd_collapses_and_crushes
+wikiPageWikiLink: The_Washington_Post
+wikiPageWikiLink: Category:Association_football_controversies
+wikiPageWikiLink: Category:Association_football_riots
+wikiPageWikiLink: Category:Stadium_disasters
+wikiPageWikiLink: Category:Arema_F.C.
+wikiPageWikiLink: Category:Human_stampedes_in_Asia
+wikiPageWikiLink: Andika_Perkasa
+wikiPageWikiLink: Liga_1_(Indonesia)
+wikiPageWikiLink: Liga_2_(Indonesia)
+wikiPageWikiLink: Liga_3_(Indonesia)
+wikiPageWikiLink: Liverpool_F.C.
+wikiPageWikiLink: Mahfud_MD
+wikiPageWikiLink: Malang_Regency
+wikiPageWikiLink: Manchester_City_F.C.
+wikiPageWikiLink: Manchester_United_F.C.
+wikiPageWikiLink: Closed-circuit_television
+wikiPageWikiLink: Zainudin_Amali
+wikiPageWikiLink: Riot_police
+wikiPageWikiLink: Stampede
+wikiPageWikiLink: Tear_gas
+wikiPageWikiLink: Bantul_Regency
+wikiPageWikiLink: Category:October_2022_events_in_Indonesia
+wikiPageWikiLink: UEFA
+wikiPageWikiLink: UEFA_Champions_League
+wikiPageWikiLink: UEFA_Europa_Conference_League
+wikiPageWikiLink: UEFA_Europa_League
+wikiPageWikiLink: 2022_Gelora_Bandung_Lautan_Api_stampede
+wikiPageWikiLink: 2022–23_Liga_1_(Indonesia)
+wikiPageWikiLink: 2023_AFC_U-17_Asian_Cup_qualification
+wikiPageWikiLink: 2023_FIFA_U-20_World_Cup
+wikiPageWikiLink: A-League_Men
+wikiPageWikiLink: Ahmad_Faizal_Azumu
+wikiPageWikiLink: Ahmad_Sahroni
+wikiPageWikiLink: Eredivisie
+wikiPageWikiLink: Erick_Thohir
+wikiPageWikiLink: Estadio_Nacional_disaster
+wikiPageWikiLink: FC_Barcelona
+wikiPageWikiLink: FC_Bayern_Munich
+wikiPageWikiLink: FC_Viktoria_Plzeň
+wikiPageWikiLink: FIFA
+wikiPageWikiLink: Football_Association_of_Indonesia
+wikiPageWikiLink: Football_hooliganism
+wikiPageWikiLink: Forensic_video_analysis
+wikiPageWikiLink: Category:Persebaya_Surabaya
+wikiPageWikiLink: Heysel_Stadium_disaster
+wikiPageWikiLink: Hillsborough_disaster
+wikiPageWikiLink: Itaewon
+wikiPageWikiLink: J.League
+wikiPageWikiLink: Risk–benefit_analysis
+wikiPageWikiLink: Category:2022_in_Indonesian_football
+wikiPageWikiLink: Arema_F.C.
+wikiPageWikiLink: Asian_Football_Confederation
+wikiPageWikiLink: Chancellor_of_Germany
+wikiPageWikiLink: Charles_III
+wikiPageWikiLink: Chelsea_F.C.
+wikiPageWikiLink: Kanjuruhan_Stadium
+wikiPageWikiLink: Kepanjen,_Malang
+wikiPageWikiLink: Khofifah_Indar_Parawansa
+wikiPageWikiLink: Super_East_Java_Derby
+wikiPageWikiLink: Super_East_Java_derby
+wikiPageWikiLink: Autopsy
+wikiPageWikiLink: Pitch_invasion
+wikiPageWikiLink: Port_Said_Stadium_riot
+wikiPageWikiLink: South_Korea
+wikiPageWikiLink: Special_Region_of_Yogyakarta
+wikiPageWikiLink: Indonesian_Army
+wikiPageWikiLink: Indonesian_National_Armed_Forces
+wikiPageWikiLink: Indonesian_National_Police
+wikiPageWikiLink: Indonesian_rupiah
+wikiPageWikiLink: Merdeka_Palace
+wikiPageWikiLink: National_Commission_on_Human_Rights_(Indonesia)
+wikiPageWikiLink: National_Research_and_Innovation_Agency
+wikiPageWikiLink: Next_of_kin
+wikiPageWikiLink: Olaf_Scholz
+wikiPageWikiLink: Seoul
+wikiPageWikiLink: Seoul_Halloween_crowd_crush
+wikiPageWikiLink: Flare
+wikiPageWikiLink: LaLiga
+wikiPageWikiLink: Kompas.com
+wikiPageWikiLink: Asphyxiation
+wikiPageWikiLink: File:Banner_in_Malang_after_Kanjuruhan_Disaster.jpg
+wikiPageWikiLink: File:Funeral_Procession_for_One_of_the_Victims_of_the_Kanjuruhan_Stadium_Stampede_in_Nglegok,_Blitar,_East_Java.jpg
+wikiPageWikiLink: File:Gate_13_kanjuruhan_1.png
+wikiPageWikiLink: File:Kanjuruhan_disaster_tear_gas_trajectory.jpg
+wikiPageWikiLink: File:South_stand_after_tear_gas_fired_in_to_the_crowd_-_Narasi_TV.jpg
+wikiPageWikiLink: File:Visit_of_the_Chief_of_Indonesian_National_Police,_Minister_of_Youth_and_Sports_Affairs,_East_Java_Governor,_and_FAI_President_at_Kanjuruhan_Stadium.jpg
+wikiPageExternalLink: ada-14928-penonton-di-area-terlarang-kanjuruhan
+wikiPageExternalLink: https://www.newmandala.org/the-kanjuruhan-catastrophe-a-mirror-of-indonesias-tumultuous-football-politics/
+wikiPageExternalLink: https://narasi.tv/
+wikiPageExternalLink: represivitas-aparat-dalam-peristiwa-kanjuruhan-tanggung-jawab-siapa
+thumbnail: Early_pitch_invasion_at_Kanjuruhan_Stadium_before_stampede_-_ANTARA_TV.jpg?width=300
+caption: Security officials and police forcing supporters off the ground
+date: 2022-10-01
+fatalities: 135
+injuries: 583
+location: Kanjuruhan Stadium, Malang Regency, East Java, Indonesia
+title: Kanjuruhan Stadium disaster
+type: Negligence
+type: Police_misconduct
+type: Crowd_collapses_and_crushes
+type: Football_hooliganism
+point: -2.0 110.0
+accused: Abdul Haris
+accused: Ahmad Hadi Lukita
+accused: Bambang Sidik Achmadi
+accused: Hasdarman
+accused: Suko Sutrisno
+accused: Wahyu S. Wahyu
+charges: Negligence of tear gas usage rule
+charges: Violation of the stadium's safety rules
+abstract: On 1 October 2022, a fatal human crush occurred following an association football match at Kanjuruhan Stadium in Malang Regency, East Java, Indonesia. Following a loss by home side Arema to rivals Persebaya Surabaya, around 3,000 Arema supporters invaded the pitch. Police said the rioting supporters attacked the players and the team officials. The police attempted to protect the players and stop the riot but the crowds clashed with the security forces. In response, riot police units deployed tear gas, which triggered a stampede of people in the stadium trying to escape from the effects of the gas. A crush formed at an exit, resulting in fans being asphyxiated. As of 24 October, 135 people were killed, and 583 others were injured. The disaster is the second deadliest in the history of association football worldwide, after the 1964 Estadio Nacional disaster in Peru which killed 328 people. Thus, it is the deadliest in Asia, Indonesia, and the eastern hemisphere. On 6 October 2022, Indonesian police chief Listyo Sigit Prabowo announced six suspects: director of the match organizer PT Liga Indonesia Baru (LIB), Arema head of security officer, Arema match organising committee for negligence and three police officers for the use of tear gas.
+wasDerivedFrom: Kanjuruhan_Stadium_disaster?oldid=1124914166&ns=0
+wikiPageLength: 80584
+isPrimaryTopicOf: Kanjuruhan_Stadium_disaster
+geometry: POINT(110 -2)
+	

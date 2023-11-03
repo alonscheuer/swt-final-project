@@ -1,0 +1,114 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Asiatiska spelen 2022, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: Event
+type: SportsEvent
+type: Event
+type: SocietalEvent
+type: Q1656682
+type: Event
+type: SportsEvent
+label: 2022 Asian Games
+comment: The 2022 Asian Games (Chinese: 2022年亚洲运动会; pinyin: Èr líng èr èr nián Yàzhōu Yùndònghuì), officially known as the 19th Asian Games (Chinese: 第十九届亚洲运动会; pinyin: Dì Shíjiǔ Jiè Yàzhōu Yùndònghuì), also known as Hangzhou 2022, (Chinese: 杭州2022; pinyin: Hángzhōu Èr líng èr èr), will be a multi-sport event celebrated in Hangzhou, Zhejiang, China. Hangzhou will be the third Chinese city to host the Asian Games, after Beijing in 1990 and Guangzhou in 2010.
+name: XIX Asian Games
+homepage: En
+name: XIX Asian Games
+depiction: Main_Stadium,_Hangzhou_Olympic_Sports_Center,_2019-09-10_01.jpg
+depiction: 2022_Asian_Games_logo.svg
+depiction: 2022_Asian_Games_mascot.jpg
+subject: Category:Asian_Games_by_year
+subject: Category:2022_Asian_Games
+subject: Category:Scheduled_multi-sport_events
+subject: Category:International_sports_competitions_hosted_by_China
+subject: Category:Multi-sport_events_in_China
+subject: Category:Sport_in_Hangzhou
+subject: Category:Sports_events_postponed_due_to_the_COVID-19_pandemic
+wikiPageID: 30364680
+wikiPageRevisionID: 1124519865
+wikiPageWikiLink: Qiantang_River
+wikiPageWikiLink: Category:Asian_Games_by_year
+wikiPageWikiLink: 2010_Asian_Games
+wikiPageWikiLink: 2026_Asian_Games
+wikiPageWikiLink: Category:2022_Asian_Games
+wikiPageWikiLink: Category:Scheduled_multi-sport_events
+wikiPageWikiLink: Beijing
+wikiPageWikiLink: Deqing_County,_Zhejiang
+wikiPageWikiLink: Huzhou
+wikiPageWikiLink: Variants_of_SARS-CoV-2
+wikiPageWikiLink: 1990_Asian_Games
+wikiPageWikiLink: Esports
+wikiPageWikiLink: Esports_at_the_2022_Asian_Games
+wikiPageWikiLink: Grand_Canal_(China)
+wikiPageWikiLink: Multi-sport_event
+wikiPageWikiLink: File:2022_Asian_Games_mascot.jpg
+wikiPageWikiLink: Category:International_sports_competitions_hosted_by_China
+wikiPageWikiLink: Category:Multi-sport_events_in_China
+wikiPageWikiLink: Category:Sport_in_Hangzhou
+wikiPageWikiLink: 2018_Asian_Games
+wikiPageWikiLink: 2020_Summer_Olympics
+wikiPageWikiLink: Liangzhu_culture
+wikiPageWikiLink: Chinese_Olympic_Committee
+wikiPageWikiLink: Street_Fighter_V
+wikiPageWikiLink: Category:Nations_at_the_2022_Asian_Games
+wikiPageWikiLink: COVID-19_pandemic
+wikiPageWikiLink: COVID-19_pandemic_in_China
+wikiPageWikiLink: Wenzhou
+wikiPageWikiLink: West_Lake
+wikiPageWikiLink: 2017_Asian_Winter_Games
+wikiPageWikiLink: 2024_Summer_Olympics
+wikiPageWikiLink: Ningbo
+wikiPageWikiLink: PUBG_Mobile
+wikiPageWikiLink: Guangzhou
+wikiPageWikiLink: Hand_fan
+wikiPageWikiLink: Hangzhou
+wikiPageWikiLink: Hangzhou_Olympic_Sports_Expo_Center
+wikiPageWikiLink: Hearthstone
+wikiPageWikiLink: Category:Sports_events_postponed_due_to_the_COVID-19_pandemic
+wikiPageWikiLink: Arena_of_Valor
+wikiPageWikiLink: Ashgabat
+wikiPageWikiLink: Asian_Games
+wikiPageWikiLink: Jinhua
+wikiPageWikiLink: League_of_Legends
+wikiPageWikiLink: Running_track
+wikiPageWikiLink: Dota_2
+wikiPageWikiLink: Oceania
+wikiPageWikiLink: Olympic_Council_of_Asia
+wikiPageWikiLink: Shaoxing
+wikiPageWikiLink: FIFA_(video_game_series)
+wikiPageWikiLink: National_Olympic_Committees
+wikiPageWikiLink: Huzhou–Hangzhou_high-speed_railway
+wikiPageWikiLink: File:Main_Stadium,_Hangzhou_Olympic_Sports_Center,_2019-09-10_01.jpg
+wikiPageExternalLink: https://www.hangzhou2022.cn/
+wikiPageExternalLink: En
+thumbnail: 2022_Asian_Games_logo.svg?width=300
+events: 482
+c: 2022
+c: 第十九届亚洲运动会
+logo: 2022
+motto: 
+motto: Heart to Heart, @Future
+next: 2026_Asian_Games
+p: Dì Shíjiǔ Jiè Yàzhōu Yùndònghuì
+p: Èr líng èr èr nián Yàzhōu Yùndònghuì
+previous: 2018_Asian_Games
+size: 230
+stadium: Hangzhou_Olympic_Sports_Expo_Center
+title: Hangzhou
+title: Asian Games
+website: En
+years: XIX Asian Games
+hostCity: Hangzhou, China
+closingCeremony: 2023-10-08
+openingCeremony: 2023-09-23
+abstract: The 2022 Asian Games (Chinese: 2022年亚洲运动会; pinyin: Èr líng èr èr nián Yàzhōu Yùndònghuì), officially known as the 19th Asian Games (Chinese: 第十九届亚洲运动会; pinyin: Dì Shíjiǔ Jiè Yàzhōu Yùndònghuì), also known as Hangzhou 2022, (Chinese: 杭州2022; pinyin: Hángzhōu Èr líng èr èr), will be a multi-sport event celebrated in Hangzhou, Zhejiang, China. Hangzhou will be the third Chinese city to host the Asian Games, after Beijing in 1990 and Guangzhou in 2010. The Games were originally scheduled to take place from 10 to 25 September 2022, but the event was postponed due to the COVID-19 pandemic on 6 May due to concerns on travelling to mainland China, amid the potential threat of COVID-19 variants. On 19 July 2022, the new dates were announced to be from 23 September to 8 October 2023.
+wasDerivedFrom: 2022_Asian_Games?oldid=1124519865&ns=0
+wikiPageLength: 17412
+city: Hangzhou
+isPrimaryTopicOf: 2022_Asian_Games
+	

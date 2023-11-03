@@ -1,0 +1,158 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Hastighetsåkning på skridskor vid olympiska vinterspelen 2022, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: Event
+type: SportsEvent
+type: Event
+type: SocietalEvent
+type: Q1656682
+type: OlympicEvent
+type: Event
+type: Olympics
+type: SportsEvent
+label: Speed skating at the 2022 Winter Olympics
+comment: Speed skating at the 2022 Winter Olympics was held at the National Speed Skating Oval ("Ice Ribbon") in Beijing, China between 5 and 19 February 2022. It was the 24th time speed skating was held at the Winter Olympics (17th time for women). A total of 166 quota spots (83 per gender) were distributed to the sport, a decline of 14 from the 2018 Winter Olympics. For the first time, gender equality was achieved in terms of quotas. A total of 14 events were contested, seven for men and seven for women.
+seeAlso: World
+seeAlso: Olympic_records_set_at_the_2022_Winter_Olympics
+homepage: DigitalCollectionAttachmentDownloadHandler.ashx%3FparentDocumentId=1568639&documentId=1568654
+depiction: Speed_skating_pictogram.svg
+subject: Category:2022_in_speed_skating
+subject: Category:Speed_skating_at_the_2022_Winter_Olympics
+subject: Category:Speed_skating_at_the_Winter_Olympics
+subject: Category:2022_Winter_Olympics_events
+subject: Category:International_speed_skating_competitions_hosted_by_China
+wikiPageID: 67653680
+wikiPageRevisionID: 1124796067
+wikiPageWikiLink: Casey_Dawson
+wikiPageWikiLink: 2021–22_ISU_Speed_Skating_World_Cup
+wikiPageWikiLink: Category:2022_in_speed_skating
+wikiPageWikiLink: Bart_Swings
+wikiPageWikiLink: Bart_Veldkamp
+wikiPageWikiLink: Beijing
+wikiPageWikiLink: Davide_Ghiotto
+wikiPageWikiLink: Patrick_Roest
+wikiPageWikiLink: Peder_Kongshaug
+wikiPageWikiLink: Valérie_Maltais
+wikiPageWikiLink: 1992_Winter_Olympics
+wikiPageWikiLink: Ruslan_Zakharov
+wikiPageWikiLink: Chung_Jae-won
+wikiPageWikiLink: Emery_Lehman
+wikiPageWikiLink: Gao_Tingyu
+wikiPageWikiLink: Nana_Takagi
+wikiPageWikiLink: Thomas_Krol
+wikiPageWikiLink: 2018_Winter_Olympics
+wikiPageWikiLink: Angelina_Golikova
+wikiPageWikiLink: Antoinette_de_Jong
+wikiPageWikiLink: Lee_Seung-hoon
+wikiPageWikiLink: Category:Speed_skating_at_the_2022_Winter_Olympics
+wikiPageWikiLink: Category:Speed_skating_at_the_Winter_Olympics
+wikiPageWikiLink: Ayano_Sato_(speed_skater)
+wikiPageWikiLink: Brittany_Bowe
+wikiPageWikiLink: Wataru_Morishige
+wikiPageWikiLink: 2022_Winter_Olympics
+wikiPageWikiLink: Daniil_Aldoshkin
+wikiPageWikiLink: Category:2022_Winter_Olympics_events
+wikiPageWikiLink: Erin_Jackson
+wikiPageWikiLink: Ethan_Cepuran
+wikiPageWikiLink: Francesca_Lollobrigida
+wikiPageWikiLink: Nils_van_der_Poel
+wikiPageWikiLink: List_of_Olympic_records_in_speed_skating
+wikiPageWikiLink: Category:International_speed_skating_competitions_hosted_by_China
+wikiPageWikiLink: Hallgeir_Engebråten
+wikiPageWikiLink: Ireen_Wüst
+wikiPageWikiLink: Irene_Schouten
+wikiPageWikiLink: Isabelle_Weidemann
+wikiPageWikiLink: Ivanie_Blondin
+wikiPageWikiLink: Cha_Min-kyu
+wikiPageWikiLink: China
+wikiPageWikiLink: Joey_Mantia
+wikiPageWikiLink: Jutta_Leerdam
+wikiPageWikiLink: Kim_Min-seok_(speed_skater)
+wikiPageWikiLink: Laurent_Dubreuil
+wikiPageWikiLink: Sverre_Lunde_Pedersen
+wikiPageWikiLink: Marijke_Groenewoud
+wikiPageWikiLink: Martina_Sáblíková
+wikiPageWikiLink: Speed_skating_at_the_2022_Winter_Olympics_–_Men's_10,000_metres
+wikiPageWikiLink: Speed_skating_at_the_2022_Winter_Olympics_–_Men's_1500_metres
+wikiPageWikiLink: Speed_skating_at_the_2022_Winter_Olympics_–_Men's_5000_metres
+wikiPageWikiLink: Speed_skating_at_the_2022_Winter_Olympics_–_Men's_500_metres
+wikiPageWikiLink: Speed_skating_at_the_2022_Winter_Olympics_–_Men's_team_pursuit
+wikiPageWikiLink: Speed_skating_at_the_2022_Winter_Olympics_–_Women's_1000_metres
+wikiPageWikiLink: Speed_skating_at_the_2022_Winter_Olympics_–_Women's_1500_metres
+wikiPageWikiLink: Speed_skating_at_the_2022_Winter_Olympics_–_Women's_3000_metres
+wikiPageWikiLink: Speed_skating_at_the_2022_Winter_Olympics_–_Women's_5000_metres
+wikiPageWikiLink: Speed_skating_at_the_2022_Winter_Olympics_–_Women's_team_pursuit
+wikiPageWikiLink: Speed_skating_at_the_Winter_Olympics
+wikiPageWikiLink: Håvard_Holmefjord_Lorentzen
+wikiPageWikiLink: Kjeld_Nuis
+wikiPageWikiLink: Miho_Takagi_(speed_skater)
+wikiPageWikiLink: National_Speed_Skating_Oval
+wikiPageWikiLink: Sergey_Trofimov
+wikiPageWikiLink: ISU_Speed_Skating_World_Cup
+wikiPageWikiLink: List_of_world_records_in_speed_skating
+wikiPageWikiLink: Speed_skating_at_the_2018_Winter_Olympics
+wikiPageWikiLink: File:Speed_skating_pictogram.svg
+wikiPageExternalLink: DigitalCollectionAttachmentDownloadHandler.ashx%3FparentDocumentId=1568639&documentId=1568654
+thumbnail: Speed_skating_pictogram.svg?width=300
+bronzeRoc: 1
+goldRoc: 0
+silverRoc: 1
+hostChn: yes
+bronzeNed: 2
+goldNed: 6
+silverNed: 4
+bronzeChn: 0
+bronzeCze: 1
+bronzeIta: 2
+bronzeKor: 2
+bronzeNor: 2
+bronzeSwe: 0
+bronzeUsa: 2
+caption: Speed skating pictogram
+dates: --02-19
+event: 2022
+event: Speed Skating
+flagTemplate: flagIOC
+goldChn: 1
+goldCze: 0
+goldIta: 0
+goldKor: 0
+goldNor: 1
+goldSwe: 2
+goldUsa: 1
+host: CHN
+next: 2026
+prev: 2018
+silverChn: 0
+silverCze: 0
+silverIta: 1
+silverKor: 2
+silverNor: 0
+silverSwe: 0
+silverUsa: 0
+venue: National_Speed_Skating_Oval
+bronzeCan: 1
+goldCan: 1
+silverCan: 3
+bronzeJpn: 1
+goldJpn: 1
+silverJpn: 3
+bronzeBel: 0
+games: 2022
+goldBel: 1
+silverBel: 0
+abstract: Speed skating at the 2022 Winter Olympics was held at the National Speed Skating Oval ("Ice Ribbon") in Beijing, China between 5 and 19 February 2022. It was the 24th time speed skating was held at the Winter Olympics (17th time for women). A total of 166 quota spots (83 per gender) were distributed to the sport, a decline of 14 from the 2018 Winter Olympics. For the first time, gender equality was achieved in terms of quotas. A total of 14 events were contested, seven for men and seven for women.
+numEvents: 14
+wasDerivedFrom: Speed_skating_at_the_2022_Winter_Olympics?oldid=1124796067&ns=0
+wikiPageLength: 19837
+games: 2022 Winter
+event: Speed_skating_at_the_Winter_Olympics
+previousEvent: Speed_skating_at_the_2018_Winter_Olympics
+isPrimaryTopicOf: Speed_skating_at_the_2022_Winter_Olympics
+	

@@ -1,0 +1,114 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Super Bowl LVII, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	label: Super Bowl LVII
+comment: Super Bowl LVII is the upcoming championship game of the National Football League (NFL) for the 2022 NFL season. The game is scheduled to be played on February 12, 2023, at State Farm Stadium in Glendale, Arizona. It will be the fourth Super Bowl hosted by the Phoenix metropolitan area, with the most recent being Super Bowl XLIX in 2015, also held at State Farm Stadium (then called University of Phoenix Stadium). The game will be televised nationally by Fox.
+name: LVII
+depiction: State_Farm_Stadium_2022.jpg
+depiction: Super_Bowl_LVII_logo.png
+subject: Category:2022_National_Football_League_season
+subject: Category:2023_in_American_football
+subject: Category:2023_in_American_television
+subject: Category:2023_in_sports_in_Arizona
+subject: Category:February_2023_sports_events_in_the_United_States
+subject: Category:Scheduled_sports_events
+subject: Category:Super_Bowl
+subject: Category:Sports_competitions_in_Arizona
+subject: Category:American_football_in_Arizona
+subject: Category:Sports_in_Glendale,_Arizona
+wikiPageID: 56390513
+wikiPageRevisionID: 1124517346
+wikiPageWikiLink: ProSieben
+wikiPageWikiLink: Roger_Goodell
+wikiPageWikiLink: Category:2022_National_Football_League_season
+wikiPageWikiLink: Category:2023_in_American_football
+wikiPageWikiLink: Category:2023_in_American_television
+wikiPageWikiLink: Category:2023_in_sports_in_Arizona
+wikiPageWikiLink: Category:February_2023_sports_events_in_the_United_States
+wikiPageWikiLink: Brianna_Westbrook
+wikiPageWikiLink: Pepsi
+wikiPageWikiLink: Rihanna
+wikiPageWikiLink: United_Kingdom
+wikiPageWikiLink: Category:Scheduled_sports_events
+wikiPageWikiLink: Gender_identity
+wikiPageWikiLink: Coca-Cola
+wikiPageWikiLink: Colin_Kaepernick
+wikiPageWikiLink: Germany
+wikiPageWikiLink: Glendale,_Arizona
+wikiPageWikiLink: Boycott
+wikiPageWikiLink: Monday_Night_Football
+wikiPageWikiLink: NFL_on_CBS
+wikiPageWikiLink: NFL_on_Fox
+wikiPageWikiLink: Naming_rights
+wikiPageWikiLink: Apple_Music
+wikiPageWikiLink: Sky_Showcase
+wikiPageWikiLink: Sky_Sports
+wikiPageWikiLink: Star+
+wikiPageWikiLink: State_Farm_Stadium
+wikiPageWikiLink: Category:Super_Bowl
+wikiPageWikiLink: Category:Sports_competitions_in_Arizona
+wikiPageWikiLink: Australia
+wikiPageWikiLink: BBC_Radio_5_Live
+wikiPageWikiLink: Barbadians
+wikiPageWikiLink: Tom_Brady
+wikiPageWikiLink: Troy_Aikman
+wikiPageWikiLink: William_Barber_II
+wikiPageWikiLink: 2022_NFL_season
+wikiPageWikiLink: 7mate
+wikiPageWikiLink: 7plus
+wikiPageWikiLink: Category:American_football_in_Arizona
+wikiPageWikiLink: Category:Sports_in_Glendale,_Arizona
+wikiPageWikiLink: ESPN_(Latin_America)
+wikiPageWikiLink: Flag_of_Arizona
+wikiPageWikiLink: List_of_Super_Bowl_lead-out_programs
+wikiPageWikiLink: Greg_Olsen_(American_football)
+wikiPageWikiLink: Ireland
+wikiPageWikiLink: Tampa_Bay_Buccaneers
+wikiPageWikiLink: Taylor_Swift
+wikiPageWikiLink: Tempe,_Arizona
+wikiPageWikiLink: Arizona
+wikiPageWikiLink: Assigned_male_at_birth
+wikiPageWikiLink: Championship
+wikiPageWikiLink: Jesse_Jackson
+wikiPageWikiLink: Joe_Buck
+wikiPageWikiLink: Kevin_Burkhardt
+wikiPageWikiLink: Latin_America
+wikiPageWikiLink: Super_Bowl
+wikiPageWikiLink: Super_Bowl_LVI
+wikiPageWikiLink: Super_Bowl_XLIX
+wikiPageWikiLink: Super_Bowl_XXVII
+wikiPageWikiLink: Cola_wars
+wikiPageWikiLink: Phoenix_metropolitan_area
+wikiPageWikiLink: ITV_(TV_network)
+wikiPageWikiLink: National_Football_League
+wikiPageWikiLink: Next_Level_Chef
+wikiPageWikiLink: RTL_Group
+wikiPageWikiLink: Seven_Network
+wikiPageWikiLink: Martin_Luther_King_Jr._Day
+wikiPageWikiLink: Taylor_Swift_masters_controversy
+wikiPageWikiLink: Sunday_Night_Football_on_NBC
+wikiPageWikiLink: NFL_on_Westwood_One
+wikiPageWikiLink: Super_Bowl_halftime_show
+wikiPageWikiLink: NFL_on_television
+wikiPageWikiLink: File:State_Farm_Stadium_2022.jpg
+wikiPageExternalLink: super-bowl%7COfficial
+thumbnail: Super_Bowl_LVII_logo.png?width=300
+city: Glendale,_Arizona
+date: 2023-02-12
+halftime: Rihanna
+last: LVI
+network: NFL_on_Fox
+next: LVIII
+stadium: State_Farm_Stadium
+type: sb
+radio: NFL_on_Westwood_One
+abstract: Super Bowl LVII is the upcoming championship game of the National Football League (NFL) for the 2022 NFL season. The game is scheduled to be played on February 12, 2023, at State Farm Stadium in Glendale, Arizona. It will be the fourth Super Bowl hosted by the Phoenix metropolitan area, with the most recent being Super Bowl XLIX in 2015, also held at State Farm Stadium (then called University of Phoenix Stadium). The game will be televised nationally by Fox.
+wasDerivedFrom: Super_Bowl_LVII?oldid=1124517346&ns=0
+wikiPageLength: 12285
+isPrimaryTopicOf: Super_Bowl_LVII
+	

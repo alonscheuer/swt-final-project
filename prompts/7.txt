@@ -1,0 +1,123 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Expedition 68, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: Event
+type: Event
+type: SocietalEvent
+type: Q1656682
+type: Q2133344
+type: Event
+type: SpaceMission
+label: Expedition 68
+comment: Expedition 68 is the 68th long-duration expedition to the International Space Station. The expedition began upon the departure of Soyuz MS-21 on 29 September 2022, with ESA astronaut Samantha Cristoforetti taking over as ISS commander. Initially, the expedition consisted of Cristoforetti and her three SpaceX Crew-4 crewmates Kjell N. Lindgren, Bob Hines and Jessica Watkins, as well as Roscosmos cosmonauts Sergey Prokopyev, Dmitry Petelin and American astronaut, Francisco Rubio, who launched aboard Soyuz MS-22 on September 21, 2022 and were transferred from Expedition 67 alongside the Crew-4 astronauts.
+name: ISS Expedition 68
+name: ISS Expedition 68
+depiction: ISS_Expedition_68_Patch.svg
+depiction: Expedition_68_Crew_Portrait.jpg
+depiction: Expedition_68_takes_a_group_photo.jpg
+subject: Category:Expeditions_to_the_International_Space_Station
+subject: Category:2022_in_spaceflight
+wikiPageID: 65899444
+wikiPageRevisionID: 1122168318
+wikiPageWikiLink: Roscosmos
+wikiPageWikiLink: Samantha_Cristoforetti
+wikiPageWikiLink: Category:Expeditions_to_the_International_Space_Station
+wikiPageWikiLink: Category:2022_in_spaceflight
+wikiPageWikiLink: Robert_Hines_(astronaut)
+wikiPageWikiLink: NASA
+wikiPageWikiLink: Anna_Kikina
+wikiPageWikiLink: Loral_O'Hara
+wikiPageWikiLink: ESA
+wikiPageWikiLink: Expedition_67
+wikiPageWikiLink: Expedition_69
+wikiPageWikiLink: Francisco_Rubio_(astronaut)
+wikiPageWikiLink: Nicole_Aunapu_Mann
+wikiPageWikiLink: Nikolai_Chub
+wikiPageWikiLink: List_of_International_Space_Station_expeditions
+wikiPageWikiLink: International_Space_Station
+wikiPageWikiLink: JAXA
+wikiPageWikiLink: Jessica_Watkins
+wikiPageWikiLink: Kennedy_Space_Center
+wikiPageWikiLink: Dmitry_Petelin
+wikiPageWikiLink: Soyuz_MS-21
+wikiPageWikiLink: Soyuz_MS-22
+wikiPageWikiLink: Soyuz_MS-23
+wikiPageWikiLink: SpaceX_Crew-4
+wikiPageWikiLink: SpaceX_Crew-5
+wikiPageWikiLink: Kjell_N._Lindgren
+wikiPageWikiLink: Koichi_Wakata
+wikiPageWikiLink: Oleg_Kononenko
+wikiPageWikiLink: Sergey_Prokopyev_(cosmonaut)
+wikiPageWikiLink: Josh_Cassada
+spaceStation: International_Space_Station
+thumbnail: Expedition_68_takes_a_group_photo.jpg?width=300
+imageCaption: Expedition 68 crew during a training session at KSC
+imageSize: 300
+insignia: File:ISS Expedition 68 Patch.svg
+insigniaSize: 200
+missionDuration: --09-29
+missionType: Long-duration mission to the ISS
+nextMission: Expedition_69
+operator: Roscosmos
+operator: NASA
+previousMission: Expedition_67
+programme: List_of_International_Space_Station_expeditions
+programme: International_Space_Station
+startDate: 2022-09-29
+abstract: Expedition 68 is the 68th long-duration expedition to the International Space Station. The expedition began upon the departure of Soyuz MS-21 on 29 September 2022, with ESA astronaut Samantha Cristoforetti taking over as ISS commander. Initially, the expedition consisted of Cristoforetti and her three SpaceX Crew-4 crewmates Kjell N. Lindgren, Bob Hines and Jessica Watkins, as well as Roscosmos cosmonauts Sergey Prokopyev, Dmitry Petelin and American astronaut, Francisco Rubio, who launched aboard Soyuz MS-22 on September 21, 2022 and were transferred from Expedition 67 alongside the Crew-4 astronauts. Crew-4 departed the station in 13 October, 2022 and was replaced by SpaceX Crew-5, which ferried NASA astronauts Nicole Mann and Josh Cassada, as well as JAXA astronaut Koichi Wakata and Roscosmos cosmonaut Anna Kikina, to the station. Before departing, Cristoforetti handed command of the station over to Prokopyev.
+arrivalCraft: Soyuz_MS-22
+arrivalCraft: SpaceX_Crew-4
+arrivalCraft: SpaceX_Crew-5
+crewEvaDuration: 25860.0
+crewEvas: 1
+crewMembers: Robert_Hines_(astronaut)
+crewMembers: Anna_Kikina
+crewMembers: Loral_O'Hara
+crewMembers: Francisco_Rubio_(astronaut)
+crewMembers: Nicole_Aunapu_Mann
+crewMembers: Nikolai_Chub
+crewMembers: Jessica_Watkins
+crewMembers: Dmitry_Petelin
+crewMembers: Koichi_Wakata
+crewMembers: Oleg_Kononenko
+crewMembers: Josh_Cassada
+crewMembers: 
+crewMembers: 68:
+crewMembers: 69:
+crewMembers: Kjell N. Lindgren
+crewMembers: Samantha Cristoforetti
+crewMembers: Sergey Prokopyev
+crewPhoto: File:Expedition 68 Crew Portrait.jpg
+crewPhotoCaption: Expedition 68 crew portrait
+crewPhotoSize: 300
+crewSize: 7
+insigniaCaption: Expedition 68 mission patch
+wasDerivedFrom: Expedition_68?oldid=1122168318&ns=0
+wikiPageLength: 7961
+crewMember: Samantha_Cristoforetti
+crewMember: Robert_Hines_(astronaut)
+crewMember: Anna_Kikina
+crewMember: Loral_O'Hara
+crewMember: Francisco_Rubio_(astronaut)
+crewMember: Nicole_Aunapu_Mann
+crewMember: Nikolai_Chub
+crewMember: Jessica_Watkins
+crewMember: Dmitry_Petelin
+crewMember: Kjell_N._Lindgren
+crewMember: Koichi_Wakata
+crewMember: Oleg_Kononenko
+crewMember: Sergey_Prokopyev_(cosmonaut)
+crewMember: Josh_Cassada
+nextMission: Expedition_69
+operator: Roscosmos
+operator: NASA
+previousMission: Expedition_67
+type: International_Space_Station
+isPrimaryTopicOf: Expedition_68
+	

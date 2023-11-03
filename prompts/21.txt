@@ -1,0 +1,91 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Masters 2023, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	label: 2023 Masters (snooker)
+comment: The 2023 Masters (officially the 2023 Cazoo Masters) is a professional non-ranking snooker tournament set to take place between 8 and 15 January 2023 at Alexandra Palace in London, England. It will be the 49th staging of the Masters tournament, which was first held in 1975, and the second of three Triple Crown events in the 2022–23 snooker season, following the 2022 UK Championship and preceding the 2023 World Snooker Championship. Broadcast by the BBC and Eurosport in Europe, it will be sponsored by car retailer Cazoo.
+subject: Category:Snooker_competitions_in_England
+subject: Category:2023_in_English_sport
+subject: Category:2023_in_snooker
+subject: Category:2023_sports_events_in_London
+subject: Category:January_2023_sports_events_in_the_United_Kingdom
+subject: Category:Masters_(snooker)
+wikiPageID: 70432041
+wikiPageRevisionID: 1122968379
+wikiPageWikiLink: Ronnie_O'Sullivan
+wikiPageWikiLink: Category:Snooker_competitions_in_England
+wikiPageWikiLink: Category:2023_in_English_sport
+wikiPageWikiLink: Category:2023_in_snooker
+wikiPageWikiLink: Category:2023_sports_events_in_London
+wikiPageWikiLink: Category:January_2023_sports_events_in_the_United_Kingdom
+wikiPageWikiLink: Barry_Hawkins
+wikiPageWikiLink: Judd_Trump
+wikiPageWikiLink: Masters_(snooker)
+wikiPageWikiLink: Ryan_Day_(snooker_player)
+wikiPageWikiLink: 1975_Masters_(snooker)
+wikiPageWikiLink: Category:Masters_(snooker)
+wikiPageWikiLink: Luca_Brecel
+wikiPageWikiLink: Snooker
+wikiPageWikiLink: Stuart_Bingham
+wikiPageWikiLink: Zhao_Xintong
+wikiPageWikiLink: BBC
+wikiPageWikiLink: Cazoo
+wikiPageWikiLink: 2022_Masters_(snooker)
+wikiPageWikiLink: 2022_UK_Championship
+wikiPageWikiLink: 2022–23_snooker_season
+wikiPageWikiLink: 2023_World_Snooker_Championship
+wikiPageWikiLink: Alexandra_Palace
+wikiPageWikiLink: Eurosport
+wikiPageWikiLink: Jack_Lisowski
+wikiPageWikiLink: John_Higgins
+wikiPageWikiLink: Triple_Crown_(snooker)
+wikiPageWikiLink: Mark_Allen_(snooker_player)
+wikiPageWikiLink: Mark_Selby
+wikiPageWikiLink: Mark_Williams_(snooker_player)
+wikiPageWikiLink: Kyren_Wilson
+wikiPageWikiLink: Neil_Robertson
+wikiPageWikiLink: Shaun_Murphy
+wikiPageWikiLink: Yan_Bingtao
+wikiPageWikiLink: World_Snooker_Tour
+wikiPageWikiLink: Snooker_world_rankings
+wikiPageExternalLink: https://wst.tv/tournaments/masters/
+boldwinner: high
+organisation: World_Snooker_Tour
+tournamentName: 2023
+rd: Final
+rd: First round
+rd: Quarter-finals
+rd: Semi-finals
+rd: Best of 19 frames
+rd: Best of 11 frames
+country: England
+format: Non-ranking event
+location: London
+previous: 2022
+venue: Alexandra_Palace
+rd1Seed: 1
+rd1Seed: 2
+rd1Seed: 3
+rd1Seed: 4
+rd1Seed: 5
+rd1Seed: 6
+rd1Seed: 7
+rd1Seed: 8
+rd1Seed: 9
+rd1Seed: 10
+rd1Seed: 11
+rd1Seed: 12
+rd1Seed: 13
+rd1Seed: 14
+rd1Seed: 15
+rd1Seed: 16
+teamWidth: 220
+abstract: The 2023 Masters (officially the 2023 Cazoo Masters) is a professional non-ranking snooker tournament set to take place between 8 and 15 January 2023 at Alexandra Palace in London, England. It will be the 49th staging of the Masters tournament, which was first held in 1975, and the second of three Triple Crown events in the 2022–23 snooker season, following the 2022 UK Championship and preceding the 2023 World Snooker Championship. Broadcast by the BBC and Eurosport in Europe, it will be sponsored by car retailer Cazoo. The defending champion is Neil Robertson, who defeated Barry Hawkins in the 2022 final 10–4.
+wasDerivedFrom: 2023_Masters_(snooker)?oldid=1122968379&ns=0
+wikiPageLength: 5074
+isPrimaryTopicOf: 2023_Masters_(snooker)
+	

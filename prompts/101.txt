@@ -1,0 +1,180 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Storbritanniens Grand Prix 2022, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: Event
+type: SportsEvent
+type: Event
+type: SocietalEvent
+type: Q1656682
+type: Event
+type: GrandPrix
+type: SportsEvent
+label: 2022 British Grand Prix
+comment: The 2022 British Grand Prix (officially known as the Formula 1 Lenovo British Grand Prix 2022) was a Formula One motor race held on 3 July 2022 at the Silverstone Circuit in Northamptonshire, England. Carlos Sainz Jr. took both his first pole position and Formula One victory, ahead of Sergio Pérez and Lewis Hamilton. Championship leader, Max Verstappen finished seventh after acquiring car damage early in the race. A multi-car crash occurred on the opening lap, in which Zhou Guanyu's car flipped over the tyre wall marking the circuit boundaries.
+seeAlso: 2022_Formula_One_World_Championship
+name: Formula 1 LenovoBritish Grand Prix2022
+depiction: Albon_during_qualifying_for_the_2022_British_Grand_Prix.jpg
+depiction: Mick_Schumacher_of_Haas_battles_for_position_with_Red_Bull's_Max_Verstappen_en_route_to_his_first_points_finish_in_F1_at_the_2022_British_Grand_Prix_(52196622846).jpg
+depiction: Sainz_and_Leclerc_battle_for_the_lead_at_the_2022_British_Grand_Prix.jpg
+depiction: Sainz_at_the_2022_British_Grand_Prix.jpg
+depiction: 1downarrow_red.svg
+depiction: 1rightarrow_blue.svg
+depiction: 1uparrow_green.svg
+depiction: Silverstone_Circuit_2020.png
+location: Silverstone
+location: Silverstone_Circuit
+subject: Category:British_Grand_Prix
+subject: Category:2022_Formula_One_races
+subject: Category:2022_in_British_motorsport
+subject: Category:2022_in_English_sport
+subject: Category:July_2022_sports_events_in_the_United_Kingdom
+wikiPageID: 63732576
+wikiPageRevisionID: 1125013005
+wikiPageWikiLink: Carlos_Sainz_Jr.
+wikiPageWikiLink: Saudi_Aramco
+wikiPageWikiLink: Category:British_Grand_Prix
+wikiPageWikiLink: 2022_Silverstone_Formula_2_round
+wikiPageWikiLink: 2022_Silverstone_Formula_3_round
+wikiPageWikiLink: Category:2022_Formula_One_races
+wikiPageWikiLink: Category:2022_in_British_motorsport
+wikiPageWikiLink: Category:2022_in_English_sport
+wikiPageWikiLink: Category:July_2022_sports_events_in_the_United_Kingdom
+wikiPageWikiLink: Johnny_Herbert
+wikiPageWikiLink: List_of_Formula_One_Grand_Prix_winners
+wikiPageWikiLink: List_of_Formula_One_polesitters
+wikiPageWikiLink: Renault_in_Formula_One
+wikiPageWikiLink: University_Hospital_Coventry
+wikiPageWikiLink: Valtteri_Bottas
+wikiPageWikiLink: 107%25_rule
+wikiPageWikiLink: Max_Verstappen
+wikiPageWikiLink: McLaren
+wikiPageWikiLink: Safety_car
+wikiPageWikiLink: George_Russell_(racing_driver)
+wikiPageWikiLink: 2021_British_Grand_Prix
+wikiPageWikiLink: Lewis_Hamilton
+wikiPageWikiLink: Silverstone
+wikiPageWikiLink: Silverstone_Circuit
+wikiPageWikiLink: Stefano_Domenicali
+wikiPageWikiLink: Yuki_Tsunoda
+wikiPageWikiLink: Zhou_Guanyu
+wikiPageWikiLink: Halo_(safety_device)
+wikiPageWikiLink: British_Grand_Prix
+wikiPageWikiLink: Williams_Grand_Prix_Engineering
+wikiPageWikiLink: Drag_reduction_system
+wikiPageWikiLink: 2013_Spanish_Grand_Prix
+wikiPageWikiLink: 2022_Austrian_Grand_Prix
+wikiPageWikiLink: 2022_Canadian_Grand_Prix
+wikiPageWikiLink: 2022_Formula_One_World_Championship
+wikiPageWikiLink: Alexander_Albon
+wikiPageWikiLink: Alfa_Romeo_in_Formula_One
+wikiPageWikiLink: Alpine_F1_Team
+wikiPageWikiLink: Daniel_Ricciardo
+wikiPageWikiLink: Esteban_Ocon
+wikiPageWikiLink: Fernando_Alonso
+wikiPageWikiLink: Formula_One
+wikiPageWikiLink: Nicholas_Latifi
+wikiPageWikiLink: Northamptonshire,_England
+wikiPageWikiLink: Northamptonshire_Police
+wikiPageWikiLink: Fastest_lap
+wikiPageWikiLink: Haas_F1_Team
+wikiPageWikiLink: UTC+01:00
+wikiPageWikiLink: Aston_Martin_in_Formula_One
+wikiPageWikiLink: Charles_Leclerc
+wikiPageWikiLink: Just_Stop_Oil
+wikiPageWikiLink: Kevin_Magnussen
+wikiPageWikiLink: Lance_Stroll
+wikiPageWikiLink: Lando_Norris
+wikiPageWikiLink: Pierre_Gasly
+wikiPageWikiLink: Pirelli
+wikiPageWikiLink: Pole_position
+wikiPageWikiLink: Mercedes-Benz_in_Formula_One
+wikiPageWikiLink: Mercedes_AMG_High_Performance_Powertrains
+wikiPageWikiLink: Mick_Schumacher
+wikiPageWikiLink: Red_Bull_Powertrains
+wikiPageWikiLink: Red_Bull_Racing
+wikiPageWikiLink: Scuderia_AlphaTauri
+wikiPageWikiLink: Scuderia_Ferrari
+wikiPageWikiLink: Sebastian_Vettel
+wikiPageWikiLink: Sergio_Pérez
+wikiPageWikiLink: File:1rightarrow_blue.svg
+wikiPageWikiLink: File:1uparrow_green.svg
+wikiPageWikiLink: File:1downarrow_red.svg
+wikiPageWikiLink: 2023_British_Grand_Prix
+wikiPageWikiLink: File:Albon_during_qualifying_for_the_2022_British_Grand_Prix.jpg
+wikiPageWikiLink: File:Mick_Schumacher_of_Haas_battles_for_position_with_Red_Bull's_Max_Verstappen_en_route_to_his_first_points_finish_in_F1_at_the_2022_British_Grand_Prix_(52196622846).jpg
+wikiPageWikiLink: File:Sainz_and_Leclerc_battle_for_the_lead_at_the_2022_British_Grand_Prix.jpg
+wikiPageWikiLink: File:Sainz_at_the_2022_British_Grand_Prix.jpg
+thumbnail: Silverstone_Circuit_2020.png?width=300
+nextRound: 2022
+previousRound: 2022
+poleTime: 1
+attendance: 400000
+caption: Layout of the Silverstone Circuit
+country: United Kingdom
+course: Permanent racing facility
+grandPrix: British
+imageLink: Silverstone Circuit 2020.png
+imageSize: 200
+location: Silverstone_Circuit
+location: Silverstone, United Kingdom
+officialName: Formula 1 Lenovo British Grand Prix 2022
+type: F1
+year: 2022
+courseKm: 5.891
+courseMi: 3.66
+distanceKm: 306.332
+distanceLaps: 52
+distanceMi: 190.263
+fastCountry: GBR
+fastDriver: Lewis_Hamilton
+fastTeam: Mercedes-Benz_in_Formula_One
+fastTime: 1
+firstCountry: ESP
+firstDriver: Carlos_Sainz_Jr.
+firstTeam: Scuderia_Ferrari
+fulldate: 2022-07-03
+nameOfRace: British_Grand_Prix
+nextRaceInSeason: 2022
+nextYear'sRace: 2023
+previousRaceInSeason: 2022
+previousYear'sRace: 2021
+secondCountry: MEX
+secondDriver: Sergio_Pérez
+secondTeam: Red_Bull_Powertrains
+secondTeam: Red_Bull_Racing
+thirdCountry: GBR
+thirdDriver: Lewis_Hamilton
+thirdTeam: Mercedes-Benz_in_Formula_One
+yearOfRace: 2022
+poleCountry: ESP
+poleDriver: Carlos_Sainz_Jr.
+poleTeam: Scuderia_Ferrari
+raceNo: 10
+seasonNo: 22
+weather: Partly cloudy
+fastLap: 52
+abstract: The 2022 British Grand Prix (officially known as the Formula 1 Lenovo British Grand Prix 2022) was a Formula One motor race held on 3 July 2022 at the Silverstone Circuit in Northamptonshire, England. Carlos Sainz Jr. took both his first pole position and Formula One victory, ahead of Sergio Pérez and Lewis Hamilton. Championship leader, Max Verstappen finished seventh after acquiring car damage early in the race. A multi-car crash occurred on the opening lap, in which Zhou Guanyu's car flipped over the tyre wall marking the circuit boundaries.
+wasDerivedFrom: 2022_British_Grand_Prix?oldid=1125013005&ns=0
+course: 5.89019904
+course: 5.891
+wikiPageLength: 37749
+course: 5890.2
+course: 5891.0
+fastestDriver: Lewis_Hamilton
+fastestDriverTeam: Mercedes-Benz_in_Formula_One
+firstDriver: Carlos_Sainz_Jr.
+firstDriverTeam: Scuderia_Ferrari
+poleDriver: Carlos_Sainz_Jr.
+poleDriverTeam: Scuderia_Ferrari
+secondDriver: Sergio_Pérez
+secondTeam: Red_Bull_Racing
+thirdDriver: Lewis_Hamilton
+thirdTeam: Mercedes-Benz_in_Formula_One
+isPrimaryTopicOf: 2022_British_Grand_Prix
+	

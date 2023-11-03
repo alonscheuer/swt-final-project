@@ -1,0 +1,139 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Eliteserien 2023, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: SportsTeamSeason
+type: FootballLeagueSeason
+type: SportsSeason
+label: 2023 Eliteserien
+comment: The 2023 Eliteserien will be the 79th season of top-tier football in Norway. The season is set to start on 10 April 2023 and end on 2 December 2023, not including play-off matches. Molde are the defending champions. Brann and Stabæk joined as the promoted clubs from the 2022 Norwegian First Division. They replaced Kristiansund and Jerv who were relegated to the 2023 Norwegian First Division.
+depiction: Black_pog.svg
+depiction: TransparentPlaceholder.png
+subject: Category:Eliteserien_seasons
+subject: Category:2022–23_in_European_association_football_leagues
+subject: Category:2023_in_Norwegian_football
+subject: Category:2023–24_in_European_association_football_leagues
+wikiPageID: 70707966
+wikiPageRevisionID: 1122880549
+wikiPageWikiLink: Rogaland
+wikiPageWikiLink: Rosenborg_BK
+wikiPageWikiLink: Sandefjord
+wikiPageWikiLink: Sandefjord_Arena
+wikiPageWikiLink: Sandefjord_Fotball
+wikiPageWikiLink: Sarpsborg
+wikiPageWikiLink: Sarpsborg_08_FF
+wikiPageWikiLink: Sarpsborg_Stadion
+wikiPageWikiLink: Category:Eliteserien_seasons
+wikiPageWikiLink: Category:2022–23_in_European_association_football_leagues
+wikiPageWikiLink: Category:2023_in_Norwegian_football
+wikiPageWikiLink: Category:2023–24_in_European_association_football_leagues
+wikiPageWikiLink: Bergen
+wikiPageWikiLink: Bjørn_Petter_Ingebretsen
+wikiPageWikiLink: Bodø
+wikiPageWikiLink: Borregaard
+wikiPageWikiLink: Brann_Stadion
+wikiPageWikiLink: Hummel_International
+wikiPageWikiLink: Jotun_(company)
+wikiPageWikiLink: Umbro
+wikiPageWikiLink: Vestfold_og_Telemark
+wikiPageWikiLink: Vestland
+wikiPageWikiLink: Viken_(county)
+wikiPageWikiLink: Viking_FK
+wikiPageWikiLink: Viking_Stadion
+wikiPageWikiLink: Sparebanken_Vest
+wikiPageWikiLink: SK_Brann
+wikiPageWikiLink: Eidsiva_Energi
+wikiPageWikiLink: Eliteserien
+wikiPageWikiLink: Grass
+wikiPageWikiLink: Molde
+wikiPageWikiLink: Molde_FK
+wikiPageWikiLink: Molde_FK–Rosenborg_BK_rivalry
+wikiPageWikiLink: Møre_og_Romsdal
+wikiPageWikiLink: Nadderud_Stadion
+wikiPageWikiLink: Puma_SE
+wikiPageWikiLink: Lerkendal_Stadion
+wikiPageWikiLink: Lillestrøm
+wikiPageWikiLink: Lillestrøm_SK
+wikiPageWikiLink: Lillestrøm_SK–Vålerenga_Fotball_rivalry
+wikiPageWikiLink: Lyse_Energi
+wikiPageWikiLink: Macron_(sportswear)
+wikiPageWikiLink: Skagerak_Arena
+wikiPageWikiLink: Skien
+wikiPageWikiLink: Stabæk_Fotball
+wikiPageWikiLink: Stavanger
+wikiPageWikiLink: Strømsgodset_Toppfotball
+wikiPageWikiLink: Color_Line_Stadion
+wikiPageWikiLink: Ålesund
+wikiPageWikiLink: Åråsen_Stadion
+wikiPageWikiLink: Briskeby_Stadion
+wikiPageWikiLink: Bærum
+wikiPageWikiLink: Troms_og_Finnmark
+wikiPageWikiLink: Tromsø
+wikiPageWikiLink: Tromsø_IL
+wikiPageWikiLink: Trondheim
+wikiPageWikiLink: Trøndelag
+wikiPageWikiLink: Vålerenga_Fotball
+wikiPageWikiLink: Haugaland_Kraft
+wikiPageWikiLink: 2022_Eliteserien
+wikiPageWikiLink: 2022_Norwegian_First_Division
+wikiPageWikiLink: 2023_Eliteserien
+wikiPageWikiLink: 2023_Norwegian_First_Division
+wikiPageWikiLink: Aalesunds_FK
+wikiPageWikiLink: Adidas
+wikiPageWikiLink: Aker_Stadion
+wikiPageWikiLink: Alfheim_Stadion
+wikiPageWikiLink: DNB_ASA
+wikiPageWikiLink: Drammen
+wikiPageWikiLink: Glimt
+wikiPageWikiLink: FK_Haugesund
+wikiPageWikiLink: FK_Jerv
+wikiPageWikiLink: Nike,_Inc.
+wikiPageWikiLink: Nordland
+wikiPageWikiLink: Oslo
+wikiPageWikiLink: Hamar
+wikiPageWikiLink: Hamarkameratene
+wikiPageWikiLink: Haugesund
+wikiPageWikiLink: Haugesund_Stadion
+wikiPageWikiLink: Intility_Arena
+wikiPageWikiLink: HamKam
+wikiPageWikiLink: Aspmyra_Stadion
+wikiPageWikiLink: Association_football
+wikiPageWikiLink: Diadora
+wikiPageWikiLink: Artificial_turf
+wikiPageWikiLink: Marienlyst_Stadion
+wikiPageWikiLink: SpareBank_1
+wikiPageWikiLink: SpareBank_1_SMN
+wikiPageWikiLink: Sparebanken_Møre
+wikiPageWikiLink: Sparebanken_Nord-Norge
+wikiPageWikiLink: Håkon_Wibe-Lund
+wikiPageWikiLink: Innlandet
+wikiPageWikiLink: Kristiansund_BK
+wikiPageWikiLink: Odds_BK
+wikiPageWikiLink: Select_Sport
+wikiPageWikiLink: 2024–25_UEFA_Champions_League
+wikiPageWikiLink: 2024–25_UEFA_Europa_Conference_League
+wikiPageWikiLink: 2023_in_Norwegian_football
+wikiPageWikiLink: 2024_Norwegian_First_Division
+wikiPageExternalLink: %3FfiksId=181484
+wikiPageExternalLink: %3FfiksId=181484
+thumbnail: Black_pog.svg?width=300
+caption: Locations of the teams in the 2023 Eliteserien
+competition: Eliteserien
+dates: --04-10
+float: right
+nextseason: 2024
+prevseason: 2022
+season: 2023
+width: 480
+continentalcup: 2024–25_UEFA_Champions_League
+continentalcup: 2024–25_UEFA_Europa_Conference_League
+abstract: The 2023 Eliteserien will be the 79th season of top-tier football in Norway. The season is set to start on 10 April 2023 and end on 2 December 2023, not including play-off matches. Molde are the defending champions. Brann and Stabæk joined as the promoted clubs from the 2022 Norwegian First Division. They replaced Kristiansund and Jerv who were relegated to the 2023 Norwegian First Division.
+wasDerivedFrom: 2023_Eliteserien?oldid=1122880549&ns=0
+wikiPageLength: 21421
+isPrimaryTopicOf: 2023_Eliteserien
+	

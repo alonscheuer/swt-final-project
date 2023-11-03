@@ -1,13 +1,11 @@
 import argparse
 from json import dump
-from datetime import datetime
+from datetime import date, datetime
 from utils import wd_endpoint, send_query
-
-# USE 637 DAYS
 
 def create_arg_parser():
 	parser = argparse.ArgumentParser()
-	parser.add_argument("-d", "--days", type=int, help="How far in the past to look for events (in days)")
+	parser.add_argument("-md", "--max_days", type=int, default=730, help="How far in the past to look for events (in days)")
 	parser.add_argument("-l", "--limit", type=int, help="Maximum number of items to return")
 	parser.add_argument("-o", "--output_file", type=str, help="Name of file where results are saved")
 	return parser.parse_args()
@@ -51,9 +49,16 @@ def get_articles(days, limit):
 	return formatted_result
 
 
+def get_period(cutoff):
+	today = date.today()
+	diff = today - cutoff
+	return diff.days
+
+
 def main():
 	args = create_arg_parser()
-	result = get_articles(args.days, args.limit)
+	days = min(get_period(date(2022, 2, 1)), args.max_days)
+	result = get_articles(days, args.limit)
 	dump(result, open(args.output_file, "w"))
 
 

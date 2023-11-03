@@ -1,0 +1,117 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Copa Libertadores 2023, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: Event
+type: SportsEvent
+type: Event
+type: SocietalEvent
+type: Tournament
+type: Q1656682
+type: Q500834
+type: Event
+type: SoccerTournament
+type: SportsEvent
+label: 2023 Copa Libertadores
+comment: The 2023 Copa CONMEBOL Libertadores will be the 64th edition of the CONMEBOL Libertadores (also referred to as the Copa Libertadores), South America's premier club football tournament organized by CONMEBOL. The winners of the 2023 Copa Libertadores will earn the right to play against the winners of the 2023 Copa Sudamericana in the . They will also automatically qualify for the group stage. Flamengo will be the defending champions.
+name: Copa Libertadores
+subject: Category:2023_Copa_Libertadores
+subject: Category:2023_in_South_American_football
+subject: Category:Scheduled_association_football_competitions
+subject: Category:Copa_Libertadores_seasons
+wikiPageID: 70803129
+wikiPageRevisionID: 1124907005
+wikiPageWikiLink: Carabobo_F.C.
+wikiPageWikiLink: 2023_Copa_Sudamericana
+wikiPageWikiLink: Category:2023_Copa_Libertadores
+wikiPageWikiLink: Category:2023_in_South_American_football
+wikiPageWikiLink: Category:Scheduled_association_football_competitions
+wikiPageWikiLink: Boca_Juniors
+wikiPageWikiLink: Boston_River
+wikiPageWikiLink: Deportes_Magallanes
+wikiPageWikiLink: Deportivo_Maldonado
+wikiPageWikiLink: Colo-Colo
+wikiPageWikiLink: Copa_Libertadores
+wikiPageWikiLink: S.D._Aucas
+wikiPageWikiLink: Club_Alianza_Lima
+wikiPageWikiLink: Club_Always_Ready
+wikiPageWikiLink: Club_Athletico_Paranaense
+wikiPageWikiLink: Club_Atlético_Huracán
+wikiPageWikiLink: Club_Atlético_Patronato
+wikiPageWikiLink: Club_Atlético_River_Plate
+wikiPageWikiLink: Club_Libertad
+wikiPageWikiLink: Club_Nacional
+wikiPageWikiLink: Club_Nacional_de_Football
+wikiPageWikiLink: Club_Olimpia
+wikiPageWikiLink: Clube_Atlético_Mineiro
+wikiPageWikiLink: Monagas_S.C.
+wikiPageWikiLink: The_Strongest
+wikiPageWikiLink: Liverpool_F.C._(Montevideo)
+wikiPageWikiLink: Club_Bolívar
+wikiPageWikiLink: Zamora_F.C.
+wikiPageWikiLink: Ñublense
+wikiPageWikiLink: Category:Copa_Libertadores_seasons
+wikiPageWikiLink: Barcelona_S.C.
+wikiPageWikiLink: C.D._El_Nacional
+wikiPageWikiLink: C.D._Universidad_Católica_del_Ecuador
+wikiPageWikiLink: C.S.D._Independiente_del_Valle
+wikiPageWikiLink: CONMEBOL
+wikiPageWikiLink: CR_Flamengo
+wikiPageWikiLink: Cerro_Porteño
+wikiPageWikiLink: 2021–22_Copa_Argentina
+wikiPageWikiLink: 2022_Argentine_Primera_División
+wikiPageWikiLink: 2022_Bolivian_Primera_División_season
+wikiPageWikiLink: 2022_Campeonato_Brasileiro_Série_A
+wikiPageWikiLink: 2022_Categoría_Primera_A_season
+wikiPageWikiLink: 2022_Chilean_Primera_División
+wikiPageWikiLink: 2022_Copa_Chile
+wikiPageWikiLink: 2022_Copa_Colombia
+wikiPageWikiLink: 2022_Copa_Ecuador
+wikiPageWikiLink: 2022_Copa_Libertadores
+wikiPageWikiLink: 2022_Copa_Sudamericana
+wikiPageWikiLink: 2022_Ecuadorian_Serie_A
+wikiPageWikiLink: 2022_Liga_1_(Peru)
+wikiPageWikiLink: 2022_Paraguayan_Primera_División_season
+wikiPageWikiLink: 2022_Uruguayan_Primera_División_season
+wikiPageWikiLink: 2022_Venezuelan_Primera_División_season
+wikiPageWikiLink: Curicó_Unido
+wikiPageWikiLink: FBC_Melgar
+wikiPageWikiLink: Fluminense_FC
+wikiPageWikiLink: Fortaleza_Esporte_Clube
+wikiPageWikiLink: Argentinos_Juniors
+wikiPageWikiLink: Association_football
+wikiPageWikiLink: Atlético_Nacional
+wikiPageWikiLink: Sociedade_Esportiva_Palmeiras
+wikiPageWikiLink: South_America
+wikiPageWikiLink: Sport_Club_Corinthians_Paulista
+wikiPageWikiLink: Sport_Club_Internacional
+wikiPageWikiLink: Sport_Huancayo
+wikiPageWikiLink: Sporting_Cristal
+wikiPageWikiLink: Independiente_Medellín
+wikiPageWikiLink: Metropolitanos_F.C.
+wikiPageWikiLink: Millonarios_F.C.
+wikiPageWikiLink: Racing_Club_de_Avellaneda
+wikiPageWikiLink: Nacional_Potosí
+wikiPageWikiLink: 2024_Copa_Libertadores
+wikiPageWikiLink: 2024_Recopa_Sudamericana
+associations: 10
+dates: --02-07
+dates: 
+nextseason: 2024
+numTeams: 47
+otherTitles: Copa CONMEBOL Libertadores 2023
+prevseason: 2022
+tourneyName: Copa Libertadores
+year: 2023
+abstract: The 2023 Copa CONMEBOL Libertadores will be the 64th edition of the CONMEBOL Libertadores (also referred to as the Copa Libertadores), South America's premier club football tournament organized by CONMEBOL. The winners of the 2023 Copa Libertadores will earn the right to play against the winners of the 2023 Copa Sudamericana in the . They will also automatically qualify for the group stage. Flamengo will be the defending champions.
+backgroundcolor: FFFFCC
+message: or competitions. All teams must pass certain eligibility requirements in order to compete, including being in the top division of their member association in 2023.
+wasDerivedFrom: 2023_Copa_Libertadores?oldid=1124907005&ns=0
+wikiPageLength: 17734
+isPrimaryTopicOf: 2023_Copa_Libertadores
+	

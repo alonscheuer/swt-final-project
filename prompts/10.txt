@@ -1,0 +1,71 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Världsmästerskapet i schack 2023, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	label: World Chess Championship 2023
+comment: The World Chess Championship 2023 is an upcoming chess match, taking place from 7 April to 30 April 2023 to determine the new world chess champion. The incumbent champion Magnus Carlsen decided not to defend his title against Ian Nepomniachtchi, the winner of the Candidates Tournament 2022. Therefore, Nepomniachtchi will play the second-place finisher in the Candidates, Ding Liren, in the World Chess Championship match. This would be the first world chess championship since 1948 in which the incumbent champion would not participate (not including the 1993–2005 FIDE championships).
+depiction: World_Chess_Championship_2021,_game_07,_Ian_Nepomniachtchi_(cropped).jpg
+depiction: Ding_Liren_2,_Candidates_Tournament_2018.jpg
+subject: Category:Scheduled_sports_events
+subject: Category:2023_in_chess
+subject: Category:World_Chess_Championships
+wikiPageID: 67756811
+wikiPageRevisionID: 1123964318
+wikiPageWikiLink: Candidates_Tournament_2022
+wikiPageWikiLink: FIDE_World_Rankings
+wikiPageWikiLink: Richárd_Rapport
+wikiPageWikiLink: World_chess_champion
+wikiPageWikiLink: Category:Scheduled_sports_events
+wikiPageWikiLink: Magnus_Carlsen
+wikiPageWikiLink: Category:2023_in_chess
+wikiPageWikiLink: 2022_Russian_invasion_of_Ukraine
+wikiPageWikiLink: Alireza_Firouzja
+wikiPageWikiLink: FIDE_Grand_Prix_2022
+wikiPageWikiLink: FIDE_Grand_Swiss_Tournament_2021
+wikiPageWikiLink: FIDE_world_rankings
+wikiPageWikiLink: Fabiano_Caruana
+wikiPageWikiLink: Hikaru_Nakamura
+wikiPageWikiLink: Jan-Krzysztof_Duda
+wikiPageWikiLink: Teimour_Radjabov
+wikiPageWikiLink: Chess
+wikiPageWikiLink: Chess_World_Cup_2021
+wikiPageWikiLink: Ding_Liren
+wikiPageWikiLink: Ian_Nepomniachtchi
+wikiPageWikiLink: Incumbent
+wikiPageWikiLink: Category:World_Chess_Championships
+wikiPageWikiLink: Sergey_Karjakin
+wikiPageWikiLink: World_Chess_Championship_2021
+wikiPageWikiLink: File:Ding_Liren_2,_Candidates_Tournament_2018.jpg
+wikiPageWikiLink: File:World_Chess_Championship_2021,_game_07,_Ian_Nepomniachtchi_(cropped).jpg
+thumbnail: World_Chess_Championship_2021,_game_07,_Ian_Nepomniachtchi_(cropped).jpg?width=300
+dob: 1990-07-14
+dob: 1992-10-24
+age: 9.46728E8
+age: 1.0098432E9
+dates: --04-07
+flag: FIDE
+flag: CHN
+header: World Chess Championship 2023
+image: File:Ding_Liren_2,_Candidates_Tournament_2018.jpg
+image: File:World_Chess_Championship_2021,_game_07,_Ian_Nepomniachtchi_(cropped).jpg
+prev: 2021
+prevLink: World Chess Championship 2021
+rank: 2
+rank: 3
+title: Candidates Tournament runner-up
+title: Candidates Tournament winner
+abstract: The World Chess Championship 2023 is an upcoming chess match, taking place from 7 April to 30 April 2023 to determine the new world chess champion. The incumbent champion Magnus Carlsen decided not to defend his title against Ian Nepomniachtchi, the winner of the Candidates Tournament 2022. Therefore, Nepomniachtchi will play the second-place finisher in the Candidates, Ding Liren, in the World Chess Championship match. This would be the first world chess championship since 1948 in which the incumbent champion would not participate (not including the 1993–2005 FIDE championships).
+comp: Ian Nepomniachtchi
+comp: Ding Liren
+elo: 2793
+elo: 2811
+qual: Runner-up of the Candidates Tournament 2022
+qual: Winner of the Candidates Tournament 2022
+wasDerivedFrom: World_Chess_Championship_2023?oldid=1123964318&ns=0
+wikiPageLength: 8017
+isPrimaryTopicOf: World_Chess_Championship_2023
+	

@@ -1,0 +1,172 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om USA:s Grand Prix 2022, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: Event
+type: SportsEvent
+type: Event
+type: SocietalEvent
+type: Q1656682
+type: Event
+type: GrandPrix
+type: SportsEvent
+label: 2022 United States Grand Prix
+comment: The 2022 United States Grand Prix (officially known as the Formula 1 Aramco United States Grand Prix 2022) was a Formula One motor race, held on October 23, 2022, at the Circuit of the Americas in Austin, Texas, United States. The race was the 19th round of the 2022 Formula One World Championship and the 51st running of the United States Grand Prix, the 43rd time the race was run as a World Championship event since the inaugural 1950 season, and the tenth time a World Championship round was held at the Circuit of the Americas in Austin, Texas. It was won by defending champion Max Verstappen, who was followed by Lewis Hamilton in second and Charles Leclerc in third.
+seeAlso: 2022_Formula_One_World_Championship
+name: Formula 1 AramcoUnited States Grand Prix2022
+depiction: 1downarrow_red.svg
+depiction: 1rightarrow_blue.svg
+depiction: 1uparrow_green.svg
+depiction: Austin_circuit.svg
+location: United_States
+location: Circuit_of_the_Americas
+location: Austin,_Texas
+location: Texas
+subject: Category:2022_Formula_One_races
+subject: Category:2022_in_American_motorsport
+subject: Category:2022_in_sports_in_Texas
+subject: Category:October_2022_sports_events_in_the_United_States
+subject: Category:United_States_Grand_Prix
+wikiPageID: 69487914
+wikiPageRevisionID: 1121740374
+wikiPageWikiLink: Carlos_Sainz_Jr.
+wikiPageWikiLink: Robert_Shwartzman
+wikiPageWikiLink: Saudi_Aramco
+wikiPageWikiLink: Category:2022_Formula_One_races
+wikiPageWikiLink: Category:2022_in_American_motorsport
+wikiPageWikiLink: Category:2022_in_sports_in_Texas
+wikiPageWikiLink: Category:October_2022_sports_events_in_the_United_States
+wikiPageWikiLink: Renault_in_Formula_One
+wikiPageWikiLink: United_States
+wikiPageWikiLink: United_States_Grand_Prix
+wikiPageWikiLink: Valtteri_Bottas
+wikiPageWikiLink: 107%25_rule
+wikiPageWikiLink: Max_Verstappen
+wikiPageWikiLink: McLaren
+wikiPageWikiLink: Circuit_of_the_Americas
+wikiPageWikiLink: George_Russell_(racing_driver)
+wikiPageWikiLink: Category:United_States_Grand_Prix
+wikiPageWikiLink: Antonio_Giovinazzi
+wikiPageWikiLink: Lewis_Hamilton
+wikiPageWikiLink: Logan_Sargeant
+wikiPageWikiLink: Yuki_Tsunoda
+wikiPageWikiLink: Zhou_Guanyu
+wikiPageWikiLink: Álex_Palou
+wikiPageWikiLink: Austin
+wikiPageWikiLink: Austin,_Texas
+wikiPageWikiLink: Théo_Pourchaire
+wikiPageWikiLink: Williams_Grand_Prix_Engineering
+wikiPageWikiLink: 2021_United_States_Grand_Prix
+wikiPageWikiLink: 2022_Formula_One_World_Championship
+wikiPageWikiLink: 2022_Japanese_Grand_Prix
+wikiPageWikiLink: 2022_Mexico_City_Grand_Prix
+wikiPageWikiLink: 2023_United_States_Grand_Prix
+wikiPageWikiLink: Alex_Albon
+wikiPageWikiLink: Alexander_Albon
+wikiPageWikiLink: Alfa_Romeo_in_Formula_One
+wikiPageWikiLink: Alpine_F1_Team
+wikiPageWikiLink: Daniel_Ricciardo
+wikiPageWikiLink: Esteban_Ocon
+wikiPageWikiLink: Fernando_Alonso
+wikiPageWikiLink: Nicholas_Latifi
+wikiPageWikiLink: Fastest_lap
+wikiPageWikiLink: Formula_One_racing
+wikiPageWikiLink: Haas_F1_Team
+wikiPageWikiLink: Texas
+wikiPageWikiLink: Aston_Martin_in_Formula_One
+wikiPageWikiLink: Charles_Leclerc
+wikiPageWikiLink: Kevin_Magnussen
+wikiPageWikiLink: Lance_Stroll
+wikiPageWikiLink: Lando_Norris
+wikiPageWikiLink: Pierre_Gasly
+wikiPageWikiLink: Pirelli
+wikiPageWikiLink: Mercedes-Benz_in_Formula_One
+wikiPageWikiLink: Mercedes_AMG_High_Performance_Powertrains
+wikiPageWikiLink: Mick_Schumacher
+wikiPageWikiLink: Red_Bull_Powertrains
+wikiPageWikiLink: Red_Bull_Racing
+wikiPageWikiLink: Scuderia_AlphaTauri
+wikiPageWikiLink: Scuderia_Ferrari
+wikiPageWikiLink: Sebastian_Vettel
+wikiPageWikiLink: Sergio_Pérez
+wikiPageWikiLink: Parc_fermé
+wikiPageWikiLink: File:1rightarrow_blue.svg
+wikiPageWikiLink: File:1uparrow_green.svg
+wikiPageWikiLink: File:1downarrow_red.svg
+thumbnail: Austin_circuit.svg?width=300
+nextRound: 2022
+previousRound: 2022
+poleTime: 1
+attendance: 440000
+caption: Layout of the Circuit of the Americas
+course: Permanent racing facility
+grandPrix: United States
+location: United_States
+location: Circuit_of_the_Americas
+location: Austin,_Texas
+location: Texas
+officialName: Formula 1 Aramco United States Grand Prix 2022
+type: F1
+year: 2022
+courseKm: 5.513
+courseMi: 3.426
+distanceKm: 308.405
+distanceLaps: 56
+distanceMi: 191.634
+fastCountry: GBR
+fastDriver: George_Russell_(racing_driver)
+fastTeam: Mercedes-Benz_in_Formula_One
+fastTime: 1
+firstCountry: NED
+firstDriver: Max_Verstappen
+firstTeam: Red_Bull_Powertrains
+firstTeam: Red_Bull_Racing
+nameOfRace: United_States_Grand_Prix
+nextRaceInSeason: 2022
+nextYear'sRace: 2023
+previousRaceInSeason: 2022
+previousYear'sRace: 2021
+secondCountry: GBR
+secondDriver: Lewis_Hamilton
+secondTeam: Mercedes-Benz_in_Formula_One
+thirdCountry: MON
+thirdDriver: Charles_Leclerc
+thirdTeam: Scuderia_Ferrari
+yearOfRace: 2022
+poleCountry: ESP
+poleDriver: Carlos_Sainz_Jr.
+poleTeam: Scuderia_Ferrari
+raceNo: 19
+seasonNo: 22
+weather: Partly cloudy
+fastLap: 56
+abstract: The 2022 United States Grand Prix (officially known as the Formula 1 Aramco United States Grand Prix 2022) was a Formula One motor race, held on October 23, 2022, at the Circuit of the Americas in Austin, Texas, United States. The race was the 19th round of the 2022 Formula One World Championship and the 51st running of the United States Grand Prix, the 43rd time the race was run as a World Championship event since the inaugural 1950 season, and the tenth time a World Championship round was held at the Circuit of the Americas in Austin, Texas. It was won by defending champion Max Verstappen, who was followed by Lewis Hamilton in second and Charles Leclerc in third.
+fullDate: 2022-10-23
+wasDerivedFrom: 2022_United_States_Grand_Prix?oldid=1121740374&ns=0
+course: 5.513
+course: 5.513612544
+distance: 308.405
+distance: 308.405028096
+wikiPageLength: 25719
+course: 5513.0
+course: 5513.61
+distance: 308405.0
+distance: 308405.0
+distanceLaps: 56
+fastestDriver: George_Russell_(racing_driver)
+fastestDriverTeam: Mercedes-Benz_in_Formula_One
+firstDriver: Max_Verstappen
+firstDriverTeam: Red_Bull_Racing
+poleDriver: Carlos_Sainz_Jr.
+poleDriverTeam: Scuderia_Ferrari
+secondDriver: Lewis_Hamilton
+secondTeam: Mercedes-Benz_in_Formula_One
+thirdDriver: Charles_Leclerc
+thirdTeam: Scuderia_Ferrari
+isPrimaryTopicOf: 2022_United_States_Grand_Prix
+	

@@ -1,0 +1,86 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Världsmästerskapet i ishockey för herrar 2023, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+label: 2023 IIHF World Championship
+comment: The 2023 IIHF World Championship will be co-hosted by Tampere, Finland and Riga, Latvia. The tournament is scheduled to be held from 12 to 28 May 2023, and will be organized by the International Ice Hockey Federation (IIHF).
+homepage: wm
+depiction: Arēna_Rīga.jpg
+depiction: Flag_of_Finland.svg
+depiction: Flag_of_Latvia.svg
+depiction: Tampere.vaakuna.svg
+depiction: Coat_of_Arms_of_Riga_small.svg
+depiction: IIHF_WC_2023_logo.png
+depiction: Nokia_Arena_May_2022_1.jpg
+subject: Category:2023_IIHF_Men's_World_Ice_Hockey_Championships
+subject: Category:2023_in_ice_hockey
+subject: Category:May_2023_sports_events_in_Europe
+subject: Category:Scheduled_ice_hockey_competitions
+subject: Category:IIHF_World_Championship
+subject: Category:International_ice_hockey_competitions_hosted_by_Latvia
+subject: Category:International_ice_hockey_competitions_hosted_by_Finland
+subject: Category:Sports_competitions_in_Riga
+subject: Category:Sports_competitions_in_Tampere
+subject: Category:Sports_events_affected_by_the_2022_Russian_invasion_of_Ukraine
+wikiPageID: 57761009
+wikiPageRevisionID: 1119865392
+wikiPageWikiLink: Category:2023_IIHF_Men's_World_Ice_Hockey_Championships
+wikiPageWikiLink: Category:2023_in_ice_hockey
+wikiPageWikiLink: Category:May_2023_sports_events_in_Europe
+wikiPageWikiLink: Category:Scheduled_ice_hockey_competitions
+wikiPageWikiLink: Riga
+wikiPageWikiLink: Saint_Petersburg
+wikiPageWikiLink: Category:IIHF_World_Championship
+wikiPageWikiLink: Category:International_ice_hockey_competitions_hosted_by_Latvia
+wikiPageWikiLink: Ljubljana
+wikiPageWikiLink: Category:International_ice_hockey_competitions_hosted_by_Finland
+wikiPageWikiLink: Category:Sports_competitions_in_Riga
+wikiPageWikiLink: Category:Sports_competitions_in_Tampere
+wikiPageWikiLink: Budapest
+wikiPageWikiLink: 2022_IIHF_World_Championship
+wikiPageWikiLink: 2022_IIHF_World_Championship_Division_I
+wikiPageWikiLink: 2022_Russian_invasion_of_Ukraine
+wikiPageWikiLink: 2023_IIHF_World_Championship_Group_A
+wikiPageWikiLink: 2023_IIHF_World_Championship_Group_B
+wikiPageWikiLink: 2024_IIHF_World_Championship
+wikiPageWikiLink: Finland
+wikiPageWikiLink: Nokia_Arena_(Tampere)
+wikiPageWikiLink: International_Ice_Hockey_Federation
+wikiPageWikiLink: International_Olympic_Committee
+wikiPageWikiLink: Tampere
+wikiPageWikiLink: Category:Sports_events_affected_by_the_2022_Russian_invasion_of_Ukraine
+wikiPageWikiLink: Arena_Riga
+wikiPageWikiLink: Latvia
+wikiPageWikiLink: IIHF_World_Ranking
+wikiPageWikiLink: Serpentine_system
+wikiPageWikiLink: File:Flag_of_Finland.svg
+wikiPageWikiLink: File:Flag_of_Latvia.svg
+wikiPageWikiLink: File:Tampere.vaakuna.svg
+wikiPageWikiLink: 2023_IIHF_World_Championship_Final
+wikiPageWikiLink: File:Arēna_Rīga.jpg
+wikiPageWikiLink: File:Coat_of_Arms_of_Riga_small.svg
+wikiPageWikiLink: File:Nokia_Arena_May_2022_1.jpg
+wikiPageExternalLink: wm
+thumbnail: IIHF_WC_2023_logo.png?width=300
+cities: 2
+country: Latvia
+country:  Finland
+dates: --05-28
+float: none
+nextseason: 2024
+numTeams: 16
+prevseason: 2022
+size: 165
+venues: 2
+width: 250
+year: 2023
+abstract: The 2023 IIHF World Championship will be co-hosted by Tampere, Finland and Riga, Latvia. The tournament is scheduled to be held from 12 to 28 May 2023, and will be organized by the International Ice Hockey Federation (IIHF).
+wasDerivedFrom: 2023_IIHF_World_Championship?oldid=1119865392&ns=0
+wikiPageLength: 16029
+isPrimaryTopicOf: 2023_IIHF_World_Championship
+	

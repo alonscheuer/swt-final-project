@@ -1,0 +1,64 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Lombardiet runt 2022, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	label: 2022 Il Lombardia
+comment: The 2022 Il Lombardia was a one-day road cycling race that took place on 8 October 2022 in the Italian region of Lombardy. It was the 31st and final event of the 2022 UCI World Tour and was the 115th edition of Il Lombardia.
+name: 2022
+subject: Category:2022_UCI_World_Tour
+subject: Category:2022_in_Italian_sport
+subject: Category:October_2022_sports_events_in_Italy
+subject: Category:Giro_di_Lombardia
+wikiPageID: 71951629
+wikiPageRevisionID: 1114951011
+wikiPageWikiLink: Carlos_Rodríguez_(cyclist)
+wikiPageWikiLink: Romain_Bardet
+wikiPageWikiLink: Rudy_Molard
+wikiPageWikiLink: 2022_UCI_World_Tour
+wikiPageWikiLink: Category:2022_UCI_World_Tour
+wikiPageWikiLink: Category:2022_in_Italian_sport
+wikiPageWikiLink: Category:October_2022_sports_events_in_Italy
+wikiPageWikiLink: Bauke_Mollema
+wikiPageWikiLink: Enric_Mas
+wikiPageWikiLink: Giro_di_Lombardia
+wikiPageWikiLink: Category:Giro_di_Lombardia
+wikiPageWikiLink: Lombardy
+wikiPageWikiLink: 2021_Il_Lombardia
+wikiPageWikiLink: Adam_Yates
+wikiPageWikiLink: Alejandro_Valverde
+wikiPageWikiLink: Italy
+wikiPageWikiLink: RCS_Sport
+wikiPageWikiLink: UCI_WorldTeam
+wikiPageWikiLink: Tadej_Pogačar
+wikiPageWikiLink: Mikel_Landa
+wikiPageWikiLink: Sergio_Higuita
+wikiPageWikiLink: Road_bicycle_racing
+wikiPageWikiLink: UCI_Professional_Continental
+wikiPageWikiLink: 2023_Il_Lombardia
+colwidth: 20
+date: 2022-10-08
+distance: 253
+first: Tadej_Pogačar
+next: 2023
+previous: 2021
+second: Enric_Mas
+series: 2022
+style: 20.0
+third: Mikel_Landa
+time: 22882.0
+unit: km
+raceNo: 31
+seasonNo: 31
+firstNat: SLO
+secondNat: ESP
+stages: 1
+thirdNat: ESP
+abstract: The 2022 Il Lombardia was a one-day road cycling race that took place on 8 October 2022 in the Italian region of Lombardy. It was the 31st and final event of the 2022 UCI World Tour and was the 115th edition of Il Lombardia.
+wasDerivedFrom: 2022_Il_Lombardia?oldid=1114951011&ns=0
+wikiPageLength: 4724
+isPrimaryTopicOf: 2022_Il_Lombardia
+	

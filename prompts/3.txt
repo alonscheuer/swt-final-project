@@ -1,0 +1,104 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Fastlagen, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: WikicatCarnivals
+type: WikicatCarnivalsInDenmark
+type: WikicatTraditions
+type: Abstraction100002137
+type: Act100030358
+type: Activity100407535
+type: Carnival100511555
+type: Celebration100428000
+type: Cognition100023271
+type: Content105809192
+type: Diversion100426928
+type: Event100029378
+type: Festival100517728
+type: PsychologicalFeature100023100
+type: YagoPermanentlyLocatedEntity
+type: Tradition105809745
+label: Fastelavn
+comment: Fastelavn is a Carnival tradition in the Northern European, and historically Lutheran, nations of Denmark, Norway, Sweden, Iceland and the Faroe Islands. Fastelavn is also traditionally celebrated in Greenland. The related word Fastelovend is used for Carnival in Germany in Köln and Bonn with the same meaning. Fastelavn is related to the Roman Catholic tradition of Carnival in the days before Lent, although after Denmark became a Protestant nation the festival adopted certain distinctive characteristics. The holiday occurs the week before the Christian penitential season of Lent, culminating on Shrove Tuesday, the day before Ash Wednesday, the first day of Lent. The Swedish counterpart is Fastlagen, the Icelandic is , and in Finland they celebrate Laskiainen. In Estonia it is celebrated as
+depiction: Fastelavnsboller_4_(ubt).jpeg
+depiction: Boern_og_fastelavnstoende_1937_kgl_bib_billedsamling.jpg
+depiction: Boern_rasleboesse_193x_kgl_bib_billedsamling.jpg
+depiction: Fastelavn_er_mit_navn_(kun_på_dansk)_(ubt).svg
+depiction: Fastelavn_på_Frederiksberg_Runddel.jpg
+depiction: HPIM1254_(2254686939).jpg
+subject: Category:Norwegian_culture
+subject: Category:Danish_culture
+subject: Category:Carnivals_in_Denmark
+subject: Category:Winter_events_in_Denmark
+subject: Category:Cats_in_popular_culture
+wikiPageID: 7668289
+wikiPageRevisionID: 1118791783
+wikiPageWikiLink: Cat
+wikiPageWikiLink: Protestant
+wikiPageWikiLink: Scots_language
+wikiPageWikiLink: Evangelical_Lutheran_Church_in_Denmark
+wikiPageWikiLink: Denmark
+wikiPageWikiLink: Category:Norwegian_culture
+wikiPageWikiLink: Public_holidays_in_Denmark
+wikiPageWikiLink: Colognian_dialect
+wikiPageWikiLink: Children's_sermon
+wikiPageWikiLink: Christian_II_of_Denmark
+wikiPageWikiLink: Edvard_Grieg
+wikiPageWikiLink: Lent
+wikiPageWikiLink: Lutheran
+wikiPageWikiLink: Shrove_Tuesday
+wikiPageWikiLink: Ísafjörður
+wikiPageWikiLink: Piñata
+wikiPageWikiLink: Brorson
+wikiPageWikiLink: Category:Danish_culture
+wikiPageWikiLink: Laskiainen
+wikiPageWikiLink: Shrovetide
+wikiPageWikiLink: Dutch_language
+wikiPageWikiLink: Estonian_language
+wikiPageWikiLink: Faroe_Islands
+wikiPageWikiLink: Norway
+wikiPageWikiLink: Oslo
+wikiPageWikiLink: Pastry_cream
+wikiPageWikiLink: Roman_Catholic
+wikiPageWikiLink: Greenland
+wikiPageWikiLink: Category:Carnivals_in_Denmark
+wikiPageWikiLink: Johan_Svendsen
+wikiPageWikiLink: Latvian_language
+wikiPageWikiLink: Category:Winter_events_in_Denmark
+wikiPageWikiLink: Sweden
+wikiPageWikiLink: Sweet_roll
+wikiPageWikiLink: Divine_Service_(Lutheran)
+wikiPageWikiLink: Ash_Wednesday
+wikiPageWikiLink: Category:Cats_in_popular_culture
+wikiPageWikiLink: Iceland
+wikiPageWikiLink: Carnival
+wikiPageWikiLink: Quinquagesima
+wikiPageWikiLink: Limburgish_language
+wikiPageWikiLink: Middle_Low_German
+wikiPageWikiLink: Old_Danish
+wikiPageWikiLink: Pancake_Tuesday
+wikiPageWikiLink: Trick-or-treat
+wikiPageWikiLink: Quinquagesima_Sunday
+wikiPageWikiLink: Shrove_Sunday
+wikiPageWikiLink: File:Boern_og_fastelavnstoende_1937_kgl_bib_billedsamling.jpg
+wikiPageWikiLink: File:Boern_rasleboesse_193x_kgl_bib_billedsamling.jpg
+wikiPageWikiLink: File:Fastelavn_er_mit_navn_(kun_på_dansk)_(ubt).svg
+wikiPageWikiLink: File:Fastelavn_på_Frederiksberg_Runddel.jpg
+wikiPageWikiLink: File:Fastelavnsboller_4_(ubt).jpeg
+wikiPageWikiLink: File:HPIM1254_(2254686939).jpg
+wikiPageWikiLink: Sprengidagur
+wikiPageWikiLink: Vastlapäev
+wikiPageExternalLink: Index.html
+wikiPageExternalLink: fastelavnsboller%7Ctitle=20
+thumbnail: Boern_rasleboesse_193x_kgl_bib_billedsamling.jpg?width=300
+wikiPageInterLanguageLink: Vastelaovend
+abstract: Fastelavn is a Carnival tradition in the Northern European, and historically Lutheran, nations of Denmark, Norway, Sweden, Iceland and the Faroe Islands. Fastelavn is also traditionally celebrated in Greenland. The related word Fastelovend is used for Carnival in Germany in Köln and Bonn with the same meaning. Fastelavn is related to the Roman Catholic tradition of Carnival in the days before Lent, although after Denmark became a Protestant nation the festival adopted certain distinctive characteristics. The holiday occurs the week before the Christian penitential season of Lent, culminating on Shrove Tuesday, the day before Ash Wednesday, the first day of Lent. The Swedish counterpart is Fastlagen, the Icelandic is , and in Finland they celebrate Laskiainen. In Estonia it is celebrated as . In Iceland, Ísafjörður is the only town that celebrates Fastelavn on the same day as the other Nordic countries, on monday, locally known as Maskadagur (mask-day). The traditions of Fastelavn vary somewhat between the countries, and local regions, and some traditions have changed over time. A common theme of Fastelavn in all the countries currently involves children dressing up in costumes, walking door to door while they sing and gathering treats for the Fastelavn feast, a form of trick-or-treat. Today, the festivities of Fastelavn are generally considered to be a time for children’s fun and family games.
+hypernym: Name
+wasDerivedFrom: Fastelavn?oldid=1118791783&ns=0
+wikiPageLength: 15417
+isPrimaryTopicOf: Fastelavn
+	

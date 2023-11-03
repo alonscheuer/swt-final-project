@@ -1,0 +1,179 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Österrikes Grand Prix 2022, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: Event
+type: SportsEvent
+type: Event
+type: SocietalEvent
+type: Q1656682
+type: Event
+type: GrandPrix
+type: SportsEvent
+label: 2022 Austrian Grand Prix
+comment: The 2022 Austrian Grand Prix (officially known as the Formula 1 Rolex Großer Preis von Österreich 2022) was a Formula One motor race held on 10 July 2022 at the Red Bull Ring in Spielberg, Austria. It was the second Grand Prix weekend of the 2022 season to utilise the Formula One sprint format.
+seeAlso: 2022_Formula_One_World_Championship
+name: Formula 1 RolexGroßer Preis von Österreich2022
+depiction: 1downarrow_red.svg
+depiction: 1rightarrow_blue.svg
+depiction: 1uparrow_green.svg
+depiction: Spielberg_bare_map_numbers_contextless_2021_corner_names.svg
+location: Styria
+location: Austria
+location: Spielberg,_Austria
+location: Red_Bull_Ring
+subject: Category:2022_Formula_One_races
+subject: Category:2022_in_Austrian_motorsport
+subject: Category:July_2022_sports_events_in_Austria
+subject: Category:Austrian_Grand_Prix
+wikiPageID: 69487941
+wikiPageRevisionID: 1125013119
+wikiPageWikiLink: Carlos_Sainz_Jr.
+wikiPageWikiLink: Saudi_Aramco
+wikiPageWikiLink: 2022_Spielberg_Formula_2_round
+wikiPageWikiLink: 2022_Spielberg_Formula_3_round
+wikiPageWikiLink: Category:2022_Formula_One_races
+wikiPageWikiLink: Category:2022_in_Austrian_motorsport
+wikiPageWikiLink: Category:July_2022_sports_events_in_Austria
+wikiPageWikiLink: Renault_in_Formula_One
+wikiPageWikiLink: Valtteri_Bottas
+wikiPageWikiLink: Virtual_safety_car
+wikiPageWikiLink: 107%25_rule
+wikiPageWikiLink: Max_Verstappen
+wikiPageWikiLink: McLaren
+wikiPageWikiLink: Christian_Horner
+wikiPageWikiLink: George_Russell_(racing_driver)
+wikiPageWikiLink: 2021_Austrian_Grand_Prix
+wikiPageWikiLink: Andreas_Seidl
+wikiPageWikiLink: Lewis_Hamilton
+wikiPageWikiLink: Styria
+wikiPageWikiLink: Yuki_Tsunoda
+wikiPageWikiLink: Zhou_Guanyu
+wikiPageWikiLink: Category:Austrian_Grand_Prix
+wikiPageWikiLink: Austria
+wikiPageWikiLink: Austrian_Grand_Prix
+wikiPageWikiLink: Toto_Wolff
+wikiPageWikiLink: Williams_Grand_Prix_Engineering
+wikiPageWikiLink: Drag_reduction_system
+wikiPageWikiLink: 2022_British_Grand_Prix
+wikiPageWikiLink: 2022_Formula_One_World_Championship
+wikiPageWikiLink: 2022_French_Grand_Prix
+wikiPageWikiLink: Alex_Albon
+wikiPageWikiLink: Alexander_Albon
+wikiPageWikiLink: Alfa_Romeo_in_Formula_One
+wikiPageWikiLink: Alpine_F1_Team
+wikiPageWikiLink: Daniel_Ricciardo
+wikiPageWikiLink: Esteban_Ocon
+wikiPageWikiLink: Fernando_Alonso
+wikiPageWikiLink: Formula_One
+wikiPageWikiLink: Nicholas_Latifi
+wikiPageWikiLink: Fastest_lap
+wikiPageWikiLink: Red_flag_(racing)
+wikiPageWikiLink: Haas_F1_Team
+wikiPageWikiLink: Aston_Martin_in_Formula_One
+wikiPageWikiLink: Charles_Leclerc
+wikiPageWikiLink: Kevin_Magnussen
+wikiPageWikiLink: Lance_Stroll
+wikiPageWikiLink: Lando_Norris
+wikiPageWikiLink: Spielberg,_Austria
+wikiPageWikiLink: Pierre_Gasly
+wikiPageWikiLink: Pirelli
+wikiPageWikiLink: Pole_position
+wikiPageWikiLink: Spielberg,_Styria
+wikiPageWikiLink: Mercedes-Benz_in_Formula_One
+wikiPageWikiLink: Mercedes_AMG_High_Performance_Powertrains
+wikiPageWikiLink: Mick_Schumacher
+wikiPageWikiLink: Red_Bull_Powertrains
+wikiPageWikiLink: Red_Bull_Racing
+wikiPageWikiLink: Red_Bull_Ring
+wikiPageWikiLink: Scuderia_AlphaTauri
+wikiPageWikiLink: Scuderia_Ferrari
+wikiPageWikiLink: Sebastian_Vettel
+wikiPageWikiLink: Sergio_Pérez
+wikiPageWikiLink: Formula_One_sprint_racing
+wikiPageWikiLink: UTC+02:00
+wikiPageWikiLink: Stewards_(motorsport)
+wikiPageWikiLink: File:1rightarrow_blue.svg
+wikiPageWikiLink: File:1uparrow_green.svg
+wikiPageWikiLink: File:1downarrow_red.svg
+wikiPageWikiLink: 2023_Austrian_Grand_Prix
+thumbnail: Spielberg_bare_map_numbers_contextless_2021_corner_names.svg?width=300
+nextRound: 2022
+previousRound: 2022
+poleTime: 1
+attendance: 303000
+caption: Layout of the Red Bull Ring
+country: Austria
+course: Permanent racing facility
+date: --07-10
+grandPrix: Austrian
+location: Red_Bull_Ring
+location: Spielberg, Styria, Austria
+officialName: Formula 1 Rolex Großer Preis von Österreich 2022
+type: F1
+year: 2022
+courseKm: 4.318
+courseMi: 2.683
+distanceKm: 306.578
+distanceLaps: 71
+distanceMi: 190.42
+fastCountry: NED
+fastDriver: Max_Verstappen
+fastTeam: Red_Bull_Powertrains
+fastTeam: Red_Bull_Racing
+fastTime: 1
+firstCountry: MON
+firstDriver: Charles_Leclerc
+firstTeam: Scuderia_Ferrari
+nameOfRace: Austrian_Grand_Prix
+nextRaceInSeason: 2022
+nextYear'sRace: 2023
+previousRaceInSeason: 2022
+previousYear'sRace: 2021
+secondCountry: NED
+secondDriver: Max_Verstappen
+secondTeam: Red_Bull_Powertrains
+secondTeam: Red_Bull_Racing
+thirdCountry: GBR
+thirdDriver: Lewis_Hamilton
+thirdTeam: Mercedes-Benz_in_Formula_One
+yearOfRace: 2022
+poleCountry: NED
+poleDriver: Max Verstappen
+poleTeam: Red_Bull_Powertrains
+poleTeam: Red_Bull_Racing
+raceNo: 11
+seasonNo: 22
+weather: Partly cloudy
+fastLap: 62
+abstract: The 2022 Austrian Grand Prix (officially known as the Formula 1 Rolex Großer Preis von Österreich 2022) was a Formula One motor race held on 10 July 2022 at the Red Bull Ring in Spielberg, Austria. It was the second Grand Prix weekend of the 2022 season to utilise the Formula One sprint format. Max Verstappen qualified on pole position and retained the first grid spot by winning the sprint race. Charles Leclerc won the race in spite of late issues with his car, retaking second place in the standings from Sergio Pérez. Verstappen finished second, and Lewis Hamilton came in third. The entire race weekend was marred by accusations of poor fan behavior.
+gridFromSprint: true
+wasDerivedFrom: 2022_Austrian_Grand_Prix?oldid=1125013119&ns=0
+course: 4.317869952
+course: 4.318
+distance: 306.45128448
+distance: 306.578
+wikiPageLength: 45003
+course: 4317.87
+course: 4318.0
+distance: 306451.0
+distance: 306578.0
+distanceLaps: 71
+country: Austria
+fastestDriver: Max_Verstappen
+fastestDriverTeam: Red_Bull_Racing
+firstDriver: Charles_Leclerc
+firstDriverTeam: Scuderia_Ferrari
+poleDriver: Max_Verstappen
+poleDriverTeam: Red_Bull_Racing
+secondDriver: Max_Verstappen
+secondTeam: Red_Bull_Racing
+thirdDriver: Lewis_Hamilton
+thirdTeam: Mercedes-Benz_in_Formula_One
+isPrimaryTopicOf: 2022_Austrian_Grand_Prix
+	

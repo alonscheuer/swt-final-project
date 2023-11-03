@@ -1,0 +1,168 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Mexikos Grand Prix 2022, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: Event
+type: SportsEvent
+type: Event
+type: SocietalEvent
+type: Q1656682
+type: Event
+type: GrandPrix
+type: SportsEvent
+label: 2022 Mexico City Grand Prix
+comment: The 2022 Mexico City Grand Prix (officially known as the Formula 1 Gran Premio de la Ciudad de México 2022) was a Formula One motor race that was held on 30 October 2022 at the Autódromo Hermanos Rodríguez in Mexico City, Mexico. The race was the 20th round of the 2022 Formula One World Championship and marked the 22nd edition of the Mexican Grand Prix, which was run under the name Mexico City Grand Prix for the second time. It was won by defending champion Max Verstappen, who was followed by Lewis Hamilton in second and Sergio Pérez in third.
+seeAlso: 2022_Formula_One_World_Championship
+name: Formula 1Gran Premio de la Ciudad de México2022
+depiction: 1downarrow_red.svg
+depiction: 1rightarrow_blue.svg
+depiction: 1uparrow_green.svg
+depiction: Autódromo_Hermanos_Rodríguez_2015.svg
+location: Autódromo_Hermanos_Rodríguez
+location: Mexico_City
+subject: Category:2022_Formula_One_races
+subject: Category:2022_in_Mexican_motorsport
+subject: Category:October_2022_sports_events_in_Mexico
+subject: Category:Mexican_Grand_Prix
+wikiPageID: 65823017
+wikiPageRevisionID: 1121919999
+wikiPageWikiLink: Carlos_Sainz_Jr.
+wikiPageWikiLink: Saudi_Aramco
+wikiPageWikiLink: Category:2022_Formula_One_races
+wikiPageWikiLink: Category:2022_in_Mexican_motorsport
+wikiPageWikiLink: Category:October_2022_sports_events_in_Mexico
+wikiPageWikiLink: Renault_in_Formula_One
+wikiPageWikiLink: Valtteri_Bottas
+wikiPageWikiLink: 107%25_rule
+wikiPageWikiLink: Max_Verstappen
+wikiPageWikiLink: McLaren
+wikiPageWikiLink: George_Russell_(racing_driver)
+wikiPageWikiLink: Lewis_Hamilton
+wikiPageWikiLink: Liam_Lawson
+wikiPageWikiLink: Logan_Sargeant
+wikiPageWikiLink: Yuki_Tsunoda
+wikiPageWikiLink: Zhou_Guanyu
+wikiPageWikiLink: Category:Mexican_Grand_Prix
+wikiPageWikiLink: Autódromo_Hermanos_Rodríguez
+wikiPageWikiLink: Williams_Grand_Prix_Engineering
+wikiPageWikiLink: Drag_reduction_system
+wikiPageWikiLink: 2021_Mexico_City_Grand_Prix
+wikiPageWikiLink: 2022_Formula_One_World_Championship
+wikiPageWikiLink: 2022_Japanese_Grand_Prix
+wikiPageWikiLink: 2022_São_Paulo_Grand_Prix
+wikiPageWikiLink: 2022_United_States_Grand_Prix
+wikiPageWikiLink: Alex_Albon
+wikiPageWikiLink: Alexander_Albon
+wikiPageWikiLink: Alfa_Romeo_in_Formula_One
+wikiPageWikiLink: Alpine_F1_Team
+wikiPageWikiLink: Daniel_Ricciardo
+wikiPageWikiLink: Esteban_Ocon
+wikiPageWikiLink: Fernando_Alonso
+wikiPageWikiLink: Formula_One
+wikiPageWikiLink: Nicholas_Latifi
+wikiPageWikiLink: Fastest_lap
+wikiPageWikiLink: Haas_F1_Team
+wikiPageWikiLink: Jack_Doohan_(racing_driver)
+wikiPageWikiLink: Aston_Martin_in_Formula_One
+wikiPageWikiLink: Charles_Leclerc
+wikiPageWikiLink: Kevin_Magnussen
+wikiPageWikiLink: Lance_Stroll
+wikiPageWikiLink: Lando_Norris
+wikiPageWikiLink: Pierre_Gasly
+wikiPageWikiLink: Pietro_Fittipaldi
+wikiPageWikiLink: Pirelli
+wikiPageWikiLink: Mercedes-Benz_in_Formula_One
+wikiPageWikiLink: Mercedes_AMG_High_Performance_Powertrains
+wikiPageWikiLink: Mexican_Grand_Prix
+wikiPageWikiLink: Mexico_City
+wikiPageWikiLink: Mexico_City_Grand_Prix
+wikiPageWikiLink: Mick_Schumacher
+wikiPageWikiLink: Nyck_de_Vries
+wikiPageWikiLink: Red_Bull_Powertrains
+wikiPageWikiLink: Red_Bull_Racing
+wikiPageWikiLink: Scuderia_AlphaTauri
+wikiPageWikiLink: Scuderia_Ferrari
+wikiPageWikiLink: Sebastian_Vettel
+wikiPageWikiLink: Sergio_Pérez
+wikiPageWikiLink: Alpine_in_Formula_One
+wikiPageWikiLink: 2023_Mexico_City_Grand_Prix
+wikiPageWikiLink: File:1rightarrow_blue.svg
+wikiPageWikiLink: File:1uparrow_green.svg
+wikiPageWikiLink: File:1downarrow_red.svg
+thumbnail: Autódromo_Hermanos_Rodríguez_2015.svg?width=300
+nextRound: 2022
+previousRound: 2022
+poleTime: 1
+attendance: 395902
+caption: Layout of the Autódromo Hermanos Rodríguez
+course: Permanent racing facility
+date: --10-30
+grandPrix: Mexico City
+location: Autódromo_Hermanos_Rodríguez
+location: Mexico City, Mexico
+officialName: Formula 1 Gran Premio de la Ciudad de México 2022
+type: F1
+year: 2022
+courseKm: 4.304
+courseMi: 2.674
+distanceKm: 305.354
+distanceLaps: 71
+distanceMi: 189.738
+fastCountry: GBR
+fastDriver: George_Russell_(racing_driver)
+fastTeam: Mercedes-Benz_in_Formula_One
+fastTime: 1
+firstCountry: NED
+firstDriver: Max_Verstappen
+firstTeam: Red_Bull_Powertrains
+firstTeam: Red_Bull_Racing
+nameOfRace: Mexico_City_Grand_Prix
+nextRaceInSeason: 2022
+nextYear'sRace: 2023
+previousRaceInSeason: 2022
+previousYear'sRace: 2021
+secondCountry: GBR
+secondDriver: Lewis_Hamilton
+secondTeam: Mercedes-Benz_in_Formula_One
+thirdCountry: MEX
+thirdDriver: Sergio_Pérez
+thirdTeam: Red_Bull_Powertrains
+thirdTeam: Red_Bull_Racing
+yearOfRace: 2022
+poleCountry: NED
+poleDriver: Max_Verstappen
+poleTeam: Red_Bull_Powertrains
+poleTeam: Red_Bull_Racing
+raceNo: 20
+seasonNo: 22
+weather: Partly cloudy
+fastLap: 71
+abstract: The 2022 Mexico City Grand Prix (officially known as the Formula 1 Gran Premio de la Ciudad de México 2022) was a Formula One motor race that was held on 30 October 2022 at the Autódromo Hermanos Rodríguez in Mexico City, Mexico. The race was the 20th round of the 2022 Formula One World Championship and marked the 22nd edition of the Mexican Grand Prix, which was run under the name Mexico City Grand Prix for the second time. It was won by defending champion Max Verstappen, who was followed by Lewis Hamilton in second and Sergio Pérez in third.
+wasDerivedFrom: 2022_Mexico_City_Grand_Prix?oldid=1121919999&ns=0
+course: 4.303385856
+course: 4.304
+distance: 305.353711872
+distance: 305.354
+wikiPageLength: 24753
+course: 4303.39
+course: 4304.0
+distance: 305354.0
+distance: 305354.0
+distanceLaps: 71
+fastestDriver: George_Russell_(racing_driver)
+fastestDriverTeam: Mercedes-Benz_in_Formula_One
+firstDriver: Max_Verstappen
+firstDriverTeam: Red_Bull_Racing
+poleDriver: Max_Verstappen
+poleDriverTeam: Red_Bull_Racing
+secondDriver: Lewis_Hamilton
+secondTeam: Mercedes-Benz_in_Formula_One
+thirdDriver: Sergio_Pérez
+thirdTeam: Red_Bull_Racing
+isPrimaryTopicOf: 2022_Mexico_City_Grand_Prix
+	

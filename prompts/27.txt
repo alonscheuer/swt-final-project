@@ -1,0 +1,129 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Kvalspelet till Europamästerskapet i fotboll 2024 (grupp A), skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: Event
+type: Event
+type: Q1656682
+type: Event
+label: UEFA Euro 2024 qualifying Group A
+comment: Group A of UEFA Euro 2024 qualifying is one of the ten groups to decide which teams will qualify for the UEFA Euro 2024 final tournament in Germany. Group A consists of five teams: Cyprus, Georgia, Norway, Scotland and Spain. The teams will play against each other home-and-away in a round-robin format. The top two teams will qualify directly for the final tournament. The participants of the qualifying play-offs will be decided based on their performance in the 2022–23 UEFA Nations League.
+subject: Category:2022–23_in_Cypriot_football
+subject: Category:2022–23_in_Scottish_football
+subject: Category:2022–23_in_Spanish_football
+subject: Category:2023_in_Norwegian_football
+subject: Category:2023_in_Georgian_football
+subject: Category:UEFA_Euro_2024_qualifying
+wikiPageID: 70800622
+wikiPageRevisionID: 1117600300
+wikiPageWikiLink: Scotland_national_football_team
+wikiPageWikiLink: Category:2022–23_in_Cypriot_football
+wikiPageWikiLink: Category:2022–23_in_Scottish_football
+wikiPageWikiLink: Category:2022–23_in_Spanish_football
+wikiPageWikiLink: Category:2023_in_Norwegian_football
+wikiPageWikiLink: UTC+03:00
+wikiPageWikiLink: UTC±00:00
+wikiPageWikiLink: Georgia_national_football_team
+wikiPageWikiLink: UTC+04:00
+wikiPageWikiLink: UEFA_Euro_2024
+wikiPageWikiLink: UEFA_Euro_2024_qualifying_play-offs
+wikiPageWikiLink: 2022–23_UEFA_Nations_League
+wikiPageWikiLink: Cyprus_national_football_team
+wikiPageWikiLink: Norway_national_football_team
+wikiPageWikiLink: Central_European_Summer_Time
+wikiPageWikiLink: Central_European_Time
+wikiPageWikiLink: Category:2023_in_Georgian_football
+wikiPageWikiLink: Category:UEFA_Euro_2024_qualifying
+wikiPageWikiLink: UTC+01:00
+wikiPageWikiLink: Spain_national_football_team
+wikiPageWikiLink: UEFA_Euro_2024_qualifying
+wikiPageWikiLink: Round-robin_tournament
+wikiPageWikiLink: UTC+02:00
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036290/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036337/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036360/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036383/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036405/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036429/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036451/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036475/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036428/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036313/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036359/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036382/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036406/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036474/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036497/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036291/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036314/
+wikiPageExternalLink: https://www.uefa.com/euro-2024/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036336/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036452/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036498/
+date: 2023-03-25
+date: 2023-03-28
+date: 2023-06-17
+date: 2023-06-20
+date: 2023-09-08
+date: 2023-09-11
+date: 2023-10-12
+date: 2023-10-15
+date: 2023-11-16
+date: 2023-11-19
+id: Scotland v Spain
+id: Spain v Scotland
+id: Cyprus v Norway
+id: Cyprus v Scotland
+id: Norway v Cyprus
+id: Norway v Scotland
+id: Scotland v Cyprus
+id: Scotland v Norway
+id: Norway v Spain
+id: Spain v Norway
+id: Cyprus v Georgia
+id: Georgia v Cyprus
+id: Georgia v Scotland
+id: Scotland v Georgia
+id: Georgia v Spain
+id: Spain v Georgia
+id: Cyprus v Spain
+id: Georgia v Norway
+id: Norway v Georgia
+id: Spain v Cyprus
+report: https://www.uefa.com/european-qualifiers/match/2036290/
+report: https://www.uefa.com/european-qualifiers/match/2036337/
+report: https://www.uefa.com/european-qualifiers/match/2036360/
+report: https://www.uefa.com/european-qualifiers/match/2036383/
+report: https://www.uefa.com/european-qualifiers/match/2036405/
+report: https://www.uefa.com/european-qualifiers/match/2036429/
+report: https://www.uefa.com/european-qualifiers/match/2036451/
+report: https://www.uefa.com/european-qualifiers/match/2036475/
+report: https://www.uefa.com/european-qualifiers/match/2036428/
+report: https://www.uefa.com/european-qualifiers/match/2036313/
+report: https://www.uefa.com/european-qualifiers/match/2036359/
+report: https://www.uefa.com/european-qualifiers/match/2036382/
+report: https://www.uefa.com/european-qualifiers/match/2036406/
+report: https://www.uefa.com/european-qualifiers/match/2036474/
+report: https://www.uefa.com/european-qualifiers/match/2036497/
+report: https://www.uefa.com/european-qualifiers/match/2036291/
+report: https://www.uefa.com/european-qualifiers/match/2036314/
+report: https://www.uefa.com/european-qualifiers/match/2036336/
+report: https://www.uefa.com/european-qualifiers/match/2036452/
+report: https://www.uefa.com/european-qualifiers/match/2036498/
+time: 1080.0
+time: 900.0
+time: 1245.0
+abstract: Group A of UEFA Euro 2024 qualifying is one of the ten groups to decide which teams will qualify for the UEFA Euro 2024 final tournament in Germany. Group A consists of five teams: Cyprus, Georgia, Norway, Scotland and Spain. The teams will play against each other home-and-away in a round-robin format. The top two teams will qualify directly for the final tournament. The participants of the qualifying play-offs will be decided based on their performance in the 2022–23 UEFA Nations League.
+wasDerivedFrom: UEFA_Euro_2024_qualifying_Group_A?oldid=1117600300&ns=0
+wikiPageLength: 9805
+time: 15:00
+time: 18:00
+time: 20:45
+isPrimaryTopicOf: UEFA_Euro_2024_qualifying_Group_A
+	

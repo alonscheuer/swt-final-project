@@ -1,0 +1,319 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om American Song Contest, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: CreativeWork
+type: Work
+type: Q15416
+type: Q386724
+type: TelevisionShow
+label: American Song Contest
+comment: American Song Contest is an American music reality competition television series based on the Eurovision Song Contest. It sees all 50 U.S. states, five territories, and Washington, D.C. compete for the title of Best Original Song. The first and to date, only season of the show consisted of eight episodes airing between March 21 and May 9, 2022 on NBC. The show is hosted by Snoop Dogg and Kelly Clarkson. The 56 entries were divided into five qualifying rounds with the top three songs determined by a public vote and top two determined by a jury panel from each round proceeding to one of two semi-finals. Two "redemption" picks were also sent to the semi-finals based on streams. Four public vote songs and one jury panel song from each semi-final were then sent to the ten participant final. The
+differentFrom: Great_American_Song_Contest
+homepage: american-song-contest
+depiction: Kelly_Clarkson_2018_DoD_Warrior_Games_Opening_Ceremony_11.jpg
+depiction: Snoop_Dogg_2019_by_Glenn_Francis.jpg
+depiction: American_Song_Contest_logo.png
+location: Universal_City,_California
+location: Universal_Studios_Lot
+subject: Category:American_Song_Contest
+subject: Category:Eurovision_Song_Contest
+subject: Category:Music_competitions_in_the_United_States
+subject: Category:Recurring_events_established_in_2022
+subject: Category:Impact_of_the_COVID-19_pandemic_on_the_music_industry
+subject: Category:2020s_American_reality_television_series
+subject: Category:2022_American_television_series_debuts
+subject: Category:American_television_spin-offs
+subject: Category:English-language_television_shows
+subject: Category:Impact_of_the_COVID-19_pandemic_on_television
+subject: Category:NBC_original_programming
+subject: Category:Television_series_by_Universal_Television
+subject: Category:Annual_television_shows
+subject: Category:2020s_American_music_television_series
+subject: Category:Song_contests
+subject: Category:Reality_television_spin-offs
+wikiPageID: 60820200
+wikiPageRevisionID: 1124207103
+wikiPageWikiLink: Capitol_Records
+wikiPageWikiLink: Carly_Pearce
+wikiPageWikiLink: Carson_Daly
+wikiPageWikiLink: Carson_Kressley
+wikiPageWikiLink: Category:American_Song_Contest
+wikiPageWikiLink: Category:Eurovision_Song_Contest
+wikiPageWikiLink: Category:Music_competitions_in_the_United_States
+wikiPageWikiLink: Category:Recurring_events_established_in_2022
+wikiPageWikiLink: _Lighting_Direction_for_a_Variety_Series
+wikiPageWikiLink: Propagate_Content
+wikiPageWikiLink: Puerto_Rico
+wikiPageWikiLink: Ron_DeSantis
+wikiPageWikiLink: Ross_Golan
+wikiPageWikiLink: Ross_Mathews
+wikiPageWikiLink: Showrunner
+wikiPageWikiLink: 2021–22_United_States_network_television_schedule
+wikiPageWikiLink: Category:Impact_of_the_COVID-19_pandemic_on_the_music_industry
+wikiPageWikiLink: Bekuh_Boom
+wikiPageWikiLink: Ben_Silverman
+wikiPageWikiLink: Billboard_(magazine)
+wikiPageWikiLink: Desmond_Child
+wikiPageWikiLink: Husavik_(song)
+wikiPageWikiLink: Jordan_Schmidt
+wikiPageWikiLink: Jordan_Smith_(musician)
+wikiPageWikiLink: List_of_countries_in_the_Eurovision_Song_Contest
+wikiPageWikiLink: Peter_Settman
+wikiPageWikiLink: Richard_Vission
+wikiPageWikiLink: Riker_Lynch
+wikiPageWikiLink: Ukraine
+wikiPageWikiLink: Universal_City,_California
+wikiPageWikiLink: Universal_Television
+wikiPageWikiLink: David_Mullen_(singer)
+wikiPageWikiLink: Deep_South
+wikiPageWikiLink: Mountain_states
+wikiPageWikiLink: 1080i
+wikiPageWikiLink: 120_Minutes
+wikiPageWikiLink: Category:2020s_American_reality_television_series
+wikiPageWikiLink: Category:2022_American_television_series_debuts
+wikiPageWikiLink: Category:American_television_spin-offs
+wikiPageWikiLink: Category:English-language_television_shows
+wikiPageWikiLink: Category:Impact_of_the_COVID-19_pandemic_on_television
+wikiPageWikiLink: Category:NBC_original_programming
+wikiPageWikiLink: Category:Television_series_by_Universal_Television
+wikiPageWikiLink: Mask_refusal
+wikiPageWikiLink: Melanie_Fontana
+wikiPageWikiLink: RÚV_(TV_channel)
+wikiPageWikiLink: SBS_Viceland
+wikiPageWikiLink: Weighted_voting
+wikiPageWikiLink: Quinn_Christopherson
+wikiPageWikiLink: Radiotelevizija_Slovenija
+wikiPageWikiLink: Christer_Björkman
+wikiPageWikiLink: Enisa_Nikaj
+wikiPageWikiLink: Great_Plains
+wikiPageWikiLink: Måneskin
+wikiPageWikiLink: NBC
+wikiPageWikiLink: NBCUniversal_Television_and_Streaming
+wikiPageWikiLink: NBC_News
+wikiPageWikiLink: NCAA_Division_I_men's_basketball_tournament
+wikiPageWikiLink: NRK
+wikiPageWikiLink: Corporation
+wikiPageWikiLink: Creative_Arts_Emmy_Awards
+wikiPageWikiLink: The_Voice_(American_TV_series)
+wikiPageWikiLink: The_Voice_(American_season_21)
+wikiPageWikiLink: The_Washington_Post
+wikiPageWikiLink: Tom_Poleman
+wikiPageWikiLink: Category:Annual_television_shows
+wikiPageWikiLink: Andreas_Carlsson
+wikiPageWikiLink: Arcade_(song)
+wikiPageWikiLink: Logo_TV
+wikiPageWikiLink: Los_Angeles
+wikiPageWikiLink: MTV
+wikiPageWikiLink: Macy_Gray
+wikiPageWikiLink: Madison_Love
+wikiPageWikiLink: Maino_(rapper)
+wikiPageWikiLink: Sisqó
+wikiPageWikiLink: Snoop_Dogg
+wikiPageWikiLink: Federal_district
+wikiPageWikiLink: Stephanie_Davis_(singer)
+wikiPageWikiLink: Streaming_media
+wikiPageWikiLink: Portuguese_Americans
+wikiPageWikiLink: Rodney_Clawson
+wikiPageWikiLink: Music_competition
+wikiPageWikiLink: BBC_Breakfast
+wikiPageWikiLink: Bucks_Fizz
+wikiPageWikiLink: CHCH-DT
+wikiPageWikiLink: COVID-19_pandemic
+wikiPageWikiLink: Cazzi_Opeia
+wikiPageWikiLink: Time_Out_(magazine)
+wikiPageWikiLink: Twitter
+wikiPageWikiLink: Ty_Stiklorius
+wikiPageWikiLink: Tyler_Acord
+wikiPageWikiLink: U.S._state
+wikiPageWikiLink: Vulture.com
+wikiPageWikiLink: WJFD-FM
+wikiPageWikiLink: Warner_Records
+wikiPageWikiLink: Washington,_D.C.
+wikiPageWikiLink: Western_United_States
+wikiPageWikiLink: Jodi_Marr
+wikiPageWikiLink: Justin_Jesso
+wikiPageWikiLink: 74th_Primetime_Creative_Arts_Emmy_Awards
+wikiPageWikiLink: 93rd_Academy_Awards
+wikiPageWikiLink: Academy_Award_for_Best_Original_Song
+wikiPageWikiLink: Adrenalina_(Senhit_song)
+wikiPageWikiLink: AleXa
+wikiPageWikiLink: Ali_Dee_Theodore
+wikiPageWikiLink: Allen_Stone
+wikiPageWikiLink: America's_Got_Talent:_Extreme
+wikiPageWikiLink: American_Idol
+wikiPageWikiLink: American_Samoa
+wikiPageWikiLink: Duncan_Laurence
+wikiPageWikiLink: Eric_Bazilian
+wikiPageWikiLink: Esquire_(magazine)
+wikiPageWikiLink: Ester_Dean
+wikiPageWikiLink: European_Broadcasting_Union
+wikiPageWikiLink: Eurovision_Song_Contest
+wikiPageWikiLink: Eurovision_Song_Contest:_The_Story_of_Fire_Saga
+wikiPageWikiLink: Eurovision_Song_Contest_2019
+wikiPageWikiLink: Eurovision_Song_Contest_2021
+wikiPageWikiLink: Eurovision_Song_Contest_2022
+wikiPageWikiLink: Fais_(musician)
+wikiPageWikiLink: Flo_Rida
+wikiPageWikiLink: Florida
+wikiPageWikiLink: Northern_Mariana_Islands
+wikiPageWikiLink: Judd_Hoos
+wikiPageWikiLink: List_of_NBC_television_affiliates_(table)
+wikiPageWikiLink: Eastern_Daylight_Time
+wikiPageWikiLink: Prime_time
+wikiPageWikiLink: Guam
+wikiPageWikiLink: HDTV
+wikiPageWikiLink: Hellenic_Broadcasting_Corporation
+wikiPageWikiLink: Isaac_Slade
+wikiPageWikiLink: Jason_Reeves_(songwriter)
+wikiPageWikiLink: Tampa,_Florida
+wikiPageWikiLink: Tenelle
+wikiPageWikiLink: Territories_of_the_United_States
+wikiPageWikiLink: Texas
+wikiPageWikiLink: The_Crystal_Method
+wikiPageWikiLink: The_Daily_Beast
+wikiPageWikiLink: The_Guardian
+wikiPageWikiLink: The_Kelly_Clarkson_Show
+wikiPageWikiLink: Atlanta
+wikiPageWikiLink: Atlantic_Records
+wikiPageWikiLink: Category:2020s_American_music_television_series
+wikiPageWikiLink: Category:Song_contests
+wikiPageWikiLink: Category:Reality_television_spin-offs
+wikiPageWikiLink: Cheryl_Baker
+wikiPageWikiLink: Jewel_(singer)
+wikiPageWikiLink: Jimmie_Allen
+wikiPageWikiLink: Jimmy_Jansson
+wikiPageWikiLink: Kelly_Clarkson
+wikiPageWikiLink: Las_Vegas
+wikiPageWikiLink: Super_Bowl
+wikiPageWikiLink: Sveriges_Television
+wikiPageWikiLink: Sweepstakes
+wikiPageWikiLink: TV3_(Estonia)
+wikiPageWikiLink: Yle_TV2
+wikiPageWikiLink: Mari_(musician)
+wikiPageWikiLink: Songland
+wikiPageWikiLink: Southwestern_United_States
+wikiPageWikiLink: Howard_T._Owens
+wikiPageWikiLink: IHeartRadio
+wikiPageWikiLink: Kyiv
+wikiPageWikiLink: Michael_Bolton
+wikiPageWikiLink: Michelle_Collins_(comedian)
+wikiPageWikiLink: Michelle_Visage
+wikiPageWikiLink: Mid-Atlantic_(United_States)
+wikiPageWikiLink: Midwestern_United_States
+wikiPageWikiLink: Netflix
+wikiPageWikiLink: New_Bedford,_Massachusetts
+wikiPageWikiLink: New_England
+wikiPageWikiLink: New_York_(state)
+wikiPageWikiLink: Oklahoma
+wikiPageWikiLink: Omicron_variant
+wikiPageWikiLink: Orlando,_Florida
+wikiPageWikiLink: RTVE_Play
+wikiPageWikiLink: Radio_Television_of_Serbia
+wikiPageWikiLink: Radio_and_Television_of_Montenegro
+wikiPageWikiLink: Reality_competition
+wikiPageWikiLink: Red_states_and_blue_states
+wikiPageWikiLink: Sean_Douglas_(songwriter)
+wikiPageWikiLink: Senhit_(singer)
+wikiPageWikiLink: ServusTV
+wikiPageWikiLink: Seth_Ennis
+wikiPageWikiLink: Christopher_Dotson
+wikiPageWikiLink: Wonderland_(AleXa_song)
+wikiPageWikiLink: Yam_Haus
+wikiPageWikiLink: Payment_card
+wikiPageWikiLink: Upland_South
+wikiPageWikiLink: Vaccine_hesitancy
+wikiPageWikiLink: Ola_Melzig
+wikiPageWikiLink: Executive_producer
+wikiPageWikiLink: Gian_Stone
+wikiPageWikiLink: Johan_Carlsson_(musician)
+wikiPageWikiLink: Shangela_Laquifa_Wadley
+wikiPageWikiLink: Yahoo!_Music
+wikiPageWikiLink: Universal_Studios_Lot
+wikiPageWikiLink: Radio_e_Televisao_de_Portugal
+wikiPageWikiLink: Super_Bowl_LVI_halftime_show
+wikiPageWikiLink: Television_in_the_United_States
+wikiPageWikiLink: Video-on-demand
+wikiPageWikiLink: U.S._Virgin_Islands
+wikiPageExternalLink: https://www.americansongsubmissions.com/
+wikiPageExternalLink: american-song-contest
+thumbnail: American_Song_Contest_logo.png?width=300
+align: right
+author: Ben Silverman, executive producer
+aux4t: Rating
+aux4t: 
+background: 094047
+basedOn: Eurovision_Song_Contest
+company: 
+company: Propagate Content
+company: Universal Television Alternative Studio
+company: Voxovation, Inc.
+country: United States
+country: U.S.
+creator: European_Broadcasting_Union
+direction: horizontal
+executiveProducer: Kelly Clarkson
+executiveProducer: Snoop Dogg
+executiveProducer: 
+executiveProducer: Ben Silverman
+executiveProducer: Anders Lenhoff
+executiveProducer: Audrey Morrissey
+executiveProducer: Brittany Martin Porter
+executiveProducer: Christer Björkman
+executiveProducer: Gregory Lipstone
+executiveProducer: Howard T. Owens
+executiveProducer: Ola Melzig
+executiveProducer: Peter Settman
+firstAired: 2022-03-21
+footer: Snoop Dogg  and Kelly Clarkson were introduced as presenters of the American Song Contest during the show's advertisement at the start of the Super Bowl LVI halftime show.
+footerAlign: left
+genre: Music_competition
+image: Snoop Dogg 2019 by Glenn Francis.jpg
+image: Kelly Clarkson 2018 DoD Warrior Games Opening Ceremony 11.jpg
+language: English
+lastAired: present
+location: Universal_City,_California
+location: Universal_Studios_Lot
+network: NBC
+numEpisodes: 8
+numSeasons: 1
+pictureFormat: 1080i
+pictureFormat: HDTV
+presenter: Kelly Clarkson
+presenter: Snoop Dogg
+presenter: 
+quote: When America is more factionalized than ever and we are dealing with so many issues that divide us, the one  that truly unites us is our culture.  can unite it by celebrating its diversity, its distinctions, and in pulling everyone around its love of music and its love of song.
+runtime: 5160.0
+source: speaking to NME.com
+width: 100
+width: 33.0
+abstract: American Song Contest is an American music reality competition television series based on the Eurovision Song Contest. It sees all 50 U.S. states, five territories, and Washington, D.C. compete for the title of Best Original Song. The first and to date, only season of the show consisted of eight episodes airing between March 21 and May 9, 2022 on NBC. The show is hosted by Snoop Dogg and Kelly Clarkson. The 56 entries were divided into five qualifying rounds with the top three songs determined by a public vote and top two determined by a jury panel from each round proceeding to one of two semi-finals. Two "redemption" picks were also sent to the semi-finals based on streams. Four public vote songs and one jury panel song from each semi-final were then sent to the ten participant final. The first season of the contest was won by Oklahoma with the song "Wonderland" performed by AleXa. Promotion for the series was organized by NBC and included a commercial during the Super Bowl and a sweepstakes for listeners on iHeartRadio stations. Reception for the first season was largely mixed, with many critics noting that it did not live up to its Eurovision origins.
+wasDerivedFrom: American_Song_Contest?oldid=1124207103&ns=0
+runtime: 86.0
+wikiPageLength: 112812
+numberOfEpisodes: 8
+numberOfSeasons: 1
+releaseDate: 2022-03-21
+runtime: 5160.0
+company: Propagate_Content
+company: Universal_Television
+creator: European_Broadcasting_Union
+executiveProducer: Ben_Silverman
+executiveProducer: Peter_Settman
+executiveProducer: Christer_Björkman
+executiveProducer: Snoop_Dogg
+executiveProducer: Kelly_Clarkson
+executiveProducer: Howard_T._Owens
+executiveProducer: Ola_Melzig
+format: HDTV
+genre: Music_competition
+network: NBC
+presenter: Snoop_Dogg
+presenter: Kelly_Clarkson
+isPrimaryTopicOf: American_Song_Contest
+	

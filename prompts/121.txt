@@ -1,0 +1,139 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Längdskidåkning vid olympiska vinterspelen 2022, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: Event
+type: SportsEvent
+type: Event
+type: SocietalEvent
+type: Q1656682
+type: OlympicEvent
+type: Event
+type: Olympics
+type: SportsEvent
+label: Cross-country skiing at the 2022 Winter Olympics
+comment: Cross-country skiing at the 2022 Winter Olympics was held at the Kuyangshu Nordic Center and Biathlon Center in Zhangjiakou, China. A total of 296 quota spots (148 per gender) were distributed to the sport, a decline of 14 from the 2018 Winter Olympics. A total of 12 events were contested, six each for men and women.
+homepage: DigitalCollectionAttachmentDownloadHandler.ashx%3FparentDocumentId=1568639&documentId=1568641
+depiction: Cross_country_skiing_pictogram.svg
+subject: Category:Cross-country_skiing_at_the_2022_Winter_Olympics
+subject: Category:Cross-country_skiing_at_the_Winter_Olympics
+subject: Category:2022_Winter_Olympics_events
+wikiPageID: 66858146
+wikiPageRevisionID: 1118946831
+wikiPageWikiLink: Pål_Golberg
+wikiPageWikiLink: National_Olympic_Committee
+wikiPageWikiLink: Denis_Spitsov
+wikiPageWikiLink: Hugo_Lapalus
+wikiPageWikiLink: Joni_Mäki
+wikiPageWikiLink: Jonna_Sundling
+wikiPageWikiLink: Richard_Jouve
+wikiPageWikiLink: Veronika_Stepanova
+wikiPageWikiLink: Victoria_Carl
+wikiPageWikiLink: Kuyangshu_Nordic_Center_and_Biathlon_Center
+wikiPageWikiLink: Cross-country_skiing_at_the_Winter_Olympics
+wikiPageWikiLink: Maurice_Manificat
+wikiPageWikiLink: Russian_Olympic_Committee_athletes_at_the_2022_Winter_Olympics
+wikiPageWikiLink: Clément_Parisse
+wikiPageWikiLink: Emil_Iversen
+wikiPageWikiLink: Frida_Karlsson
+wikiPageWikiLink: Category:Cross-country_skiing_at_the_2022_Winter_Olympics
+wikiPageWikiLink: Category:Cross-country_skiing_at_the_Winter_Olympics
+wikiPageWikiLink: Cross-country_skiing_at_the_2018_Winter_Olympics
+wikiPageWikiLink: Cross-country_skiing_at_the_2022_Winter_Olympics_–_Men's_15_kilometre_classical
+wikiPageWikiLink: Cross-country_skiing_at_the_2022_Winter_Olympics_–_Men's_30_kilometre_skiathlon
+wikiPageWikiLink: Cross-country_skiing_at_the_2022_Winter_Olympics_–_Men's_4_×_10_kilometre_relay
+wikiPageWikiLink: Cross-country_skiing_at_the_2022_Winter_Olympics_–_Men's_50_kilometre_freestyle
+wikiPageWikiLink: Cross-country_skiing_at_the_2022_Winter_Olympics_–_Men's_sprint
+wikiPageWikiLink: Cross-country_skiing_at_the_2022_Winter_Olympics_–_Men's_team_sprint
+wikiPageWikiLink: Cross-country_skiing_at_the_2022_Winter_Olympics_–_Women's_10_kilometre_classical
+wikiPageWikiLink: Cross-country_skiing_at_the_2022_Winter_Olympics_–_Women's_15_kilometre_skiathlon
+wikiPageWikiLink: Cross-country_skiing_at_the_2022_Winter_Olympics_–_Women's_30_kilometre_freestyle
+wikiPageWikiLink: Cross-country_skiing_at_the_2022_Winter_Olympics_–_Women's_4_×_5_kilometre_relay
+wikiPageWikiLink: Cross-country_skiing_at_the_2022_Winter_Olympics_–_Women's_sprint
+wikiPageWikiLink: Cross-country_skiing_at_the_2022_Winter_Olympics_–_Women's_team_sprint
+wikiPageWikiLink: Therese_Johaug
+wikiPageWikiLink: 2018_Winter_Olympics
+wikiPageWikiLink: Maja_Dahlqvist
+wikiPageWikiLink: Simen_Hegstad_Krüger
+wikiPageWikiLink: Yuliya_Stupak
+wikiPageWikiLink: Zhangjiakou
+wikiPageWikiLink: 2021_Nordic_Junior_World_Ski_Championships
+wikiPageWikiLink: 2022_Winter_Olympics
+wikiPageWikiLink: Aleksey_Chervotkin
+wikiPageWikiLink: Alexander_Bolshunov
+wikiPageWikiLink: Alexander_Terentyev
+wikiPageWikiLink: Ebba_Andersson_(cross-country_skier)
+wikiPageWikiLink: Category:2022_Winter_Olympics_events
+wikiPageWikiLink: Erik_Valnes
+wikiPageWikiLink: FIS_Nordic_World_Ski_Championships_2021
+wikiPageWikiLink: Federico_Pellegrino
+wikiPageWikiLink: Hans_Christer_Holund
+wikiPageWikiLink: Ivan_Yakimushkin
+wikiPageWikiLink: Tatiana_Sorina
+wikiPageWikiLink: Teresa_Stadlober
+wikiPageWikiLink: Jessie_Diggins
+wikiPageWikiLink: Johannes_Høsflot_Klæbo
+wikiPageWikiLink: Katharina_Hennig
+wikiPageWikiLink: Katherine_Sauerbrey
+wikiPageWikiLink: Kerttu_Niskanen
+wikiPageWikiLink: Sofie_Krehl
+wikiPageWikiLink: Iivo_Niskanen
+wikiPageWikiLink: Krista_Pärmäkoski
+wikiPageWikiLink: Natalya_Nepryayeva
+wikiPageWikiLink: Sergey_Ustiugov
+wikiPageWikiLink: China_Time
+wikiPageWikiLink: File:Cross_country_skiing_pictogram.svg
+wikiPageExternalLink: DigitalCollectionAttachmentDownloadHandler.ashx%3FparentDocumentId=1568639&documentId=1568641
+thumbnail: Cross_country_skiing_pictogram.svg?width=300
+bronzeRoc: 3
+goldRoc: 4
+silverRoc: 4
+competitors: 296
+nations: 52
+bronzeFin: 3
+bronzeFra: 1
+bronzeGer: 0
+bronzeIta: 0
+bronzeNor: 2
+bronzeSwe: 1
+bronzeUsa: 1
+caption: Cross-country skiing pictogram
+dates: --02-20
+event: 2022
+event: Cross-country skiing
+flagTemplate: flagIOC
+goldFin: 1
+goldFra: 0
+goldGer: 1
+goldIta: 0
+goldNor: 5
+goldSwe: 1
+goldUsa: 0
+next: 2026
+prev: 2018
+silverFin: 2
+silverFra: 0
+silverGer: 1
+silverIta: 1
+silverNor: 1
+silverSwe: 2
+silverUsa: 1
+venue: Kuyangshu_Nordic_Center_and_Biathlon_Center
+bronzeAut: 1
+games: 2022
+goldAut: 0
+silverAut: 0
+abstract: Cross-country skiing at the 2022 Winter Olympics was held at the Kuyangshu Nordic Center and Biathlon Center in Zhangjiakou, China. A total of 296 quota spots (148 per gender) were distributed to the sport, a decline of 14 from the 2018 Winter Olympics. A total of 12 events were contested, six each for men and women.
+numEvents: 12
+wasDerivedFrom: Cross-country_skiing_at_the_2022_Winter_Olympics?oldid=1118946831&ns=0
+wikiPageLength: 13731
+games: 2022 Winter
+event: Cross-country_skiing_at_the_Winter_Olympics
+previousEvent: Cross-country_skiing_at_the_2018_Winter_Olympics
+isPrimaryTopicOf: Cross-country_skiing_at_the_2022_Winter_Olympics
+	

@@ -1,0 +1,97 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Kröningen av Charles III, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	label: Coronation of Charles III and Camilla
+comment: The coronation of Charles III and his wife, Camilla, as King, and Queen of the United Kingdom and the other Commonwealth realms is set to take place on Saturday, 6 May 2023, at Westminster Abbey. It is meant to be the "symbolic high point" of his accession. King Charles III acceded to the throne on 8 September 2022, upon the death of his mother, Queen Elizabeth II. The coronation will be a state occasion funded by the British government. It is expected to be shorter, more inclusive of other faiths and communities, and less expensive than previous coronations.
+name: Coronation of Charles III and Camilla
+depiction: Saint_Edward's_Crown.jpg
+depiction: Charles_and_Camilla_(cropped).jpg
+subject: Category:Camilla,_Queen_Consort
+subject: Category:Charles_III
+subject: Category:May_2023_events_in_the_United_Kingdom
+subject: Category:Scheduled_events
+subject: Category:2023_in_London
+subject: Category:2023_in_England
+subject: Category:Coronations_of_British_monarchs
+wikiPageID: 71711103
+wikiPageRevisionID: 1124787796
+wikiPageWikiLink: Camilla,_Queen_Consort
+wikiPageWikiLink: Privy_Council_(United_Kingdom)
+wikiPageWikiLink: Proclamation_of_accession_of_Charles_III
+wikiPageWikiLink: Queen_Elizabeth_The_Queen_Mother
+wikiPageWikiLink: Enthronement
+wikiPageWikiLink: Her_Majesty's_Government
+wikiPageWikiLink: Coronation_oath
+wikiPageWikiLink: Category:Camilla,_Queen_Consort
+wikiPageWikiLink: Category:Charles_III
+wikiPageWikiLink: Category:May_2023_events_in_the_United_Kingdom
+wikiPageWikiLink: Death_and_state_funeral_of_Elizabeth_II
+wikiPageWikiLink: List_of_British_monarchs
+wikiPageWikiLink: Religious_pluralism
+wikiPageWikiLink: Republicanism_in_the_United_Kingdom
+wikiPageWikiLink: United_Kingdom
+wikiPageWikiLink: Peerages_in_the_United_Kingdom
+wikiPageWikiLink: Queen_Camilla
+wikiPageWikiLink: Commonwealth_of_Nations
+wikiPageWikiLink: Coronation_of_George_VI_and_Elizabeth
+wikiPageWikiLink: Church_of_England
+wikiPageWikiLink: Clarence_House
+wikiPageWikiLink: Edward_Fitzalan-Howard,_18th_Duke_of_Norfolk
+wikiPageWikiLink: Elizabeth_II
+wikiPageWikiLink: Great_Officers_of_State_(United_Kingdom)
+wikiPageWikiLink: Morning_suit
+wikiPageWikiLink: Category:Scheduled_events
+wikiPageWikiLink: Coronation_of_the_British_monarch
+wikiPageWikiLink: Coronet
+wikiPageWikiLink: Crown_of_Queen_Elizabeth_The_Queen_Mother
+wikiPageWikiLink: London
+wikiPageWikiLink: Stone_of_Scone
+wikiPageWikiLink: Succession_to_the_British_throne
+wikiPageWikiLink: Commonwealth_realm
+wikiPageWikiLink: Category:2023_in_London
+wikiPageWikiLink: Westminster_Abbey
+wikiPageWikiLink: Garter_Principal_King_of_Arms
+wikiPageWikiLink: List_of_British_coronations
+wikiPageWikiLink: List_of_British_royal_consorts
+wikiPageWikiLink: Duke_of_Norfolk
+wikiPageWikiLink: Edinburgh_Castle
+wikiPageWikiLink: Bank_holiday
+wikiPageWikiLink: British_royal_family
+wikiPageWikiLink: Parliament_of_the_United_Kingdom
+wikiPageWikiLink: Globus_cruciger
+wikiPageWikiLink: Queen_consort
+wikiPageWikiLink: Republic_(political_organisation)
+wikiPageWikiLink: Historic_Environment_Scotland
+wikiPageWikiLink: Category:2023_in_England
+wikiPageWikiLink: Archbishop_of_Canterbury
+wikiPageWikiLink: Category:Coronations_of_British_monarchs
+wikiPageWikiLink: Accession_Council
+wikiPageWikiLink: Charles_III
+wikiPageWikiLink: King_Charles_III
+wikiPageWikiLink: St_Edward's_Crown
+wikiPageWikiLink: Koh-i-Noor
+wikiPageWikiLink: Buckingham_Palace
+wikiPageWikiLink: Ceremonial_dress
+wikiPageWikiLink: Wedding_of_Prince_Charles_and_Camilla_Parker_Bowles
+wikiPageWikiLink: Anointment
+wikiPageWikiLink: British_peers
+wikiPageWikiLink: British_prime_minister
+wikiPageWikiLink: British_government
+wikiPageWikiLink: Earl_marshal
+wikiPageWikiLink: File:Saint_Edward's_Crown.jpg
+thumbnail: Charles_and_Camilla_(cropped).jpg?width=300
+caption: Charles and Camilla in 2019
+date: 2023-05-06
+location: United_Kingdom
+location: London
+venue: Westminster_Abbey
+abstract: The coronation of Charles III and his wife, Camilla, as King, and Queen of the United Kingdom and the other Commonwealth realms is set to take place on Saturday, 6 May 2023, at Westminster Abbey. It is meant to be the "symbolic high point" of his accession. King Charles III acceded to the throne on 8 September 2022, upon the death of his mother, Queen Elizabeth II. The coronation will be a state occasion funded by the British government. It is expected to be shorter, more inclusive of other faiths and communities, and less expensive than previous coronations.
+wasDerivedFrom: Coronation_of_Charles_III_and_Camilla?oldid=1124787796&ns=0
+wikiPageLength: 13180
+isPrimaryTopicOf: Coronation_of_Charles_III_and_Camilla
+	

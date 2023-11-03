@@ -1,0 +1,117 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Senior-VM i snooker 2022, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	label: 2022 World Seniors Championship
+comment: The 2022 World Seniors Championship (officially the 2022 Ways Facilities Management World Seniors Snooker Championship) was a snooker tournament that took place from 4 to 8 May 2022 at the Crucible Theatre in Sheffield, England. The event was the 13th edition of the World Seniors Championship, first held in 1991, and was organised by the World Seniors Tour, which is open to players over 40 who are not in the top 64 of the world rankings. Qualifying rounds were held from 14 to 19 December 2021 and 8 to 13 February 2022 at the Crucible Sports and Social Club in Reading. Players who had qualified for that season's cancelled Seniors Masters and Seniors Irish Masters events — Patrick Wallace, Michael Judge, Wayne Cooper, Gary Filtness, Darren Morgan, Bob Chaperon and Rory McLeod — were invited 
+subject: Category:2022_in_English_sport
+subject: Category:2022_in_snooker
+subject: Category:May_2022_sports_events_in_the_United_Kingdom
+subject: Category:World_Seniors_Championship
+subject: Category:Sports_competitions_in_Sheffield
+subject: Category:World_Seniors_Tour
+wikiPageID: 70698798
+wikiPageRevisionID: 1121480657
+wikiPageWikiLink: Rory_McLeod_(snooker_player)
+wikiPageWikiLink: Category:2022_in_English_sport
+wikiPageWikiLink: Category:2022_in_snooker
+wikiPageWikiLink: Category:May_2022_sports_events_in_the_United_Kingdom
+wikiPageWikiLink: Bob_Chaperon
+wikiPageWikiLink: David_Lilley_(snooker_player)
+wikiPageWikiLink: John_Parrott
+wikiPageWikiLink: Patrick_Wallace
+wikiPageWikiLink: Peter_Lines
+wikiPageWikiLink: 1991_World_Snooker_Championship
+wikiPageWikiLink: Crucible_Theatre
+wikiPageWikiLink: Category:World_Seniors_Championship
+wikiPageWikiLink: England
+wikiPageWikiLink: Lee_Walker
+wikiPageWikiLink: Leo_Scullion
+wikiPageWikiLink: Snooker
+wikiPageWikiLink: Stephen_Hendry
+wikiPageWikiLink: Category:Sports_competitions_in_Sheffield
+wikiPageWikiLink: Tony_Knowles_(snooker_player)
+wikiPageWikiLink: Wayne_Cooper_(snooker_player)
+wikiPageWikiLink: 2021_UK_Championship
+wikiPageWikiLink: 2021_World_Seniors_Championship
+wikiPageWikiLink: 2022_World_Snooker_Championship
+wikiPageWikiLink: Ahmed_Aly
+wikiPageWikiLink: Darren_Morgan
+wikiPageWikiLink: Nigel_Bond
+wikiPageWikiLink: Category:World_Seniors_Tour
+wikiPageWikiLink: Jimmy_White
+wikiPageWikiLink: Joe_Johnson_(snooker_player)
+wikiPageWikiLink: Ken_Doherty
+wikiPageWikiLink: Dominic_Dale
+wikiPageWikiLink: Maria_Catalano
+wikiPageWikiLink: Philip_Williams_(snooker_player)
+wikiPageWikiLink: Michael_Holt_(snooker_player)
+wikiPageWikiLink: Michael_Judge
+wikiPageWikiLink: Michaela_Tabb
+wikiPageWikiLink: Reading,_Berkshire
+wikiPageWikiLink: Sheffield
+wikiPageWikiLink: World_Seniors_Championship
+wikiPageWikiLink: Snooker_world_rankings
+wikiPageWikiLink: WPBSA
+wikiPageWikiLink: World_Seniors_Tour
+wikiPageWikiLink: 2023_World_Seniors_Championship
+organisation: WPBSA
+tournamentName: 2022
+rd: Final
+rd: Quarter-finals
+rd: Semi-finals
+rd: Best of 5 frames
+rd: Best of 7 frames
+rd: Best of 9 frames
+rd: Last 16
+rd: Last 24
+rd1Score: 0
+rd1Score: 1
+rd1Score: 2
+rd1Score: 3
+rd2Score: 0
+rd2Score: 1
+rd2Score: 2
+rd2Score: 3
+rd3Score: 0
+rd3Score: 1
+rd3Score: 2
+rd3Score: 4
+rd3Team: Lee Walker
+rd3Team: Jimmy White
+rd3Team: Nigel Bond
+rd3Team: Ken Doherty
+rd3Team: Peter Lines
+rd3Team: Michael Holt
+rd3Team: David Lilley
+rd3Team: Rory McLeod
+rd4Score: 0
+rd4Score: 3
+rd4Score: 4
+rd4Team: Lee Walker
+rd4Team: Jimmy White
+rd4Team: Peter Lines
+rd4Team: David Lilley
+rd5Score: 4
+rd5Score: 5
+rd5Team: Lee Walker
+rd5Team: Jimmy White
+country: England
+dates: --05-08
+format: Seniors event
+location: Sheffield
+next: 2023
+previous: 2021
+score: 5
+venue: Crucible_Theatre
+teamWidth: 180
+winnersShare: 15000.0
+abstract: The 2022 World Seniors Championship (officially the 2022 Ways Facilities Management World Seniors Snooker Championship) was a snooker tournament that took place from 4 to 8 May 2022 at the Crucible Theatre in Sheffield, England. The event was the 13th edition of the World Seniors Championship, first held in 1991, and was organised by the World Seniors Tour, which is open to players over 40 who are not in the top 64 of the world rankings. Qualifying rounds were held from 14 to 19 December 2021 and 8 to 13 February 2022 at the Crucible Sports and Social Club in Reading. Players who had qualified for that season's cancelled Seniors Masters and Seniors Irish Masters events — Patrick Wallace, Michael Judge, Wayne Cooper, Gary Filtness, Darren Morgan, Bob Chaperon and Rory McLeod — were invited to compete at the World Seniors Championship instead. Referees for the event were Michaela Tabb, Leo Scullion, Roy Gannon and Andy Yates. Although Dominic Dale was scheduled to compete, his performance in the 2022 World Snooker Championship qualifiers put him back inside the top 64 of the world rankings, making him ineligible for the event. Michael Holt took Dale's place as the highest ranked eligible player. Former women's number one Maria Catalano became the first female player to reach the final stages of a seniors event. She lost 0–3 to Wael Talaat in the last 24. Stephen Hendry played competitively for the first time since his first-round defeat at the 2021 UK Championship, but lost 0–3 to eventual winner Lee Walker in the last 16. After losing 0–3 to Nigel Bond in the last 16, John Parrott announced his retirement from the seniors tour. He received a standing ovation in the Crucible as he displayed the World Snooker Championship trophy, which he won in 1991. David Lilley was the defending champion, having won the 2021 edition with a 5–3 victory over Jimmy White in the final. However, he lost 3–4 to Walker in the semi-finals, despite winning the first three frames. White reached a fourth consecutive final, making a 138 break in his 4–1 quarter-final win over McLeod and a 132 in his 4–0 semi-final win over Peter Lines. He led 3–1 and 4–2 in the final, but Walker took the last three frames, finishing with the two highest breaks of the match, a 79 in the penultimate frame and an 83 break in the decider, to clinch a 5–4 victory and win his first seniors title. Calling the win a "career highlight", Walker said it was a "dream come true" to win a title at the Crucible.
+wasDerivedFrom: 2022_World_Seniors_Championship?oldid=1121480657&ns=0
+wikiPageLength: 13895
+isPrimaryTopicOf: 2022_World_Seniors_Championship
+	

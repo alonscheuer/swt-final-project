@@ -1,0 +1,162 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Folkomröstningen om försvarsundantaget i Danmark 2022, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	label: 2022 Danish European Union opt-out referendum
+comment: A referendum on the abolition of the defence opt-out, one of the country's opt-outs from the European Union, was held in Denmark on 1 June 2022. The referendum was announced on 6 March 2022 following a broad multi-party defence agreement reached during the 2022 Russian invasion of Ukraine. The referendum resulted in the "Yes" side winning with approximately two-thirds of the vote.
+name: Danish European Union opt-out referendum
+depiction: Folkeafstemning_2022_-_Afstemningsområder.svg
+depiction: Folkeafstemning_2022_-_Opstillingskredse.svg
+subject: Category:2022_in_Denmark
+subject: Category:2022_in_the_European_Union
+subject: Category:2022_referendums
+subject: Category:June_2022_events_in_Europe
+subject: Category:Reactions_to_the_2022_Russian_invasion_of_Ukraine
+subject: Category:Referendums_in_Denmark
+subject: Category:Denmark_and_the_European_Union
+subject: Category:Referendums_related_to_the_European_Union
+wikiPageID: 70244142
+wikiPageRevisionID: 1123676805
+wikiPageWikiLink: Category:2022_in_Denmark
+wikiPageWikiLink: Category:2022_in_the_European_Union
+wikiPageWikiLink: Category:2022_referendums
+wikiPageWikiLink: Category:June_2022_events_in_Europe
+wikiPageWikiLink: Category:Reactions_to_the_2022_Russian_invasion_of_Ukraine
+wikiPageWikiLink: Bornholm_(Folketing_constituency)
+wikiPageWikiLink: Denmark
+wikiPageWikiLink: Pernille_Vermund
+wikiPageWikiLink: Ursula_von_der_Leyen
+wikiPageWikiLink: Venstre_(Denmark)
+wikiPageWikiLink: Vladimir_Putin
+wikiPageWikiLink: EU_member_states
+wikiPageWikiLink: List_of_military_and_civilian_missions_of_the_European_Union
+wikiPageWikiLink: 1992_Danish_Maastricht_Treaty_referendum
+wikiPageWikiLink: 1993_Danish_Maastricht_Treaty_referendum
+wikiPageWikiLink: Conservative_People's_Party_(Denmark)
+wikiPageWikiLink: Coordinated_Universal_Time
+wikiPageWikiLink: Copenhagen
+wikiPageWikiLink: Copenhagen_(Folketing_constituency)
+wikiPageWikiLink: Christian_Democrats_(Denmark)
+wikiPageWikiLink: Christiansborg_Palace
+wikiPageWikiLink: Emmanuel_Macron
+wikiPageWikiLink: Frederiksen_Cabinet
+wikiPageWikiLink: Funen_(Folketing_constituency)
+wikiPageWikiLink: Greater_Copenhagen_(Folketing_constituency)
+wikiPageWikiLink: Minister_of_Foreign_Affairs_(Denmark)
+wikiPageWikiLink: Moderates_(Denmark)
+wikiPageWikiLink: Morten_Bødskov
+wikiPageWikiLink: Morten_Messerschmidt
+wikiPageWikiLink: Category:Referendums_in_Denmark
+wikiPageWikiLink: Liberal_Alliance_(Denmark)
+wikiPageWikiLink: Maastricht_Treaty
+wikiPageWikiLink: Mai_Villadsen
+wikiPageWikiLink: Sikandar_Siddique
+wikiPageWikiLink: Social_Democrats_(Denmark)
+wikiPageWikiLink: Common_Security_and_Defence_Policy
+wikiPageWikiLink: Zealand_(Folketing_constituency)
+wikiPageWikiLink: 2000_Danish_euro_referendum
+wikiPageWikiLink: Category:Denmark_and_the_European_Union
+wikiPageWikiLink: Category:Referendums_related_to_the_European_Union
+wikiPageWikiLink: West_Jutland_(Folketing_constituency)
+wikiPageWikiLink: Landslide_victory
+wikiPageWikiLink: 2022_Russian_invasion_of_Ukraine
+wikiPageWikiLink: Aarhus
+wikiPageWikiLink: Alex_Vanopslagh
+wikiPageWikiLink: DR1
+wikiPageWikiLink: DR_(broadcaster)
+wikiPageWikiLink: Danish_Language
+wikiPageWikiLink: Danish_People's_Party
+wikiPageWikiLink: Danish_Social_Liberal_Party
+wikiPageWikiLink: Danish_War_Museum
+wikiPageWikiLink: East_Jutland_(Folketing_constituency)
+wikiPageWikiLink: Euro
+wikiPageWikiLink: European_Union
+wikiPageWikiLink: Faroe_Islands
+wikiPageWikiLink: Folketing
+wikiPageWikiLink: Franciska_Rosenkilde
+wikiPageWikiLink: North_Jutland_(Folketing_constituency)
+wikiPageWikiLink: North_Zealand_(Folketing_constituency)
+wikiPageWikiLink: Central_European_Summer_Time
+wikiPageWikiLink: Danish_opt-outs_from_the_European_Union
+wikiPageWikiLink: Faroe_Islands_and_the_European_Union
+wikiPageWikiLink: 2014_Danish_Unified_Patent_Court_membership_referendum
+wikiPageWikiLink: 2015_Danish_European_Union_opt-out_referendum
+wikiPageWikiLink: Green_Left_(Denmark)
+wikiPageWikiLink: Greenland
+wikiPageWikiLink: Isabella_Arendt
+wikiPageWikiLink: Jakob_Ellemann-Jensen
+wikiPageWikiLink: The_Alternative_(Denmark)
+wikiPageWikiLink: Jeppe_Kofod
+wikiPageWikiLink: Lars_Løkke_Rasmussen
+wikiPageWikiLink: Søren_Pape_Poulsen
+wikiPageWikiLink: Edinburgh_Agreement_(1992)
+wikiPageWikiLink: Referendum
+wikiPageWikiLink: Dokk1
+wikiPageWikiLink: Marianne_Karlsmose
+wikiPageWikiLink: Pia_Olsen_Dyhr
+wikiPageWikiLink: Socialist_People's_Party_(Denmark)
+wikiPageWikiLink: Sofie_Carsten_Nielsen
+wikiPageWikiLink: South_Jutland_(Folketing_constituency)
+wikiPageWikiLink: Greenland_and_the_European_Union
+wikiPageWikiLink: Danish_Foreign_Ministry
+wikiPageWikiLink: Independent_Greens_(Denmark)
+wikiPageWikiLink: Koncerthuset
+wikiPageWikiLink: Mette_Frederiksen
+wikiPageWikiLink: New_Right_(Denmark)
+wikiPageWikiLink: Next_Danish_general_election
+wikiPageWikiLink: Opt-outs_in_the_European_Union
+wikiPageWikiLink: Red–Green_Alliance_(Denmark)
+wikiPageWikiLink: Young_Conservatives_(Denmark)
+wikiPageWikiLink: European_army
+wikiPageWikiLink: TV_2_News
+wikiPageWikiLink: TV_2_(Denmark)
+wikiPageWikiLink: Withdrawal_of_Greenland_from_the_European_Communities
+wikiPageWikiLink: Social_Liberal_Party_(Denmark)
+wikiPageWikiLink: File:Folkeafstemning_2022_-_Afstemningsområder.svg
+wikiPageWikiLink: File:Folkeafstemning_2022_-_Opstillingskredse.svg
+wikiPageExternalLink: 9204900
+wikiPageExternalLink: EERR2020008
+wikiPageExternalLink: ny-maaling-mange-i-tvivl-om-eu-forbehold
+wikiPageExternalLink: trods-klodset-start-paa-kampagnen-fastholder-ja-siden-sin-foering-i-afstemningen-om-forsvarsforbeholdet
+wikiPageExternalLink: ny-maaling-saadan-ville-vi-stemme-om-eu-forsvarsforbeholdet-hvis-der-var-valg-i-dag
+wikiPageExternalLink: 20015
+wikiPageExternalLink: 1529063292156657665
+wikiPageExternalLink: folkeafstemning-om-forsvarsforbehold-flest-vil-lige-nu-stemme-ja-men-naesten-en
+wikiPageExternalLink: folkeafstemning-om-forsvarsforbehold-hver-tredje-er-i-tvivl
+wikiPageExternalLink: ja-siden-holder-fast-i-forspring-men-nu-begynder-valgkampen-alvor
+wikiPageExternalLink: sidste-maaling-inden-afstemning-stadig-flere-vaelgere-vil-af-med
+wikiPageExternalLink: antallet-af-tvivlere-stiger-foer-folkeafstemning-om-forsvarsforbehold
+wikiPageExternalLink: tilslutning-til-at-droppe-forsvarsforbehold-daler-hos-danskerne
+wikiPageExternalLink: https://jyllands-posten.dk/politik/ECE13830014/ny-meningsmaaling-viser-hvad-vaelgerne-mener-lige-nu-om-at-afskaffe-forsvarsforbeholdet/
+wikiPageExternalLink: 2022-05-30-ny-maaling-viser-klart-resultat-kort-foer-afstemning
+wikiPageExternalLink: 2022-03-04-halvdelen-af-danskerne-er-klar-til-at-droppe-forsvarsforbeholdet
+wikiPageExternalLink: 2022-03-08-et-flertal-vil-afskaffe-forsvarsforbeholdet-viser-ny-maaling
+wikiPageExternalLink: 2022-05-29-ny-maaling-tegner-klart-billede-faa-dage-foer-folkeafstemningen
+wikiPageExternalLink: 2022-05-06-ny-maaling-viser-stor-tvivl-hos-mange-foer-historisk-valg-det-gaelder-isaer-to
+thumbnail: Folkeafstemning_2022_-_Afstemningsområder.svg?width=300
+yes: 1848242
+country: Denmark
+date: 2022-06-01
+electorate: 4260944
+for: 1848242
+invalid: 5819
+invalid: 38558
+mapCaption: No:
+mapCaption: Yes:
+mapCaption: Results of the referendum
+mapSize: 300
+no: 915717
+source: Denmark Statistics
+title: Do you vote yes or no on Denmark being able to participate in the European defence and security co-operation by abolishing the EU defence opt-out?
+total: 2802517
+against: 915717
+blank: 32739
+abstract: A referendum on the abolition of the defence opt-out, one of the country's opt-outs from the European Union, was held in Denmark on 1 June 2022. The referendum was announced on 6 March 2022 following a broad multi-party defence agreement reached during the 2022 Russian invasion of Ukraine. The referendum resulted in the "Yes" side winning with approximately two-thirds of the vote.
+wasDerivedFrom: 2022_Danish_European_Union_opt-out_referendum?oldid=1123676805&ns=0
+wikiPageLength: 50115
+isPrimaryTopicOf: 2022_Danish_European_Union_opt-out_referendum
+	

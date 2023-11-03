@@ -1,0 +1,125 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Kommunalvalet i Stockholm 2022, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: Event
+type: Event
+type: SocietalEvent
+type: Q1656682
+type: Q40231
+type: Election
+type: Event
+label: 2022 Stockholm municipal election
+comment: The 2022 Stockholm municipal election was held on 11 September 2022, concurrently with the 2022 Swedish general election. The election determined how many seats each party would be allocated on the 101-member Stockholm city council (Stockholms kommunfullmäktige) through a system of proportional representation.
+depiction: 2022_Stockholm_City_Council_election.svg
+subject: Category:2022_elections_in_Sweden
+subject: Category:September_2022_events_in_Europe
+subject: Category:Municipal_elections_in_Stockholm
+subject: Category:2020s_in_Stockholm
+wikiPageID: 71751377
+wikiPageRevisionID: 1116003500
+wikiPageWikiLink: Category:2022_elections_in_Sweden
+wikiPageWikiLink: Category:September_2022_events_in_Europe
+wikiPageWikiLink: Dagens_Nyheter
+wikiPageWikiLink: List_of_political_parties_in_Sweden
+wikiPageWikiLink: Christian_Democrats_(Sweden)
+wikiPageWikiLink: City_council
+wikiPageWikiLink: Elections_in_Sweden
+wikiPageWikiLink: Moderate_Party
+wikiPageWikiLink: Left_Party_(Sweden)
+wikiPageWikiLink: Sieg_Heil
+wikiPageWikiLink: Stockholm
+wikiPageWikiLink: Stockholm_Municipality
+wikiPageWikiLink: Category:Municipal_elections_in_Stockholm
+wikiPageWikiLink: Centre_Party_(Sweden)
+wikiPageWikiLink: 2022_Swedish_general_election
+wikiPageWikiLink: Expressen
+wikiPageWikiLink: Feminist_Initiative_(Sweden)
+wikiPageWikiLink: Proportional_representation
+wikiPageWikiLink: Green_Party_(Sweden)
+wikiPageWikiLink: Category:2020s_in_Stockholm
+wikiPageWikiLink: Sweden_Democrats
+wikiPageWikiLink: Swedish_Social_Democratic_Party
+wikiPageWikiLink: Red-Greens_(Sweden)
+wikiPageWikiLink: Liberal_People's_Party_(Sweden)
+wikiPageWikiLink: Bo_Bladholm
+wikiPageWikiLink: Margareta_Björk
+wikiPageWikiLink: Samnytt
+wikiPageWikiLink: The_Alliance_(Sweden)
+thumbnail: 2022_Stockholm_City_Council_election.svg?width=300
+majoritySeats: 51
+popularVote: 21335
+popularVote: 121273
+swing: +0.4
+swing: +0.8
+swing: +4.7
+swing: –0.5
+swing: –2.9
+swing: –0.4
+swing: –1.8
+turnout: 81.6
+afterElection: Margareta_Björk
+afterParty: Moderate Party
+alliance: The Alliance
+alliance: Red-Greens
+beforeElection: Bo_Bladholm
+beforeParty: Moderate Party
+country: Sweden
+electionDate: 2022-09-30
+electionName: 2022
+lastElection: 3
+lastElection: 9
+lastElection: 29.5
+lastElection: 18.3
+lastElection: 6.7
+lastElection: 8.0
+lastElection: 15.3
+mapImage: 2022
+nextElection: Stockholm municipal election, 2026
+nextYear: 2026
+ongoing: no
+party: Green Party
+party: Liberal People's Party
+party: Moderate Party
+party: Swedish Social Democratic Party
+party: Centre Party
+party: Christian Democrats
+party: Left Party
+party: Sweden Democrats
+percentage: 22.6
+percentage: 3.5
+percentage: 4.0
+percentage: 7.4
+percentage: 10.0
+percentage: 13.9
+percentage: 34.4
+previousElection: Stockholm municipal election, 2018
+previousYear: 2018
+seatChange: –1
+seatChange: –3
+seatChange: ±0
+seatChange: –2
+seats: 4
+seats: 6
+seats: 7
+seats: 8
+seats: 9
+seats: 16
+seats: 19
+seats: 31
+seatsForElection: 101
+title: Chairperson
+type: parliamentary
+abstract: The 2022 Stockholm municipal election was held on 11 September 2022, concurrently with the 2022 Swedish general election. The election determined how many seats each party would be allocated on the 101-member Stockholm city council (Stockholms kommunfullmäktige) through a system of proportional representation. SD's election night vigil in Stockholm attracted controversy after an SD candidate for the Stockholm municipal election proclaimed "Helg Seger" while raising her arm in an interview with far-right blog Samnytt, which is phonetically similar to "Hell Seger", the Swedish translation of the Nazi "Sieg Heil" chant. The candidate subsequently told Expressen that she had aimed to provoke the media into overinterpretations before later telling Dagens Nyheter that she had misspoke and meant to say "segerhelg", which would translate to "weekend victory".
+wasDerivedFrom: 2022_Stockholm_municipal_election?oldid=1116003500&ns=0
+wikiPageLength: 9129
+startDate: 2022-09-30
+title: 2022 Stockholm municipal election
+affiliation: Moderate_Party
+isPrimaryTopicOf: 2022_Stockholm_municipal_election
+	

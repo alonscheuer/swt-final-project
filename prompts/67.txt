@@ -1,0 +1,84 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Afrikanska mästerskapet i fotboll 2023, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: Event
+type: SportsEvent
+type: Event
+type: SocietalEvent
+type: Tournament
+type: Q1656682
+type: Q500834
+type: Event
+type: SoccerTournament
+type: SportsEvent
+label: 2023 Africa Cup of Nations
+comment: The 2023 Africa Cup of Nations (also referred to as AFCON 2023 or CAN 2023) is scheduled to be the 34th edition of the Africa Cup of Nations, the biennial international men's football championship of Africa organized by the Confederation of African Football (CAF). The tournament is scheduled to be hosted by Ivory Coast, the second time the country would host the competition. The Confederation of African Football initially changed the dates of the tournament to June and July rather than the usual January, which first came into play in the 2019 tournament. It would have allowed the tournament to not conflict with other major tournaments, as well as allowing big name players to play for their nations in the tournament without missing games for their European club side.
+name: Africa Cup of Nations
+homepage: https://cotedivoire2023.org/en/
+depiction: 2023_Africa_Cup_of_Nations.png
+depiction: Stade_d'Ebimpé.jpg
+depiction: StadeFHB.jpg
+depiction: Stade_de_la_paix_en_reconstruction.png
+subject: Category:2023_Africa_Cup_of_Nations
+subject: Category:2023_in_African_football
+subject: Category:2023_in_Ivorian_sport
+subject: Category:Scheduled_association_football_competitions
+subject: Category:International_association_football_competitions_hosted_by_Ivory_Coast
+subject: Category:Africa_Cup_of_Nations_tournaments
+wikiPageID: 43888283
+wikiPageRevisionID: 1122625309
+wikiPageWikiLink: San_Pédro
+wikiPageWikiLink: 2025_Africa_Cup_of_Nations
+wikiPageWikiLink: Category:2023_Africa_Cup_of_Nations
+wikiPageWikiLink: Category:2023_in_African_football
+wikiPageWikiLink: Category:2023_in_Ivorian_sport
+wikiPageWikiLink: Category:Scheduled_association_football_competitions
+wikiPageWikiLink: Bouaké
+wikiPageWikiLink: 1992_Africa_Cup_of_Nations
+wikiPageWikiLink: Confederation_of_African_Football
+wikiPageWikiLink: Category:International_association_football_competitions_hosted_by_Ivory_Coast
+wikiPageWikiLink: 2019_Africa_Cup_of_Nations
+wikiPageWikiLink: 2021_Africa_Cup_of_Nations
+wikiPageWikiLink: Stade_Bouaké
+wikiPageWikiLink: Stade_Félix_Houphouët-Boigny
+wikiPageWikiLink: Stade_National_de_la_Côte_d’Ivoire
+wikiPageWikiLink: Stade_de_Korhogo
+wikiPageWikiLink: Stade_de_San_Pédro
+wikiPageWikiLink: Stade_de_Yamoussoukro
+wikiPageWikiLink: Category:Africa_Cup_of_Nations_tournaments
+wikiPageWikiLink: 2015_Africa_Cup_of_Nations
+wikiPageWikiLink: Abidjan
+wikiPageWikiLink: Africa_Cup_of_Nations
+wikiPageWikiLink: Ahmad_Ahmad
+wikiPageWikiLink: Alassane_Ouattara
+wikiPageWikiLink: FIFA_World_Rankings
+wikiPageWikiLink: Association_football
+wikiPageWikiLink: Korhogo
+wikiPageWikiLink: Senegal_national_football_team
+wikiPageWikiLink: Yamoussoukro
+wikiPageWikiLink: File:StadeFHB.jpg
+wikiPageWikiLink: File:Stade_de_la_paix_en_reconstruction.PNG
+wikiPageWikiLink: File:Stade_d'Ebimpé.jpg
+wikiPageExternalLink: https://cotedivoire2023.org/en/
+thumbnail: 2023_Africa_Cup_of_Nations.png?width=300
+cities: 5
+country: Ivory Coast
+dates: January 2024
+nextseason: 2025
+numTeams: 24
+otherTitles: Coupe d'Afrique des Nations 2023
+prevseason: 2021
+tourneyName: Africa Cup of Nations
+venues: 6
+year: 2023
+abstract: The 2023 Africa Cup of Nations (also referred to as AFCON 2023 or CAN 2023) is scheduled to be the 34th edition of the Africa Cup of Nations, the biennial international men's football championship of Africa organized by the Confederation of African Football (CAF). The tournament is scheduled to be hosted by Ivory Coast, the second time the country would host the competition. The Confederation of African Football initially changed the dates of the tournament to June and July rather than the usual January, which first came into play in the 2019 tournament. It would have allowed the tournament to not conflict with other major tournaments, as well as allowing big name players to play for their nations in the tournament without missing games for their European club side. On 3 July 2022, it was confirmed that the competition would be postponed from June–July 2023 to January 2024 due to weather concerns during summer in Ivory Coast. Senegal are the defending champions.
+wasDerivedFrom: 2023_Africa_Cup_of_Nations?oldid=1122625309&ns=0
+wikiPageLength: 16588
+isPrimaryTopicOf: 2023_Africa_Cup_of_Nations
+	

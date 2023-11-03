@@ -1,0 +1,258 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Säsong 4 av Stranger Things, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: CreativeWork
+type: Work
+type: Q386724
+type: TelevisionSeason
+label: Stranger Things (season 4)
+comment: The fourth season of the American science fiction horror drama television series Stranger Things was released worldwide on the streaming service Netflix in two volumes. The first set of seven episodes was released on May 27, 2022, while the second set of two episodes was released on July 1, 2022. The season was produced by the show's creators the Duffer Brothers, along with Shawn Levy, Dan Cohen, Iain Paterson and Curtis Gwinn.
+seeAlso: List_of_Stranger_Things_episodes
+depiction: ST$-Maxrunning-after.png
+depiction: ST$-Maxrunning-before.png
+depiction: Stranger_Things_season_4.jpg
+depiction: The_Claremont_House.jpg
+subject: Category:2022_American_television_seasons
+subject: Category:Fiction_about_curses
+subject: Category:Television_productions_suspended_due_to_the_COVID-19_pandemic
+subject: Category:Stranger_Things_(TV_series)
+subject: Category:Television_shows_set_in_Russia
+subject: Category:Internet_memes_introduced_in_2022
+subject: Category:Television_series_set_in_1986
+subject: Category:Split_television_seasons
+wikiPageID: 61963380
+wikiPageRevisionID: 1123872163
+wikiPageWikiLink: Caleb_McLaughlin
+wikiPageWikiLink: California
+wikiPageWikiLink: Cara_Buono
+wikiPageWikiLink: Carrie_(novel)
+wikiPageWikiLink: Category:2022_American_television_seasons
+wikiPageWikiLink: Priah_Ferguson
+wikiPageWikiLink: Primetime_Emmy_Award_for_Outstanding_Casting_for_a_Drama_Series
+wikiPageWikiLink: Primetime_Emmy_Award_for_Outstanding_Drama_Series
+wikiPageWikiLink: Primetime_Emmy_Award_for_Outstanding_Music_Supervision
+wikiPageWikiLink: Primetime_Emmy_Award_for_Outstanding_Prosthetic_Makeup
+wikiPageWikiLink: Primetime_Emmy_Award_for_Outstanding_Single-Camera_Picture_Editing_for_a_Drama_Series
+wikiPageWikiLink: Primetime_Emmy_Award_for_Outstanding_Sound_Editing_for_a_Comedy_or_Drama_Series_(One-Hour)
+wikiPageWikiLink: Primetime_Emmy_Award_for_Outstanding_Sound_Mixing_for_a_Comedy_or_Drama_Series_(One-Hour)
+wikiPageWikiLink: Primetime_Emmy_Award_for_Outstanding_Stunt_Coordination_for_a_Drama_Series,_Limited_Series,_or_Movie
+wikiPageWikiLink: Rock_Me_Amadeus
+wikiPageWikiLink: Rock_and_Roll,_Hoochie_Koo
+wikiPageWikiLink: Rodeo_FX
+wikiPageWikiLink: Rome,_Georgia
+wikiPageWikiLink: Rotten_Tomatoes
+wikiPageWikiLink: Satanic_panic
+wikiPageWikiLink: Science_fiction_on_television
+wikiPageWikiLink: Primetime_Emmy_Award_for_Outstanding_Hairstyling
+wikiPageWikiLink: Primetime_Emmy_Award_for_Outstanding_Makeup_(Non-Prosthetic)
+wikiPageWikiLink: Brett_Gelman
+wikiPageWikiLink: Bridgerton
+wikiPageWikiLink: David_Harbour
+wikiPageWikiLink: David_Klotz
+wikiPageWikiLink: Category:Fiction_about_curses
+wikiPageWikiLink: Home_Box_Office
+wikiPageWikiLink: John_Reynolds_(actor)
+wikiPageWikiLink: Joseph_Quinn_(actor)
+wikiPageWikiLink: Journey_(band)
+wikiPageWikiLink: Paul_Reiser
+wikiPageWikiLink: Rick_Derringer
+wikiPageWikiLink: Rob_Morgan_(actor)
+wikiPageWikiLink: Robb_Elementary_School_shooting
+wikiPageWikiLink: Robert_Englund
+wikiPageWikiLink: United_States
+wikiPageWikiLink: Uvalde,_Texas
+wikiPageWikiLink: Vilnius
+wikiPageWikiLink: Dead_or_Alive_(band)
+wikiPageWikiLink: Joel_Stoffer
+wikiPageWikiLink: Category:Television_productions_suspended_due_to_the_COVID-19_pandemic
+wikiPageWikiLink: Compact_disc
+wikiPageWikiLink: Converse_(shoe_company)
+wikiPageWikiLink: Mason_Dye
+wikiPageWikiLink: Master_of_Puppets_(song)
+wikiPageWikiLink: Matthew_Modine
+wikiPageWikiLink: Maya_Hawke
+wikiPageWikiLink: Running_Up_That_Hill
+wikiPageWikiLink: Sadie_Sink
+wikiPageWikiLink: Salt_Lake_City
+wikiPageWikiLink: Mike_Mekash
+wikiPageWikiLink: Musical_Youth
+wikiPageWikiLink: Will_Byers
+wikiPageWikiLink: Clapperboard
+wikiPageWikiLink: Close_Encounters_of_the_Third_Kind
+wikiPageWikiLink: Cold_open
+wikiPageWikiLink: Eleven_(Stranger_Things)
+wikiPageWikiLink: Entertainment_Weekly
+wikiPageWikiLink: Gabriella_Pizzolo
+wikiPageWikiLink: Game_of_Thrones
+wikiPageWikiLink: Gaten_Matarazzo
+wikiPageWikiLink: George_Lucas
+wikiPageWikiLink: Grace_Van_Dien
+wikiPageWikiLink: Grandfather_clock
+wikiPageWikiLink: Myles_Truitt
+wikiPageWikiLink: Nancy_Wheeler
+wikiPageWikiLink: The_Wall_Street_Journal
+wikiPageWikiLink: Mike_Wheeler_(Stranger_Things)
+wikiPageWikiLink: Legacy_Recordings
+wikiPageWikiLink: Stephen_King
+wikiPageWikiLink: Steve_Harrington
+wikiPageWikiLink: Stranger_Things
+wikiPageWikiLink: Stranger_Things:_Music_from_the_Netflix_Original_Series,_Season_4
+wikiPageWikiLink: Stranger_Things_(season_3)
+wikiPageWikiLink: Stranger_Things_4_(soundtrack)
+wikiPageWikiLink: Collider_(website)
+wikiPageWikiLink: Zodiac_Killer
+wikiPageWikiLink: Category:Stranger_Things_(TV_series)
+wikiPageWikiLink: Horror_fiction
+wikiPageWikiLink: Siouxsie_and_the_Banshees
+wikiPageWikiLink: Survive_(band)
+wikiPageWikiLink: TVLine
+wikiPageWikiLink: Primetime_Emmy_Award_for_Outstanding_Special_Visual_Effects
+wikiPageWikiLink: COVID-19_pandemic
+wikiPageWikiLink: Tom_Wlaschiha
+wikiPageWikiLink: Triptych
+wikiPageWikiLink: U.S._Army
+wikiPageWikiLink: Vulture_(web_site)
+wikiPageWikiLink: Wes_Craven
+wikiPageWikiLink: Winona_Ryder
+wikiPageWikiLink: Drama_(film_and_television)
+wikiPageWikiLink: Location_Managers_Guild_Awards
+wikiPageWikiLink: 47th_Saturn_Awards
+wikiPageWikiLink: 74th_Primetime_Creative_Arts_Emmy_Awards
+wikiPageWikiLink: 74th_Primetime_Emmy_Awards
+wikiPageWikiLink: Alaska
+wikiPageWikiLink: Albuquerque_Studios
+wikiPageWikiLink: Amybeth_McNulty
+wikiPageWikiLink: 2nd_Hollywood_Critics_Association_TV_Awards
+wikiPageWikiLink: Dacre_Montgomery
+wikiPageWikiLink: Damien_Echols
+wikiPageWikiLink: Duffer_brothers
+wikiPageWikiLink: Dungeons_&_Dragons
+wikiPageWikiLink: Eduardo_Franco_(actor)
+wikiPageWikiLink: Falco_(musician)
+wikiPageWikiLink: Fast_Times_at_Ridgemont_High
+wikiPageWikiLink: Finn_Wolfhard
+wikiPageWikiLink: Fire_and_Rain_(song)
+wikiPageWikiLink: Nikola_Đuričko
+wikiPageWikiLink: Nikolai_Nikolaeff
+wikiPageWikiLink: Nimród_Antal
+wikiPageWikiLink: Noah_Schnapp
+wikiPageWikiLink: Paradise_Lost:_The_Child_Murders_at_Robin_Hood_Hills
+wikiPageWikiLink: Pasha_D._Lychnikoff
+wikiPageWikiLink: Pass_the_Dutchie
+wikiPageWikiLink: Paste_(magazine)
+wikiPageWikiLink: Joyce_Byers
+wikiPageWikiLink: West_Memphis_Three
+wikiPageWikiLink: Griffin,_Georgia
+wikiPageWikiLink: Halloween_(1978_film)
+wikiPageWikiLink: Hendrix_Yancey
+wikiPageWikiLink: James_Taylor
+wikiPageWikiLink: Jamie_Campbell_Bower
+wikiPageWikiLink: Jaws_(film)
+wikiPageWikiLink: The_A.V._Club
+wikiPageWikiLink: The_Atlantic
+wikiPageWikiLink: The_Duffer_Brothers
+wikiPageWikiLink: The_Goonies
+wikiPageWikiLink: The_Guardian
+wikiPageWikiLink: Jim_Hopper_(Stranger_Things)
+wikiPageWikiLink: Atlanta
+wikiPageWikiLink: Category:Television_shows_set_in_Russia
+wikiPageWikiLink: Category:Internet_memes_introduced_in_2022
+wikiPageWikiLink: Changes_in_Star_Wars_re-releases
+wikiPageWikiLink: Chapter_Four:_Dear_Billy
+wikiPageWikiLink: Chapter_One:_The_Hellfire_Club
+wikiPageWikiLink: Charlie_Heaton
+wikiPageWikiLink: Chernobyl_(miniseries)
+wikiPageWikiLink: Joe_Chrest
+wikiPageWikiLink: Joe_Keery
+wikiPageWikiLink: Kamchatka
+wikiPageWikiLink: Kate_Bush
+wikiPageWikiLink: Category:Television_series_set_in_1986
+wikiPageWikiLink: Ed_Amatrudo
+wikiPageWikiLink: Lakeshore_Records
+wikiPageWikiLink: Digital_Spy
+wikiPageWikiLink: Category:Split_television_seasons
+wikiPageWikiLink: Soundtrack
+wikiPageWikiLink: Spellbound_(Siouxsie_and_the_Banshees_song)
+wikiPageWikiLink: Spotify
+wikiPageWikiLink: Squid_Game
+wikiPageWikiLink: Classic_rock
+wikiPageWikiLink: Freddy_Krueger
+wikiPageWikiLink: ICBM
+wikiPageWikiLink: Metacritic
+wikiPageWikiLink: Metallica
+wikiPageWikiLink: Millie_Bobby_Brown
+wikiPageWikiLink: Natalia_Dyer
+wikiPageWikiLink: Netflix
+wikiPageWikiLink: New_Mexico
+wikiPageWikiLink: Catherine_Curtin
+wikiPageWikiLink: Separate_Ways_(Worlds_Apart)
+wikiPageWikiLink: Shawn_Levy
+wikiPageWikiLink: Sherman_Augustus
+wikiPageWikiLink: YouTube
+wikiPageWikiLink: You_Spin_Me_Round_(Like_a_Record)
+wikiPageWikiLink: Lukiškės_Prison
+wikiPageWikiLink: Scooby-Doo
+wikiPageWikiLink: Vecna
+wikiPageWikiLink: Saturn_Award_for_Best_Horror_Television_Series
+wikiPageWikiLink: Vecna_Lives!
+wikiPageWikiLink: Set_Decorators_Society_of_America_Awards_2021
+wikiPageWikiLink: Raphael_Luce
+wikiPageWikiLink: Primetime_Emmy_Award_for_Outstanding_Production_Design_for_a_Narrative_Period_Program_(One_Hour_or_More)
+wikiPageWikiLink: E.T._(film)
+wikiPageWikiLink: Phonographic_record
+wikiPageWikiLink: Nightmare_on_Elm_Street
+wikiPageWikiLink: Primetime_Emmy_Award_for_Outstanding_Stunt_Performance
+wikiPageWikiLink: File:The_Claremont_House.jpg
+thumbnail: Stranger_Things_season_4.jpg?width=300
+airdate: 18
+align: right
+background: 125390
+bgcolor: 125390
+caption: Promotional poster
+caption: Before and after comparison of visual effects work done by Rodeo FX.
+country: United_States
+direction: vertical
+director: 16
+image: ST$-Maxrunning-after.png
+image: ST$-Maxrunning-before.png
+lastAired: 2022-07-01
+network: Netflix
+numEpisodes: 9
+released: 2022-05-27
+released: y
+season: 5
+seasonNumber: 4
+starring: 
+starring: Winona Ryder
+starring: Matthew Modine
+starring: Paul Reiser
+starring: David Harbour
+starring: Joe Keery
+starring: Natalia Dyer
+starring: Sadie Sink
+starring: Finn Wolfhard
+starring: Brett Gelman
+starring: Caleb McLaughlin
+starring: Maya Hawke
+starring: Charlie Heaton
+starring: Millie Bobby Brown
+starring: Gaten Matarazzo
+starring: Noah Schnapp
+starring: Priah Ferguson
+title: 35
+width: 225
+writer: 21
+abstract: The fourth season of the American science fiction horror drama television series Stranger Things was released worldwide on the streaming service Netflix in two volumes. The first set of seven episodes was released on May 27, 2022, while the second set of two episodes was released on July 1, 2022. The season was produced by the show's creators the Duffer Brothers, along with Shawn Levy, Dan Cohen, Iain Paterson and Curtis Gwinn. Returning as series regulars are Winona Ryder, David Harbour, Millie Bobby Brown, Finn Wolfhard, Gaten Matarazzo, Caleb McLaughlin, Noah Schnapp, Sadie Sink, Natalia Dyer, Charlie Heaton, Joe Keery, Maya Hawke, Priah Ferguson, Matthew Modine and Paul Reiser, while Brett Gelman was promoted to series regular after recurring in the previous two seasons. Jamie Campbell Bower, Joseph Quinn, Eduardo Franco and Cara Buono also star. Tom Wlaschiha, Nikola Đuričko, and Mason Dye appear in recurring roles. The season was met with positive reviews, with critics praising the performances of the cast (particularly those of Brown, Sink, Harbour, McLaughlin, Bower, and Quinn), the visuals, action sequences, realistic themes, emotional weight, and the darker, more mature tone, though some criticized it for being overstuffed due to the lengthier episode runtimes. The first volume of the season received 13 nominations for the 74th Primetime Emmy Awards, including Primetime Emmy Award for Outstanding Drama Series.
+wasDerivedFrom: Stranger_Things_(season_4)?oldid=1123872163&ns=0
+wikiPageLength: 98598
+numberOfEpisodes: 9
+country: United_States
+network: Netflix
+isPrimaryTopicOf: Stranger_Things_(season_4)
+	

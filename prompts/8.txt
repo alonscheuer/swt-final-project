@@ -1,0 +1,363 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Folketingsvalet i Danmark 2022, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	label: 2022 Danish general election
+comment: General elections were held in Denmark on 1 November 2022 following the announcement by incumbent Prime Minister Mette Frederiksen on 5 October, in response to an ultimatum made by the Danish Social Liberal Party. All 179 members of the Folketing are elected; 175 members in Denmark proper, two in the Faroe Islands and two in Greenland. Due to 1 November being a national day of mourning for victims at sea on the Faroe Islands, the election was held on 31 October in that constituency. The next election is scheduled to take place on or before 31 October 2026, according to the Danish Constitution.
+depiction: Folketing_01-11-22_2_(updated).svg
+depiction: Folketingsvalget_2022_-_Afstemningsområder.svg
+depiction: Folketingsvalget_2022_-_Fordelingen_af_mandater.svg
+depiction: Folketingsvalget_2022_-_Opstillingskredse.svg
+depiction: Folketingsvalget_2022_-_Opstillingskredse_(Blokke).svg
+depiction: Folketingsvalget_2022_-_Opstillingskredse_A_andel_af_stemmer.svg
+depiction: Folketingsvalget_2022_-_Opstillingskredse_B_andel_af_stemmer.svg
+depiction: Folketingsvalget_2022_-_Opstillingskredse_C_andel_af_stemmer.svg
+depiction: Folketingsvalget_2022_-_Opstillingskredse_D_andel_af_stemmer.svg
+depiction: Folketingsvalget_2022_-_Opstillingskredse_F_andel_af_stemmer.svg
+depiction: Folketingsvalget_2022_-_Opstillingskredse_I_andel_af_stemmer.svg
+depiction: Folketingsvalget_2022_-_Opstillingskredse_K_andel_af_stemmer.svg
+depiction: Folketingsvalget_2022_-_Opstillingskredse_M_andel_af_stemmer.svg
+depiction: Folketingsvalget_2022_-_Opstillingskredse_O_andel_af_stemmer.svg
+depiction: Folketingsvalget_2022_-_Opstillingskredse_Q_andel_af_stemmer.svg
+depiction: Folketingsvalget_2022_-_Opstillingskredse_UP_andel_af_stemmer.svg
+depiction: Folketingsvalget_2022_-_Opstillingskredse_V_andel_af_stemmer.svg
+depiction: Folketingsvalget_2022_-_Opstillingskredse_Å_andel_af_stemmer.svg
+depiction: Folketingsvalget_2022_-_Opstillingskredse_Æ_andel_af_stemmer.svg
+depiction: Folketingsvalget_2022_-_Opstillingskredse_Ø_andel_af_stemmer.svg
+depiction: Folketingsvalget_2022_på_Færøerne.svg
+depiction: Mette_Frederiksen_Kööpenhaminassa_4.5.2022_(52049397038)_(cropped).jpg
+depiction: Opinion_polling_for_the_2022_Danish_general_election.svg
+subject: Category:Elections_in_Greenland
+subject: Category:2022_elections_in_Europe
+subject: Category:2022_elections_in_North_America
+subject: Category:Elections_in_Denmark
+subject: Category:Elections_in_the_Faroe_Islands
+wikiPageID: 59492437
+wikiPageRevisionID: 1124708465
+wikiPageWikiLink: Prime_Minister_of_Denmark
+wikiPageWikiLink: Progress_(Faroe_Islands)
+wikiPageWikiLink: Royal_Arena
+wikiPageWikiLink: Minority_government
+wikiPageWikiLink: Minority_rights
+wikiPageWikiLink: Pro-Europeanism
+wikiPageWikiLink: Category:Elections_in_Greenland
+wikiPageWikiLink: 2011_Danish_general_election
+wikiPageWikiLink: Category:2022_elections_in_Europe
+wikiPageWikiLink: Category:2022_elections_in_North_America
+wikiPageWikiLink: Bornholm_(Folketing_constituency)
+wikiPageWikiLink: Democratic_socialism
+wikiPageWikiLink: Democrats_(Greenland)
+wikiPageWikiLink: Denmark
+wikiPageWikiLink: Denmark_Democrats
+wikiPageWikiLink: Anti-capitalism
+wikiPageWikiLink: Anti-racism
+wikiPageWikiLink: Jonas_Gahr_Støre
+wikiPageWikiLink: List_of_members_of_the_Folketing,_2022–
+wikiPageWikiLink: Pedro_Sánchez
+wikiPageWikiLink: People's_Party_(Faroe_Islands)
+wikiPageWikiLink: Pernille_Vermund
+wikiPageWikiLink: Peter_Skaarup
+wikiPageWikiLink: Republic_(Faroe_Islands)
+wikiPageWikiLink: Right-wing_populism
+wikiPageWikiLink: DR_Byen
+wikiPageWikiLink: Union_Party_(Faroe_Islands)
+wikiPageWikiLink: Venstre_(Denmark)
+wikiPageWikiLink: Leveling_seat
+wikiPageWikiLink: Liberal_conservatism
+wikiPageWikiLink: Liberalism
+wikiPageWikiLink: Popular_socialism
+wikiPageWikiLink: Conservative
+wikiPageWikiLink: Conservative_People's_Party_(Denmark)
+wikiPageWikiLink: Cooperation_Party
+wikiPageWikiLink: Copenhagen
+wikiPageWikiLink: Copenhagen_(Folketing_constituency)
+wikiPageWikiLink: Mattias_Tesfaye
+wikiPageWikiLink: General_election
+wikiPageWikiLink: Christian_Democrats_(Denmark)
+wikiPageWikiLink: Christian_democracy
+wikiPageWikiLink: Christiansborg_Palace
+wikiPageWikiLink: Frederiksen_Cabinet
+wikiPageWikiLink: Funen_(Folketing_constituency)
+wikiPageWikiLink: Geography_of_Denmark
+wikiPageWikiLink: Grand_coalition
+wikiPageWikiLink: Greater_Copenhagen_(Folketing_constituency)
+wikiPageWikiLink: Moderates_(Denmark)
+wikiPageWikiLink: Morten_Messerschmidt
+wikiPageWikiLink: Múte_Bourup_Egede
+wikiPageWikiLink: Naleraq
+wikiPageWikiLink: Confederation_of_Danish_Industry
+wikiPageWikiLink: Conservative_liberalism
+wikiPageWikiLink: Constituencies_of_Denmark
+wikiPageWikiLink: Constitution_of_Denmark
+wikiPageWikiLink: The_New_Right_(Denmark)
+wikiPageWikiLink: DaneAge_Association
+wikiPageWikiLink: National_day_of_mourning
+wikiPageWikiLink: Opposition_to_immigration
+wikiPageWikiLink: 1973_Danish_general_election
+wikiPageWikiLink: Category:Elections_in_Denmark
+wikiPageWikiLink: Category:Elections_in_the_Faroe_Islands
+wikiPageWikiLink: 2019_Danish_general_election
+wikiPageWikiLink: Liberal_Alliance_(Denmark)
+wikiPageWikiLink: Mai_Villadsen
+wikiPageWikiLink: Sikandar_Siddique
+wikiPageWikiLink: Siumut
+wikiPageWikiLink: Social_Democratic_Party_(Faroe_Islands)
+wikiPageWikiLink: Social_Democrats_(Denmark)
+wikiPageWikiLink: Cluster_5
+wikiPageWikiLink: Zealand_(Folketing_constituency)
+wikiPageWikiLink: Opinion_poll
+wikiPageWikiLink: Percentage_point
+wikiPageWikiLink: 2007_Danish_general_election
+wikiPageWikiLink: Bárður_á_Steig_Nielsen
+wikiPageWikiLink: Centre_Party_(Faroe_Islands)
+wikiPageWikiLink: Centrism
+wikiPageWikiLink: Centrist
+wikiPageWikiLink: Agrarianism
+wikiPageWikiLink: West_Jutland_(Folketing_constituency)
+wikiPageWikiLink: Mink_Commission
+wikiPageWikiLink: 2022_Russian_invasion_of_Ukraine
+wikiPageWikiLink: AAK_(company)
+wikiPageWikiLink: Aalborg
+wikiPageWikiLink: Aarhus
+wikiPageWikiLink: Aksel_V._Johannesen
+wikiPageWikiLink: Alex_Vanopslagh
+wikiPageWikiLink: D'Hondt_method
+wikiPageWikiLink: DR_(broadcaster)
+wikiPageWikiLink: Danes
+wikiPageWikiLink: Danish_People's_Party
+wikiPageWikiLink: Danish_Social_Liberal_Party
+wikiPageWikiLink: East_Jutland_(Folketing_constituency)
+wikiPageWikiLink: Erik_Jensen_(Greenlandic_politician)
+wikiPageWikiLink: Esbjerg
+wikiPageWikiLink: Faroe_Islands_(Folketing_constituency)
+wikiPageWikiLink: Folketing
+wikiPageWikiLink: Franciska_Rosenkilde
+wikiPageWikiLink: Nicolai_Wammen
+wikiPageWikiLink: North_Jutland_(Folketing_constituency)
+wikiPageWikiLink: North_Zealand_(Folketing_constituency)
+wikiPageWikiLink: Party_of_European_Socialists
+wikiPageWikiLink: National_conservatism
+wikiPageWikiLink: Proportional_representation
+wikiPageWikiLink: Green_Left_(Denmark)
+wikiPageWikiLink: Greenland_(Folketing_constituency)
+wikiPageWikiLink: Inuit_Ataqatigiit
+wikiPageWikiLink: Jakob_Ellemann-Jensen
+wikiPageWikiLink: The_Alternative_(Denmark)
+wikiPageWikiLink: Atassut
+wikiPageWikiLink: Jeppe_Bruus_Christensen
+wikiPageWikiLink: Lars_Løkke_Rasmussen
+wikiPageWikiLink: Søren_Pape_Poulsen
+wikiPageWikiLink: Collective_leadership
+wikiPageWikiLink: Eco-socialism
+wikiPageWikiLink: Economic_anxiety
+wikiPageWikiLink: Economic_liberalism
+wikiPageWikiLink: Marianne_Karlsmose
+wikiPageWikiLink: Pia_Olsen_Dyhr
+wikiPageWikiLink: Social_democracy
+wikiPageWikiLink: Sofie_Carsten_Nielsen
+wikiPageWikiLink: South_Jutland_(Folketing_constituency)
+wikiPageWikiLink: Classical_liberalism
+wikiPageWikiLink: Green_conservatism
+wikiPageWikiLink: Green_politics
+wikiPageWikiLink: Dansk_Industri
+wikiPageWikiLink: Independent_Greens_(Denmark)
+wikiPageWikiLink: Independent_politician
+wikiPageWikiLink: Inger_Støjberg
+wikiPageWikiLink: Koncerthuset
+wikiPageWikiLink: Mette_Frederiksen
+wikiPageWikiLink: New_Right_(Denmark)
+wikiPageWikiLink: Next_Danish_general_election
+wikiPageWikiLink: Odense
+wikiPageWikiLink: Red–Green_Alliance_(Denmark)
+wikiPageWikiLink: Kingmaker
+wikiPageWikiLink: Informateur
+wikiPageWikiLink: Right-libertarianism
+wikiPageWikiLink: Social_liberalism
+wikiPageWikiLink: Nationalism
+wikiPageWikiLink: Motion_of_no_confidence
+wikiPageWikiLink: Social_conservatism
+wikiPageWikiLink: Nordic_agrarian_parties
+wikiPageWikiLink: Nordkraft_(Aalborg)
+wikiPageWikiLink: TV_2_(Denmark)
+wikiPageWikiLink: File:Folketing_01-11-22_2_(updated).svg
+wikiPageWikiLink: File:Folketingsvalget_2022_-_Afstemningsområder.svg
+wikiPageWikiLink: File:Folketingsvalget_2022_-_Fordelingen_af_mandater.svg
+wikiPageWikiLink: File:Folketingsvalget_2022_-_Opstillingskredse.svg
+wikiPageWikiLink: File:Folketingsvalget_2022_-_Opstillingskredse_A_andel_af_stemmer.svg
+wikiPageWikiLink: File:Folketingsvalget_2022_-_Opstillingskredse_B_andel_af_stemmer.svg
+wikiPageWikiLink: File:Folketingsvalget_2022_-_Opstillingskredse_C_andel_af_stemmer.svg
+wikiPageWikiLink: File:Folketingsvalget_2022_-_Opstillingskredse_D_andel_af_stemmer.svg
+wikiPageWikiLink: File:Folketingsvalget_2022_-_Opstillingskredse_F_andel_af_stemmer.svg
+wikiPageWikiLink: File:Folketingsvalget_2022_-_Opstillingskredse_I_andel_af_stemmer.svg
+wikiPageWikiLink: File:Folketingsvalget_2022_-_Opstillingskredse_K_andel_af_stemmer.svg
+wikiPageWikiLink: File:Folketingsvalget_2022_-_Opstillingskredse_M_andel_af_stemmer.svg
+wikiPageWikiLink: File:Folketingsvalget_2022_-_Opstillingskredse_O_andel_af_stemmer.svg
+wikiPageWikiLink: File:Folketingsvalget_2022_-_Opstillingskredse_Q_andel_af_stemmer.svg
+wikiPageWikiLink: File:Folketingsvalget_2022_-_Opstillingskredse_UP_andel_af_stemmer.svg
+wikiPageWikiLink: File:Folketingsvalget_2022_-_Opstillingskredse_V_andel_af_stemmer.svg
+wikiPageWikiLink: File:Folketingsvalget_2022_-_Opstillingskredse_Å_andel_af_stemmer.svg
+wikiPageWikiLink: File:Folketingsvalget_2022_-_Opstillingskredse_Æ_andel_af_stemmer.svg
+wikiPageWikiLink: File:Folketingsvalget_2022_-_Opstillingskredse_Ø_andel_af_stemmer.svg
+wikiPageWikiLink: File:Opinion_polling_for_the_2022_Danish_general_election.svg
+wikiPageExternalLink: qinersineq.gl
+wikiPageExternalLink: qinersineq.gl
+wikiPageExternalLink: valgopgHL.htm
+wikiPageExternalLink: http://politiken.dk/politik/meningsmaaleren/
+wikiPageExternalLink: startside.htm
+wikiPageExternalLink: index.php%3Fvs=27
+thumbnail: Mette_Frederiksen_Kööpenhaminassa_4.5.2022_(52049397038)_(cropped).jpg?width=300
+majoritySeats: 90
+totalSc: 0
+turnout: 83.7
+beforeElection: Mette_Frederiksen
+beforeParty: Social_Democrats_(Denmark)
+country: Kingdom of Denmark
+electionDate: --10-31
+electionDate: 2022-11-01
+electorate: 4269048
+header: Denmark proper
+heading: Parties in Denmark
+heading: Parties in Greenland
+heading: Parties in the Faroe Islands
+invalid: 12599
+lastElection: 1
+lastElection: 4
+lastElection: 5
+lastElection: 12
+lastElection: 13
+lastElection: 14
+lastElection: 16
+lastElection: 43
+lastElection: 48
+lastElection: new
+nextElection: Next
+party: Denmark_Democrats
+party: Venstre_(Denmark)
+party: Conservative_People's_Party_(Denmark)
+party: Christian_Democrats_(Denmark)
+party: Moderates_(Denmark)
+party: Liberal_Alliance_(Denmark)
+party: Social_Democrats_(Denmark)
+party: Danish_People's_Party
+party: Danish_Social_Liberal_Party
+party: Green_Left_(Denmark)
+party: The_Alternative_(Denmark)
+party: Independent_Greens_(Denmark)
+party: New_Right_(Denmark)
+party: Red–Green_Alliance_(Denmark)
+party: Social Democratic Party
+party: Social Democrats
+party: Independents
+party: The Alternative
+party: Liberal Alliance
+party: Venstre
+party: Danish Social Liberal Party
+party: Union Party
+party: Conservative People's Party
+party: New Right
+party: Moderates
+party: Siumut
+party: Inuit Ataqatigiit
+party: Red–Green Alliance
+party: Danish People's Party
+party: Denmark Democrats
+party: Green Left
+percentage: 2.63
+percentage: 3.33
+percentage: 3.66
+percentage: 3.79
+percentage: 5.16
+percentage: 5.51
+percentage: 7.87
+percentage: 8.08
+percentage: 8.29
+percentage: 9.27
+percentage: 13.31
+percentage: 25.21
+percentage: 27.54
+percentage: 28.2
+percentage: 30.19
+percentage: 38.58
+previousElection: 2019
+sc: 0
+sc: +1
+sc: +2
+sc: –9
+sc: New
+sc: +10
+sc: –11
+sc: –2
+sc: –4
+sc: –20
+seats: 0
+seats: 1
+seats: 5
+seats: 6
+seats: 7
+seats: 9
+seats: 10
+seats: 14
+seats: 15
+seats: 16
+seats: 23
+seats: 50
+seatsForElection: 175
+seatsForElection: 
+seatsForElection: All 179 seats in the Folketing
+source: valgopgHL.htm
+title: Prime_Minister_of_Denmark
+votes: 4288
+votes: 18276
+votes: 31787
+votes: 93428
+votes: 117567
+votes: 129524
+votes: 133931
+votes: 181452
+votes: 194820
+votes: 278656
+votes: 286796
+votes: 293186
+votes: 327699
+votes: 470546
+votes: 971995
+beforeImage: Mette Frederiksen Kööpenhaminassa 4.5.2022  .jpg
+blank: 46272
+abstract: General elections were held in Denmark on 1 November 2022 following the announcement by incumbent Prime Minister Mette Frederiksen on 5 October, in response to an ultimatum made by the Danish Social Liberal Party. All 179 members of the Folketing are elected; 175 members in Denmark proper, two in the Faroe Islands and two in Greenland. Due to 1 November being a national day of mourning for victims at sea on the Faroe Islands, the election was held on 31 October in that constituency. The next election is scheduled to take place on or before 31 October 2026, according to the Danish Constitution. Initially looking like no bloc would gain a majority, left-leaning parties ultimately retained their majority thanks to results in the Faroe Islands and Greenland but were reduced to an overall one-seat majority in the Folketing. The governing Social Democrats attained their best result in 20 years, with approximately 27.5% of the vote, while the Social Liberals obtained one of their worst ever results. Leading opposition party Venstre suffered major losses in the election, losing 44% of its seats. Two of the new parties standing in the election, the Moderates and the Denmark Democrats, obtained 16 and 14 seats, respectively, making them the third and fifth largest parties. An election where the topic of a broad government with parties from both blocs was pervasive, Frederiksen was appointed informateur; despite winning a majority, as she had said in her campaign, she is investigating the possibility of a centrist government with Venstre and other parties from the blue bloc. As of 3 December 2022, there are seven parties remaining in negotiations: the Social Democrats, Venstre, the Moderates, the Green Left, Liberal Alliance, the Social Liberals and the Danish People's Party.
+currentSeats: 1
+currentSeats: 2
+currentSeats: 3
+currentSeats: 4
+currentSeats: 5
+currentSeats: 8
+currentSeats: 12
+currentSeats: 13
+currentSeats: 14
+currentSeats: 15
+currentSeats: 39
+currentSeats: 49
+partyLeader: Pernille_Vermund
+partyLeader: Morten_Messerschmidt
+partyLeader: Múte_Bourup_Egede
+partyLeader: Bárður_á_Steig_Nielsen
+partyLeader: Aksel_V._Johannesen
+partyLeader: Alex_Vanopslagh
+partyLeader: Erik_Jensen_(Greenlandic_politician)
+partyLeader: Franciska_Rosenkilde
+partyLeader: Jakob_Ellemann-Jensen
+partyLeader: Lars_Løkke_Rasmussen
+partyLeader: Søren_Pape_Poulsen
+partyLeader: Pia_Olsen_Dyhr
+partyLeader: Sofie_Carsten_Nielsen
+partyLeader: Inger_Støjberg
+partyLeader: Mette_Frederiksen
+partyLeader: 
+partyLeader: Mai Villadsen
+wasDerivedFrom: 2022_Danish_general_election?oldid=1124708465&ns=0
+wikiPageLength: 53052
+isPrimaryTopicOf: 2022_Danish_general_election
+	

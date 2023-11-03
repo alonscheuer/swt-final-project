@@ -1,0 +1,86 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Uefa Super Cup 2023, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: Event
+type: SportsEvent
+type: Event
+type: SocietalEvent
+type: Q1656682
+type: Event
+type: FootballMatch
+type: SportsEvent
+label: 2023 UEFA Super Cup
+comment: The 2023 UEFA Super Cup will be the 48th edition of the UEFA Super Cup, an annual football match organised by UEFA and contested by the reigning champions of the top two European club competitions, the UEFA Champions League and the UEFA Europa League. The match will feature the winners of the 2022–23 UEFA Champions League and the 2022–23 UEFA Europa League. It is currently scheduled to be played at the Ak Bars Arena in Kazan, Russia, on 16 August 2023. However, the venue is uncertain due to the 2022 Russian invasion of Ukraine, and UEFA is considering alternative venues.
+name: 2023 UEFA Super Cup
+depiction: Общий_вид_стадиона_Казань_Арена.jpg
+location: Ak_Bars_Arena
+subject: Category:2023–24_in_UEFA_football
+subject: Category:August_2023_sports_events_in_Europe
+subject: Category:Scheduled_association_football_competitions
+subject: Category:UEFA_Super_Cup
+subject: Category:21st_century_in_Kazan
+subject: Category:Sport_in_Kazan
+subject: Category:International_club_association_football_competitions_hosted_by_Russia
+wikiPageID: 63225229
+wikiPageRevisionID: 1124218840
+wikiPageWikiLink: 2009_UEFA_Women's_Cup_Final
+wikiPageWikiLink: Category:2023–24_in_UEFA_football
+wikiPageWikiLink: Category:August_2023_sports_events_in_Europe
+wikiPageWikiLink: Category:Scheduled_association_football_competitions
+wikiPageWikiLink: Saint_Petersburg
+wikiPageWikiLink: 2018_FIFA_World_Cup
+wikiPageWikiLink: Overtime_(sports)
+wikiPageWikiLink: Penalty_shoot-out_(association_football)
+wikiPageWikiLink: Category:UEFA_Super_Cup
+wikiPageWikiLink: Tirana
+wikiPageWikiLink: UEFA
+wikiPageWikiLink: UEFA_Champions_League
+wikiPageWikiLink: UEFA_Europa_League
+wikiPageWikiLink: UEFA_Super_Cup
+wikiPageWikiLink: 2017_FIFA_Confederations_Cup
+wikiPageWikiLink: 2021–22_UEFA_Champions_League
+wikiPageWikiLink: 2022_Russian_invasion_of_Ukraine
+wikiPageWikiLink: 2022_UEFA_Super_Cup
+wikiPageWikiLink: 2022–23_UEFA_Champions_League
+wikiPageWikiLink: 2022–23_UEFA_Europa_League
+wikiPageWikiLink: 2023_UEFA_Champions_League_Final
+wikiPageWikiLink: 2023_UEFA_Europa_Conference_League_Final
+wikiPageWikiLink: 2023_UEFA_Europa_League_Final
+wikiPageWikiLink: 2023_UEFA_Women's_Champions_League_Final
+wikiPageWikiLink: Category:21st_century_in_Kazan
+wikiPageWikiLink: Category:Sport_in_Kazan
+wikiPageWikiLink: Ak_Bars_Arena
+wikiPageWikiLink: Albanian_Football_Association
+wikiPageWikiLink: Amsterdam
+wikiPageWikiLink: Paris
+wikiPageWikiLink: Category:International_club_association_football_competitions_hosted_by_Russia
+wikiPageWikiLink: Tatarstan
+wikiPageWikiLink: Association_football
+wikiPageWikiLink: Kazan
+wikiPageWikiLink: Real_Madrid_CF
+wikiPageExternalLink: https://www.uefa.com/uefasupercup/
+thumbnail: Общий_вид_стадиона_Казань_Арена.jpg?width=300
+caption: The Ak Bars Arena in Kazan is scheduled to host the match.
+city: Kazan
+date: 2023-08-16
+imageSize: 275
+next: 2024
+previous: 2022
+stadium: Ak_Bars_Arena
+stadium: Kazan
+team: 2022
+title: 2023
+abstract: The 2023 UEFA Super Cup will be the 48th edition of the UEFA Super Cup, an annual football match organised by UEFA and contested by the reigning champions of the top two European club competitions, the UEFA Champions League and the UEFA Europa League. The match will feature the winners of the 2022–23 UEFA Champions League and the 2022–23 UEFA Europa League. It is currently scheduled to be played at the Ak Bars Arena in Kazan, Russia, on 16 August 2023. However, the venue is uncertain due to the 2022 Russian invasion of Ukraine, and UEFA is considering alternative venues. Real Madrid are the defending champions.
+wasDerivedFrom: 2023_UEFA_Super_Cup?oldid=1124218840&ns=0
+wikiPageLength: 7569
+date: 2023-08-16
+city: Kazan
+previousEvent: 2022_UEFA_Super_Cup
+isPrimaryTopicOf: 2023_UEFA_Super_Cup
+	

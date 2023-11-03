@@ -1,0 +1,129 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Kvalspelet till Europamästerskapet i fotboll 2024 (grupp B), skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: Event
+type: Event
+type: Q1656682
+type: Event
+label: UEFA Euro 2024 qualifying Group B
+comment: Group B of UEFA Euro 2024 qualifying is one of the ten groups to decide which teams will qualify for the UEFA Euro 2024 final tournament in Germany. Group B consists of five teams: France, Gibraltar, Greece, the Netherlands and the Republic of Ireland. The teams will play against each other home-and-away in a round-robin format. The top two teams will qualify directly for the final tournament. The participants of the qualifying play-offs will be decided based on their performance in the 2022–23 UEFA Nations League.
+subject: Category:2022–23_in_Dutch_football
+subject: Category:2022–23_in_French_football
+subject: Category:2022–23_in_Gibraltar_football
+subject: Category:2022–23_in_Greek_football
+subject: Category:2023_in_Republic_of_Ireland_association_football
+subject: Category:UEFA_Euro_2024_qualifying
+wikiPageID: 70800625
+wikiPageRevisionID: 1116159781
+wikiPageWikiLink: Category:2022–23_in_Dutch_football
+wikiPageWikiLink: Category:2022–23_in_French_football
+wikiPageWikiLink: Category:2022–23_in_Gibraltar_football
+wikiPageWikiLink: Category:2022–23_in_Greek_football
+wikiPageWikiLink: Republic_of_Ireland_national_football_team
+wikiPageWikiLink: UTC+03:00
+wikiPageWikiLink: Victoria_Stadium,_Gibraltar
+wikiPageWikiLink: Gibraltar
+wikiPageWikiLink: Gibraltar_national_football_team
+wikiPageWikiLink: Greece_national_football_team
+wikiPageWikiLink: Loulé
+wikiPageWikiLink: UEFA_Euro_2024
+wikiPageWikiLink: UEFA_Euro_2024_qualifying_play-offs
+wikiPageWikiLink: 2022–23_UEFA_Nations_League
+wikiPageWikiLink: Faro,_Portugal
+wikiPageWikiLink: France_national_football_team
+wikiPageWikiLink: Central_European_Summer_Time
+wikiPageWikiLink: Central_European_Time
+wikiPageWikiLink: Category:2023_in_Republic_of_Ireland_association_football
+wikiPageWikiLink: Category:UEFA_Euro_2024_qualifying
+wikiPageWikiLink: UTC+01:00
+wikiPageWikiLink: UEFA_Euro_2024_qualifying
+wikiPageWikiLink: Netherlands_national_football_team
+wikiPageWikiLink: Round-robin_tournament
+wikiPageWikiLink: Estádio_Algarve
+wikiPageWikiLink: UTC+02:00
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036362/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036293/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036315/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036408/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036454/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036500/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036384/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036430/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036476/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036499/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036292/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036316/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036339/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036361/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036338/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036385/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036431/
+wikiPageExternalLink: https://www.uefa.com/euro-2024/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036407/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036453/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036477/
+date: 2023-03-24
+date: 2023-03-27
+date: 2023-06-16
+date: 2023-06-19
+date: 2023-09-07
+date: 2023-09-10
+date: 2023-10-13
+date: 2023-10-16
+date: 2023-11-18
+date: 2023-11-21
+id: France v Greece
+id: Greece v France
+id: Netherlands v France
+id: Netherlands v Republic of Ireland
+id: Republic of Ireland v Netherlands
+id: France v Republic of Ireland
+id: Republic of Ireland v France
+id: France v Netherlands
+id: Gibraltar v Greece
+id: Greece v Gibraltar
+id: Gibraltar v Netherlands
+id: Netherlands v Gibraltar
+id: Netherlands v Greece
+id: France v Gibraltar
+id: Gibraltar v France
+id: Gibraltar v Republic of Ireland
+id: Greece v Netherlands
+id: Greece v Republic of Ireland
+id: Republic of Ireland v Gibraltar
+id: Republic of Ireland v Greece
+report: https://www.uefa.com/european-qualifiers/match/2036362/
+report: https://www.uefa.com/european-qualifiers/match/2036293/
+report: https://www.uefa.com/european-qualifiers/match/2036315/
+report: https://www.uefa.com/european-qualifiers/match/2036408/
+report: https://www.uefa.com/european-qualifiers/match/2036454/
+report: https://www.uefa.com/european-qualifiers/match/2036500/
+report: https://www.uefa.com/european-qualifiers/match/2036384/
+report: https://www.uefa.com/european-qualifiers/match/2036430/
+report: https://www.uefa.com/european-qualifiers/match/2036476/
+report: https://www.uefa.com/european-qualifiers/match/2036499/
+report: https://www.uefa.com/european-qualifiers/match/2036292/
+report: https://www.uefa.com/european-qualifiers/match/2036316/
+report: https://www.uefa.com/european-qualifiers/match/2036339/
+report: https://www.uefa.com/european-qualifiers/match/2036361/
+report: https://www.uefa.com/european-qualifiers/match/2036338/
+report: https://www.uefa.com/european-qualifiers/match/2036385/
+report: https://www.uefa.com/european-qualifiers/match/2036431/
+report: https://www.uefa.com/european-qualifiers/match/2036407/
+report: https://www.uefa.com/european-qualifiers/match/2036453/
+report: https://www.uefa.com/european-qualifiers/match/2036477/
+stadium: Loulé
+time: 1245.0
+abstract: Group B of UEFA Euro 2024 qualifying is one of the ten groups to decide which teams will qualify for the UEFA Euro 2024 final tournament in Germany. Group B consists of five teams: France, Gibraltar, Greece, the Netherlands and the Republic of Ireland. The teams will play against each other home-and-away in a round-robin format. The top two teams will qualify directly for the final tournament. The participants of the qualifying play-offs will be decided based on their performance in the 2022–23 UEFA Nations League.
+wasDerivedFrom: UEFA_Euro_2024_qualifying_Group_B?oldid=1116159781&ns=0
+wikiPageLength: 10808
+time: 20:45
+isPrimaryTopicOf: UEFA_Euro_2024_qualifying_Group_B
+	

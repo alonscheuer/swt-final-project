@@ -1,0 +1,88 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Öppet vatten-simning vid världsmästerskapen i simsport 2022, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	label: Open water swimming at the 2022 World Aquatics Championships
+comment: Open water swimming at the 2022 World Aquatics Championships was held from 26 to 30 June 2022.
+homepage: fina-world-championships-budapest-2022
+name: Open water swimming at the 2022 World Aquatics Championships
+subject: Category:2022_World_Aquatics_Championships
+subject: Category:2022_in_swimming
+subject: Category:Open_water_swimming_at_the_2022_World_Aquatics_Championships
+subject: Category:Swimming_competitions_in_Hungary
+subject: Category:Open_water_swimming_at_the_World_Aquatics_Championships
+wikiPageID: 70290807
+wikiPageRevisionID: 1095789413
+wikiPageWikiLink: Category:2022_World_Aquatics_Championships
+wikiPageWikiLink: Category:2022_in_swimming
+wikiPageWikiLink: Hungary
+wikiPageWikiLink: Réka_Rohács
+wikiPageWikiLink: Category:Open_water_swimming_at_the_2022_World_Aquatics_Championships
+wikiPageWikiLink: Giulia_Gabbrielleschi
+wikiPageWikiLink: Mykhailo_Romanchuk
+wikiPageWikiLink: Open_water_swimming_at_the_2019_World_Aquatics_Championships
+wikiPageWikiLink: Category:Swimming_competitions_in_Hungary
+wikiPageWikiLink: Anna_Olasz
+wikiPageWikiLink: Leonie_Beck
+wikiPageWikiLink: Aurélie_Muller
+wikiPageWikiLink: Axel_Reymond
+wikiPageWikiLink: Budapest
+wikiPageWikiLink: 2022_World_Aquatics_Championships
+wikiPageWikiLink: Ana_Marcela_Cunha
+wikiPageWikiLink: Dario_Verani
+wikiPageWikiLink: Dávid_Betlehem
+wikiPageWikiLink: Florian_Wellbrock
+wikiPageWikiLink: Gregorio_Paltrinieri
+wikiPageWikiLink: Category:Open_water_swimming_at_the_World_Aquatics_Championships
+wikiPageWikiLink: Lea_Boy
+wikiPageWikiLink: Domenico_Acerenza
+wikiPageWikiLink: Kristóf_Rasovszky
+wikiPageWikiLink: Sharon_van_Rouwendaal
+wikiPageWikiLink: Time_in_Hungary
+wikiPageWikiLink: Ginevra_Taddeucci
+wikiPageWikiLink: Lupa_Beach
+wikiPageWikiLink: Oliver_Klemet
+wikiPageWikiLink: Péter_Gálicz
+wikiPageWikiLink: Open_water_swimming_at_the_2023_World_Aquatics_Championships
+wikiPageExternalLink: fina-world-championships-budapest-2022
+bronzeNed: 1
+events: 7
+goldNed: 1
+silverNed: 0
+bronzeFra: 0
+bronzeGer: 1
+bronzeHun: 1
+bronzeIta: 2
+bronzeUkr: 1
+dates: --06-30
+event: at the 2022 World Aquatics Championships
+flagTemplate: flaglink
+goldFra: 0
+goldGer: 2
+goldHun: 0
+goldIta: 2
+goldUkr: 0
+host: HUN
+next: 2023
+previous: 2019
+silverFra: 2
+silverGer: 2
+silverHun: 1
+silverIta: 2
+silverUkr: 0
+venues: Lupa_Beach
+bronzeBra: 1
+goldBra: 2
+hostHun: yes
+hostcity: Hungary
+hostcity: Budapest
+silverBra: 0
+abstract: Open water swimming at the 2022 World Aquatics Championships was held from 26 to 30 June 2022.
+wasDerivedFrom: Open_water_swimming_at_the_2022_World_Aquatics_Championships?oldid=1095789413&ns=0
+wikiPageLength: 6096
+isPrimaryTopicOf: Open_water_swimming_at_the_2022_World_Aquatics_Championships
+	

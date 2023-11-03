@@ -1,0 +1,145 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Världsmästerskapet i ishockey för herrar 2022, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	label: 2022 IIHF World Championship
+comment: The 2022 IIHF World Championship was hosted by Finland from 13 to 29 May 2022, as the International Ice Hockey Federation (IIHF) announced on 19 May 2017 in Cologne, Germany. The host cities of the World Championships were Tampere and Helsinki, of which Tampere's brand-new Nokia Arena served as the main venue of the games. The tournament saw multiple historic upsets: Austria's first victory against Czechia, and Denmark's first victory against Canada.
+homepage: wm
+depiction: Helsinki_Ice_Hall_May_2022.jpg
+depiction: Fan_Zone_Tampere.jpg
+depiction: 2022_IIHF_World_Championship_logo.svg
+depiction: Gold_celebrations_in_the_Market_Square_in_Kaartinkaupunki,_Helsinki,_Finland,_2022_May.jpg
+depiction: Home_of_Hockey_tram_in_Tampere_3.jpg
+depiction: IIHF_World_Championship_flags_Nokia_Arena.jpg
+depiction: Miracleo,_official_mascot_of_the_2022_IIHF_Worlds.jpg
+depiction: Norway_vs_Austria_2022_IIHF_WC_6.jpg
+depiction: Platserna_för_kommentatorer_i_Nokia_Arena.png
+depiction: Pohjoisesplanadi_street_during_the_celebrations_for_hockey_gold_in_Kaartinkaupunki,_Helsinki,_Finland,_2022_May.jpg
+depiction: Nokia_Arena_and_Hotel_March_2022.jpg
+subject: Category:2020s_in_Helsinki
+subject: Category:2022_IIHF_Men's_World_Ice_Hockey_Championships
+subject: Category:2022_IIHF_World_Championship
+subject: Category:2022_in_Finnish_sport
+subject: Category:2022_in_ice_hockey
+subject: Category:May_2022_sports_events_in_Finland
+subject: Category:International_sports_competitions_in_Helsinki
+subject: Category:IIHF_World_Championship
+subject: Category:International_ice_hockey_competitions_hosted_by_Finland
+subject: Category:Sports_competitions_in_Tampere
+subject: Category:Sports_events_affected_by_the_2022_Russian_invasion_of_Ukraine
+wikiPageID: 54084487
+wikiPageRevisionID: 1120606007
+wikiPageWikiLink: Pyotr_Ilyich_Tchaikovsky
+wikiPageWikiLink: Roman_Červenka
+wikiPageWikiLink: Sauli_Niinistö
+wikiPageWikiLink: 2021_Men's_Ice_Hockey_World_Championships
+wikiPageWikiLink: Category:2020s_in_Helsinki
+wikiPageWikiLink: Category:2022_IIHF_Men's_World_Ice_Hockey_Championships
+wikiPageWikiLink: Category:2022_IIHF_World_Championship
+wikiPageWikiLink: Category:2022_in_Finnish_sport
+wikiPageWikiLink: Category:2022_in_ice_hockey
+wikiPageWikiLink: Category:May_2022_sports_events_in_Finland
+wikiPageWikiLink: Belarus_men's_national_ice_hockey_team
+wikiPageWikiLink: David_Krejčí
+wikiPageWikiLink: David_Pastrňák
+wikiPageWikiLink: Denis_Malgin
+wikiPageWikiLink: Juho_Olkinuora
+wikiPageWikiLink: Defenceman
+wikiPageWikiLink: Category:International_sports_competitions_in_Helsinki
+wikiPageWikiLink: 1992_Men's_Ice_Hockey_World_Championships
+wikiPageWikiLink: Cologne
+wikiPageWikiLink: Court_of_Arbitration_for_Sport
+wikiPageWikiLink: Russia_men's_national_ice_hockey_team
+wikiPageWikiLink: Russian_Olympic_Committee
+wikiPageWikiLink: Sakari_Manninen
+wikiPageWikiLink: Category:IIHF_World_Championship
+wikiPageWikiLink: Chris_Driedger
+wikiPageWikiLink: Germany
+wikiPageWikiLink: Magnus_Hellberg
+wikiPageWikiLink: Category:International_ice_hockey_competitions_hosted_by_Finland
+wikiPageWikiLink: Category:Sports_competitions_in_Tampere
+wikiPageWikiLink: Austria_men's_national_ice_hockey_team
+wikiPageWikiLink: COVID-19_pandemic
+wikiPageWikiLink: 2021_IIHF_World_Championship
+wikiPageWikiLink: 2022_IIHF_World_Championship_Group_A
+wikiPageWikiLink: 2022_IIHF_World_Championship_Group_B
+wikiPageWikiLink: 2022_Russian_invasion_of_Ukraine
+wikiPageWikiLink: 2023_IIHF_World_Championship
+wikiPageWikiLink: 2023_IIHF_World_Championship_Division_I
+wikiPageWikiLink: Drake_Batherson
+wikiPageWikiLink: Dylan_Cozens_(ice_hockey)
+wikiPageWikiLink: France_men's_national_ice_hockey_team
+wikiPageWikiLink: Nokia_Arena_(Tampere)
+wikiPageWikiLink: Forward_(ice_hockey)
+wikiPageWikiLink: Goals_against_average
+wikiPageWikiLink: Goaltender
+wikiPageWikiLink: List_of_IIHF_World_Rankings
+wikiPageWikiLink: Helsinki
+wikiPageWikiLink: Helsinki_Halli
+wikiPageWikiLink: Helsinki_Ice_Hall
+wikiPageWikiLink: Henri-Corentin_Buysse
+wikiPageWikiLink: International_Ice_Hockey_Federation
+wikiPageWikiLink: Tampere
+wikiPageWikiLink: Category:Sports_events_affected_by_the_2022_Russian_invasion_of_Ukraine
+wikiPageWikiLink: Dissolution_of_the_Soviet_Union
+wikiPageWikiLink: Piano_Concerto_No._1_(Tchaikovsky)
+wikiPageWikiLink: Pierre-Luc_Dubois
+wikiPageWikiLink: IIHF
+wikiPageWikiLink: IIHF_World_Ranking
+wikiPageWikiLink: Mikael_Granlund
+wikiPageWikiLink: Mikko_Lehtonen_(ice_hockey,_born_1994)
+wikiPageWikiLink: Seth_Jones_(ice_hockey)
+wikiPageWikiLink: Most_valuable_player
+wikiPageWikiLink: Serpentine_system
+wikiPageWikiLink: Shutout
+wikiPageWikiLink: Russian_oligarchs
+wikiPageWikiLink: Russian_doping_scandal
+wikiPageWikiLink: Artūrs_Šilovs
+wikiPageWikiLink: Plus-minus_(ice_hockey)
+wikiPageWikiLink: File:Fan_Zone_Tampere.jpg
+wikiPageWikiLink: File:Gold_celebrations_in_the_Market_Square_in_Kaartinkaupunki,_Helsinki,_Finland,_2022_May.jpg
+wikiPageWikiLink: File:Helsinki_Ice_Hall_May_2022.jpg
+wikiPageWikiLink: File:Home_of_Hockey_tram_in_Tampere_3.jpg
+wikiPageWikiLink: File:IIHF_World_Championship_flags_Nokia_Arena.jpg
+wikiPageWikiLink: File:Miracleo,_official_mascot_of_the_2022_IIHF_Worlds.jpg
+wikiPageWikiLink: File:Nokia_Arena_and_Hotel_March_2022.jpg
+wikiPageWikiLink: File:Norway_vs_Austria_2022_IIHF_WC_6.jpg
+wikiPageWikiLink: File:Platserna_för_kommentatorer_i_Nokia_Arena.png
+wikiPageWikiLink: File:Pohjoisesplanadi_street_during_the_celebrations_for_hockey_gold_in_Kaartinkaupunki,_Helsinki,_Finland,_2022_May.jpg
+wikiPageExternalLink: IHM749000_85A_48_0.pdf
+wikiPageExternalLink: IHM749000_85B_48_0.pdf
+wikiPageExternalLink: IHM749000_FINAL_RANKING_5_0.pdf
+wikiPageExternalLink: wm
+thumbnail: 2022_IIHF_World_Championship_logo.svg?width=300
+attendance: 3731
+cities: 2
+count: 4
+country: Finland
+dates: --05-29
+float: center
+fourth: USA
+goals: 375
+mvp: Juho Olkinuora
+nextseason: 2023
+numTeams: 16
+opened: Sauli_Niinistö
+points: 17
+prevseason: 2021
+second: CAN
+size: 170
+type: ih
+venues: 2
+width: 150
+winners: FIN
+year: 2022
+scoringLeader: Roman Červenka
+games: 64
+abstract: The 2022 IIHF World Championship was hosted by Finland from 13 to 29 May 2022, as the International Ice Hockey Federation (IIHF) announced on 19 May 2017 in Cologne, Germany. The host cities of the World Championships were Tampere and Helsinki, of which Tampere's brand-new Nokia Arena served as the main venue of the games. Since all lower divisions of the 2021 Men's Ice Hockey World Championships were cancelled due to the COVID-19 pandemic, all 16 teams from the previous year's top division were set to return this year. However, in the midst of the 2022 Russian invasion of Ukraine, Russia and Belarus were suspended from competing in all IIHF tournaments for at least a year. This marked the first time that Russia missed the top division of the World Championship since the dissolution of the Soviet Union. For this tournament, the suspended nations were replaced by Austria and France, the two highest-ranked teams in 2021 that had not already qualified. Additionally, the venue in Helsinki was moved from Helsinki Halli, previously known as Hartwall Arena, to Helsinki Ice Hall due to the former being owned by Russian oligarchs. Finland defeated Canada 4–3 in overtime in the gold medal game for their fourth title and their first medal ever won on home ice. This marked the first time since the introduction of the playoff round in 1992 that the same two teams met in the gold medal game three tournaments in a row. Czechia won the bronze medal, their first medal since 2012, after an 8–4 win over the United States. The tournament saw multiple historic upsets: Austria's first victory against Czechia, and Denmark's first victory against Canada.
+wasDerivedFrom: 2022_IIHF_World_Championship?oldid=1120606007&ns=0
+wikiPageLength: 32131
+isPrimaryTopicOf: 2022_IIHF_World_Championship
+	

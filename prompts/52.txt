@@ -1,0 +1,17 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Slaget om Starobilsk, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	label: Battle of Starobilsk
+wikiPageID: 70163597
+wikiPageRevisionID: 1119528830
+wikiPageWikiLink: Eastern_Ukraine_campaign
+wikiPageRedirects: Eastern_Ukraine_campaign
+wasDerivedFrom: Battle_of_Starobilsk?oldid=1119528830&ns=0
+wikiPageLength: 91
+isPrimaryTopicOf: Battle_of_Starobilsk
+	

@@ -1,0 +1,153 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om A lyga 2022, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: SportsTeamSeason
+type: FootballLeagueSeason
+type: SportsSeason
+label: 2022 A Lyga
+comment: The 2022 A Lyga, for sponsorship reasons also called Optibet A lyga was the 33rd season of the A Lyga, the top-tier football league of Lithuania. The season began on 4 March and concluded on 23 November 2022.
+depiction: Black_pog.svg
+depiction: TransparentPlaceholder.png
+subject: Category:LFF_Lyga_seasons
+subject: Category:2022_in_Lithuanian_football
+wikiPageID: 69913304
+wikiPageRevisionID: 1124946723
+wikiPageWikiLink: FK_Sūduva_Marijampolė
+wikiPageWikiLink: 2021_LFF_I_Lyga
+wikiPageWikiLink: Category:LFF_Lyga_seasons
+wikiPageWikiLink: 2023–24_UEFA_Champions_League
+wikiPageWikiLink: 2023–24_UEFA_Europa_Conference_League
+wikiPageWikiLink: Category:2022_in_Lithuanian_football
+wikiPageWikiLink: Jonava
+wikiPageWikiLink: João_Luís_Martins
+wikiPageWikiLink: Lithuania
+wikiPageWikiLink: Petro_Kushlyk
+wikiPageWikiLink: Renan_Oliveira
+wikiPageWikiLink: Renan_Oliveira_(footballer,_born_1997)
+wikiPageWikiLink: DFK_Dainava
+wikiPageWikiLink: Valdas_Urbonas
+wikiPageWikiLink: Vilius_Armanavičius
+wikiPageWikiLink: Vilnius
+wikiPageWikiLink: Vladimir_Cheburin
+wikiPageWikiLink: Matthew_Silva_(footballer)
+wikiPageWikiLink: Gargždai
+wikiPageWikiLink: Gargždai_Stadium
+wikiPageWikiLink: Gino_Lettieri
+wikiPageWikiLink: Glenn_Ståhl
+wikiPageWikiLink: 2021_A_Lyga
+wikiPageWikiLink: Andrius_Skerla
+wikiPageWikiLink: Anton_Fase
+wikiPageWikiLink: Šiauliai
+wikiPageWikiLink: C.S._Marítimo
+wikiPageWikiLink: Central_Stadium_of_Jonava
+wikiPageWikiLink: Víctor_Basadre
+wikiPageWikiLink: 2022_Lithuanian_Football_Cup
+wikiPageWikiLink: A_Lyga
+wikiPageWikiLink: Dainius_Gleveckas
+wikiPageWikiLink: Daniel_Romanovskij
+wikiPageWikiLink: FC_Hegelmann
+wikiPageWikiLink: FC_Hegelmann_Litauen
+wikiPageWikiLink: FK_Kauno_Žalgiris
+wikiPageWikiLink: FK_Nevėžis
+wikiPageWikiLink: FK_Panevėžys
+wikiPageWikiLink: FK_Riteriai
+wikiPageWikiLink: FK_Sūduva
+wikiPageWikiLink: FK_Žalgiris
+wikiPageWikiLink: Football_in_Lithuania
+wikiPageWikiLink: Pablo_Villar
+wikiPageWikiLink: Panevėžys
+wikiPageWikiLink: Telšiai
+wikiPageWikiLink: Association_football
+wikiPageWikiLink: Kaunas
+wikiPageWikiLink: Kauno_Žalgiris_FA_Stadium
+wikiPageWikiLink: LFF_Stadium
+wikiPageWikiLink: Sūduva_Stadium
+wikiPageWikiLink: Aukštaitija_Stadium
+wikiPageWikiLink: Marijampolė
+wikiPageWikiLink: Marijampolė_Football_Indoor_Arena
+wikiPageWikiLink: Sportima_Arena
+wikiPageWikiLink: I_Lyga
+wikiPageWikiLink: Kule_Mbombo
+wikiPageWikiLink: Oleksiy_Shchebetun
+wikiPageWikiLink: Yevhen_Lutsenko
+wikiPageWikiLink: FA_Šiauliai
+wikiPageWikiLink: FC_Džiugas_Telšiai
+wikiPageWikiLink: FK_Banga_Gargždai
+wikiPageWikiLink: FK_Jonava
+wikiPageWikiLink: Savivaldybė_Stadium
+wikiPageWikiLink: Mindaugas_Čepas
+wikiPageWikiLink: David_Afonso
+wikiPageWikiLink: Marius_Šluta
+wikiPageWikiLink: Martynas_Matuzas
+wikiPageWikiLink: Rokas_Garastas
+wikiPageWikiLink: Eisvinas_Utyra
+wikiPageWikiLink: Robertas_Vėževičius
+wikiPageWikiLink: Miguel_Moreira
+wikiPageWikiLink: Mathias_Oyewusi
+wikiPageWikiLink: Vaidas_Sabaliauskas
+wikiPageWikiLink: 2023_A_Lyga
+wikiPageWikiLink: João_Prates
+wikiPageWikiLink: Rokas_Filipavičius
+wikiPageExternalLink: 1
+wikiPageExternalLink: https://www.alyga.lt/
+wikiPageExternalLink: 1
+thumbnail: Black_pog.svg?width=300
+caption: Home towns of the 2022 A Lyga teams
+competition: A_Lyga
+dates: --03-04
+dates: 
+float: right
+matches: 137
+nextseason: 2023
+pixels: 250
+prevseason: 2021
+season: 2022
+updated: 2022-09-12
+width: 400
+biggestAwayWin: --04-27
+biggestAwayWin: --06-22
+biggestAwayWin: --06-26
+biggestAwayWin: --09-07
+biggestAwayWin: Jonava 0–5 Banga
+biggestAwayWin: Jonava 0–5 Panevėžys
+biggestAwayWin: Jonava 0–5 Žalgiris
+biggestAwayWin: Sūduva 0–5 Žalgiris
+biggestHomeWin: --03-04
+biggestHomeWin: --07-16
+biggestHomeWin: Hegelmann 6–0 Jonava
+biggestHomeWin: Žalgiris 6–0 Jonava
+continentalcup: 2023–24_UEFA_Champions_League
+continentalcup: 2023–24_UEFA_Europa_Conference_League
+highestAttendance: 1237
+highestAttendance: --08-07
+highestAttendance: Sūduva 4–1 Panevėžys
+highestScoring: --04-13
+highestScoring: Džiugas 3–5 Žalgiris
+leagueTopscorer: Renan_Oliveira_(footballer,_born_1997)
+longestLosses: 12
+longestLosses: --03-04
+longestLosses: FK_Jonava
+longestUnbeaten: 13
+longestUnbeaten: --03-04
+longestUnbeaten: FK_Žalgiris
+longestWinless: 28
+longestWinless: --03-04
+longestWinless: FK_Jonava
+longestWins: 8
+longestWins: --06-19
+longestWins: FK_Žalgiris
+lowestAttendance: 45
+lowestAttendance: --09-07
+lowestAttendance: Kauno Žalgiris 5–1 Džiugas
+totalGoals: 362
+abstract: The 2022 A Lyga, for sponsorship reasons also called Optibet A lyga was the 33rd season of the A Lyga, the top-tier football league of Lithuania. The season began on 4 March and concluded on 23 November 2022.
+wasDerivedFrom: 2022_A_Lyga?oldid=1124946723&ns=0
+wikiPageLength: 21701
+isPrimaryTopicOf: 2022_A_Lyga
+	

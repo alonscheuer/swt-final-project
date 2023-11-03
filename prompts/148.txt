@@ -1,0 +1,162 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Allmänna valen i Turkiet 2023, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: Event
+type: Event
+type: SocietalEvent
+type: Q1656682
+type: Q40231
+type: Election
+type: Event
+label: 2023 Turkish general election
+comment: The 2023 Turkish general election will be held on 18 June 2023. Presidential elections are held to elect the President of Turkey using a two-round system. Simultaneously, parliamentary elections are held to elect 600 Members of Parliament to the Grand National Assembly of Turkey.
+depiction: Sinan_ogan_(cropped).jpg
+depiction: Recep_Tayyip_Erdogan_in_Ukraine.jpg
+depiction: Mansur_Yavaş_(cropped).jpg
+depiction: Secretary_Kerry_Meets_With_Turkish_Foreign_Minister_Davutoglu_(2)_(cropped).jpg
+depiction: Abdullah_Gül_2011-06-07.jpg
+depiction: Süleyman_Soylu_in_Tehran_01.jpg
+depiction: Haşim_Kılıç_(cropped).png
+depiction: Cem_Uzan_(cropped).jpg
+depiction: Doğu_Perinçek_in_Tasnim_News_Agency.jpg
+depiction: Ekrem_İmamoğlu_June_8_2022.jpg
+depiction: (Tansu_Çiller)_Rueda_de_prensa_de_Felipe_González_y_la_primera_ministra_de_Turquía._Pool_Moncloa._16_de_noviembre_de_1995_(cropped).jpeg
+depiction: Ali_Babacan_2020_(cropped).jpg
+depiction: İlhan_Kesici.png
+depiction: CHP_2018_manifesto_launch_1_(cropped).jpg
+depiction: Temel-Karamollaoğlu_(cropped).jpg
+depiction: Mustafa_Sarıgül_(cropped_2).jpg
+depiction: Portrait_placeholder.png
+depiction: Devlet_Bahçeli_VOA_2015_(cropped).jpg
+depiction: Gültekin_Uysal.png
+depiction: Fatiherbakan_(cropped).jpg
+depiction: Kemal_Kılıçdaroğlu_(cropped_2).jpg
+depiction: Pervin_Buldan2.jpg
+depiction: Turkey_provinces_blank_gray.svg
+depiction: Meral_Akşener,_September_2021_(cropped).jpg
+subject: Category:General_elections_in_Turkey
+subject: Category:2023_Turkish_general_election
+subject: Category:2023_elections_in_Asia
+subject: Category:2023_elections_in_Europe
+subject: Category:Future_elections_in_Turkey
+wikiPageID: 57828042
+wikiPageRevisionID: 1124099525
+wikiPageWikiLink: President_of_Turkey
+wikiPageWikiLink: Prime_Minister_of_Turkey
+wikiPageWikiLink: List_of_elections_in_2023
+wikiPageWikiLink: Category:General_elections_in_Turkey
+wikiPageWikiLink: Category:2023_Turkish_general_election
+wikiPageWikiLink: Category:2023_elections_in_Asia
+wikiPageWikiLink: Category:2023_elections_in_Europe
+wikiPageWikiLink: Category:Future_elections_in_Turkey
+wikiPageWikiLink: Beylikdüzü
+wikiPageWikiLink: Beypazarı,_Ankara
+wikiPageWikiLink: Binali_Yıldırım
+wikiPageWikiLink: Democracy_and_Progress_Party
+wikiPageWikiLink: Democrat_Party_(Turkey,_current)
+wikiPageWikiLink: Deputy_Prime_Minister_of_Turkey
+wikiPageWikiLink: Deputy_Speaker_of_the_Grand_National_Assembly
+wikiPageWikiLink: Devlet_Bahçeli
+wikiPageWikiLink: Homeland_Party_(Turkey,_2021)
+wikiPageWikiLink: Patriotic_Party_(Turkey)
+wikiPageWikiLink: People's_Alliance_(Turkey)
+wikiPageWikiLink: Peoples'_Democratic_Party_(Turkey)
+wikiPageWikiLink: Pervin_Buldan
+wikiPageWikiLink: Republican_People's_Party
+wikiPageWikiLink: List_of_mayors_of_Ankara
+wikiPageWikiLink: List_of_mayors_of_Istanbul
+wikiPageWikiLink: Istanbul_Province
+wikiPageWikiLink: Presidential_system
+wikiPageWikiLink: Constitutional_Court_of_Turkey
+wikiPageWikiLink: Member_of_Parliament
+wikiPageWikiLink: Opinion_polling_for_the_2023_Turkish_general_election
+wikiPageWikiLink: Ekrem_İmamoğlu
+wikiPageWikiLink: Future_Party_(Turkey)
+wikiPageWikiLink: Gaziantep_Province
+wikiPageWikiLink: Good_Party
+wikiPageWikiLink: Grand_National_Assembly_of_Turkey
+wikiPageWikiLink: Minister_of_Foreign_Affairs_(Turkey)
+wikiPageWikiLink: Ministry_of_Interior_(Turkey)
+wikiPageWikiLink: Ministry_of_Labour_and_Social_Security_(Turkey)
+wikiPageWikiLink: Movement_for_Change_in_Turkey
+wikiPageWikiLink: Muharrem_İnce
+wikiPageWikiLink: Mustafa_Sarıgül
+wikiPageWikiLink: 2018_Turkish_general_election
+wikiPageWikiLink: 2018_Turkish_presidential_election
+wikiPageWikiLink: Ankara_Province
+wikiPageWikiLink: Sinan_Oğan
+wikiPageWikiLink: Sivas
+wikiPageWikiLink: Sivas_Province
+wikiPageWikiLink: İlhan_Kesici
+wikiPageWikiLink: Şişli
+wikiPageWikiLink: Trabzon_Province
+wikiPageWikiLink: Tunceli_Province
+wikiPageWikiLink: Gültekin_Uysal
+wikiPageWikiLink: Minister_of_State_(Turkey)
+wikiPageWikiLink: 2023_Turkish_parliamentary_election
+wikiPageWikiLink: 2023_Turkish_presidential_election
+wikiPageWikiLink: Abdullah_Gül
+wikiPageWikiLink: Afyonkarahisar_Province
+wikiPageWikiLink: Ahmet_Davutoğlu
+wikiPageWikiLink: Ali_Babacan
+wikiPageWikiLink: Doğu_Perinçek
+wikiPageWikiLink: Erzincan_Province
+wikiPageWikiLink: Fatih_Erbakan
+wikiPageWikiLink: Felicity_Party
+wikiPageWikiLink: Osmaniye_Province
+wikiPageWikiLink: Cem_Uzan
+wikiPageWikiLink: Hakkâri_Province
+wikiPageWikiLink: Haşim_Kılıç
+wikiPageWikiLink: Istanbul
+wikiPageWikiLink: Iğdır_Province
+wikiPageWikiLink: Tansu_Çiller
+wikiPageWikiLink: Temel_Karamollaoğlu
+wikiPageWikiLink: 2017_Turkish_constitutional_referendum
+wikiPageWikiLink: June_2015_Turkish_general_election
+wikiPageWikiLink: Justice_and_Development_Party_(Turkey)
+wikiPageWikiLink: Kayseri_Province
+wikiPageWikiLink: Kemal_Kılıçdaroğlu
+wikiPageWikiLink: Kırşehir_Province
+wikiPageWikiLink: Süleyman_Soylu
+wikiPageWikiLink: Mansur_Yavaş
+wikiPageWikiLink: Speaker_of_the_Grand_National_Assembly
+wikiPageWikiLink: Parliamentarism
+wikiPageWikiLink: Kocaeli_Province
+wikiPageWikiLink: Konya_Province
+wikiPageWikiLink: Meral_Akşener
+wikiPageWikiLink: Nation_Alliance_(Turkey)
+wikiPageWikiLink: Nationalist_Movement_Party
+wikiPageWikiLink: New_Welfare_Party
+wikiPageWikiLink: Recep_Tayyip_Erdoğan
+wikiPageWikiLink: Yalova_Province
+wikiPageWikiLink: Young_Party
+wikiPageWikiLink: Sakarya_Province
+wikiPageWikiLink: Two-round_system
+wikiPageWikiLink: Mayor_of_Istanbul
+wikiPageWikiLink: Leader_of_the_Main_Opposition_of_Turkey
+wikiPageWikiLink: File:Parliament_of_Turkey_empty_600_seats.svg
+wikiPageWikiLink: File:Turkey_provinces_blank_gray.svg
+thumbnail: Recep_Tayyip_Erdogan_in_Ukraine.jpg?width=300
+flagYear: state
+module: --06-18
+opinionPolls: Opinion polling for the 2023 Turkish general election
+country: Turkey
+electionDate: 2023-06-18
+electionName: 2023
+nextYear: 2028
+ongoing: yes
+previousElection: 2018
+previousYear: 2018
+abstract: The 2023 Turkish general election will be held on 18 June 2023. Presidential elections are held to elect the President of Turkey using a two-round system. Simultaneously, parliamentary elections are held to elect 600 Members of Parliament to the Grand National Assembly of Turkey.
+wasDerivedFrom: 2023_Turkish_general_election?oldid=1124099525&ns=0
+wikiPageLength: 20082
+startDate: 2023-06-18
+title: 2023 Turkish general election
+isPrimaryTopicOf: 2023_Turkish_general_election
+	

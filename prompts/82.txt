@@ -1,0 +1,449 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Finalissima 2022, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: Event
+type: SportsEvent
+type: Event
+type: SocietalEvent
+type: Q1656682
+type: Event
+type: FootballMatch
+type: SportsEvent
+label: 2022 Finalissima
+comment: The 2022 Finalissima (lit. 'Grand Final'; Spanish: Finalísima) was the third edition of the CONMEBOL–UEFA Cup of Champions, an intercontinental football match between the winners of the previous South American and European championships. The match featured Italy, winners of UEFA Euro 2020 (held in 2021), and Argentina, winners of the 2021 Copa América. It was played at Wembley Stadium in London, England, on 1 June 2022. The match, a revival of the Artemio Franchi Cup last played 29 years prior, was organised by UEFA and CONMEBOL as part of a renewed partnership between the two confederations.
+name: 2022 Finalissima
+name: Rodrigo_De_Paul
+name: Jorginho_(footballer,_born_December_1991)
+name: Juan_Foyth
+name: Julián_Álvarez_(footballer)
+name: Paulo_Dybala
+name: Cristian_Romero_(footballer,_born_1998)
+name: Matteo_Pessina
+name: Matteo_Politano
+name: Emerson_Palmieri
+name: Emiliano_Martínez
+name: Franco_Armani
+name: Germán_Pezzella
+name: Gerónimo_Rulli
+name: Giacomo_Raspadori
+name: Gianluca_Scamacca
+name: Gianluigi_Donnarumma
+name: Giorgio_Chiellini
+name: Giovani_Lo_Celso
+name: Giovanni_Di_Lorenzo
+name: Nahuel_Molina
+name: Andrea_Belotti
+name: Leonardo_Bonucci
+name: Leonardo_Spinazzola
+name: Lionel_Messi
+name: Lisandro_Martínez
+name: Lorenzo_Pellegrini
+name: Ángel_Di_María
+name: Bryan_Cristante
+name: Alessandro_Bastoni
+name: Alessandro_Florenzi
+name: Alessio_Cragno
+name: Alex_Meret
+name: Alexis_Mac_Allister
+name: Exequiel_Palacios
+name: Federico_Bernardeschi
+name: Francesco_Acerbi
+name: Nicolás_González_(footballer,_born_1998)
+name: Nicolás_Otamendi
+name: Nicolás_Tagliafico
+name: Nicolò_Barella
+name: Papu_Gómez
+name: Guido_Rodríguez
+name: Lautaro_Martínez
+name: Manuel_Lazzari
+name: Manuel_Locatelli
+name: Marcos_Acuña
+depiction: Wembley-Stadion_2013_16x10.jpg
+depiction: 2022_Finalissima_logo.png
+depiction: ITA-ARG_2022-06-01.svg
+location: Wembley_Stadium
+subject: Category:Events_at_Wembley_Stadium
+subject: Category:Italy_national_football_team_matches
+subject: Category:2021–22_in_Italian_football
+subject: Category:2021–22_in_UEFA_football
+subject: Category:2022_in_Argentine_football
+subject: Category:2022_sports_events_in_London
+subject: Category:June_2022_sports_events_in_the_United_Kingdom
+subject: Category:Argentina_national_football_team_matches
+subject: Category:CONMEBOL–UEFA_Cup_of_Champions
+subject: Category:Association_football_matches_in_England
+subject: Category:International_association_football_competitions_hosted_by_London
+subject: Category:2022_in_South_American_football
+wikiPageID: 69521116
+wikiPageRevisionID: 1124392257
+wikiPageWikiLink: Cagliari_Calcio
+wikiPageWikiLink: Roberto_Mancini
+wikiPageWikiLink: Rodrigo_De_Paul
+wikiPageWikiLink: Royal_Spanish_Football_Federation
+wikiPageWikiLink: Category:Events_at_Wembley_Stadium
+wikiPageWikiLink: Category:Italy_national_football_team_matches
+wikiPageWikiLink: Category:2021–22_in_Italian_football
+wikiPageWikiLink: Category:2021–22_in_UEFA_football
+wikiPageWikiLink: Category:2022_in_Argentine_football
+wikiPageWikiLink: Category:2022_sports_events_in_London
+wikiPageWikiLink: Category:June_2022_sports_events_in_the_United_Kingdom
+wikiPageWikiLink: Bayer_04_Leverkusen
+wikiPageWikiLink: Brazil_national_football_team
+wikiPageWikiLink: Brighton_&_Hove_Albion_F.C.
+wikiPageWikiLink: Jorginho_(footballer,_born_December_1991)
+wikiPageWikiLink: Juan_Foyth
+wikiPageWikiLink: Juan_Martínez_Munuera
+wikiPageWikiLink: Julián_Álvarez_(footballer)
+wikiPageWikiLink: List_of_FA_Cup_Finals
+wikiPageWikiLink: Paulo_Dybala
+wikiPageWikiLink: Udinese_Calcio
+wikiPageWikiLink: Video_assistant_referee
+wikiPageWikiLink: Villarreal_CF
+wikiPageWikiLink: Platinum
+wikiPageWikiLink: 1923_FA_Cup_Final
+wikiPageWikiLink: 1993_Artemio_Franchi_Cup
+wikiPageWikiLink: Copa_América
+wikiPageWikiLink: Copa_Libertadores
+wikiPageWikiLink: Cristian_Romero_(footballer,_born_1998)
+wikiPageWikiLink: Matteo_Pessina
+wikiPageWikiLink: Matteo_Politano
+wikiPageWikiLink: S.L._Benfica
+wikiPageWikiLink: S.S.C._Napoli
+wikiPageWikiLink: S.S._Lazio
+wikiPageWikiLink: Club_Atlético_River_Plate
+wikiPageWikiLink: Emerson_Palmieri
+wikiPageWikiLink: Emiliano_Martínez
+wikiPageWikiLink: England_national_football_team
+wikiPageWikiLink: Franco_Armani
+wikiPageWikiLink: Germany_national_football_team
+wikiPageWikiLink: Germán_Pezzella
+wikiPageWikiLink: Gerónimo_Rulli
+wikiPageWikiLink: Giacomo_Raspadori
+wikiPageWikiLink: Gianluca_Scamacca
+wikiPageWikiLink: Gianluigi_Donnarumma
+wikiPageWikiLink: Giorgio_Chiellini
+wikiPageWikiLink: Giovani_Lo_Celso
+wikiPageWikiLink: Giovanni_Di_Lorenzo
+wikiPageWikiLink: Gold
+wikiPageWikiLink: Nahuel_Molina
+wikiPageWikiLink: 1966_FIFA_World_Cup
+wikiPageWikiLink: 1966_FIFA_World_Cup_Final
+wikiPageWikiLink: Category:Argentina_national_football_team_matches
+wikiPageWikiLink: Category:CONMEBOL–UEFA_Cup_of_Champions
+wikiPageWikiLink: 2019_Copa_América
+wikiPageWikiLink: 2019_FIFA_U-17_World_Cup
+wikiPageWikiLink: Andrea_Belotti
+wikiPageWikiLink: Andrea_Pinamonti
+wikiPageWikiLink: Leonardo_Bonucci
+wikiPageWikiLink: Leonardo_Spinazzola
+wikiPageWikiLink: Lionel_Messi
+wikiPageWikiLink: Lionel_Scaloni
+wikiPageWikiLink: Lisandro_Martínez
+wikiPageWikiLink: London
+wikiPageWikiLink: Lorenzo_Pellegrini
+wikiPageWikiLink: Ángel_Di_María
+wikiPageWikiLink: Penalty_shoot-out_(association_football)
+wikiPageWikiLink: Category:Association_football_matches_in_England
+wikiPageWikiLink: Category:International_association_football_competitions_hosted_by_London
+wikiPageWikiLink: British_Summer_Time
+wikiPageWikiLink: Bryan_Cristante
+wikiPageWikiLink: CONMEBOL
+wikiPageWikiLink: CONMEBOL–UEFA_Cup_of_Champions
+wikiPageWikiLink: Tiago_Martins_(referee)
+wikiPageWikiLink: Torino_F.C.
+wikiPageWikiLink: Tottenham_Hotspur_F.C.
+wikiPageWikiLink: U.S._Sassuolo_Calcio
+wikiPageWikiLink: UEFA
+wikiPageWikiLink: UEFA-CONMEBOL_memorandum_of_understanding
+wikiPageWikiLink: UEFA_Champions_League
+wikiPageWikiLink: UEFA_Euro_1996
+wikiPageWikiLink: UEFA_Euro_1996_Final
+wikiPageWikiLink: UEFA_Euro_2020
+wikiPageWikiLink: UEFA_Euro_2020_Final
+wikiPageWikiLink: UEFA_European_Championship
+wikiPageWikiLink: Wembley_Stadium
+wikiPageWikiLink: Wembley_Stadium_(1923)
+wikiPageWikiLink: Laurel_wreath
+wikiPageWikiLink: 2017_FIFA_Confederations_Cup
+wikiPageWikiLink: 2021_Copa_América
+wikiPageWikiLink: 2021_Copa_América_Final
+wikiPageWikiLink: A.C._Milan
+wikiPageWikiLink: A.S._Roma
+wikiPageWikiLink: ACF_Fiorentina
+wikiPageWikiLink: AFC_Ajax
+wikiPageWikiLink: Alejandro_Hernández_Hernández
+wikiPageWikiLink: Alessandro_Bastoni
+wikiPageWikiLink: Alessandro_Florenzi
+wikiPageWikiLink: Alessio_Cragno
+wikiPageWikiLink: Alex_Meret
+wikiPageWikiLink: Alexis_Mac_Allister
+wikiPageWikiLink: Czech_Republic_national_football_team
+wikiPageWikiLink: Exequiel_Palacios
+wikiPageWikiLink: FIFA
+wikiPageWikiLink: FIFA_Confederations_Cup
+wikiPageWikiLink: FIFA_Men's_World_Rankings
+wikiPageWikiLink: FIFA_World_Cup
+wikiPageWikiLink: Federico_Bernardeschi
+wikiPageWikiLink: Football_Federation_of_Chile
+wikiPageWikiLink: France_national_football_team
+wikiPageWikiLink: Francesco_Acerbi
+wikiPageWikiLink: Nicolás_González_(footballer,_born_1998)
+wikiPageWikiLink: Nicolás_Otamendi
+wikiPageWikiLink: Nicolás_Tagliafico
+wikiPageWikiLink: Nicolò_Barella
+wikiPageWikiLink: Papu_Gómez
+wikiPageWikiLink: Paris
+wikiPageWikiLink: Paris_Saint-Germain_F.C.
+wikiPageWikiLink: Captain_(association_football)
+wikiPageWikiLink: Guido_Rodríguez
+wikiPageWikiLink: Italy_national_football_team
+wikiPageWikiLink: The_Football_Association
+wikiPageWikiLink: Humidity
+wikiPageWikiLink: Category:2022_in_South_American_football
+wikiPageWikiLink: Argentina_national_football_team
+wikiPageWikiLink: Association_football
+wikiPageWikiLink: Aston_Villa_F.C.
+wikiPageWikiLink: Atalanta_B.C.
+wikiPageWikiLink: Atlético_Madrid
+wikiPageWikiLink: Chelsea_F.C.
+wikiPageWikiLink: Jesús_Gil_Manzano
+wikiPageWikiLink: Juventus_F.C.
+wikiPageWikiLink: Lautaro_Martínez
+wikiPageWikiLink: Domenico_Berardi
+wikiPageWikiLink: Assistant_referee_(association_football)
+wikiPageWikiLink: Manuel_Lazzari
+wikiPageWikiLink: Manuel_Locatelli
+wikiPageWikiLink: Mar_del_Plata
+wikiPageWikiLink: Marcos_Acuña
+wikiPageWikiLink: Piero_Maza
+wikiPageWikiLink: Portuguese_Football_Federation
+wikiPageWikiLink: Inter_Milan
+wikiPageWikiLink: Intercontinental_Cup_(football)
+wikiPageWikiLink: National_stadium
+wikiPageWikiLink: Olympique_Lyonnais
+wikiPageWikiLink: Real_Betis
+wikiPageWikiLink: Sevilla_FC
+wikiPageWikiLink: Memorandum_of_understanding
+wikiPageWikiLink: FIFA_International_Match_Calendar
+wikiPageWikiLink: FIFA_International_Referees_List
+wikiPageWikiLink: File:ITA-ARG_2022-06-01.svg
+wikiPageWikiLink: File:Wembley-Stadion_2013_16x10.jpg
+wikiPageExternalLink: https://www.uefa.com/finalissima/match/2034625/
+sortname: Emerson
+sortname: Jorginho
+sortname: Acuna, Marcos
+sortname: Armani, Franco
+sortname: Di Maria, Angel
+sortname: Dybala, Paulo
+sortname: Lo Celso, Giovani
+sortname: Messi, Lionel
+sortname: Otamendi, Nicolas
+sortname: Tagliafico, Nicolas
+sortname: Alvarez, Julian
+sortname: Scamacca, Gianluca
+sortname: Acerbi, Francesco
+sortname: Barella, Nicolo
+sortname: Bastoni, Alessandro
+sortname: Bernardeschi, Federico
+sortname: Bonucci, Leonardo
+sortname: Chiellini, Giorgio
+sortname: Cristante, Bryan
+sortname: Di Lorenzo, Giovanni
+sortname: Donnarumma, Gianluigi
+sortname: Locatelli, Manuel
+sortname: Meret, Alex
+sortname: Pellegrini, Lorenzo
+sortname: Raspadori, Giacomo
+sortname: Belotti, Andrea
+sortname: Cragno, Alessio
+sortname: De Paul, Rodrigo
+sortname: Florenzi, Alessandro
+sortname: Foyth, Juan
+sortname: Gomez, Papu
+sortname: Gonzalez, Nicolas
+sortname: Lazzari, Manuel
+sortname: Mac Allister, Alexis
+sortname: Martinez, Emiliano
+sortname: Martinez, Lautaro
+sortname: Martinez, Lisandro
+sortname: Molina, Nahuel
+sortname: Palacios, Exequiel
+sortname: Pessina, Matteo
+sortname: Pezzella, German
+sortname: Politano, Matteo
+sortname: Rodriguez, Guido
+sortname: Romero, Cristian
+sortname: Rulli, Geronimo
+sortname: Spinazzola, Leonardo
+thumbnail: 2022_Finalissima_logo.png?width=300
+age: 2022-06-01
+attendance: 87112
+body: 285
+body: FFFFFF
+city: London
+club: Cagliari_Calcio
+club: Bayer_04_Leverkusen
+club: Brighton_&_Hove_Albion_F.C.
+club: Udinese_Calcio
+club: Villarreal_CF
+club: S.L._Benfica
+club: S.S.C._Napoli
+club: S.S._Lazio
+club: Club_Atlético_River_Plate
+club: Torino_F.C.
+club: Tottenham_Hotspur_F.C.
+club: U.S._Sassuolo_Calcio
+club: A.C._Milan
+club: A.S._Roma
+club: ACF_Fiorentina
+club: AFC_Ajax
+club: Paris_Saint-Germain_F.C.
+club: Aston_Villa_F.C.
+club: Atalanta_B.C.
+club: Atlético_Madrid
+club: Chelsea_F.C.
+club: Juventus_F.C.
+club: Inter_Milan
+club: Olympique_Lyonnais
+club: Real_Betis
+club: Sevilla_FC
+date: 2022-06-01
+event: CONMEBOL–UEFA_Cup_of_Champions
+goals: 0
+goals: 1
+goals: 2
+goals: 3
+goals: 4
+goals: 5
+goals: 6
+goals: 7
+goals: 8
+goals: 12
+goals: 19
+goals: 24
+goals: 81
+goals: *La. Martínez 
+*Di María 
+*Dybala
+leftarm: 75
+leftarm: FFFFFF
+next: 2025
+no: 1
+no: 2
+no: 3
+no: 4
+no: 5
+no: 6
+no: 7
+no: 8
+no: 9
+no: 10
+no: 11
+no: 12
+no: 13
+no: 14
+no: 15
+no: 16
+no: 17
+no: 18
+no: 19
+no: 20
+no: 21
+no: 22
+no: 23
+other: Captain_(association_football)
+patternB: _arg21H
+patternB: _italia22H
+patternLa: 75600.0
+patternRa: 75600.0
+patternSh: 75600.0
+patternSh: 79200.0
+patternSo: 75600.0
+patternSo: 79200.0
+pos: DF
+pos: FW
+pos: GK
+pos: MF
+previous: 1993
+referee: Piero Maza
+report: https://www.uefa.com/finalissima/match/2034625/
+rightarm: 285
+rightarm: FFFFFF
+score: 0
+shorts: 0
+shorts: 285
+socks: 285
+socks: FFFFFF
+stadium: London
+stadium: Wembley_Stadium
+team: Italy_national_football_team
+team: Argentina_national_football_team
+time: 1185.0
+title: 2022
+title: Argentina
+title: Italy
+manOfTheMatch1a: Lionel_Messi
+team1score: 0
+team2score: 3
+weather: 47
+weather: 17.0
+weather: Clear night
+caps: 2
+caps: 3
+caps: 4
+caps: 6
+caps: 7
+caps: 9
+caps: 10
+caps: 11
+caps: 12
+caps: 13
+caps: 14
+caps: 15
+caps: 16
+caps: 17
+caps: 18
+caps: 19
+caps: 21
+caps: 23
+caps: 26
+caps: 28
+caps: 32
+caps: 36
+caps: 37
+caps: 38
+caps: 39
+caps: 41
+caps: 42
+caps: 43
+caps: 47
+caps: 90
+caps: 115
+caps: 116
+caps: 121
+caps: 160
+clubnat: ARG
+clubnat: ENG
+clubnat: ESP
+clubnat: FRA
+clubnat: GER
+clubnat: ITA
+clubnat: NED
+clubnat: POR
+abstract: The 2022 Finalissima (lit. 'Grand Final'; Spanish: Finalísima) was the third edition of the CONMEBOL–UEFA Cup of Champions, an intercontinental football match between the winners of the previous South American and European championships. The match featured Italy, winners of UEFA Euro 2020 (held in 2021), and Argentina, winners of the 2021 Copa América. It was played at Wembley Stadium in London, England, on 1 June 2022. The match, a revival of the Artemio Franchi Cup last played 29 years prior, was organised by UEFA and CONMEBOL as part of a renewed partnership between the two confederations. Argentina won the match 3–0 for their second CONMEBOL–UEFA Cup of Champions title.
+wasDerivedFrom: 2022_Finalissima?oldid=1124392257&ns=0
+wikiPageLength: 37828
+date: 2022-06-01
+time: 19:45BST
+city: London
+previousEvent: 1993_Artemio_Franchi_Cup
+team: Italy_national_football_team
+team: Argentina_national_football_team
+isPrimaryTopicOf: 2022_Finalissima
+	

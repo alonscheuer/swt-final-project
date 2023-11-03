@@ -1,0 +1,128 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Expedition 67, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: Event
+type: Event
+type: SocietalEvent
+type: Q1656682
+type: Q2133344
+type: Event
+type: SpaceMission
+label: Expedition 67
+comment: Expedition 67 was the 67th long-duration expedition to the International Space Station. The expedition began upon the departure of Soyuz MS-19 on 30 March 2022, with NASA astronaut Thomas Marshburn taking over as ISS commander. Initially, the expedition consisted of Marshburn and his three SpaceX Crew-3 crewmates Raja Chari, Kayla Barron and Matthias Maurer, as well as Roscosmos cosmonauts Oleg Artemyev, Denis Matveev and Sergey Korsakov, who launched aboard Soyuz MS-21 on March 18, 2022 and transferred from Expedition 66 alongside the Crew-3 astronauts. However, continued international collaboration has been thrown into doubt by the 2022 Russian invasion of Ukraine and related sanctions on Russia.
+name: ISS Expedition 67
+name: ISS Expedition 67
+depiction: ISS_Expedition_67_Patch.png
+depiction: Expedition_67_'Battlestar_Galactica'_crew_poster.png
+depiction: Expedition_67_crew_portrait.jpg
+depiction: ISS-67_with_Axiom_Mission_1_crew.png
+subject: Category:Expeditions_to_the_International_Space_Station
+subject: Category:2022_in_spaceflight
+wikiPageID: 65147686
+wikiPageRevisionID: 1116621840
+wikiPageWikiLink: Roscosmos
+wikiPageWikiLink: Samantha_Cristoforetti
+wikiPageWikiLink: Category:Expeditions_to_the_International_Space_Station
+wikiPageWikiLink: Category:2022_in_spaceflight
+wikiPageWikiLink: Denis_Matveev
+wikiPageWikiLink: Robert_Hines_(astronaut)
+wikiPageWikiLink: Matthias_Maurer
+wikiPageWikiLink: NASA
+wikiPageWikiLink: Thomas_Marshburn
+wikiPageWikiLink: Axiom_Mission_1
+wikiPageWikiLink: 2022_Russian_invasion_of_Ukraine
+wikiPageWikiLink: ESA
+wikiPageWikiLink: Expedition_14
+wikiPageWikiLink: Expedition_66
+wikiPageWikiLink: Expedition_68
+wikiPageWikiLink: Francisco_Rubio_(astronaut)
+wikiPageWikiLink: List_of_International_Space_Station_expeditions
+wikiPageWikiLink: International_Space_Station
+wikiPageWikiLink: Jessica_Watkins
+wikiPageWikiLink: Kayla_Barron
+wikiPageWikiLink: Dmitry_Petelin
+wikiPageWikiLink: Soyuz_MS-19
+wikiPageWikiLink: Soyuz_MS-21
+wikiPageWikiLink: Soyuz_MS-22
+wikiPageWikiLink: SpaceX_Crew-3
+wikiPageWikiLink: SpaceX_Crew-4
+wikiPageWikiLink: Kjell_N._Lindgren
+wikiPageWikiLink: Michael_López-Alegría
+wikiPageWikiLink: Oleg_Artemyev
+wikiPageWikiLink: Raja_Chari
+wikiPageWikiLink: Sergey_Korsakov_(cosmonaut)
+wikiPageWikiLink: Sergey_Prokopyev_(cosmonaut)
+wikiPageWikiLink: File:ISS-67_with_Axiom_Mission_1_crew.png
+spaceStation: International_Space_Station
+thumbnail: Expedition_67_'Battlestar_Galactica'_crew_poster.png?width=300
+endDate: --09-29
+imageCaption: Promotional poster
+imageSize: 300
+insignia: File:ISS Expedition 67 Patch.png
+insigniaSize: 200
+missionDuration: 2022-03-30
+missionType: Long-duration mission to the ISS
+nextMission: Expedition_68
+operator: Roscosmos
+operator: NASA
+previousMission: Expedition_66
+programme: List_of_International_Space_Station_expeditions
+programme: International_Space_Station
+startDate: --03-30
+abstract: Expedition 67 was the 67th long-duration expedition to the International Space Station. The expedition began upon the departure of Soyuz MS-19 on 30 March 2022, with NASA astronaut Thomas Marshburn taking over as ISS commander. Initially, the expedition consisted of Marshburn and his three SpaceX Crew-3 crewmates Raja Chari, Kayla Barron and Matthias Maurer, as well as Roscosmos cosmonauts Oleg Artemyev, Denis Matveev and Sergey Korsakov, who launched aboard Soyuz MS-21 on March 18, 2022 and transferred from Expedition 66 alongside the Crew-3 astronauts. However, continued international collaboration has been thrown into doubt by the 2022 Russian invasion of Ukraine and related sanctions on Russia. During Expedition 67, the space station was also visited by the crew of Axiom Mission 1, a space tourist mission that brought three spaceflight participants to the station on April 9, 2022 along with former NASA astronaut Michael López-Alegría, who had previously commanded the station during Expedition 14. They departed the ISS on April 25, 2022. Crew-3 departed on May 5, 2022, and was replaced by SpaceX Crew-4, which ferried NASA astronauts Kjell N. Lindgren, Bob Hines and Jessica Watkins, as well as ESA astronaut Samantha Cristoforetti, to the station. Before departing, Marshburn handed command of the station over to Artemyev.
+arrivalCraft: Soyuz_MS-21
+arrivalCraft: SpaceX_Crew-3
+arrivalCraft: SpaceX_Crew-4
+crewEvaDuration: 119520.0
+crewEvas: 5
+crewMembers: Denis_Matveev
+crewMembers: Robert_Hines_(astronaut)
+crewMembers: Francisco_Rubio_(astronaut)
+crewMembers: Jessica_Watkins
+crewMembers: Kayla_Barron
+crewMembers: Dmitry_Petelin
+crewMembers: Oleg_Artemyev
+crewMembers: Raja_Chari
+crewMembers: Sergey_Korsakov_(cosmonaut)
+crewMembers: Sergey_Prokopyev_(cosmonaut)
+crewMembers: 
+crewMembers: 67:
+crewMembers: 68:
+crewMembers: Kjell N. Lindgren
+crewMembers: Matthias Maurer
+crewMembers: Samantha Cristoforetti
+crewMembers: Thomas Marshburn
+crewPhoto: Expedition 67 crew portrait.jpg
+crewPhotoCaption: Expedition 67 crew portrait
+crewPhotoSize: 300
+crewSize: 7
+insigniaCaption: Expedition 67 mission patch
+wasDerivedFrom: Expedition_67?oldid=1116621840&ns=0
+wikiPageLength: 8697
+crewMember: Samantha_Cristoforetti
+crewMember: Denis_Matveev
+crewMember: Robert_Hines_(astronaut)
+crewMember: Matthias_Maurer
+crewMember: Thomas_Marshburn
+crewMember: Francisco_Rubio_(astronaut)
+crewMember: Jessica_Watkins
+crewMember: Kayla_Barron
+crewMember: Dmitry_Petelin
+crewMember: Kjell_N._Lindgren
+crewMember: Oleg_Artemyev
+crewMember: Raja_Chari
+crewMember: Sergey_Korsakov_(cosmonaut)
+crewMember: Sergey_Prokopyev_(cosmonaut)
+nextMission: Expedition_68
+operator: Roscosmos
+operator: NASA
+previousMission: Expedition_66
+type: International_Space_Station
+isPrimaryTopicOf: Expedition_67
+	

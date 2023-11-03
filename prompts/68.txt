@@ -1,0 +1,62 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Omloop Het Nieuwsblad 2022, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	label: 2022 Omloop Het Nieuwsblad
+comment: The 2022 Omloop Het Nieuwsblad is a road cycling one-day race that took place on 26 February 2022 in Belgium, starting in Gent and finishing in Ninove. It was the 77th edition of the Omloop Het Nieuwsblad and the second event of the 2022 UCI World Tour.
+name: 2022
+subject: Category:Omloop_Het_Nieuwsblad_–_Men's_race
+subject: Category:2022_UCI_World_Tour
+subject: Category:2022_in_Belgian_sport
+subject: Category:February_2022_sports_events_in_Belgium
+wikiPageID: 70170361
+wikiPageRevisionID: 1095042108
+wikiPageWikiLink: Category:Omloop_Het_Nieuwsblad_–_Men's_race
+wikiPageWikiLink: 2022_UCI_World_Tour
+wikiPageWikiLink: Category:2022_UCI_World_Tour
+wikiPageWikiLink: Category:2022_in_Belgian_sport
+wikiPageWikiLink: Category:February_2022_sports_events_in_Belgium
+wikiPageWikiLink: Belgium
+wikiPageWikiLink: Victor_Campenaerts
+wikiPageWikiLink: Matteo_Trentin
+wikiPageWikiLink: Ghent
+wikiPageWikiLink: Andrea_Pasqualon
+wikiPageWikiLink: 2021_Omloop_Het_Nieuwsblad
+wikiPageWikiLink: Florian_Sénéchal
+wikiPageWikiLink: Ninove
+wikiPageWikiLink: Greg_Van_Avermaet
+wikiPageWikiLink: Jasper_Stuyven
+wikiPageWikiLink: Sonny_Colbrelli
+wikiPageWikiLink: Oliver_Naesen
+wikiPageWikiLink: Omloop_Het_Nieuwsblad
+wikiPageWikiLink: Rasmus_Tiller
+wikiPageWikiLink: Wout_van_Aert
+wikiPageWikiLink: Road_bicycle_racing
+wikiPageWikiLink: UCI_Professional_Continental
+wikiPageWikiLink: UCI_WorldTour
+wikiPageWikiLink: 2023_Omloop_Het_Nieuwsblad
+wikiPageExternalLink: en
+date: 2022-02-26
+distance: 204.2
+first: Wout_van_Aert
+next: 2023
+previous: 2021
+second: Sonny_Colbrelli
+series: 2022
+third: Greg_Van_Avermaet
+unit: km
+raceNo: 2
+seasonNo: 32
+firstNat: BEL
+secondNat: ITA
+stages: 1
+thirdNat: BEL
+abstract: The 2022 Omloop Het Nieuwsblad is a road cycling one-day race that took place on 26 February 2022 in Belgium, starting in Gent and finishing in Ninove. It was the 77th edition of the Omloop Het Nieuwsblad and the second event of the 2022 UCI World Tour. Omloop Het Nieuwsblad is a race that is usually won by a solo rider or is decided by a sprint from a small group of several riders. This year was no exception, winner Wout van Aert attacked with 13 km to go from the group of favorites. Victor Campenaerts was the first to try chase Van Aert down from the group of 20 riders. van Aert held his lead to the line extending the gap to 22 seconds. The group of 20 sprint out for the rest of the places of the podium with Sonny Colbrelli beating Greg Van Avermaet.
+wasDerivedFrom: 2022_Omloop_Het_Nieuwsblad?oldid=1095042108&ns=0
+wikiPageLength: 6413
+isPrimaryTopicOf: 2022_Omloop_Het_Nieuwsblad
+	

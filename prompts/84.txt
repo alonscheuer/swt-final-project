@@ -1,0 +1,113 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Centerpartiets partiledarval 2023, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: Event
+type: Event
+type: SocietalEvent
+type: Q1656682
+type: Q40231
+type: Election
+type: Event
+label: 2023 Centre Party (Sweden) leadership election
+comment: The Swedish Centre Party's party leader election will be held at an extraordinary party meeting on 2 February 2023 in Helsingborg. The Centre Party will then nominate a successor to outgoing party leader Annie Lööf.
+depiction: C_v1.svg
+depiction: Alireza_Akhondi_grå_bakgrund_(cropped).jpg
+depiction: Helena_Lindahl_2013-10-21_001.jpg
+depiction: Emma_Wiesner,_2019.jpg
+depiction: 250px-Annie_L%C3%B6%C3%B6f%2C_Sthlm_210318_%2851230788437%29.jpg
+depiction: Annie_Lööf,_Sthlm_210318_(51230788437).jpg
+depiction: Centerpartiets_partiledarval_2023.svg
+depiction: Daniel_Bäckström_(40209162582).jpg
+depiction: Magnusandersson.jpg
+depiction: Martin_Ådahl_2018_001.jpg
+depiction: Muharrem_Demirok.jpg
+depiction: Rickard_Nordin_(26786715094).jpg
+depiction: Silver_-_replace_this_image_female.svg
+subject: Category:2023_political_party_leadership_elections
+wikiPageID: 72053198
+wikiPageRevisionID: 1125020434
+wikiPageWikiLink: Prime_Minister_of_Sweden
+wikiPageWikiLink: Löfven_III_Cabinet
+wikiPageWikiLink: Party_leader
+wikiPageWikiLink: Category:2023_political_party_leadership_elections
+wikiPageWikiLink: List_of_members_of_the_European_Parliament_for_Sweden,_2019–2024
+wikiPageWikiLink: List_of_members_of_the_Riksdag,_2022–2026
+wikiPageWikiLink: Riksdag
+wikiPageWikiLink: Ulf_Kristersson
+wikiPageWikiLink: Ulrika_Liljeberg
+wikiPageWikiLink: Linda_Modig
+wikiPageWikiLink: Andersson_Cabinet
+wikiPageWikiLink: Emil_Källström
+wikiPageWikiLink: Emma_Wiesner
+wikiPageWikiLink: 2018_Swedish_general_election
+wikiPageWikiLink: 2018–2019_Swedish_government_formation
+wikiPageWikiLink: 2019_European_Parliament_election_in_Sweden
+wikiPageWikiLink: Anna-Karin_Hatt
+wikiPageWikiLink: Annie_Lööf
+wikiPageWikiLink: Linköping_Municipality
+wikiPageWikiLink: Löfven_II_Cabinet
+wikiPageWikiLink: Magdalena_Andersson
+wikiPageWikiLink: Magnus_Ek
+wikiPageWikiLink: Östersund_Municipality
+wikiPageWikiLink: Federation_of_Swedish_Farmers
+wikiPageWikiLink: Magnus_Demervall
+wikiPageWikiLink: Centre_Party_(Sweden)
+wikiPageWikiLink: Centre_Party_Youth
+wikiPageWikiLink: Tidö_Agreement
+wikiPageWikiLink: Västerås
+wikiPageWikiLink: 2022_Swedish_general_election
+wikiPageWikiLink: Alireza_Akhondi
+wikiPageWikiLink: Anders_W._Jonsson
+wikiPageWikiLink: Daniel_Bäckström
+wikiPageWikiLink: Hanna_Wagenius
+wikiPageWikiLink: Helena_Lindahl
+wikiPageWikiLink: Helsingborg
+wikiPageWikiLink: Iran
+wikiPageWikiLink: Tehran
+wikiPageWikiLink: Sweden
+wikiPageWikiLink: Sweden_Democrats
+wikiPageWikiLink: Swedish_Social_Democratic_Party
+wikiPageWikiLink: Policy
+wikiPageWikiLink: Solna_Municipality
+wikiPageWikiLink: Speaker_of_the_Riksdag
+wikiPageWikiLink: Kristersson_Cabinet
+wikiPageWikiLink: Minister_for_Business,_Industry_and_Innovation
+wikiPageWikiLink: Minister_for_Digital_Development_(Sweden)
+wikiPageWikiLink: Minister_for_Energy_(Sweden)
+wikiPageWikiLink: Parliamentary_group_leader
+wikiPageWikiLink: Martin_Ådahl
+wikiPageWikiLink: Rickard_Nordin
+wikiPageWikiLink: Ekonomisk_politik
+wikiPageWikiLink: File:Alireza_Akhondi_grå_bakgrund_(cropped).jpg
+wikiPageWikiLink: File:Annie_Lööf,_Sthlm_210318_(51230788437).jpg
+wikiPageWikiLink: File:C_v1.svg
+wikiPageWikiLink: File:Emma_Wiesner,_2019.jpg
+wikiPageWikiLink: Muharrem_Demirok
+wikiPageWikiLink: Rättsystemet
+wikiPageWikiLink: Skattepolitik
+wikiPageWikiLink: Utbildningspolitik
+thumbnail: C_v1.svg?width=300
+beforeElection: Annie_Lööf
+country: Sweden
+electionDate: --02-02
+electionName: 2023
+mapCaption: Nominations by the party districts.
+mapImage: Centerpartiets partiledarval 2023.svg
+mapSize: 250
+ongoing: no
+title: Party_leader
+type: presidential
+abstract: The Swedish Centre Party's party leader election will be held at an extraordinary party meeting on 2 February 2023 in Helsingborg. The Centre Party will then nominate a successor to outgoing party leader Annie Lööf.
+wasDerivedFrom: 2023_Centre_Party_(Sweden)_leadership_election?oldid=1125020434&ns=0
+wikiPageLength: 14972
+startDate: 2023-02-02
+title: 2023 Centre Party leadership election
+country: Sweden
+isPrimaryTopicOf: 2023_Centre_Party_(Sweden)_leadership_election
+	

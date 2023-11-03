@@ -1,0 +1,171 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Polen runt 2022, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	label: 2022 Tour de Pologne
+comment: The 2022 Tour de Pologne was the 79th edition of the Tour de Pologne road cycling stage race, which was part of the 2022 UCI World Tour. It started on 30 July in Kielce, and finished on 5 August in Kraków.
+name: 2022
+depiction: Jersey_blue_polkadot.svg
+depiction: Hillystage.svg
+depiction: Jersey_white.svg
+depiction: Jersey_yellow.svg
+depiction: Mediummountainstage.svg
+depiction: Plainstage.svg
+depiction: Time_Trial.svg
+depiction: Jersey_blue.svg
+subject: Category:2022_UCI_World_Tour
+subject: Category:2022_in_Polish_sport
+subject: Category:August_2022_sports_events_in_Poland
+subject: Category:July_2022_sports_events_in_Poland
+subject: Category:Tour_de_Pologne
+wikiPageID: 70298875
+wikiPageRevisionID: 1114949693
+wikiPageWikiLink: Przemyśl
+wikiPageWikiLink: Quentin_Pacher
+wikiPageWikiLink: Rui_Oliveira
+wikiPageWikiLink: Sam_Bennett_(cyclist)
+wikiPageWikiLink: Sam_Brand_(cyclist)
+wikiPageWikiLink: Samuele_Battistella
+wikiPageWikiLink: Sanok
+wikiPageWikiLink: 2022_UCI_World_Tour
+wikiPageWikiLink: Category:2022_UCI_World_Tour
+wikiPageWikiLink: Category:2022_in_Polish_sport
+wikiPageWikiLink: Category:August_2022_sports_events_in_Poland
+wikiPageWikiLink: Category:July_2022_sports_events_in_Poland
+wikiPageWikiLink: Ben_Tulett
+wikiPageWikiLink: Davide_Cimolai
+wikiPageWikiLink: Hugo_Page
+wikiPageWikiLink: Jonas_Abrahamsen
+wikiPageWikiLink: Jonathan_Milan
+wikiPageWikiLink: Jordi_Meeus
+wikiPageWikiLink: Juan_Sebastián_Molano
+wikiPageWikiLink: Julius_Johansen
+wikiPageWikiLink: Patryk_Stosz
+wikiPageWikiLink: Pello_Bilbao
+wikiPageWikiLink: Richard_Carapaz
+wikiPageWikiLink: Individual_time_trial
+wikiPageWikiLink: Cristian_Scaroni
+wikiPageWikiLink: Matteo_Sobrero
+wikiPageWikiLink: Mauro_Schmid
+wikiPageWikiLink: Max_Kanter
+wikiPageWikiLink: Ryan_Mullen
+wikiPageWikiLink: Rzeszów
+wikiPageWikiLink: General_classification
+wikiPageWikiLink: Polish_Cycling_Federation
+wikiPageWikiLink: Points_classification
+wikiPageWikiLink: Category:Tour_de_Pologne
+wikiPageWikiLink: Edward_Theuns
+wikiPageWikiLink: Elia_Viviani
+wikiPageWikiLink: Gerben_Thijssen
+wikiPageWikiLink: Lesko
+wikiPageWikiLink: Lublin
+wikiPageWikiLink: Lucas_Hamilton
+wikiPageWikiLink: Mads_Würtz_Schmidt
+wikiPageWikiLink: Magnus_Sheffield
+wikiPageWikiLink: Skawina
+wikiPageWikiLink: Stanislaw_Aniolkowski
+wikiPageWikiLink: Steff_Cras
+wikiPageWikiLink: Stephen_Williams_(cyclist)
+wikiPageWikiLink: Zamość
+wikiPageWikiLink: Łańcut
+wikiPageWikiLink: Bruno_Armirail
+wikiPageWikiLink: Thymen_Arensman
+wikiPageWikiLink: Tobias_Bayer
+wikiPageWikiLink: Tour_de_Pologne
+wikiPageWikiLink: 2021_Tour_de_Pologne
+wikiPageWikiLink: Alessandro_De_Marchi_(cyclist)
+wikiPageWikiLink: Ethan_Hayter
+wikiPageWikiLink: Felix_Gall
+wikiPageWikiLink: Nikias_Arndt
+wikiPageWikiLink: Nowy_Targ
+wikiPageWikiLink: Pascal_Ackermann
+wikiPageWikiLink: Gronków
+wikiPageWikiLink: Jacopo_Guarnieri
+wikiPageWikiLink: Jakub_Kaczmarek
+wikiPageWikiLink: Jarrad_Drizners
+wikiPageWikiLink: Jasper_De_Buyst
+wikiPageWikiLink: UCI_WorldTeam
+wikiPageWikiLink: Arnaud_Démare
+wikiPageWikiLink: Chełm
+wikiPageWikiLink: Kaden_Groves
+wikiPageWikiLink: Kielce
+wikiPageWikiLink: King_of_the_Mountains
+wikiPageWikiLink: Syver_Wærsted
+wikiPageWikiLink: Team_classification
+wikiPageWikiLink: Diego_Ulissi
+wikiPageWikiLink: Marco_Brenner
+wikiPageWikiLink: Marijn_van_den_Berg
+wikiPageWikiLink: Mark_Cavendish
+wikiPageWikiLink: Mark_Padun
+wikiPageWikiLink: Phil_Bauhaus
+wikiPageWikiLink: Piotr_Brożyna
+wikiPageWikiLink: Kraków
+wikiPageWikiLink: Kraśnik
+wikiPageWikiLink: Michel_Hessmann
+wikiPageWikiLink: Mike_Teunissen
+wikiPageWikiLink: Nans_Peters
+wikiPageWikiLink: Olav_Kooij
+wikiPageWikiLink: Quinten_Hermans
+wikiPageWikiLink: Sean_Quinn_(cyclist)
+wikiPageWikiLink: Sergio_Higuita
+wikiPageWikiLink: Road_bicycle_racing
+wikiPageWikiLink: UCI_Professional_Continental
+wikiPageWikiLink: Marcin_Budziński_(cyclist)
+wikiPageWikiLink: Kamil_Malecki
+wikiPageWikiLink: Remi_Cavagna
+wikiPageWikiLink: Cycling_stage_race
+wikiPageWikiLink: File:Hillystage.svg
+wikiPageWikiLink: File:Jersey_white.svg
+wikiPageWikiLink: File:Jersey_yellow.svg
+wikiPageWikiLink: File:Plainstage.svg
+wikiPageWikiLink: File:Time_Trial.svg
+wikiPageWikiLink: File:Mediummountainstage.svg
+wikiPageWikiLink: File:Jersey_blue.svg
+wikiPageWikiLink: 2023_Tour_de_Pologne
+wikiPageWikiLink: File:Jersey_blue_polkadot.svg
+wikiPageExternalLink: http://www.tourdepologne.pl/en/
+thumbnail: Plainstage.svg?width=300
+combativity: Patryk_Stosz
+combativityNat: POL
+combativityTeam: Polish_Cycling_Federation
+mountains: Jarrad_Drizners
+mountainsColor: blue polkadot
+mountainsNat: AUS
+colwidth: 20
+date: --07-30
+distance: 1209.4
+first: Ethan_Hayter
+next: 2023
+points: yes
+previous: 2021
+second: Thymen_Arensman
+series: 2022
+style: 20.0
+third: Pello_Bilbao
+time: 102383.0
+title: Final team classification
+title: Final mountains classification
+title: Final sprints classification
+title: Final active rider classification
+unit: km
+firstColor: yellow
+raceNo: 25
+seasonNo: 31
+sprintsColor: white
+firstNat: GBR
+secondNat: NED
+stages: 7
+thirdNat: ESP
+sprints: Arnaud_Démare
+sprintsNat: FRA
+abstract: The 2022 Tour de Pologne was the 79th edition of the Tour de Pologne road cycling stage race, which was part of the 2022 UCI World Tour. It started on 30 July in Kielce, and finished on 5 August in Kraków.
+combativityColor: blue
+rider: no
+wasDerivedFrom: 2022_Tour_de_Pologne?oldid=1114949693&ns=0
+wikiPageLength: 28133
+isPrimaryTopicOf: 2022_Tour_de_Pologne
+	

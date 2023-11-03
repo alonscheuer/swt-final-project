@@ -1,0 +1,154 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Snowboard vid olympiska vinterspelen 2022, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: Event
+type: SportsEvent
+type: Event
+type: SocietalEvent
+type: Q1656682
+type: OlympicEvent
+type: Event
+type: Olympics
+type: SportsEvent
+label: Snowboarding at the 2022 Winter Olympics
+comment: Snowboarding at the 2022 Winter Olympics were held at the Genting Snow Park in Zhangjiakou and Big Air Shougang in Beijing, China. The events took place between 5 and 15 February 2022. A total of 11 snowboarding events will be held. In July 2018, the International Olympic Committee (IOC) officially added the mixed team snowboard cross event to the Olympic program, increasing the total number of events to 11.
+homepage: DigitalCollectionAttachmentDownloadHandler.ashx%3FparentDocumentId=1568639&documentId=1568652
+depiction: Snowboarding_pictogram.svg
+subject: Category:2022_in_snowboarding
+subject: Category:Snowboarding_at_the_2022_Winter_Olympics
+subject: Category:Snowboarding_at_the_Winter_Olympics
+subject: Category:2022_Winter_Olympics_events
+wikiPageID: 68656153
+wikiPageRevisionID: 1125009236
+wikiPageWikiLink: Queralt_Castellet
+wikiPageWikiLink: Scotty_James
+wikiPageWikiLink: Category:2022_in_snowboarding
+wikiPageWikiLink: Beijing
+wikiPageWikiLink: Benjamin_Karl
+wikiPageWikiLink: Big_Air_Shougang
+wikiPageWikiLink: Julia_Marino_(snowboarder)
+wikiPageWikiLink: Vic_Wild
+wikiPageWikiLink: Max_Parrot
+wikiPageWikiLink: Gloria_Kotnik
+wikiPageWikiLink: Mons_Røisland
+wikiPageWikiLink: Anna_Gasser
+wikiPageWikiLink: Lindsey_Jacobellis
+wikiPageWikiLink: Snowboarding_at_the_2022_Winter_Olympics_–_Men's_parallel_giant_slalom
+wikiPageWikiLink: Snowboarding_at_the_2022_Winter_Olympics_–_Women's_parallel_giant_slalom
+wikiPageWikiLink: Snowboarding_at_the_Winter_Olympics
+wikiPageWikiLink: Su_Yiming
+wikiPageWikiLink: Zhangjiakou
+wikiPageWikiLink: Zoi_Sadowski-Synnott
+wikiPageWikiLink: Éliot_Grondin
+wikiPageWikiLink: Category:Snowboarding_at_the_2022_Winter_Olympics
+wikiPageWikiLink: Category:Snowboarding_at_the_Winter_Olympics
+wikiPageWikiLink: Ayumu_Hirano
+wikiPageWikiLink: Tim_Mastnak
+wikiPageWikiLink: 2022_Winter_Olympics
+wikiPageWikiLink: Alessandro_Hämmerle
+wikiPageWikiLink: Daniela_Ulbing
+wikiPageWikiLink: Category:2022_Winter_Olympics_events
+wikiPageWikiLink: Ester_Ledecká
+wikiPageWikiLink: FIS_Freestyle_Ski_and_Snowboarding_World_Championships_2021
+wikiPageWikiLink: Nick_Baumgartner
+wikiPageWikiLink: Genting_Snow_Park
+wikiPageWikiLink: International_Olympic_Committee
+wikiPageWikiLink: Jan_Scherrer
+wikiPageWikiLink: Tess_Coady
+wikiPageWikiLink: Snowboarding_at_the_2018_Winter_Olympics
+wikiPageWikiLink: Snowboarding_at_the_2022_Winter_Olympics_–_Men's_big_air
+wikiPageWikiLink: Snowboarding_at_the_2022_Winter_Olympics_–_Men's_halfpipe
+wikiPageWikiLink: Snowboarding_at_the_2022_Winter_Olympics_–_Men's_slopestyle
+wikiPageWikiLink: Snowboarding_at_the_2022_Winter_Olympics_–_Men's_snowboard_cross
+wikiPageWikiLink: Snowboarding_at_the_2022_Winter_Olympics_–_Mixed_team_snowboard_cross
+wikiPageWikiLink: Snowboarding_at_the_2022_Winter_Olympics_–_Women's_big_air
+wikiPageWikiLink: Snowboarding_at_the_2022_Winter_Olympics_–_Women's_halfpipe
+wikiPageWikiLink: Snowboarding_at_the_2022_Winter_Olympics_–_Women's_slopestyle
+wikiPageWikiLink: Snowboarding_at_the_2022_Winter_Olympics_–_Women's_snowboard_cross
+wikiPageWikiLink: China
+wikiPageWikiLink: Chloe_Kim
+wikiPageWikiLink: Chloé_Trespeuch
+wikiPageWikiLink: Mark_McMorris
+wikiPageWikiLink: Kokomo_Murase
+wikiPageWikiLink: Meryeta_O'Dine
+wikiPageWikiLink: Michela_Moioli
+wikiPageWikiLink: Omar_Visintin
+wikiPageWikiLink: Sena_Tomita
+wikiPageWikiLink: China_Time
+wikiPageWikiLink: File:Snowboarding_pictogram.svg
+wikiPageExternalLink: DigitalCollectionAttachmentDownloadHandler.ashx%3FparentDocumentId=1568639&documentId=1568652
+silverSlo: 1
+thumbnail: Snowboarding_pictogram.svg?width=300
+bronzeRoc: 1
+goldRoc: 0
+silverRoc: 0
+hostChn: yes
+competitors: 238
+bronzeChn: 0
+bronzeCze: 0
+bronzeFra: 0
+bronzeIta: 1
+bronzeNor: 0
+bronzeUsa: 0
+caption: Snowboarding pictogram
+dates: --02-15
+event: 2022
+event: Snowboarding
+flagTemplate: flagIOC
+goldChn: 1
+goldCze: 1
+goldFra: 0
+goldIta: 0
+goldNor: 0
+goldUsa: 3
+host: CHN
+next: 2026
+prev: 2018
+silverChn: 1
+silverCze: 0
+silverFra: 1
+silverIta: 1
+silverNor: 1
+silverUsa: 1
+venue: Big_Air_Shougang
+venue: Genting_Snow_Park
+venue: 
+bronzeCan: 4
+goldCan: 1
+silverCan: 1
+bronzeEsp: 0
+bronzeJpn: 2
+bronzeNzl: 0
+goldEsp: 0
+goldJpn: 1
+goldNzl: 1
+silverEsp: 1
+silverJpn: 0
+silverNzl: 1
+bronzeAus: 1
+bronzeAut: 0
+bronzeSui: 1
+games: 2022
+goldAus: 0
+goldAut: 3
+goldSui: 0
+silverAus: 1
+silverAut: 1
+silverSui: 0
+abstract: Snowboarding at the 2022 Winter Olympics were held at the Genting Snow Park in Zhangjiakou and Big Air Shougang in Beijing, China. The events took place between 5 and 15 February 2022. A total of 11 snowboarding events will be held. In July 2018, the International Olympic Committee (IOC) officially added the mixed team snowboard cross event to the Olympic program, increasing the total number of events to 11. A total of 238 quota spots were distributed to the sport of snowboarding, a decline of 20 from the 2018 Winter Olympics. A total of 11 events were contested, five for men, five for women and one mixed.
+bronzeSlo: 1
+goldSlo: 0
+numEvents: 11
+wasDerivedFrom: Snowboarding_at_the_2022_Winter_Olympics?oldid=1125009236&ns=0
+wikiPageLength: 14316
+games: 2022 Winter
+event: Snowboarding_at_the_Winter_Olympics
+previousEvent: Snowboarding_at_the_2018_Winter_Olympics
+isPrimaryTopicOf: Snowboarding_at_the_2022_Winter_Olympics
+	

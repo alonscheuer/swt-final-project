@@ -1,0 +1,17 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Australiska öppna 2023, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	label: 2023 Australian Open
+wikiPageID: 69726904
+wikiPageRevisionID: 1064964583
+wikiPageWikiLink: Australian_Open
+wikiPageRedirects: Australian_Open
+wasDerivedFrom: 2023_Australian_Open?oldid=1064964583&ns=0
+wikiPageLength: 29
+isPrimaryTopicOf: 2023_Australian_Open
+	

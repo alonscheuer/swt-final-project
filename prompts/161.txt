@@ -1,0 +1,155 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Utslagsspelet i världsmästerskapet i fotboll 2022, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: Event
+type: Event
+type: Q1656682
+type: Event
+label: 2022 FIFA World Cup knockout stage
+comment: The knockout stage of the 2022 FIFA World Cup is the second and final stage of the competition, following the group stage. Played from 3 to 18 December, the knockout stage will end with the final, held at Lusail Iconic Stadium in Lusail. The top two teams from each group advanced to the knockout stage to compete in a single-elimination tournament. There are sixteen matches in the knockout stage, including a third place play-off played between the two losing teams of the semi-finals.
+subject: Category:FIFA_World_Cup_knockout_stages
+subject: Category:Argentina_at_the_2022_FIFA_World_Cup
+subject: Category:Australia_at_the_2022_FIFA_World_Cup
+subject: Category:Brazil_at_the_2022_FIFA_World_Cup
+subject: Category:Croatia_at_the_2022_FIFA_World_Cup
+subject: Category:England_at_the_2022_FIFA_World_Cup
+subject: Category:France_at_the_2022_FIFA_World_Cup
+subject: Category:Morocco_at_the_2022_FIFA_World_Cup
+subject: Category:Netherlands_at_the_2022_FIFA_World_Cup
+subject: Category:Poland_at_the_2022_FIFA_World_Cup
+subject: Category:Portugal_at_the_2022_FIFA_World_Cup
+subject: Category:Senegal_at_the_2022_FIFA_World_Cup
+subject: Category:United_States_at_the_2022_FIFA_World_Cup
+subject: Category:2022_FIFA_World_Cup
+wikiPageID: 70432260
+wikiPageRevisionID: 1125028855
+wikiPageWikiLink: Category:FIFA_World_Cup_knockout_stages
+wikiPageWikiLink: Category:Argentina_at_the_2022_FIFA_World_Cup
+wikiPageWikiLink: Category:Australia_at_the_2022_FIFA_World_Cup
+wikiPageWikiLink: Category:Brazil_at_the_2022_FIFA_World_Cup
+wikiPageWikiLink: Category:Croatia_at_the_2022_FIFA_World_Cup
+wikiPageWikiLink: Category:England_at_the_2022_FIFA_World_Cup
+wikiPageWikiLink: Category:France_at_the_2022_FIFA_World_Cup
+wikiPageWikiLink: Category:Morocco_at_the_2022_FIFA_World_Cup
+wikiPageWikiLink: Category:Netherlands_at_the_2022_FIFA_World_Cup
+wikiPageWikiLink: Category:Poland_at_the_2022_FIFA_World_Cup
+wikiPageWikiLink: Category:Portugal_at_the_2022_FIFA_World_Cup
+wikiPageWikiLink: Category:Senegal_at_the_2022_FIFA_World_Cup
+wikiPageWikiLink: Category:United_States_at_the_2022_FIFA_World_Cup
+wikiPageWikiLink: UTC+03:00
+wikiPageWikiLink: Lusail
+wikiPageWikiLink: Lusail_Iconic_Stadium
+wikiPageWikiLink: Single-elimination_tournament
+wikiPageWikiLink: Stadium_974
+wikiPageWikiLink: Overtime_(sports)
+wikiPageWikiLink: Penalty_shoot-out_(association_football)
+wikiPageWikiLink: 2022_FIFA_World_Cup
+wikiPageWikiLink: 2022_FIFA_World_Cup_Final
+wikiPageWikiLink: 2022_FIFA_World_Cup_Group_A
+wikiPageWikiLink: 2022_FIFA_World_Cup_Group_B
+wikiPageWikiLink: 2022_FIFA_World_Cup_Group_C
+wikiPageWikiLink: 2022_FIFA_World_Cup_Group_D
+wikiPageWikiLink: 2022_FIFA_World_Cup_Group_E
+wikiPageWikiLink: 2022_FIFA_World_Cup_Group_F
+wikiPageWikiLink: 2022_FIFA_World_Cup_Group_G
+wikiPageWikiLink: 2022_FIFA_World_Cup_Group_H
+wikiPageWikiLink: Ahmad_bin_Ali_Stadium
+wikiPageWikiLink: Al_Bayt_Stadium
+wikiPageWikiLink: Al_Janoub_Stadium
+wikiPageWikiLink: Al_Khor
+wikiPageWikiLink: Al_Rayyan
+wikiPageWikiLink: Al_Thumama_Stadium
+wikiPageWikiLink: Al_Wakrah
+wikiPageWikiLink: Education_City_Stadium
+wikiPageWikiLink: Category:2022_FIFA_World_Cup
+wikiPageWikiLink: Khalifa_International_Stadium
+wikiPageWikiLink: Doha
+wikiPageWikiLink: Arabia_Standard_Time
+wikiPageExternalLink: 400128130
+wikiPageExternalLink: 400128131
+wikiPageExternalLink: 400128132
+wikiPageExternalLink: 400128133
+wikiPageExternalLink: 400128134
+wikiPageExternalLink: 400128135
+wikiPageExternalLink: 400128136
+wikiPageExternalLink: 400128137
+wikiPageExternalLink: 400128138
+wikiPageExternalLink: 400128139
+wikiPageExternalLink: 400128140
+wikiPageExternalLink: 400128141
+wikiPageExternalLink: 400128142
+wikiPageExternalLink: 400128143
+wikiPageExternalLink: 400128144
+wikiPageExternalLink: qatar2022
+date: 2022-12-03
+date: 2022-12-04
+date: 2022-12-05
+date: 2022-12-06
+date: 2022-12-09
+date: 2022-12-10
+date: 2022-12-13
+date: 2022-12-14
+date: 2022-12-17
+report: 400128130
+report: 400128131
+report: 400128132
+report: 400128133
+report: 400128134
+report: 400128135
+report: 400128136
+report: 400128137
+report: 400128138
+report: 400128139
+report: 400128140
+report: 400128141
+report: 400128142
+report: 400128143
+report: 400128144
+stadium: Lusail
+stadium: Lusail_Iconic_Stadium
+stadium: Stadium_974
+stadium: Ahmad_bin_Ali_Stadium
+stadium: Al_Bayt_Stadium
+stadium: Al_Janoub_Stadium
+stadium: Al_Khor
+stadium: Al_Rayyan
+stadium: Al_Thumama_Stadium
+stadium: Al_Wakrah
+stadium: Education_City_Stadium
+stadium: Khalifa_International_Stadium
+stadium: Doha
+team: Winners Group E
+team: Losers Match 61
+team: Losers Match 62
+team: Runners-up Group E
+team: Runners-up Group G
+team: Runners-up Group H
+team: Winners Group G
+team: Winners Group H
+team: Winners Match 49
+team: Winners Match 50
+team: Winners Match 51
+team: Winners Match 52
+team: Winners Match 53
+team: Winners Match 54
+team: Winners Match 55
+team: Winners Match 56
+team: Winners Match 57
+team: Winners Match 58
+team: Winners Match 59
+team: Winners Match 60
+time: 1080.0
+time: 1320.0
+abstract: The knockout stage of the 2022 FIFA World Cup is the second and final stage of the competition, following the group stage. Played from 3 to 18 December, the knockout stage will end with the final, held at Lusail Iconic Stadium in Lusail. The top two teams from each group advanced to the knockout stage to compete in a single-elimination tournament. There are sixteen matches in the knockout stage, including a third place play-off played between the two losing teams of the semi-finals.
+wasDerivedFrom: 2022_FIFA_World_Cup_knockout_stage?oldid=1125028855&ns=0
+wikiPageLength: 14183
+time: 18:00
+time: 22:00
+isPrimaryTopicOf: 2022_FIFA_World_Cup_knockout_stage
+	

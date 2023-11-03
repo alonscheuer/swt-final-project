@@ -1,0 +1,104 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Asiatiska mästerskapet i fotboll 2023, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: Event
+type: SportsEvent
+type: Event
+type: SocietalEvent
+type: Tournament
+type: Q1656682
+type: Q500834
+type: Event
+type: SoccerTournament
+type: SportsEvent
+label: 2023 AFC Asian Cup
+comment: The 2023 AFC Asian Cup will be the 18th edition of the AFC Asian Cup, the quadrennial international men's football championship of Asia organised by the Asian Football Confederation (AFC). The tournament will involve 24 national teams after expansion in 2019. The tournament was originally scheduled to be held in China from 16 June to 16 July 2023. On 14 May 2022, the AFC announced that China would not host the tournament due to the circumstances caused by the COVID-19 pandemic and China's Zero-COVID policy.
+name: AFC Asian Cup
+depiction: 2023_AFC_Asian_Cup_qualifying_map.png
+subject: Category:2022–23_in_Qatari_football
+subject: Category:2023_AFC_Asian_Cup
+subject: Category:2023_in_Asian_football
+subject: Category:July_2023_sports_events_in_Asia
+subject: Category:June_2023_sports_events_in_Asia
+subject: Category:Scheduled_association_football_competitions
+subject: Category:International_association_football_competitions_hosted_by_Qatar
+subject: Category:AFC_Asian_Cup_tournaments
+subject: Category:Sports_events_affected_by_the_COVID-19_pandemic
+wikiPageID: 48085960
+wikiPageRevisionID: 1124866550
+wikiPageWikiLink: Qatar_national_football_team
+wikiPageWikiLink: 2011_AFC_Asian_Cup
+wikiPageWikiLink: 2027_AFC_Asian_Cup
+wikiPageWikiLink: Category:2022–23_in_Qatari_football
+wikiPageWikiLink: Category:2023_AFC_Asian_Cup
+wikiPageWikiLink: Category:2023_in_Asian_football
+wikiPageWikiLink: Category:July_2023_sports_events_in_Asia
+wikiPageWikiLink: Category:June_2023_sports_events_in_Asia
+wikiPageWikiLink: Category:Scheduled_association_football_competitions
+wikiPageWikiLink: UTC+03:00
+wikiPageWikiLink: Category:International_association_football_competitions_hosted_by_Qatar
+wikiPageWikiLink: 1980_AFC_Asian_Cup
+wikiPageWikiLink: 1984_AFC_Asian_Cup
+wikiPageWikiLink: 1988_AFC_Asian_Cup
+wikiPageWikiLink: 1992_AFC_Asian_Cup
+wikiPageWikiLink: 1956_AFC_Asian_Cup
+wikiPageWikiLink: 1960_AFC_Asian_Cup
+wikiPageWikiLink: 1964_AFC_Asian_Cup
+wikiPageWikiLink: 1968_AFC_Asian_Cup
+wikiPageWikiLink: 1972_AFC_Asian_Cup
+wikiPageWikiLink: 1976_AFC_Asian_Cup
+wikiPageWikiLink: 2019_AFC_Asian_Cup
+wikiPageWikiLink: 2019_AFC_Asian_Cup_qualification
+wikiPageWikiLink: Chinese_government_response_to_COVID-19
+wikiPageWikiLink: 1996_AFC_Asian_Cup
+wikiPageWikiLink: 2000_AFC_Asian_Cup
+wikiPageWikiLink: 2004_AFC_Asian_Cup
+wikiPageWikiLink: 2007_AFC_Asian_Cup
+wikiPageWikiLink: Category:AFC_Asian_Cup_tournaments
+wikiPageWikiLink: COVID-19_pandemic_in_Asia
+wikiPageWikiLink: Timor-Leste_national_football_team
+wikiPageWikiLink: 2015_AFC_Asian_Cup
+wikiPageWikiLink: 2022_AFC_Futsal_Asian_Cup
+wikiPageWikiLink: 2022_AFC_Women's_Asian_Cup
+wikiPageWikiLink: 2022_FIFA_World_Cup
+wikiPageWikiLink: 2022_FIFA_World_Cup_qualification_(AFC)
+wikiPageWikiLink: 2022_FIFA_World_Cup_qualification_-_AFC_Second_Round
+wikiPageWikiLink: 2022_FIFA_World_Cup_qualification_–_AFC_Second_Round
+wikiPageWikiLink: 2023_AFC_Asian_Cup_qualification_–_Third_Round
+wikiPageWikiLink: 2023_AFC_U-17_Asian_Cup
+wikiPageWikiLink: 2023_AFC_U-20_Asian_Cup
+wikiPageWikiLink: 69th_FIFA_Congress
+wikiPageWikiLink: AFC_Asian_Cup
+wikiPageWikiLink: FIFA
+wikiPageWikiLink: North_Korea_national_football_team
+wikiPageWikiLink: Paris
+wikiPageWikiLink: Category:Sports_events_affected_by_the_COVID-19_pandemic
+wikiPageWikiLink: Asian_Football_Confederation
+wikiPageWikiLink: Association_football
+wikiPageWikiLink: China_national_football_team
+wikiPageWikiLink: Arabia_Standard_Time
+wikiPageWikiLink: File:2023_AFC_Asian_Cup_qualifying_map.png
+wikiPageExternalLink: %7Cname=AFC
+thumbnail: 2023_AFC_Asian_Cup_qualifying_map.png?width=300
+confederations: 1
+country: Qatar
+dates: TBA
+nextseason: 2027
+numTeams: 24
+otherTitles: 
+prevseason: 2019
+tourneyName: AFC Asian Cup
+year: 2023
+abstract: The 2023 AFC Asian Cup will be the 18th edition of the AFC Asian Cup, the quadrennial international men's football championship of Asia organised by the Asian Football Confederation (AFC). The tournament will involve 24 national teams after expansion in 2019. The tournament was originally scheduled to be held in China from 16 June to 16 July 2023. On 14 May 2022, the AFC announced that China would not host the tournament due to the circumstances caused by the COVID-19 pandemic and China's Zero-COVID policy. On 17 October 2022, the AFC announced that the tournament will be held in Qatar. Due to the high summer temperatures in the Gulf region, the tournament will probably be postponed from mid-2023 to early 2024.
+backgroundcolor: FFFFCC
+message: NOTE: The following arrangement is provisional, based on the October FIFA rankings and the system adopted in 2019. The 12 teams that participated in the third round of the 2022 FIFA World Cup qualification were placed in Pots 1 and 2 while the remaining teams were allocated to the remaining pots. The hosts, Qatar, will be placed in Pot 1. The final arrangement of teams will be confirmed by the AFC, based on the final FIFA rankings at the time of the draw.
+wasDerivedFrom: 2023_AFC_Asian_Cup?oldid=1124866550&ns=0
+wikiPageLength: 26321
+isPrimaryTopicOf: 2023_AFC_Asian_Cup
+	

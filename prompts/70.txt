@@ -1,0 +1,140 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Robotnedslaget i Polen 2022, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: SpatialThing
+label: 2022 missile explosion in Poland
+seeAlso: October–November_2022_nationwide_missile_strikes_on_Ukraine
+lat: 50.4744
+long: 23.9231
+depiction: Poland2_location_map.svg
+subject: Category:Poland–Ukraine_border
+subject: Category:2022_controversies
+subject: Category:Explosions_in_2022
+subject: Category:Explosions_in_Poland
+subject: Category:History_of_Lublin_Voivodeship
+subject: Category:Hrubieszów_County
+subject: Category:November_2022_events_in_Poland
+subject: Category:Poland–NATO_relations
+subject: Category:Poland–Russia_relations
+subject: Category:Poland–Ukraine_relations
+subject: Category:Ukraine–NATO_relations
+subject: Category:2022_in_international_relations
+subject: Category:Airstrikes_during_the_2022_Russian_invasion_of_Ukraine
+subject: Category:Russia–NATO_relations
+wikiPageID: 72261036
+wikiPageRevisionID: 1124420519
+wikiPageWikiLink: President_of_the_European_Council
+wikiPageWikiLink: Prime_Minister_of_Hungary
+wikiPageWikiLink: Prime_Minister_of_Poland
+wikiPageWikiLink: Przewodów
+wikiPageWikiLink: Category:Poland–Ukraine_border
+wikiPageWikiLink: Category:2022_controversies
+wikiPageWikiLink: Category:Explosions_in_2022
+wikiPageWikiLink: Category:Explosions_in_Poland
+wikiPageWikiLink: Category:History_of_Lublin_Voivodeship
+wikiPageWikiLink: Category:Hrubieszów_County
+wikiPageWikiLink: Category:November_2022_events_in_Poland
+wikiPageWikiLink: Category:Poland–NATO_relations
+wikiPageWikiLink: Category:Poland–Russia_relations
+wikiPageWikiLink: Category:Poland–Ukraine_relations
+wikiPageWikiLink: Category:Ukraine–NATO_relations
+wikiPageWikiLink: Bob_Menendez
+wikiPageWikiLink: Hrubieszów_County
+wikiPageWikiLink: Petr_Fiala
+wikiPageWikiLink: Ukraine
+wikiPageWikiLink: Urmas_Reinsalu
+wikiPageWikiLink: Viktor_Orbán
+wikiPageWikiLink: Volodymyr_Zelenskyy
+wikiPageWikiLink: Category:2022_in_international_relations
+wikiPageWikiLink: Category:Airstrikes_during_the_2022_Russian_invasion_of_Ukraine
+wikiPageWikiLink: Council_on_Foreign_Relations
+wikiPageWikiLink: Mateusz_Morawiecki
+wikiPageWikiLink: Member_states_of_NATO
+wikiPageWikiLink: S-300_missile_system
+wikiPageWikiLink: Gmina_Dołhobyczów
+wikiPageWikiLink: Ministry_of_Defence_(Russia)
+wikiPageWikiLink: Ministry_of_Foreign_Affairs_(Poland)
+wikiPageWikiLink: Ministry_of_Foreign_Affairs_(Russia)
+wikiPageWikiLink: Ministry_of_Foreign_Affairs_and_European_Integration_(Moldova)
+wikiPageWikiLink: Missile
+wikiPageWikiLink: Moldova
+wikiPageWikiLink: Mykhailo_Podolyak
+wikiPageWikiLink: NATO
+wikiPageWikiLink: Andrzej_Duda
+wikiPageWikiLink: Lublin_Voivodeship
+wikiPageWikiLink: Zbigniew_Rau
+wikiPageWikiLink: Bali
+wikiPageWikiLink: Druzhba_pipeline
+wikiPageWikiLink: Poland–Ukraine_border
+wikiPageWikiLink: 2022_G20_Bali_summit
+wikiPageWikiLink: 2022_Russian_invasion_of_Ukraine
+wikiPageWikiLink: 2022_Zagreb_Tu-141_crash
+wikiPageWikiLink: 3M-54_Kalibr
+wikiPageWikiLink: Category:Russia–NATO_relations
+wikiPageWikiLink: Alexander_De_Croo
+wikiPageWikiLink: European_Council
+wikiPageWikiLink: European_Union
+wikiPageWikiLink: Forbes
+wikiPageWikiLink: Nicu_Popescu
+wikiPageWikiLink: North_Atlantic_Treaty
+wikiPageWikiLink: Central_European_Time
+wikiPageWikiLink: HESA_Shahed_136
+wikiPageWikiLink: Jakub_Kumoch
+wikiPageWikiLink: Charles_Michel
+wikiPageWikiLink: Jens_Stoltenberg
+wikiPageWikiLink: Joe_Biden
+wikiPageWikiLink: Kh-59
+wikiPageWikiLink: Surface-to-surface_missile
+wikiPageWikiLink: Dmytro_Kuleba
+wikiPageWikiLink: Aurora_Flight_Sciences_Orion
+wikiPageWikiLink: Poland
+wikiPageWikiLink: Klaus_Iohannis
+wikiPageWikiLink: Kristóf_Szalay-Bobrovniczky
+wikiPageWikiLink: Minister_of_Defence_(Hungary)
+wikiPageWikiLink: Naslavcea
+wikiPageWikiLink: National_Security_Bureau_(Poland)
+wikiPageWikiLink: National_Security_and_Defense_Council_of_Ukraine
+wikiPageWikiLink: October–November_2022_nationwide_missile_strikes_on_Ukraine
+wikiPageWikiLink: Oleksiy_Danilov
+wikiPageWikiLink: Orlan-10
+wikiPageWikiLink: Radio_ZET
+wikiPageWikiLink: Chancellery_of_the_President_of_the_Republic_of_Poland
+wikiPageWikiLink: Secretary_General_of_NATO
+wikiPageWikiLink: Surface-to-air_missile
+wikiPageWikiLink: Air_defence
+wikiPageWikiLink: Shahed_131
+wikiPageWikiLink: U.S._Department_of_Defense
+wikiPageWikiLink: Article_5_guarantee
+wikiPageWikiLink: Hungarian_government
+wikiPageWikiLink: Kh-555
+wikiPageWikiLink: Kh-101
+wikiPageWikiLink: NATO_Article_4
+wikiPageWikiLink: Ukrainian_cities
+thumbnail: Poland2_location_map.svg?width=300
+reportedDeaths: 2
+reportedInjuries: 0
+date: 2022-11-15
+location: Przewodów
+location: Hrubieszów_County
+location: Gmina_Dołhobyczów
+location: Lublin_Voivodeship
+location: Poland
+mapCaption: Area around the village of Przewodów
+motive: Accidental
+participants: Under investigation
+partof: the 2022 Russian invasion of Ukraine
+time: 940.0
+timezone: Central_European_Time
+type: Missile
+point: 50.474444444444444 23.923055555555557
+wasDerivedFrom: 2022_missile_explosion_in_Poland?oldid=1124420519&ns=0
+wikiPageLength: 32095
+isPrimaryTopicOf: 2022_missile_explosion_in_Poland
+geometry: POINT(23.923055648804 50.474445343018)
+	

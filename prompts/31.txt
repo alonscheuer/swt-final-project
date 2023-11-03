@@ -1,0 +1,17 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Norska mästerskapet i fotboll (män) 2022, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	label: 2022 Norwegian Football Cup
+wikiPageID: 70522955
+wikiPageRevisionID: 1082291733
+wikiPageWikiLink: 2022–23_Norwegian_Football_Cup
+wikiPageRedirects: 2022–23_Norwegian_Football_Cup
+wasDerivedFrom: 2022_Norwegian_Football_Cup?oldid=1082291733&ns=0
+wikiPageLength: 44
+isPrimaryTopicOf: 2022_Norwegian_Football_Cup
+	

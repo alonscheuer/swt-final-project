@@ -1,0 +1,208 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Förenta nationernas klimatkonferens 2022, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: SpatialThing
+label: 2022 United Nations Climate Change Conference
+comment: The 2022 United Nations Climate Change Conference or Conference of the Parties of the UNFCCC, more commonly referred to as COP27, was the 27th United Nations Climate Change conference, held from 6 November until 20 November 2022 in Sharm El Sheikh, Egypt. It took place under the presidency of Egyptian Minister of Foreign Affairs Sameh Shoukry, with more than 92 heads of state and an estimated 35,000 representatives, or delegates, of 190 countries attending. It was the first climate summit held in Africa since 2016.
+homepage: https://www.cop27.eg/
+lat: 27.945
+long: 34.3633
+depiction: COP27_Logo.svg
+depiction: Day_3_at_COP27_(cop27_0164)_(52488901578).jpg
+depiction: El_presidente_del_Gobierno,_Pedro_Sánchez,_mantiene_un_encuentro_bilateral_con_la_primera_ministra_de_Túnez,_Najla_Bouden.jpg
+depiction: Free_my_brother_Alaa_Abd_El-Fattah.jpg
+depiction: Sameh_Shoukry_Senate_of_Poland_2015.jpg
+subject: Category:2022_in_Egypt
+subject: Category:2022_in_the_environment
+subject: Category:Conferences_in_Sharm_El_Sheikh
+subject: Category:November_2022_events_in_Asia
+subject: Category:2022_conferences
+subject: Category:2022_in_international_relations
+subject: Category:United_Nations_climate_change_conferences
+subject: Category:Climate_change_controversies
+wikiPageID: 64183253
+wikiPageRevisionID: 1124238263
+wikiPageWikiLink: Caroline_Lucas
+wikiPageWikiLink: President_of_Brazil
+wikiPageWikiLink: Sameh_Shoukry
+wikiPageWikiLink: Scottish_Government
+wikiPageWikiLink: Energy_in_Egypt
+wikiPageWikiLink: ProVeg_International
+wikiPageWikiLink: 2013_Egyptian_coup_d'état
+wikiPageWikiLink: 2022_Pakistan_floods
+wikiPageWikiLink: Category:2022_in_Egypt
+wikiPageWikiLink: Category:2022_in_the_environment
+wikiPageWikiLink: Category:Conferences_in_Sharm_El_Sheikh
+wikiPageWikiLink: Category:November_2022_events_in_Asia
+wikiPageWikiLink: Bill_McKibben
+wikiPageWikiLink: Boris_Johnson
+wikiPageWikiLink: Denmark
+wikiPageWikiLink: Human_Rights_Watch
+wikiPageWikiLink: Human_rights_in_Egypt
+wikiPageWikiLink: Patricia_Espinosa
+wikiPageWikiLink: Reuters
+wikiPageWikiLink: Rishi_Sunak
+wikiPageWikiLink: United_Arab_Emirates
+wikiPageWikiLink: United_Kingdom
+wikiPageWikiLink: United_Nations_Climate_Change_conference
+wikiPageWikiLink: United_Nations_Framework_Convention_on_Climate_Change
+wikiPageWikiLink: United_Nations_General_Assembly
+wikiPageWikiLink: United_States
+wikiPageWikiLink: Upfield_(company)
+wikiPageWikiLink: Ursula_von_der_Leyen
+wikiPageWikiLink: Vatican_City
+wikiPageWikiLink: Vladimir_Putin
+wikiPageWikiLink: Earth_Summit
+wikiPageWikiLink: Oatly
+wikiPageWikiLink: Category:2022_conferences
+wikiPageWikiLink: Category:2022_in_international_relations
+wikiPageWikiLink: Regenerative_agriculture
+wikiPageWikiLink: Category:United_Nations_climate_change_conferences
+wikiPageWikiLink: Climate_change
+wikiPageWikiLink: Climate_change_adaptation
+wikiPageWikiLink: Effects_of_climate_change_on_agriculture
+wikiPageWikiLink: Egypt
+wikiPageWikiLink: Elijah_Mckenzie-Jackson
+wikiPageWikiLink: Emmanuel_Macron
+wikiPageWikiLink: Energy_transition
+wikiPageWikiLink: Environmental_issues_in_Egypt
+wikiPageWikiLink: Freedom_of_expression
+wikiPageWikiLink: Germany
+wikiPageWikiLink: Ministry_of_Environment_(Egypt)
+wikiPageWikiLink: The_New_York_Times
+wikiPageWikiLink: The_Sunday_Guardian
+wikiPageWikiLink: LGBT_rights_in_Egypt
+wikiPageWikiLink: Anthony_Albanese
+wikiPageWikiLink: António_Guterres
+wikiPageWikiLink: Li_Keqiang
+wikiPageWikiLink: Liz_Truss
+wikiPageWikiLink: Luiz_Inácio_Lula_da_Silva
+wikiPageWikiLink: Macky_Sall
+wikiPageWikiLink: Climate_change_and_gender
+wikiPageWikiLink: Climate_change_in_Africa
+wikiPageWikiLink: Climate_change_mitigation
+wikiPageWikiLink: Climate_finance
+wikiPageWikiLink: Climate_reparations
+wikiPageWikiLink: Hossam_Bahgat
+wikiPageWikiLink: Austria
+wikiPageWikiLink: BBC_News
+wikiPageWikiLink: CNBC
+wikiPageWikiLink: COP26
+wikiPageWikiLink: COVID-19_pandemic_in_Egypt
+wikiPageWikiLink: War_crimes_in_the_2022_Russian_invasion_of_Ukraine
+wikiPageWikiLink: Water_security
+wikiPageWikiLink: Justin_Rowlatt
+wikiPageWikiLink: Minister_of_Foreign_Affairs_(Egypt)
+wikiPageWikiLink: 2021_United_Nations_Climate_Change_Conference
+wikiPageWikiLink: 2022_Brazilian_general_election
+wikiPageWikiLink: 2022_European_heat_waves
+wikiPageWikiLink: 2022_Russian_invasion_of_Ukraine
+wikiPageWikiLink: 2022_in_climate_change
+wikiPageWikiLink: Abdel_Fattah_el-Sisi
+wikiPageWikiLink: Alaa_Abd_El-Fattah
+wikiPageWikiLink: Alok_Sharma
+wikiPageWikiLink: Amnesty_International
+wikiPageWikiLink: Nicola_Sturgeon
+wikiPageWikiLink: Non-governmental_organizations
+wikiPageWikiLink: Pakistan
+wikiPageWikiLink: Paramount_leader
+wikiPageWikiLink: Carbon_credit
+wikiPageWikiLink: Fossil_fuel_phase-out
+wikiPageWikiLink: Global_Assembly
+wikiPageWikiLink: Legal_liability
+wikiPageWikiLink: Yasmine_Fouad
+wikiPageWikiLink: Greenhouse_gas_emissions
+wikiPageWikiLink: Greta_Thunberg
+wikiPageWikiLink: Jair_Bolsonaro
+wikiPageWikiLink: The_Coca-Cola_Company
+wikiPageWikiLink: Hurricane_Ian
+wikiPageWikiLink: Politics_of_Egypt
+wikiPageWikiLink: Category:Climate_change_controversies
+wikiPageWikiLink: Charles_III
+wikiPageWikiLink: Jerome_Foster_II
+wikiPageWikiLink: Joe_Biden
+wikiPageWikiLink: John_Kerry
+wikiPageWikiLink: Effects_of_climate_change_on_small_island_countries
+wikiPageWikiLink: Dominika_Lasota
+wikiPageWikiLink: Mark_Rutte
+wikiPageWikiLink: COP28
+wikiPageWikiLink: Plastic_pollution
+wikiPageWikiLink: South_Sinai_Governorate
+wikiPageWikiLink: Special_Report_on_Global_Warming_of_1.5_°C
+wikiPageWikiLink: Civil_disobedience
+wikiPageWikiLink: Financial_compensation
+wikiPageWikiLink: Greenwashing
+wikiPageWikiLink: Impossible_Foods
+wikiPageWikiLink: India
+wikiPageWikiLink: Intergovernmental_Panel_on_Climate_Change
+wikiPageWikiLink: Methane
+wikiPageWikiLink: Mia_Mottley
+wikiPageWikiLink: Mikhail_Mishustin
+wikiPageWikiLink: Naomi_Klein
+wikiPageWikiLink: Narendra_Modi
+wikiPageWikiLink: New_Zealand
+wikiPageWikiLink: Olaf_Scholz
+wikiPageWikiLink: Ranil_Wickremesinghe
+wikiPageWikiLink: Sharm_El_Sheikh
+wikiPageWikiLink: Sherry_Rehman
+wikiPageWikiLink: COP22
+wikiPageWikiLink: Xi_Jinping
+wikiPageWikiLink: Loss_and_damage
+wikiPageWikiLink: Extreme_weather
+wikiPageWikiLink: Political_prisoner
+wikiPageWikiLink: Women_in_Egypt
+wikiPageWikiLink: Fuel_lobbyist
+wikiPageWikiLink: Transition_to_renewable_energy
+wikiPageWikiLink: Sharm_El_Sheikh_International_Convention_Center
+wikiPageWikiLink: Phase-out_of_fossil_fuels
+wikiPageWikiLink: UNEP
+wikiPageWikiLink: Decarbonisation
+wikiPageWikiLink: Climate_adaptation
+wikiPageWikiLink: Climate_change_and_biodiversity
+wikiPageWikiLink: Climate_change_in_Egypt
+wikiPageWikiLink: Climate_change_protests
+wikiPageWikiLink: File:Day_3_at_COP27_(cop27_0164)_(52488901578).jpg
+wikiPageWikiLink: File:Discours_d'Emmanuel_Macron_-_COP27.webm
+wikiPageWikiLink: File:El_presidente_del_Gobierno,_Pedro_Sánchez,_mantiene_un_encuentro_bilateral_con_la_primera_ministra_de_Túnez,_Najla_Bouden.jpg
+wikiPageWikiLink: File:Free_my_brother_Alaa_Abd_El-Fattah.jpg
+wikiPageWikiLink: File:Sameh_Shoukry_Senate_of_Poland_2015.JPG
+wikiPageWikiLink: Sustainable_Markets_Initiative
+wikiPageWikiLink: Svitlana_Romanko
+wikiPageExternalLink: https://climatetrace.org/
+wikiPageExternalLink: https://www.cop27.eg/
+wikiPageExternalLink: https://www.cop27.eg/%23/
+wikiPageExternalLink: science-environment-63502762
+wikiPageExternalLink: cop27
+wikiPageExternalLink: https://www.carbonbrief.org/cop27-key-outcomes-agreed-at-the-un-climate-talks-in-sharm-el-sheikh/
+wikiPageExternalLink: https://www.climatechangenews.com/2022/11/20/what-was-decided-at-cop27-climate-talks-in-sharm-el-sheikh/
+thumbnail: COP27_Logo.svg?width=300
+organisers: Egypt
+cs1Dates: y
+date: November 2022
+nativeName: 
+participants: UNFCCC member countries
+place: Egypt
+place: South_Sinai_Governorate
+place: Sharm_El_Sheikh
+place: Sharm_El_Sheikh_International_Convention_Center
+title: 2022
+title: 
+title: Climate Change Conference
+website: https://www.cop27.eg/
+point: 27.945 34.36333333333334
+abstract: The 2022 United Nations Climate Change Conference or Conference of the Parties of the UNFCCC, more commonly referred to as COP27, was the 27th United Nations Climate Change conference, held from 6 November until 20 November 2022 in Sharm El Sheikh, Egypt. It took place under the presidency of Egyptian Minister of Foreign Affairs Sameh Shoukry, with more than 92 heads of state and an estimated 35,000 representatives, or delegates, of 190 countries attending. It was the first climate summit held in Africa since 2016. The conference has been held annually since the first UN climate agreement in 1992. It is used by governments to agree on policies to limit global temperature rises and adapt to impacts associated with climate change. The conference led to the first loss and damage fund being created.
+blank1Data: 2021_United_Nations_Climate_Change_Conference
+blank1Label: Previous event
+blank2Data: → Dubai 2023
+blank2Label: Next event
+wasDerivedFrom: 2022_United_Nations_Climate_Change_Conference?oldid=1124238263&ns=0
+wikiPageLength: 43245
+isPrimaryTopicOf: 2022_United_Nations_Climate_Change_Conference
+geometry: POINT(34.363334655762 27.944999694824)
+	

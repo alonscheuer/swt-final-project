@@ -1,0 +1,140 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om The International 2022, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	label: The International 2022
+comment: The International 2022 (also known as TI 11 and TI 2022) was the 11th iteration of The International, an annual Dota 2 world championship esports tournament hosted by Valve, the game's developer. The tournament followed the Dota Pro Circuit (DPC), an annual series of tournaments awarding points to teams, with the top 12 earning invitations and a further eight earning them by a series of qualifying playoffs.
+name: The International 2022
+subject: Category:2022_in_Singaporean_sport
+subject: Category:2022_multiplayer_online_battle_arena_tournaments
+subject: Category:October_2022_sports_events_in_Singapore
+subject: Category:Esports_competitions_in_Singapore
+subject: Category:The_International_(Dota_2)
+wikiPageID: 71370413
+wikiPageRevisionID: 1123335398
+wikiPageWikiLink: Royal_Never_Give_Up
+wikiPageWikiLink: Category:2022_in_Singaporean_sport
+wikiPageWikiLink: Category:2022_multiplayer_online_battle_arena_tournaments
+wikiPageWikiLink: Category:October_2022_sports_events_in_Singapore
+wikiPageWikiLink: Respawns
+wikiPageWikiLink: Valve_Corporation
+wikiPageWikiLink: Dota_Pro_Circuit
+wikiPageWikiLink: Double-elimination_tournament
+wikiPageWikiLink: Crowdfunded
+wikiPageWikiLink: Category:Esports_competitions_in_Singapore
+wikiPageWikiLink: Esports
+wikiPageWikiLink: Multiplayer_online_battle_arena
+wikiPageWikiLink: Battle_pass
+wikiPageWikiLink: Singapore
+wikiPageWikiLink: Singapore_Indoor_Stadium
+wikiPageWikiLink: Evil_Geniuses
+wikiPageWikiLink: Fnatic
+wikiPageWikiLink: PSG.LGD
+wikiPageWikiLink: Fog_of_war
+wikiPageWikiLink: Talon_Esports
+wikiPageWikiLink: Team_Liquid
+wikiPageWikiLink: Team_Secret
+wikiPageWikiLink: Team_SoloMid
+wikiPageWikiLink: Team_Spirit_(esports)
+wikiPageWikiLink: The_International_(Dota_2)
+wikiPageWikiLink: The_International_2015
+wikiPageWikiLink: The_International_2021
+wikiPageWikiLink: Dota_2
+wikiPageWikiLink: OG_(esports)
+wikiPageWikiLink: World_championship
+wikiPageWikiLink: Round-robin_tournament
+wikiPageWikiLink: Category:The_International_(Dota_2)
+wikiPageWikiLink: Skill_(role-playing_games)
+wikiPageWikiLink: Suntec_Singapore
+wikiPageWikiLink: The_International_2013
+wikiPageExternalLink: ti11
+rd6bScore: 1
+rd6bScore: 2
+rd6bTeam: Team Liquid
+rd6bTeam: Team Secret
+rd: Grand Finals
+rd2Score: 0
+rd2Score: 2
+rd2Team: Evil_Geniuses
+rd2Team: PSG.LGD
+rd2Team: Team_Liquid
+rd2Team: OG_(esports)
+rd2Team: Team Secret
+rd2Team: Tundra Esports
+rd2Team: Team Aster
+rd2Team: Thunder Awaken
+rd3Score: 0
+rd3Score: 2
+rd3Team: Team Secret
+rd3Team: Tundra Esports
+rd3Team: Team Aster
+rd3Team: Thunder Awaken
+rd4Score: 1
+rd4Score: 2
+rd4Team: Team Secret
+rd4Team: Tundra Esports
+runnerUp: Team_Liquid
+runnerUp: Team_Secret
+seeds: no
+champions: Tundra Esports
+endDate: 302022
+location: Singapore
+participants: 20
+previous: The_International_2021
+purse: 18865624
+sport: Dota 2
+startDate: --10-15
+rd7Score: 0
+rd7Score: 3
+rd7Team: Team Secret
+rd7Team: Tundra Esports
+administrator: Valve_Corporation
+rd2bScore: 0
+rd2bScore: 1
+rd2bScore: 2
+rd2bTeam: Evil Geniuses
+rd2bTeam: Team Liquid
+rd2bTeam: OG
+rd2bTeam: Entity
+rd2bTeam: PSG.LGD
+rd2bTeam: Beastcoast
+rd2bTeam: Boom Esports
+rd2bTeam: Gaimin Gladiators
+rd3bScore: 0
+rd3bScore: 1
+rd3bScore: 2
+rd3bTeam: Team Liquid
+rd3bTeam: OG
+rd3bTeam: PSG.LGD
+rd3bTeam: Beastcoast
+rd4bScore: 0
+rd4bScore: 1
+rd4bScore: 2
+rd4bTeam: Team Liquid
+rd4bTeam: PSG.LGD
+rd4bTeam: Team Aster
+rd4bTeam: Thunder Awaken
+abstract: The International 2022 (also known as TI 11 and TI 2022) was the 11th iteration of The International, an annual Dota 2 world championship esports tournament hosted by Valve, the game's developer. The tournament followed the Dota Pro Circuit (DPC), an annual series of tournaments awarding points to teams, with the top 12 earning invitations and a further eight earning them by a series of qualifying playoffs. The tournament was held in Singapore in October 2022 and was the first International where the main event was hosted at more than one venue, as the playoffs took place at Suntec Singapore followed by the grand finals at Singapore Indoor Stadium. As with every International from 2013 onwards, the prize pool was crowdfunded by the Dota 2 community via its battle pass feature with the total reaching US$19 million, the smallest prize pool for an International since 2015. The finals were held between Team Secret and Tundra Esports, with the latter winning.
+rd1bScore: 0
+rd1bScore: 1
+rd1bTeam: Royal_Never_Give_Up
+rd1bTeam: Fnatic
+rd1bTeam: Team_Spirit_(esports)
+rd1bTeam: Entity
+rd1bTeam: Hokori
+rd1bTeam: Beastcoast
+rd1bTeam: Boom Esports
+rd1bTeam: Gaimin Gladiators
+rd5bScore: 1
+rd5bScore: 2
+rd5bTeam: Team Liquid
+rd5bTeam: Team Aster
+rd1Hide: yes
+wasDerivedFrom: The_International_2022?oldid=1123335398&ns=0
+wikiPageLength: 15637
+isPrimaryTopicOf: The_International_2022
+	

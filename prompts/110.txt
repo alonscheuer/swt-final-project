@@ -1,0 +1,41 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Världsmästerskapen i judo 2023, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	label: 2023 World Judo Championships
+comment: The 2023 World Judo Championships will be held in Doha, Qatar, from 7 to 14 May 2023, concluding with a mixed team event on its final day.
+subject: Category:2023_IJF_World_Tour
+subject: Category:2023_in_Qatari_sport
+subject: Category:2023_in_judo
+subject: Category:Judo_competitions_in_Qatar
+subject: Category:May_2023_sports_events_in_Asia
+subject: Category:Scheduled_sports_events
+subject: Category:Sports_competitions_in_Doha
+subject: Category:World_Judo_Championships
+wikiPageID: 71982275
+wikiPageRevisionID: 1115600702
+wikiPageWikiLink: Qatar
+wikiPageWikiLink: Category:2023_IJF_World_Tour
+wikiPageWikiLink: Category:2023_in_Qatari_sport
+wikiPageWikiLink: Category:2023_in_judo
+wikiPageWikiLink: Category:Judo_competitions_in_Qatar
+wikiPageWikiLink: Category:May_2023_sports_events_in_Asia
+wikiPageWikiLink: Category:Scheduled_sports_events
+wikiPageWikiLink: Category:Sports_competitions_in_Doha
+wikiPageWikiLink: Category:World_Judo_Championships
+wikiPageWikiLink: Doha
+wikiPageWikiLink: World_Judo_Championships
+competition: World_Judo_Championships
+dates: --05-14
+location: Qatar
+location: Doha
+year: 2023
+abstract: The 2023 World Judo Championships will be held in Doha, Qatar, from 7 to 14 May 2023, concluding with a mixed team event on its final day.
+wasDerivedFrom: 2023_World_Judo_Championships?oldid=1115600702&ns=0
+wikiPageLength: 2369
+isPrimaryTopicOf: 2023_World_Judo_Championships
+	

@@ -1,0 +1,77 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Världsmästerskapen i beachvolleyboll 2022, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	label: 2022 Beach Volleyball World Championships
+comment: The 2022 Beach Volleyball World Championships were held in Rome, Italy from 10 to 19 June 2022. After the 2022 Russian invasion of Ukraine, FIVB banned all Russian and Belarusian athletes and officials from participating at the championships.
+name: 2022
+depiction: Rome_2022_WCH.png
+subject: Category:Volleyball_in_Rome
+subject: Category:2022_Beach_Volleyball_World_Championships
+subject: Category:2022_in_Italian_sport
+subject: Category:2022_in_beach_volleyball
+subject: Category:June_2022_sports_events_in_Italy
+subject: Category:Beach_Volleyball_World_Championships
+subject: Category:International_sports_competitions_hosted_by_Italy
+subject: Category:Sports_events_affected_by_the_2022_Russian_invasion_of_Ukraine
+wikiPageID: 70949347
+wikiPageRevisionID: 1121953334
+wikiPageWikiLink: Rome
+wikiPageWikiLink: Category:Volleyball_in_Rome
+wikiPageWikiLink: Category:2022_Beach_Volleyball_World_Championships
+wikiPageWikiLink: Category:2022_in_Italian_sport
+wikiPageWikiLink: Category:2022_in_beach_volleyball
+wikiPageWikiLink: Category:June_2022_sports_events_in_Italy
+wikiPageWikiLink: Brandie_Wilkerson
+wikiPageWikiLink: Category:Beach_Volleyball_World_Championships
+wikiPageWikiLink: Christian_Sørum
+wikiPageWikiLink: Category:International_sports_competitions_hosted_by_Italy
+wikiPageWikiLink: André_Stein
+wikiPageWikiLink: 2022_Beach_Volleyball_World_Championships_–_Men's_tournament
+wikiPageWikiLink: 2022_Beach_Volleyball_World_Championships_–_Women's_tournament
+wikiPageWikiLink: 2022_Russian_invasion_of_Ukraine
+wikiPageWikiLink: Ana_Patrícia_Ramos
+wikiPageWikiLink: Anders_Mol
+wikiPageWikiLink: Eduarda_Santos_Lisboa
+wikiPageWikiLink: FIVB
+wikiPageWikiLink: Foro_Italico
+wikiPageWikiLink: 2019_Beach_Volleyball_World_Championships
+wikiPageWikiLink: Category:Sports_events_affected_by_the_2022_Russian_invasion_of_Ukraine
+wikiPageWikiLink: 2023_Beach_Volleyball_World_Championships
+wikiPageWikiLink: Cinja_Tillmann
+wikiPageWikiLink: George_Wanderley
+wikiPageWikiLink: Renato_Carvalho
+wikiPageWikiLink: Sophie_Bukovec
+wikiPageWikiLink: Svenja_Müller
+wikiPageWikiLink: Vitor_Felipe
+wikiPageExternalLink: https://en.volleyballworld.com/beachvolleyball/competitions/beach-volleyball-world-championships-rome-2022/
+thumbnail: Rome_2022_WCH.png?width=300
+bronzeGer: 1
+bronzeNor: 0
+dates: --06-19
+flagTemplate: flagcountry
+goldGer: 0
+goldNor: 1
+host: ITA
+location: Rome, Italy
+next: 2023_Beach_Volleyball_World_Championships
+previous: 2019_Beach_Volleyball_World_Championships
+silverGer: 0
+silverNor: 0
+size: 250
+venue: Foro_Italico
+bronzeCan: 0
+goldCan: 0
+silverCan: 1
+bronzeBra: 1
+goldBra: 1
+silverBra: 1
+abstract: The 2022 Beach Volleyball World Championships were held in Rome, Italy from 10 to 19 June 2022. After the 2022 Russian invasion of Ukraine, FIVB banned all Russian and Belarusian athletes and officials from participating at the championships.
+wasDerivedFrom: 2022_Beach_Volleyball_World_Championships?oldid=1121953334&ns=0
+wikiPageLength: 4299
+isPrimaryTopicOf: 2022_Beach_Volleyball_World_Championships
+	

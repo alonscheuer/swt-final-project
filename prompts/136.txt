@@ -1,0 +1,80 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Massakern i Melilla, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	label: 2022 Melilla incident
+comment: On 24 June 2022, 23 migrants were killed after a human stampede at the Melilla border fence during a conflict with Moroccan and Spanish security forces. Conflict broke out as between around 2,000 migrants gathered in the early hours of the day to cross the border with Spain.
+depiction: Hermetically_closed_unidirectional_turnstiles_where_migrants_were_trapped_(cropped).png
+depiction: ProstestaMelilla2.jpg
+depiction: Remnants_of_clothing,_wooden_sticks_and_backpacks_stuck_to_the_barbed_wire_over_the_doors_and_on_the_fence_(cropped).png
+depiction: The_gates_of_the_buffer_zone_are_topped_with_barbed_wire_that_still_carries_some_torn_clothing_(cropped).png
+subject: Category:2022_disasters_in_Africa
+subject: Category:2022_disasters_in_Spain
+subject: Category:2022_in_Morocco
+subject: Category:21st_century_in_Melilla
+subject: Category:Attacks_in_Africa_in_2022
+subject: Category:Human_stampedes_in_2022
+subject: Category:June_2022_events_in_Africa
+subject: Category:June_2022_events_in_Spain
+subject: Category:Migrant_disasters
+subject: Category:Morocco–Spain_relations
+wikiPageID: 71141567
+wikiPageRevisionID: 1121762853
+wikiPageWikiLink: Prime_Minister_of_Spain
+wikiPageWikiLink: Melilla_border_fence
+wikiPageWikiLink: Moroccan_Association_for_Human_Rights
+wikiPageWikiLink: Morocco–Spain_relations
+wikiPageWikiLink: Ombudsman
+wikiPageWikiLink: Category:2022_disasters_in_Africa
+wikiPageWikiLink: Category:2022_disasters_in_Spain
+wikiPageWikiLink: Category:2022_in_Morocco
+wikiPageWikiLink: Category:21st_century_in_Melilla
+wikiPageWikiLink: Category:Attacks_in_Africa_in_2022
+wikiPageWikiLink: Category:Human_stampedes_in_2022
+wikiPageWikiLink: Category:June_2022_events_in_Africa
+wikiPageWikiLink: Category:June_2022_events_in_Spain
+wikiPageWikiLink: Category:Migrant_disasters
+wikiPageWikiLink: Pedro_Sánchez
+wikiPageWikiLink: Cyanosis
+wikiPageWikiLink: Melilla
+wikiPageWikiLink: No_man's_land
+wikiPageWikiLink: Civil_Guard_(Spain)
+wikiPageWikiLink: Government_of_Spain
+wikiPageWikiLink: Ministry_of_the_Interior_(Spain)
+wikiPageWikiLink: Morocco
+wikiPageWikiLink: NGO
+wikiPageWikiLink: Nador
+wikiPageWikiLink: Sudan
+wikiPageWikiLink: 2021_Morocco–Spain_border_incident
+wikiPageWikiLink: Abdelmadjid_Tebboune
+wikiPageWikiLink: Category:Morocco–Spain_relations
+wikiPageWikiLink: African_Union
+wikiPageWikiLink: Agence_France-Presse
+wikiPageWikiLink: European_Commission
+wikiPageWikiLink: Gustavo_Petro
+wikiPageWikiLink: Border_guard
+wikiPageWikiLink: Spain
+wikiPageWikiLink: Spanish_Ombudsman
+wikiPageWikiLink: Spanish_Socialist_Workers'_Party
+wikiPageWikiLink: Instituto_Geográfico_Nacional_(Spain)
+wikiPageWikiLink: National_Human_Rights_Council_(Morocco)
+wikiPageWikiLink: Human_stampede
+wikiPageWikiLink: Spanish_Civil_Guard
+wikiPageWikiLink: File:Hermetically_closed_unidirectional_turnstiles_where_migrants_were_trapped_(cropped).png
+wikiPageWikiLink: File:ProstestaMelilla2.jpg
+wikiPageWikiLink: File:Remnants_of_clothing,_wooden_sticks_and_backpacks_stuck_to_the_barbed_wire_over_the_doors_and_on_the_fence_(cropped).png
+thumbnail: The_gates_of_the_buffer_zone_are_topped_with_barbed_wire_that_still_carries_some_torn_clothing_(cropped).png?width=300
+reportedDeaths: 23
+caption: The gates of the buffer zone the day after the incident
+date: 2022-06-24
+location: Barrio Chino border crossing between Morocco and Spain
+missing: 70
+abstract: On 24 June 2022, 23 migrants were killed after a human stampede at the Melilla border fence during a conflict with Moroccan and Spanish security forces. Conflict broke out as between around 2,000 migrants gathered in the early hours of the day to cross the border with Spain.
+wasDerivedFrom: 2022_Melilla_incident?oldid=1121762853&ns=0
+wikiPageLength: 15114
+isPrimaryTopicOf: 2022_Melilla_incident
+	

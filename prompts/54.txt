@@ -1,0 +1,257 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Eurovision Song Contest 2023, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+label: Eurovision Song Contest 2023
+comment: The Eurovision Song Contest 2023 is the upcoming 67th edition of the Eurovision Song Contest. It is set to take place in Liverpool, United Kingdom, after Ukraine, winner of the 2022 contest with the song "Stefania" by Kalush Orchestra, was unable to meet the demands of hosting the event due to security concerns caused by the 2022 Russian invasion of Ukraine. Organised by the European Broadcasting Union (EBU) and host broadcaster the British Broadcasting Corporation (BBC) on behalf of the Public Broadcasting Company of Ukraine (UA:PBC), the contest will be held at the Liverpool Arena, and will consist of two semi-finals on 9 and 11 May, and a final on 13 May 2023. It will be a record-extending ninth time that the United Kingdom hosts the contest, having last done so in Birmingham in 1998.
+seeAlso: Voting_at_the_Eurovision_Song_Contest
+name: Eurovision Song Contest
+depiction: Green_pog.svg
+depiction: Black_pog.svg
+depiction: Blue_pog.svg
+depiction: Red_pog.svg
+depiction: Yellow_pog.svg
+depiction: Liverpool_Pier_Head.jpg
+depiction: M&S_Bank_Arena_1.jpg
+depiction: Ic_local_airport_48px.svg
+depiction: Eurovision_Song_Contest_2023.svg
+subject: Category:2023_song_contests
+subject: Category:Eurovision_Song_Contest_2023
+subject: Category:Eurovision_Song_Contest_by_year
+subject: Category:Events_affected_by_the_2022_Russian_invasion_of_Ukraine
+subject: Category:May_2023_events_in_the_United_Kingdom
+subject: Category:Scheduled_events
+subject: Category:Events_in_Liverpool
+subject: Category:Music_in_Liverpool
+subject: Category:Music_competitions_in_the_United_Kingdom
+wikiPageID: 68807919
+wikiPageRevisionID: 1124863901
+wikiPageWikiLink: Cardiff
+wikiPageWikiLink: Carolina_Di_Domenico
+wikiPageWikiLink: Category:2023_song_contests
+wikiPageWikiLink: Category:Eurovision_Song_Contest_2023
+wikiPageWikiLink: Prudhoe
+wikiPageWikiLink: Sam_Ryder_(singer)
+wikiPageWikiLink: Category:Eurovision_Song_Contest_by_year
+wikiPageWikiLink: MRT_1
+wikiPageWikiLink: Monte-Carlo_Riviera_TV
+wikiPageWikiLink: Category:Events_affected_by_the_2022_Russian_invasion_of_Ukraine
+wikiPageWikiLink: Category:May_2023_events_in_the_United_Kingdom
+wikiPageWikiLink: Belfast
+wikiPageWikiLink: Big_Five_(Eurovision)
+wikiPageWikiLink: Birmingham
+wikiPageWikiLink: Birmingham_City_Council
+wikiPageWikiLink: Boris_Johnson
+wikiPageWikiLink: Brighton
+wikiPageWikiLink: Derry
+wikiPageWikiLink: Resorts_World_Arena
+wikiPageWikiLink: United_Kingdom
+wikiPageWikiLink: Utilita_Arena_Newcastle
+wikiPageWikiLink: Verkhovna_Rada
+wikiPageWikiLink: Volodymyr_Zelenskyy
+wikiPageWikiLink: Debit_card
+wikiPageWikiLink: Deputy_Prime_Minister_of_the_Republic_of_Poland
+wikiPageWikiLink: Pier_Head
+wikiPageWikiLink: Credit_card
+wikiPageWikiLink: Cristiano_Malgioglio
+wikiPageWikiLink: Ruslana
+wikiPageWikiLink: SBS_(Australian_TV_channel)
+wikiPageWikiLink: City_of_Edinburgh_Council
+wikiPageWikiLink: Enisa_Nikaj
+wikiPageWikiLink: Glasgow
+wikiPageWikiLink: Glasgow_City_Council
+wikiPageWikiLink: Government_of_Ukraine
+wikiPageWikiLink: Monaco_Media_Diffusion
+wikiPageWikiLink: Motorpoint_Arena_Nottingham
+wikiPageWikiLink: Myf_Warhurst
+wikiPageWikiLink: Nadine_Dorries
+wikiPageWikiLink: Category:Scheduled_events
+wikiPageWikiLink: Andrew_Lambrou
+wikiPageWikiLink: Leeds
+wikiPageWikiLink: Leeds_City_Council
+wikiPageWikiLink: Liverpool
+wikiPageWikiLink: Liverpool_Arena
+wikiPageWikiLink: Liverpool_City_Council
+wikiPageWikiLink: Liverpool_John_Lennon_Airport
+wikiPageWikiLink: London
+wikiPageWikiLink: Lviv
+wikiPageWikiLink: Macedonian_Radio_Television
+wikiPageWikiLink: Manchester
+wikiPageWikiLink: Manchester_Arena
+wikiPageWikiLink: Manchester_City_Council
+wikiPageWikiLink: Stadium_of_Light
+wikiPageWikiLink: Stefania_(song)
+wikiPageWikiLink: Category:Events_in_Liverpool
+wikiPageWikiLink: Zakarpattia_Oblast
+wikiPageWikiLink: BBC
+wikiPageWikiLink: BBC_One
+wikiPageWikiLink: BBC_Sports_Personality_of_the_Year
+wikiPageWikiLink: BBC_Studios
+wikiPageWikiLink: Bristol
+wikiPageWikiLink: Bristol_Arena
+wikiPageWikiLink: Bulgarian_National_Television
+wikiPageWikiLink: Turin
+wikiPageWikiLink: Darlington_Borough_Council
+wikiPageWikiLink: Ministry_of_Culture_and_Information_Policy
+wikiPageWikiLink: Ministry_of_Culture_and_National_Heritage_(Poland)
+wikiPageWikiLink: 2021–2022_global_energy_crisis
+wikiPageWikiLink: 2022_Russian_invasion_of_Ukraine
+wikiPageWikiLink: 2022_World_Artistic_Gymnastics_Championships
+wikiPageWikiLink: ACC_Liverpool
+wikiPageWikiLink: Aberdeen
+wikiPageWikiLink: 2008_MTV_Europe_Music_Awards
+wikiPageWikiLink: American_Song_Contest
+wikiPageWikiLink: Darlington
+wikiPageWikiLink: Edinburgh
+wikiPageWikiLink: European_Broadcasting_Union
+wikiPageWikiLink: Eurovision_(network)
+wikiPageWikiLink: Eurovision_Song_Contest
+wikiPageWikiLink: First_Direct_Arena
+wikiPageWikiLink: Flag_of_Ukraine
+wikiPageWikiLink: Noa_Kirel
+wikiPageWikiLink: Nottingham
+wikiPageWikiLink: P&J_Live
+wikiPageWikiLink: Category:Music_in_Liverpool
+wikiPageWikiLink: RTL_Télé_Lëtzebuerg
+wikiPageWikiLink: 2017_BBC_Sports_Personality_of_the_Year_Award
+wikiPageWikiLink: Jamala
+wikiPageWikiLink: Tees_Valley_Combined_Authority
+wikiPageWikiLink: Telewizja_Polska
+wikiPageWikiLink: The_Darlington_Arena
+wikiPageWikiLink: Category:Music_competitions_in_the_United_Kingdom
+wikiPageWikiLink: Joel_Creasey
+wikiPageWikiLink: Junior_Eurovision_Song_Contest_2022
+wikiPageWikiLink: Kalush_(rap_group)
+wikiPageWikiLink: Khabar_Agency
+wikiPageWikiLink: Sunderland
+wikiPageWikiLink: Suspilne
+wikiPageWikiLink: Dion_Cooper
+wikiPageWikiLink: Mariupol
+wikiPageWikiLink: Martin_Österdahl
+wikiPageWikiLink: Piotr_Gliński
+wikiPageWikiLink: Space_Man
+wikiPageWikiLink: Kyiv
+wikiPageWikiLink: Kyiv_City_State_Administration
+wikiPageWikiLink: Mia_Nicolai
+wikiPageWikiLink: Millennium_Stadium
+wikiPageWikiLink: New_York_(state)
+wikiPageWikiLink: Newcastle_City_Council
+wikiPageWikiLink: Newcastle_upon_Tyne
+wikiPageWikiLink: OVO_Hydro
+wikiPageWikiLink: Odyssey_Complex
+wikiPageWikiLink: Oleh_Psiuk
+wikiPageWikiLink: Oleksandr_Tkachenko_(journalist)
+wikiPageWikiLink: Radio_Television_of_Kosovo
+wikiPageWikiLink: Radio_and_Television_of_Bosnia_and_Herzegovina
+wikiPageWikiLink: Radio_and_Television_of_Montenegro
+wikiPageWikiLink: Radio_and_Television_of_Slovakia
+wikiPageWikiLink: Rai_1
+wikiPageWikiLink: Secretary_of_State_for_Digital,_Culture,_Media_and_Sport
+wikiPageWikiLink: Sheffield
+wikiPageWikiLink: Sheffield_Arena
+wikiPageWikiLink: Sheffield_City_Council
+wikiPageWikiLink: Wolverhampton
+wikiPageWikiLink: YouTube
+wikiPageWikiLink: Ràdio_i_Televisió_d'Andorra
+wikiPageWikiLink: South_Yorkshire_Mayoral_Combined_Authority
+wikiPageWikiLink: File:M&S_Bank_Arena_1.jpg
+wikiPageExternalLink: https://eurovision.tv/
+semi: 2023-05-09
+semi: 2023-05-11
+yellow: Y
+thumbnail: Eurovision_Song_Contest_2023.svg?width=300
+lat: 50.8284
+lat: 51.45
+lat: 51.4817
+lat: 51.5072
+lat: 52.48
+lat: 52.5868
+lat: 52.9533
+lat: 53.3336
+lat: 53.3804
+lat: 53.3974
+lat: 53.4075
+lat: 53.4082
+lat: 53.4794
+lat: 53.8003
+lat: 54.5236
+lat: 54.607
+lat: 54.906
+lat: 54.961
+lat: 54.98
+lat: 54.9975
+lat: 55.8611
+lat: 55.953
+lat: 57.15
+long: -7.32
+long: -5.926
+long: -4.25
+long: -3.189
+long: -3.17917
+long: -2.99948
+long: -2.99194
+long: -2.99171
+long: -2.84972
+long: -2.58333
+long: -2.24528
+long: -2.1257
+long: -2.11
+long: -1.9025
+long: -1.849
+long: -1.61
+long: -1.5595
+long: -1.54972
+long: -1.4697
+long: -1.381
+long: -1.15
+long: -0.13947
+long: -0.1275
+vote: Each country awards one set  or two sets  of 12, 10, 8–1 points to ten songs. Votes from viewers in non-participating countries are aggregated and awarded as one set of points.
+align: left
+alt: Eurovision Song Contest 2023 Logo
+caption: Location of host venue  and other contest-related sites and events
+caption: The Pier Head, location of the Eurovision Village
+caption: Location of host city Liverpool , finalist city Glasgow , shortlisted cities , other bidding cities  and cities that expressed interest but ultimately did not bid
+debut: None
+direction: vertical
+float: left
+float: right
+host: BBC
+image: Liverpool_Pier_Head.jpg
+label: Liverpool
+label: (Airport)
+label: (Eurovision Village)
+label: (Liverpool Arena)
+logo: Eurovision Song Contest 2023.svg
+mark: Black pog.svg
+mark: Blue pog.svg
+mark: Red pog.svg
+mark: Green pog.svg
+mark: Yellow pog.svg
+mark: Ic_local_airport_48px.svg
+position: bottom
+position: left
+position: right
+position: top
+venue: Liverpool_Arena
+venue: Liverpool, United Kingdom
+width: 200
+width: 325
+year: 2023
+abstract: The Eurovision Song Contest 2023 is the upcoming 67th edition of the Eurovision Song Contest. It is set to take place in Liverpool, United Kingdom, after Ukraine, winner of the 2022 contest with the song "Stefania" by Kalush Orchestra, was unable to meet the demands of hosting the event due to security concerns caused by the 2022 Russian invasion of Ukraine. Organised by the European Broadcasting Union (EBU) and host broadcaster the British Broadcasting Corporation (BBC) on behalf of the Public Broadcasting Company of Ukraine (UA:PBC), the contest will be held at the Liverpool Arena, and will consist of two semi-finals on 9 and 11 May, and a final on 13 May 2023. It will be a record-extending ninth time that the United Kingdom hosts the contest, having last done so in Birmingham in 1998. Thirty-seven countries will participate in the contest, with Bulgaria, Montenegro and North Macedonia all deciding against participation, mainly due to the economic impact of the 2021–2022 global energy crisis.
+entries: 37
+final: 2023-05-13
+exproducer: Andrew Cartmell
+exsupervisor: Martin_Österdahl
+greenSa: Y
+purple: Y
+return: None
+wasDerivedFrom: Eurovision_Song_Contest_2023?oldid=1124863901&ns=0
+wikiPageLength: 72042
+isPrimaryTopicOf: Eurovision_Song_Contest_2023
+	

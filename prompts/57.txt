@@ -1,0 +1,70 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om UCI World Tour 2023, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	label: 2023 UCI World Tour
+comment: The 2023 UCI World Tour will be a series of races that include thirty-five road cycling events throughout the . The tour will start with the Tour Down Under on 17 January, and conclude with the Tour of Guangxi on 17 October.
+name: 2023
+subject: Category:UCI_World_Tour
+wikiPageID: 71944409
+wikiPageRevisionID: 1124825066
+wikiPageWikiLink: Cadel_Evans_Great_Ocean_Road_Race
+wikiPageWikiLink: 2022_UCI_World_Tour
+wikiPageWikiLink: BinckBank_Tour
+wikiPageWikiLink: Bretagne_Classic
+wikiPageWikiLink: Volta_a_Catalunya
+wikiPageWikiLink: Critérium_du_Dauphiné
+wikiPageWikiLink: Classic_Brugge–De_Panne
+wikiPageWikiLink: Clásica_de_San_Sebastián
+wikiPageWikiLink: Gent–Wevelgem
+wikiPageWikiLink: Giro_d'Italia
+wikiPageWikiLink: Giro_di_Lombardia
+wikiPageWikiLink: Grand_Prix_Cycliste_de_Montréal
+wikiPageWikiLink: Grand_Prix_Cycliste_de_Québec
+wikiPageWikiLink: Liège–Bastogne–Liège
+wikiPageWikiLink: Strade_Bianche
+wikiPageWikiLink: Tirreno–Adriatico
+wikiPageWikiLink: Tour_Down_Under
+wikiPageWikiLink: Tour_de_France
+wikiPageWikiLink: Tour_de_Pologne
+wikiPageWikiLink: Tour_de_Romandie
+wikiPageWikiLink: Tour_de_Suisse
+wikiPageWikiLink: Tour_of_Flanders
+wikiPageWikiLink: Tour_of_Guangxi
+wikiPageWikiLink: Tour_of_the_Basque_Country
+wikiPageWikiLink: UAE_Tour
+wikiPageWikiLink: Vuelta_a_España
+wikiPageWikiLink: Category:UCI_World_Tour
+wikiPageWikiLink: Amstel_Gold_Race
+wikiPageWikiLink: Dwars_door_Vlaanderen
+wikiPageWikiLink: E3_Saxo_Bank_Classic
+wikiPageWikiLink: Eschborn–Frankfurt
+wikiPageWikiLink: Paris–Nice
+wikiPageWikiLink: Paris–Roubaix
+wikiPageWikiLink: Hamburg_Cyclassics
+wikiPageWikiLink: La_Flèche_Wallonne
+wikiPageWikiLink: Milan–San_Remo
+wikiPageWikiLink: Omloop_Het_Nieuwsblad
+wikiPageWikiLink: Road_bicycle_racing
+wikiPageWikiLink: 2023_in_men's_road_cycling
+wikiPageExternalLink: uci-worldtour
+rounds: 35
+dates: --01-17
+location: Australia
+location: Canada
+location: China
+location: Europe
+location: United Arab Emirates
+location: 
+next: 2024
+previous: 2022
+edition: 15
+abstract: The 2023 UCI World Tour will be a series of races that include thirty-five road cycling events throughout the . The tour will start with the Tour Down Under on 17 January, and conclude with the Tour of Guangxi on 17 October.
+wasDerivedFrom: 2023_UCI_World_Tour?oldid=1124825066&ns=0
+wikiPageLength: 4400
+isPrimaryTopicOf: 2023_UCI_World_Tour
+	

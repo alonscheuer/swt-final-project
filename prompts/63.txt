@@ -1,0 +1,283 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om U21-Europamästerskapet i fotboll 2023, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: Event
+type: SportsEvent
+type: Event
+type: SocietalEvent
+type: Tournament
+type: Q1656682
+type: Q500834
+type: Event
+type: SoccerTournament
+type: SportsEvent
+label: 2023 UEFA European Under-21 Championship
+comment: The 2023 UEFA European Under-21 Championship (also known as UEFA Under-21 Euro 2023) will be the 24th edition of the UEFA European Under-21 Championship (27th edition if the Under-23 era is also included), the biennial international youth football championship organised by UEFA for the men's under-21 national teams of Europe. A total of 16 teams will play in the final tournament, and only players born on or after 1 January 2000 are eligible to participate. Germany are the defending champions.
+name: UEFA European Under-21 Championship
+depiction: Steaua_stadium_during_inaugural_match_between_Steaua_Bucharend_and_OFK_Belgrade.jpg
+depiction: LocomotiveStadium.jpg
+depiction: Rapid_Stadium_opening,_March_2022_(1).jpg
+depiction: Geo-Esp_11.09.12.jpg
+depiction: Cluj-Napoca_Stadionul_Dr._Constantin_Rădulescu_1.jpg
+depiction: Ramaz_Shengelia_Stadium_20140309.jpg
+depiction: Cluj-Napoca_Cluj_Arena_1.jpg
+depiction: Batumi-stadio-georgia-1_-_Copy.jpg
+subject: Category:2022–23_in_UEFA_football
+subject: Category:2023_UEFA_European_Under-21_Championship
+subject: Category:2023_in_youth_association_football
+subject: Category:Football_at_the_2024_Summer_Olympics_–_Men's_qualification
+subject: Category:Scheduled_association_football_competitions
+subject: Category:International_association_football_competitions_hosted_by_Romania
+subject: Category:UEFA_European_Under-21_Championship
+subject: Category:International_association_football_competitions_hosted_by_Georgia_(country)
+wikiPageID: 66003036
+wikiPageRevisionID: 1123071725
+wikiPageWikiLink: Poti
+wikiPageWikiLink: Romania
+wikiPageWikiLink: Romanian_Football_Federation
+wikiPageWikiLink: 2007_UEFA_European_Under-21_Championship
+wikiPageWikiLink: 2009_UEFA_European_Under-21_Championship
+wikiPageWikiLink: 2011_UEFA_European_Under-21_Championship
+wikiPageWikiLink: Category:2022–23_in_UEFA_football
+wikiPageWikiLink: Category:2023_UEFA_European_Under-21_Championship
+wikiPageWikiLink: Category:2023_in_youth_association_football
+wikiPageWikiLink: Category:Football_at_the_2024_Summer_Olympics_–_Men's_qualification
+wikiPageWikiLink: Category:Scheduled_association_football_competitions
+wikiPageWikiLink: Batumi
+wikiPageWikiLink: Batumi_Stadium
+wikiPageWikiLink: Boris_Paichadze_Dinamo_Arena
+wikiPageWikiLink: UTC+03:00
+wikiPageWikiLink: Eastern_European_Summer_Time
+wikiPageWikiLink: 1982_UEFA_European_Under-21_Championship
+wikiPageWikiLink: 1984_UEFA_European_Under-21_Championship
+wikiPageWikiLink: 1986_UEFA_European_Under-21_Championship
+wikiPageWikiLink: 1988_UEFA_European_Under-21_Championship
+wikiPageWikiLink: 1992_UEFA_European_Under-21_Championship
+wikiPageWikiLink: 1994_UEFA_European_Under-21_Championship
+wikiPageWikiLink: Cluj-Napoca
+wikiPageWikiLink: Cluj_Arena
+wikiPageWikiLink: Georgia_(country)
+wikiPageWikiLink: Georgian_Football_Federation
+wikiPageWikiLink: Germany_national_under-21_football_team
+wikiPageWikiLink: Giurgiu
+wikiPageWikiLink: 2017_UEFA_European_Under-21_Championship
+wikiPageWikiLink: 2019_UEFA_European_Under-21_Championship
+wikiPageWikiLink: 2019_UEFA_European_Under-21_Championship_qualification
+wikiPageWikiLink: Stadionul_Dr._Constantin_Rădulescu
+wikiPageWikiLink: Stadionul_Marin_Anastasovici
+wikiPageWikiLink: Stadionul_Rapid-Giulești
+wikiPageWikiLink: Stadionul_Steaua_(2021)
+wikiPageWikiLink: Fazisi_Stadium
+wikiPageWikiLink: Overtime_(sports)
+wikiPageWikiLink: Penalty_shoot-out_(association_football)
+wikiPageWikiLink: Points_(association_football)
+wikiPageWikiLink: UTC+04:00
+wikiPageWikiLink: 1996_UEFA_European_Under-21_Championship
+wikiPageWikiLink: 1998_UEFA_European_Under-21_Championship
+wikiPageWikiLink: 2000_UEFA_European_Under-21_Championship
+wikiPageWikiLink: 2002_UEFA_European_Under-21_Championship
+wikiPageWikiLink: 2004_UEFA_European_Under-21_Championship
+wikiPageWikiLink: 2006_UEFA_European_Under-21_Championship
+wikiPageWikiLink: Category:International_association_football_competitions_hosted_by_Romania
+wikiPageWikiLink: Category:UEFA_European_Under-21_Championship
+wikiPageWikiLink: Bucharest
+wikiPageWikiLink: UEFA
+wikiPageWikiLink: UEFA_European_Under-21_Championship
+wikiPageWikiLink: 2013_UEFA_European_Under-21_Championship
+wikiPageWikiLink: 2015_UEFA_European_Under-21_Championship
+wikiPageWikiLink: 2021_UEFA_European_Under-21_Championship
+wikiPageWikiLink: 2021_UEFA_European_Under-21_Championship_qualification
+wikiPageWikiLink: 2022_Russian_invasion_of_Ukraine
+wikiPageWikiLink: 2023_UEFA_European_Under-21_Championship_qualification
+wikiPageWikiLink: 2023_UEFA_European_Under-21_Championship_qualification_Group_A
+wikiPageWikiLink: 2023_UEFA_European_Under-21_Championship_qualification_Group_B
+wikiPageWikiLink: 2023_UEFA_European_Under-21_Championship_qualification_Group_C
+wikiPageWikiLink: 2023_UEFA_European_Under-21_Championship_qualification_Group_D
+wikiPageWikiLink: 2023_UEFA_European_Under-21_Championship_qualification_Group_E
+wikiPageWikiLink: 2023_UEFA_European_Under-21_Championship_qualification_Group_F
+wikiPageWikiLink: 2023_UEFA_European_Under-21_Championship_qualification_Group_G
+wikiPageWikiLink: 2023_UEFA_European_Under-21_Championship_qualification_Group_H
+wikiPageWikiLink: 2023_UEFA_European_Under-21_Championship_qualification_Group_I
+wikiPageWikiLink: 2023_UEFA_European_Under-21_Championship_qualification_play-offs
+wikiPageWikiLink: 2024_Summer_Olympics
+wikiPageWikiLink: Czechoslovakia_national_under-21_football_team
+wikiPageWikiLink: Football_at_the_1900_Summer_Olympics
+wikiPageWikiLink: Football_at_the_1908_Summer_Olympics
+wikiPageWikiLink: Football_at_the_1920_Summer_Olympics
+wikiPageWikiLink: Football_at_the_1924_Summer_Olympics
+wikiPageWikiLink: Football_at_the_1928_Summer_Olympics
+wikiPageWikiLink: Football_at_the_1948_Summer_Olympics
+wikiPageWikiLink: Football_at_the_1952_Summer_Olympics
+wikiPageWikiLink: Football_at_the_1960_Summer_Olympics
+wikiPageWikiLink: Football_at_the_1968_Summer_Olympics
+wikiPageWikiLink: Football_at_the_1976_Summer_Olympics
+wikiPageWikiLink: Football_at_the_1984_Summer_Olympics
+wikiPageWikiLink: Football_at_the_1996_Summer_Olympics_–_Men's_tournament
+wikiPageWikiLink: Football_at_the_2020_Summer_Olympics_–_Men's_tournament
+wikiPageWikiLink: Football_at_the_Summer_Olympics
+wikiPageWikiLink: France_Olympic_football_team
+wikiPageWikiLink: Central_European_Time
+wikiPageWikiLink: Georgia_Time
+wikiPageWikiLink: Goal_difference
+wikiPageWikiLink: Category:International_association_football_competitions_hosted_by_Georgia_(country)
+wikiPageWikiLink: Tbilisi
+wikiPageWikiLink: Arena_Națională
+wikiPageWikiLink: Association_football
+wikiPageWikiLink: Ploiești
+wikiPageWikiLink: Ilie_Oană_Stadium
+wikiPageWikiLink: Kutaisi
+wikiPageWikiLink: Mikheil_Meskhi_Stadium
+wikiPageWikiLink: Ramaz_Shengelia_Stadium
+wikiPageWikiLink: Rapid_Arena
+wikiPageWikiLink: Stadionul_Arcul_de_Triumf
+wikiPageWikiLink: Dr._Constantin_Rădulescu_Stadium
+wikiPageWikiLink: Football_at_the_2024_Summer_Olympics_–_Men's_tournament
+wikiPageWikiLink: File:LocomotiveStadium.jpg
+wikiPageWikiLink: File:Geo-Esp_11.09.12.jpg
+wikiPageWikiLink: File:Rapid_Stadium_opening,_March_2022_(1).jpg
+wikiPageWikiLink: File:Steaua_stadium_during_inaugural_match_between_Steaua_Bucharend_and_OFK_Belgrade.jpg
+wikiPageWikiLink: File:Batumi-stadio-georgia-1_-_Copy.jpg
+wikiPageWikiLink: File:Cluj-Napoca_Cluj_Arena_1.jpg
+wikiPageWikiLink: File:Cluj-Napoca_Stadionul_Dr._Constantin_Rădulescu_1.jpg
+wikiPageWikiLink: File:Ramaz_Shengelia_Stadium_20140309.jpg
+wikiPageExternalLink: https://www.uefa.com/under21/
+wikiPageExternalLink: https://www.uefa.com/under21/match/2036122/
+wikiPageExternalLink: https://www.uefa.com/under21/match/2036123/
+wikiPageExternalLink: https://www.uefa.com/under21/match/2036124/
+wikiPageExternalLink: https://www.uefa.com/under21/match/2036125/
+wikiPageExternalLink: https://www.uefa.com/under21/match/2036126/
+wikiPageExternalLink: https://www.uefa.com/under21/match/2036127/
+wikiPageExternalLink: https://www.uefa.com/under21/match/2036128/
+wikiPageExternalLink: https://www.uefa.com/under21/match/2036129/
+wikiPageExternalLink: https://www.uefa.com/under21/match/2036130/
+wikiPageExternalLink: https://www.uefa.com/under21/match/2036131/
+wikiPageExternalLink: https://www.uefa.com/under21/match/2036132/
+wikiPageExternalLink: https://www.uefa.com/under21/match/2036133/
+wikiPageExternalLink: https://www.uefa.com/under21/match/2036134/
+wikiPageExternalLink: https://www.uefa.com/under21/match/2036135/
+wikiPageExternalLink: https://www.uefa.com/under21/match/2036136/
+wikiPageExternalLink: https://www.uefa.com/under21/match/2036137/
+wikiPageExternalLink: https://www.uefa.com/under21/match/2036138/
+wikiPageExternalLink: https://www.uefa.com/under21/match/2036139/
+wikiPageExternalLink: https://www.uefa.com/under21/match/2036140/
+wikiPageExternalLink: https://www.uefa.com/under21/match/2036141/
+wikiPageExternalLink: https://www.uefa.com/under21/match/2036142/
+wikiPageExternalLink: https://www.uefa.com/under21/match/2036143/
+wikiPageExternalLink: https://www.uefa.com/under21/match/2036144/
+wikiPageExternalLink: https://www.uefa.com/under21/match/2036145/
+wikiPageExternalLink: https://www.uefa.com/under21/match/2036146/
+wikiPageExternalLink: https://www.uefa.com/under21/match/2036147/
+wikiPageExternalLink: https://www.uefa.com/under21/match/2036148/
+wikiPageExternalLink: https://www.uefa.com/under21/match/2036149/
+wikiPageExternalLink: https://www.uefa.com/under21/match/2036150/
+wikiPageExternalLink: https://www.uefa.com/under21/match/2036151/
+wikiPageExternalLink: https://www.uefa.com/under21/match/2036152/
+wikiPageExternalLink: https://www.uefa.com/under21/standings/
+thumbnail: Steaua_stadium_during_inaugural_match_between_Steaua_Bucharend_and_OFK_Belgrade.jpg?width=300
+cities: 5
+confederations: 1
+country: Georgia
+country: Romania
+date: 2023-06-21
+date: 2023-06-22
+date: 2023-06-24
+date: 2023-06-25
+date: 2023-06-27
+date: 2023-06-28
+date: 2023-07-01
+date: 2023-07-02
+date: 2023-07-05
+date: 2023-07-08
+dates: --06-21
+location: Batumi
+location: Cluj-Napoca
+location: Bucharest
+location: Tbilisi
+location: Kutaisi
+nextseason: 2025
+numTeams: 16
+otherTitles: 21
+otherTitles: Campionatul European de Fotbal Sub-21
+prevseason: 2021
+report: https://www.uefa.com/under21/match/2036122/
+report: https://www.uefa.com/under21/match/2036123/
+report: https://www.uefa.com/under21/match/2036124/
+report: https://www.uefa.com/under21/match/2036125/
+report: https://www.uefa.com/under21/match/2036126/
+report: https://www.uefa.com/under21/match/2036127/
+report: https://www.uefa.com/under21/match/2036128/
+report: https://www.uefa.com/under21/match/2036129/
+report: https://www.uefa.com/under21/match/2036130/
+report: https://www.uefa.com/under21/match/2036131/
+report: https://www.uefa.com/under21/match/2036132/
+report: https://www.uefa.com/under21/match/2036133/
+report: https://www.uefa.com/under21/match/2036134/
+report: https://www.uefa.com/under21/match/2036135/
+report: https://www.uefa.com/under21/match/2036136/
+report: https://www.uefa.com/under21/match/2036137/
+report: https://www.uefa.com/under21/match/2036138/
+report: https://www.uefa.com/under21/match/2036139/
+report: https://www.uefa.com/under21/match/2036140/
+report: https://www.uefa.com/under21/match/2036141/
+report: https://www.uefa.com/under21/match/2036142/
+report: https://www.uefa.com/under21/match/2036143/
+report: https://www.uefa.com/under21/match/2036144/
+report: https://www.uefa.com/under21/match/2036145/
+report: https://www.uefa.com/under21/match/2036146/
+report: https://www.uefa.com/under21/match/2036147/
+report: https://www.uefa.com/under21/match/2036148/
+report: https://www.uefa.com/under21/match/2036149/
+report: https://www.uefa.com/under21/match/2036150/
+report: https://www.uefa.com/under21/match/2036151/
+report: https://www.uefa.com/under21/match/2036152/
+score: SF1
+score: SF2
+score: QF1
+score: QF2
+score: QF3
+score: QF4
+stadium: Batumi
+stadium: Batumi_Stadium
+stadium: Boris_Paichadze_Dinamo_Arena
+stadium: Cluj_Arena
+stadium: Stadionul_Dr._Constantin_Rădulescu
+stadium: Stadionul_Rapid-Giulești
+stadium: Stadionul_Steaua_(2021)
+stadium: Mikheil_Meskhi_Stadium
+stadium: Ramaz_Shengelia_Stadium
+team: Runners-up Group A
+team: Runners-up Group B
+team: Runners-up Group C
+team: Winners Group A
+team: Winners Group B
+team: Winners Group C
+team: Winners Group D
+team: Winners QF1
+team: Winners QF2
+team: Winners QF3
+team: Winners QF4
+team: Winners SF1
+team: Winners SF2
+team: Runners-up Group D
+time: 1140.0
+time: 1200.0
+time: 1305.0
+time: 1320.0
+tourneyName: UEFA European Under-21 Championship
+venues: 8
+year: 2023
+abstract: The 2023 UEFA European Under-21 Championship (also known as UEFA Under-21 Euro 2023) will be the 24th edition of the UEFA European Under-21 Championship (27th edition if the Under-23 era is also included), the biennial international youth football championship organised by UEFA for the men's under-21 national teams of Europe. A total of 16 teams will play in the final tournament, and only players born on or after 1 January 2000 are eligible to participate. The tournament will be co-hosted by Romania and Georgia. Romania will host the opening match, while Georgia will host the final. Romania already hosted the 1998 UEFA European Under-21 Championship. Same as previous Under-21 Championships that were held one year prior to the Olympics, this tournament will serve as European qualifying for the Olympic football tournament. Besides France which qualify automatically as Olympic hosts, eligible teams will compete for qualifying for the men's football tournament of the 2024 Summer Olympics in Paris, where they will be represented by their under-23 national teams with maximum of three overage players allowed. Germany are the defending champions.
+wasDerivedFrom: 2023_UEFA_European_Under-21_Championship?oldid=1123071725&ns=0
+wikiPageLength: 38484
+time: 19:00
+time: 20:00
+time: 21:45
+time: 22:00
+isPrimaryTopicOf: 2023_UEFA_European_Under-21_Championship
+	

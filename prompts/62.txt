@@ -1,0 +1,151 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Kvalspelet till Europamästerskapet i fotboll 2024 (grupp C), skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: Event
+type: Event
+type: Q1656682
+type: Event
+label: UEFA Euro 2024 qualifying Group C
+comment: Group C of UEFA Euro 2024 qualifying is one of the ten groups to decide which teams will qualify for the UEFA Euro 2024 final tournament in Germany. Group C consists of five teams: England, Italy, Malta, North Macedonia and Ukraine. The teams will play against each other home-and-away in a round-robin format. The top two teams will qualify directly for the final tournament. The participants of the qualifying play-offs will be decided based on their performance in the 2022–23 UEFA Nations League.
+subject: Category:2022–23_in_English_football
+subject: Category:2022–23_in_Italian_football
+subject: Category:2022–23_in_Maltese_football
+subject: Category:2022–23_in_North_Macedonia_football
+subject: Category:2022–23_in_Ukrainian_football
+subject: Category:UEFA_Euro_2024_qualifying
+wikiPageID: 70800628
+wikiPageRevisionID: 1123778741
+wikiPageWikiLink: Category:2022–23_in_English_football
+wikiPageWikiLink: Category:2022–23_in_Italian_football
+wikiPageWikiLink: Category:2022–23_in_Maltese_football
+wikiPageWikiLink: Category:2022–23_in_North_Macedonia_football
+wikiPageWikiLink: Category:2022–23_in_Ukrainian_football
+wikiPageWikiLink: UTC+03:00
+wikiPageWikiLink: UTC±00:00
+wikiPageWikiLink: Ukraine_national_football_team
+wikiPageWikiLink: Ta'_Qali
+wikiPageWikiLink: England_national_football_team
+wikiPageWikiLink: London
+wikiPageWikiLink: Malta_national_football_team
+wikiPageWikiLink: Manchester
+wikiPageWikiLink: Skopje
+wikiPageWikiLink: Stadio_Diego_Armando_Maradona
+wikiPageWikiLink: Todor_Todoroski
+wikiPageWikiLink: Toše_Proeski_Arena
+wikiPageWikiLink: UEFA_Euro_2024
+wikiPageWikiLink: UEFA_Euro_2024_qualifying_play-offs
+wikiPageWikiLink: Wembley_Stadium
+wikiPageWikiLink: 2022_Russian_invasion_of_Ukraine
+wikiPageWikiLink: 2022–23_UEFA_Nations_League
+wikiPageWikiLink: North_Macedonia_national_football_team
+wikiPageWikiLink: Central_European_Summer_Time
+wikiPageWikiLink: Central_European_Time
+wikiPageWikiLink: Italy_national_football_team
+wikiPageWikiLink: Jean_Borg
+wikiPageWikiLink: Category:UEFA_Euro_2024_qualifying
+wikiPageWikiLink: UTC+01:00
+wikiPageWikiLink: UEFA_Euro_2024_qualifying
+wikiPageWikiLink: Naples
+wikiPageWikiLink: National_Stadium,_Ta'_Qali
+wikiPageWikiLink: Old_Trafford
+wikiPageWikiLink: Round-robin_tournament
+wikiPageWikiLink: UTC+02:00
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036364/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036456/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036387/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036409/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036433/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036478/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036501/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036386/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036455/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036479/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036502/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036294/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036317/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036318/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036340/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036363/
+wikiPageExternalLink: https://www.uefa.com/euro-2024/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036295/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036341/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036410/
+wikiPageExternalLink: https://www.uefa.com/european-qualifiers/match/2036432/
+date: 2023-03-23
+date: 2023-03-26
+date: 2023-06-16
+date: 2023-06-19
+date: 2023-09-09
+date: 2023-09-12
+date: 2023-10-14
+date: 2023-10-17
+date: 2023-11-17
+date: 2023-11-20
+id: Italy v Malta
+id: Malta v Italy
+id: England v Ukraine
+id: Ukraine v England
+id: England v Malta
+id: Italy v Ukraine
+id: Malta v England
+id: Ukraine v Italy
+id: Malta v Ukraine
+id: Ukraine v Malta
+id: England v Italy
+id: Italy v North Macedonia
+id: Italy v England
+id: England v North Macedonia
+id: Malta v North Macedonia
+id: North Macedonia v England
+id: North Macedonia v Italy
+id: North Macedonia v Malta
+id: North Macedonia v Ukraine
+id: Ukraine v North Macedonia
+report: https://www.uefa.com/european-qualifiers/match/2036364/
+report: https://www.uefa.com/european-qualifiers/match/2036456/
+report: https://www.uefa.com/european-qualifiers/match/2036387/
+report: https://www.uefa.com/european-qualifiers/match/2036409/
+report: https://www.uefa.com/european-qualifiers/match/2036433/
+report: https://www.uefa.com/european-qualifiers/match/2036478/
+report: https://www.uefa.com/european-qualifiers/match/2036501/
+report: https://www.uefa.com/european-qualifiers/match/2036386/
+report: https://www.uefa.com/european-qualifiers/match/2036455/
+report: https://www.uefa.com/european-qualifiers/match/2036479/
+report: https://www.uefa.com/european-qualifiers/match/2036502/
+report: https://www.uefa.com/european-qualifiers/match/2036294/
+report: https://www.uefa.com/european-qualifiers/match/2036317/
+report: https://www.uefa.com/european-qualifiers/match/2036318/
+report: https://www.uefa.com/european-qualifiers/match/2036340/
+report: https://www.uefa.com/european-qualifiers/match/2036363/
+report: https://www.uefa.com/european-qualifiers/match/2036295/
+report: https://www.uefa.com/european-qualifiers/match/2036341/
+report: https://www.uefa.com/european-qualifiers/match/2036410/
+report: https://www.uefa.com/european-qualifiers/match/2036432/
+stadium: Ta'_Qali
+stadium: London
+stadium: Manchester
+stadium: Skopje
+stadium: Stadio_Diego_Armando_Maradona
+stadium: Toše_Proeski_Arena
+stadium: Wembley_Stadium
+stadium: Naples
+stadium: National_Stadium,_Ta'_Qali
+stadium: Old_Trafford
+time: 1080.0
+time: 900.0
+time: 1245.0
+abstract: Group C of UEFA Euro 2024 qualifying is one of the ten groups to decide which teams will qualify for the UEFA Euro 2024 final tournament in Germany. Group C consists of five teams: England, Italy, Malta, North Macedonia and Ukraine. The teams will play against each other home-and-away in a round-robin format. The top two teams will qualify directly for the final tournament. The participants of the qualifying play-offs will be decided based on their performance in the 2022–23 UEFA Nations League.
+wasDerivedFrom: UEFA_Euro_2024_qualifying_Group_C?oldid=1123778741&ns=0
+wikiPageLength: 11216
+time: 15:00
+time: 18:00
+time: 20:45
+isPrimaryTopicOf: UEFA_Euro_2024_qualifying_Group_C
+	

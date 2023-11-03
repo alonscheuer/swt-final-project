@@ -1,0 +1,164 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Romandiet runt 2022, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	label: 2022 Tour de Romandie
+comment: The 2022 Tour de Romandie was a road cycling stage race held between 26 April and 1 May 2022 in Romandy, the French-speaking part of western Switzerland. It was the 75th edition of the Tour de Romandie and the 18th race of the 2022 UCI World Tour.
+name: 2022
+depiction: Jersey_cyan.svg
+depiction: Hillystage.svg
+depiction: Jersey_green.svg
+depiction: Jersey_red_number.svg
+depiction: Jersey_white.svg
+depiction: Mountainstage.svg
+depiction: Time_Trial.svg
+depiction: Jersey_yellow_number.svg
+depiction: Jersey_orange.svg
+subject: Category:Tour_de_Romandie
+subject: Category:2022_UCI_World_Tour
+subject: Category:2022_in_Swiss_sport
+subject: Category:April_2022_sports_events_in_Switzerland
+wikiPageID: 70607162
+wikiPageRevisionID: 1104971036
+wikiPageWikiLink: Carlos_Verona
+wikiPageWikiLink: Rohan_Dennis
+wikiPageWikiLink: Romandy
+wikiPageWikiLink: Romont
+wikiPageWikiLink: Category:Tour_de_Romandie
+wikiPageWikiLink: 2022_UCI_World_Tour
+wikiPageWikiLink: Category:2022_UCI_World_Tour
+wikiPageWikiLink: Category:2022_in_Swiss_sport
+wikiPageWikiLink: Category:April_2022_sports_events_in_Switzerland
+wikiPageWikiLink: Ben_Healy_(cyclist)
+wikiPageWikiLink: Ben_O'Connor_(cyclist)
+wikiPageWikiLink: Brandon_McNulty
+wikiPageWikiLink: Jon_Aberasturi
+wikiPageWikiLink: Juan_Ayuso
+wikiPageWikiLink: Patrick_Bevin
+wikiPageWikiLink: Rein_Taaramäe
+wikiPageWikiLink: Union_Cycliste_Internationale
+wikiPageWikiLink: Val_d'Anniviers
+wikiPageWikiLink: Valbroye
+wikiPageWikiLink: Villars-sur-Ollon
+wikiPageWikiLink: Individual_time_trial
+wikiPageWikiLink: Matteo_Sobrero
+wikiPageWikiLink: Mauro_Schmid
+wikiPageWikiLink: Maximilian_Schachmann
+wikiPageWikiLink: General_classification
+wikiPageWikiLink: Points_classification
+wikiPageWikiLink: Einer_Rubio
+wikiPageWikiLink: French_language
+wikiPageWikiLink: Georg_Steinhauser
+wikiPageWikiLink: Geraint_Thomas
+wikiPageWikiLink: Gino_Mäder
+wikiPageWikiLink: Thibaut_Pinot
+wikiPageWikiLink: Thomas_Champion_(cyclist)
+wikiPageWikiLink: Andreas_Leknessund
+wikiPageWikiLink: Andrey_Amador
+wikiPageWikiLink: Simon_Geschke
+wikiPageWikiLink: Steff_Cras
+wikiPageWikiLink: Steven_Kruijswijk
+wikiPageWikiLink: Combativity_award
+wikiPageWikiLink: Zinal
+wikiPageWikiLink: Óscar_Rodríguez_(cyclist)
+wikiPageWikiLink: Toms_Skujiņš
+wikiPageWikiLink: Tour_de_Romandie
+wikiPageWikiLink: 2021_Tour_de_Romandie
+wikiPageWikiLink: 2022_Russian_invasion_of_Ukraine
+wikiPageWikiLink: Abner_González
+wikiPageWikiLink: Aigle
+wikiPageWikiLink: Aleksandr_Vlasov_(cyclist)
+wikiPageWikiLink: Damiano_Caruso
+wikiPageWikiLink: Dylan_Teuns
+wikiPageWikiLink: Ethan_Hayter
+wikiPageWikiLink: Ethan_Vernon
+wikiPageWikiLink: Felix_Großschartner
+wikiPageWikiLink: Fernando_Gaviria
+wikiPageWikiLink: Finn_Fisher-Black
+wikiPageWikiLink: Nikias_Arndt
+wikiPageWikiLink: Ion_Izagirre
+wikiPageWikiLink: James_Knox_(cyclist)
+wikiPageWikiLink: Swiss_Cycling
+wikiPageWikiLink: UCI_WorldTeam
+wikiPageWikiLink: King_of_the_Mountains
+wikiPageWikiLink: La_Grande_Béroche
+wikiPageWikiLink: Lausanne
+wikiPageWikiLink: Switzerland
+wikiPageWikiLink: Sébastien_Reichenbach
+wikiPageWikiLink: Team_classification
+wikiPageWikiLink: Young_rider_classification
+wikiPageWikiLink: Dion_Smith
+wikiPageWikiLink: Marc_Hirschi
+wikiPageWikiLink: Krists_Neilands
+wikiPageWikiLink: Michael_Woods_(cyclist)
+wikiPageWikiLink: Mikkel_Frølich_Honoré
+wikiPageWikiLink: Nans_Peters
+wikiPageWikiLink: Neilson_Powless
+wikiPageWikiLink: Quinten_Hermans
+wikiPageWikiLink: Sean_Quinn_(cyclist)
+wikiPageWikiLink: Sepp_Kuss
+wikiPageWikiLink: Sergio_Higuita
+wikiPageWikiLink: Road_bicycle_racing
+wikiPageWikiLink: UCI_Professional_Continental
+wikiPageWikiLink: Lucas_Plapp
+wikiPageWikiLink: Antoine_Debons
+wikiPageWikiLink: Nils_Brun
+wikiPageWikiLink: Echallens
+wikiPageWikiLink: Cycling_stage_race
+wikiPageWikiLink: File:Hillystage.svg
+wikiPageWikiLink: File:Jersey_white.svg
+wikiPageWikiLink: File:Jersey_red_number.svg
+wikiPageWikiLink: File:Mountainstage.svg
+wikiPageWikiLink: File:Time_Trial.svg
+wikiPageWikiLink: File:Jersey_cyan.svg
+wikiPageWikiLink: File:Jersey_green.svg
+wikiPageWikiLink: File:Jersey_orange.svg
+wikiPageWikiLink: File:Jersey_yellow_number.svg
+wikiPageWikiLink: 2023_Tour_de_Romandie
+wikiPageExternalLink: stages%7Ctitle=Stages%7Cpublisher=ProCyclingStats%7Caccess-date=23
+youth: Juan_Ayuso
+youthColor: white
+youthNat: ESP
+thumbnail: Time_Trial.svg?width=300
+combativity: Nils_Brun
+combativityNat: SUI
+combativityTeam: Swiss_Cycling
+mountains: Toms_Skujiņš
+mountainsColor: light blue
+mountainsNat: LVA
+colwidth: 20
+date: --04-26
+distance: 712.36
+first: Aleksandr Vlasov
+next: 2023
+points: Ethan_Hayter
+points: yes
+previous: 2021
+second: Gino_Mäder
+series: 2022
+style: 20.0
+third: Simon_Geschke
+time: 64859.0
+title: Final points classification
+title: Final team classification
+title: Final mountains classification
+unit: km
+firstColor: green
+raceNo: 18
+seasonNo: 32
+pointsColor: orange
+pointsNat: GBR
+secondNat: SUI
+stages: 5
+thirdNat: GER
+abstract: The 2022 Tour de Romandie was a road cycling stage race held between 26 April and 1 May 2022 in Romandy, the French-speaking part of western Switzerland. It was the 75th edition of the Tour de Romandie and the 18th race of the 2022 UCI World Tour.
+combativityColor: red number
+rider: no
+wasDerivedFrom: 2022_Tour_de_Romandie?oldid=1104971036&ns=0
+wikiPageLength: 27848
+isPrimaryTopicOf: 2022_Tour_de_Romandie
+	

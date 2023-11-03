@@ -1,0 +1,58 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Världsmästerskapen i terränglöpning 2023, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: Event
+type: SportsEvent
+type: Event
+type: SocietalEvent
+type: Q1656682
+type: Event
+type: SportsEvent
+label: 2023 World Athletics Cross Country Championships
+comment: The 2023 World Athletics Cross Country Championships will take place on 18 February 2023 in Bathurst, Australia. It will be the event's 44th edition and the second time after Auckland in 1988 that the event will take place in Oceania. In March 2020 the course was revealed, to be held in the infield of the Mount Panorama Circuit. In December 2020, the event was postponed from 2021 to 2022 due to the COVID-19 pandemic and Australian travel restrictions. The event was once again postponed to 2023 in September 2021, due to Australian travel restrictions.
+name: 44
+depiction: Bathurst_2021_logo.png
+subject: Category:2023_in_athletics_(track_and_field)
+subject: Category:Cross_country_running_in_Australia
+subject: Category:Scheduled_sports_events
+subject: Category:International_athletics_competitions_hosted_by_Australia
+subject: Category:World_Athletics_Cross_Country_Championships
+subject: Category:Athletics_(track_and_field)_events_postponed_due_to_the_COVID-19_pandemic
+wikiPageID: 66002206
+wikiPageRevisionID: 1116184067
+wikiPageWikiLink: Category:2023_in_athletics_(track_and_field)
+wikiPageWikiLink: Category:Cross_country_running_in_Australia
+wikiPageWikiLink: Bathurst,_New_South_Wales
+wikiPageWikiLink: Category:Scheduled_sports_events
+wikiPageWikiLink: 1988_IAAF_World_Cross_Country_Championships
+wikiPageWikiLink: Mount_Panorama_Circuit
+wikiPageWikiLink: Category:International_athletics_competitions_hosted_by_Australia
+wikiPageWikiLink: 2019_IAAF_World_Cross_Country_Championships
+wikiPageWikiLink: Category:World_Athletics_Cross_Country_Championships
+wikiPageWikiLink: Australia
+wikiPageWikiLink: COVID-19_pandemic
+wikiPageWikiLink: Category:Athletics_(track_and_field)_events_postponed_due_to_the_COVID-19_pandemic
+wikiPageWikiLink: World_Athletics_Cross_Country_Championships
+wikiPageWikiLink: World_Athletics
+wikiPageWikiLink: Bathurst,_Australia
+wikiPageWikiLink: 2025_World_Athletics_Cross_Country_Championships
+thumbnail: Bathurst_2021_logo.png?width=300
+organisers: World_Athletics
+logo: Bathurst 2021 logo.png
+next: 2025
+previous: 2019
+size: 250
+edition: 44
+hostCity: Bathurst,_New_South_Wales
+hostCity: Australia
+abstract: The 2023 World Athletics Cross Country Championships will take place on 18 February 2023 in Bathurst, Australia. It will be the event's 44th edition and the second time after Auckland in 1988 that the event will take place in Oceania. In March 2020 the course was revealed, to be held in the infield of the Mount Panorama Circuit. In December 2020, the event was postponed from 2021 to 2022 due to the COVID-19 pandemic and Australian travel restrictions. The event was once again postponed to 2023 in September 2021, due to Australian travel restrictions.
+wasDerivedFrom: 2023_World_Athletics_Cross_Country_Championships?oldid=1116184067&ns=0
+wikiPageLength: 4378
+isPrimaryTopicOf: 2023_World_Athletics_Cross_Country_Championships
+	

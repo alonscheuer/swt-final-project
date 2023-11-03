@@ -1,0 +1,135 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Panamerikanska spelen 2023, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: Event
+type: SportsEvent
+type: Event
+type: SocietalEvent
+type: Q1656682
+type: Event
+type: SportsEvent
+label: 2023 Pan American Games
+comment: The 2023 Pan American Games (Spanish: Juegos Panamericanos de 2023), officially the XIX Pan American Games and commonly known as Santiago 2023, is a forthcoming international multi-sport event governed by the Panam Sports Organization, scheduled to be held in Santiago, Chile from 20 October to 5 November 2023. These are the first Pan American Games to be held in Chile, and the eighth to be held in South America.
+name: XIX Pan American Games
+homepage: http://www.santiago2023.org/
+name: XIX Pan American Games
+depiction: 2015_Pan_American_Games_Participating_Countries.png
+depiction: 180°_Panorama_Estadio_Nacional_Santiago_Chile.jpg
+depiction: 2023_Pan_American_Games_logo.svg
+subject: Category:Sports_competitions_in_Santiago
+subject: Category:2023_Pan_American_Games
+subject: Category:2023_in_Chile
+subject: Category:2023_in_South_American_sport
+subject: Category:2023_in_multi-sport_events
+subject: Category:Scheduled_multi-sport_events
+subject: Category:Multi-sport_events_in_Chile
+subject: Category:International_sports_competitions_hosted_by_Chile
+subject: Category:Pan_American_Games
+wikiPageID: 49636858
+wikiPageRevisionID: 1124128703
+wikiPageWikiLink: Prague
+wikiPageWikiLink: President_of_Chile
+wikiPageWikiLink: Santiago
+wikiPageWikiLink: Santiago_Metropolitan_Region
+wikiPageWikiLink: Olympic_sports
+wikiPageWikiLink: Category:Sports_competitions_in_Santiago
+wikiPageWikiLink: 2023_Parapan_American_Games
+wikiPageWikiLink: 2027_Pan_American_Games
+wikiPageWikiLink: Category:2023_Pan_American_Games
+wikiPageWikiLink: Category:2023_in_Chile
+wikiPageWikiLink: Category:2023_in_South_American_sport
+wikiPageWikiLink: Category:2023_in_multi-sport_events
+wikiPageWikiLink: Category:Scheduled_multi-sport_events
+wikiPageWikiLink: Biobío_Region
+wikiPageWikiLink: Bodybuilding
+wikiPageWikiLink: Araucaria_araucana
+wikiPageWikiLink: Category:Nations_at_the_2023_Pan_American_Games
+wikiPageWikiLink: Valparaíso
+wikiPageWikiLink: Valparaíso_Region
+wikiPageWikiLink: Viña_del_Mar
+wikiPageWikiLink: Wildlife_of_Chile
+wikiPageWikiLink: 1987_Pan_American_Games
+wikiPageWikiLink: Mediapro
+wikiPageWikiLink: Gabriel_Boric
+wikiPageWikiLink: Mitsubishi_Motors
+wikiPageWikiLink: Molten_Corporation
+wikiPageWikiLink: Multi-sport_event
+wikiPageWikiLink: 1975_Pan_American_Games
+wikiPageWikiLink: Category:Multi-sport_events_in_Chile
+wikiPageWikiLink: 2018_Summer_Youth_Olympics
+wikiPageWikiLink: 2019_Pan_American_Games
+wikiPageWikiLink: Lima
+wikiPageWikiLink: Bodybuilding_at_the_2019_Pan_American_Games
+wikiPageWikiLink: Pan_American_Games
+wikiPageWikiLink: Pan_American_Sports_Organization
+wikiPageWikiLink: Many-colored_rush_tyrant
+wikiPageWikiLink: Michelob
+wikiPageWikiLink: Microlophus_atacamensis
+wikiPageWikiLink: Category:International_sports_competitions_hosted_by_Chile
+wikiPageWikiLink: Category:Pan_American_Games
+wikiPageWikiLink: Buenos_Aires
+wikiPageWikiLink: Toronto
+wikiPageWikiLink: USD
+wikiPageWikiLink: 2022_South_American_Games
+wikiPageWikiLink: 2023_Central_American_and_Caribbean_Games
+wikiPageWikiLink: 2024_Summer_Olympics
+wikiPageWikiLink: Algarrobo,_Chile
+wikiPageWikiLink: Estadio_Nacional_Julio_Martínez_Prádanos
+wikiPageWikiLink: Breakdancing
+wikiPageWikiLink: 2015_Pan_American_Games
+wikiPageWikiLink: Televisión_Nacional_de_Chile
+wikiPageWikiLink: Argentina
+wikiPageWikiLink: Association_of_National_Olympic_Committees
+wikiPageWikiLink: ADN_Radio_Chile
+wikiPageWikiLink: Chile
+wikiPageWikiLink: Social_housing
+wikiPageWikiLink: South_America
+wikiPageWikiLink: O'Higgins_Region
+wikiPageWikiLink: Volleyball
+wikiPageWikiLink: List_of_water_sports
+wikiPageWikiLink: Pan_American_Games_sports
+wikiPageWikiLink: Panam_Sports
+wikiPageWikiLink: South_American_cougar
+wikiPageWikiLink: File:2015_Pan_American_Games_Participating_Countries.png
+wikiPageWikiLink: Casillero_del_Diablo
+wikiPageWikiLink: File:180°_Panorama_Estadio_Nacional_Santiago_Chile.jpg
+wikiPageExternalLink: http://www.santiago2023.org/
+wikiPageExternalLink: www.panamsports.org
+thumbnail: 2023_Pan_American_Games_logo.svg?width=300
+officiallyClosedBy: TBA
+torchLabel: Cauldron lighter
+torchLighter: TBA
+events: 417
+caption: Logo of the 2023 Pan American Games
+host: Santiago, Chile
+logo: 2023
+motto: ''
+motto: Dream, Play, Win
+motto: Soñar, Jugar, Ganar
+next: 2027
+previous: 2019
+size: 250
+stadium: Estadio_Nacional_Julio_Martínez_Prádanos
+title: Santiago
+title: XIX Pan American Games
+athletesParticipating: 6909
+nationsParticipating: 41
+closingCeremony: --11-05
+officiallyOpenedBy: President_of_Chile
+officiallyOpenedBy: Gabriel_Boric
+openingCeremony: --10-20
+abstract: The 2023 Pan American Games (Spanish: Juegos Panamericanos de 2023), officially the XIX Pan American Games and commonly known as Santiago 2023, is a forthcoming international multi-sport event governed by the Panam Sports Organization, scheduled to be held in Santiago, Chile from 20 October to 5 November 2023. These are the first Pan American Games to be held in Chile, and the eighth to be held in South America. The games are scheduled to be held in 39 venues across in the Santiago Metropolitan Region and three other regions of Chile. The Pan American Games and the 2023 Parapan American Games were organized by the Santiago Organizing Committee for the 2023 Pan and Parapan American Games.
+hypernym: Event
+wasDerivedFrom: 2023_Pan_American_Games?oldid=1124128703&ns=0
+wikiPageLength: 22651
+motto: ''
+motto: Dream, Play, Win
+motto: Soñar, Jugar, Ganar
+isPrimaryTopicOf: 2023_Pan_American_Games
+	

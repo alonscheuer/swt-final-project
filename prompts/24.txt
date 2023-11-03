@@ -1,0 +1,171 @@
+
+	Du är en hjälpsam assistent vars uppgift är att skriva en Wikipedia-artikel om Freestyle vid olympiska vinterspelen 2022, skriv artikeln på svenska.
+	Du får ENDAST använda nedanstående egenskapsvärdepar som din informationskälla.
+	Du behöver inte förklara varför du inte kan skapa en fullständig wikipedia artikel eller om du inte vet så får du gissa så bra du kan. 
+ 	Jag vill ENDAST ha Wikipedia artikeln, jag behöver ingen information om hur du har skapat artikeln. 
+  	Lägg inte till några nya källor. Skriv artikeln så likt Wikipedia som möjligt. Skriv artikeln så utförligt som möjligt.
+	Svara på svenska.  
+
+	type: Thing
+type: Event
+type: SportsEvent
+type: Event
+type: SocietalEvent
+type: Q1656682
+type: OlympicEvent
+type: Event
+type: Olympics
+type: SportsEvent
+label: Freestyle skiing at the 2022 Winter Olympics
+comment: Freestyle skiing at the 2022 Winter Olympics were held at the Genting Snow Park in Zhangjiakou and Big Air Shougang in Beijing, China. The events were held between 3 and 19 February 2022. A total of 13 freestyle skiing events were held.
+homepage: DigitalCollectionAttachmentDownloadHandler.ashx%3FparentDocumentId=1568639&documentId=1568645
+depiction: Freestyle_skiing_pictogram.svg
+subject: Category:2022_in_freestyle_skiing
+subject: Category:Freestyle_skiing_at_the_2022_Winter_Olympics
+subject: Category:Freestyle_skiing_at_the_Winter_Olympics
+subject: Category:2022_Winter_Olympics_events
+wikiPageID: 68461042
+wikiPageRevisionID: 1108176038
+wikiPageWikiLink: Cassie_Sharpe
+wikiPageWikiLink: Qi_Guangpu
+wikiPageWikiLink: Sandra_Näslund
+wikiPageWikiLink: National_Olympic_Committee
+wikiPageWikiLink: Category:2022_in_freestyle_skiing
+wikiPageWikiLink: Beijing
+wikiPageWikiLink: Big_Air_Shougang
+wikiPageWikiLink: Birk_Ruud
+wikiPageWikiLink: David_Wise_(freestyle_skier)
+wikiPageWikiLink: Mathilde_Gremaud
+wikiPageWikiLink: Megan_Nick
+wikiPageWikiLink: Ryan_Regez
+wikiPageWikiLink: Christopher_Lillis
+wikiPageWikiLink: Colby_Stevenson
+wikiPageWikiLink: Eileen_Gu
+wikiPageWikiLink: Freestyle_skiing_at_the_Winter_Olympics
+wikiPageWikiLink: Category:Freestyle_skiing_at_the_2022_Winter_Olympics
+wikiPageWikiLink: Category:Freestyle_skiing_at_the_Winter_Olympics
+wikiPageWikiLink: 2018_Winter_Olympics
+wikiPageWikiLink: Lewis_Irving
+wikiPageWikiLink: Zhangjiakou
+wikiPageWikiLink: Walter_Wallberg
+wikiPageWikiLink: 2022_Winter_Olympics
+wikiPageWikiLink: Alex_Ferreira
+wikiPageWikiLink: Alex_Fiva
+wikiPageWikiLink: Alex_Hall_(skier)
+wikiPageWikiLink: Anastasia_Smirnova_(freestyle_skier)
+wikiPageWikiLink: Daniela_Maier
+wikiPageWikiLink: Category:2022_Winter_Olympics_events
+wikiPageWikiLink: Fanny_Smith
+wikiPageWikiLink: Nick_Goepper
+wikiPageWikiLink: Nico_Porteous
+wikiPageWikiLink: Genting_Snow_Park
+wikiPageWikiLink: Hanna_Huskova
+wikiPageWikiLink: Henrik_Harlaut
+wikiPageWikiLink: International_Olympic_Committee
+wikiPageWikiLink: Jaelin_Kauf
+wikiPageWikiLink: Jakara_Anthony
+wikiPageWikiLink: Tess_Ledeux
+wikiPageWikiLink: Ashley_Caldwell
+wikiPageWikiLink: China
+wikiPageWikiLink: Jesper_Tjäder
+wikiPageWikiLink: Jia_Zongyang
+wikiPageWikiLink: Justin_Schoenefeld
+wikiPageWikiLink: Kelly_Sildaru
+wikiPageWikiLink: Marielle_Thompson
+wikiPageWikiLink: Marion_Thénault
+wikiPageWikiLink: Freestyle_skiing_at_the_2018_Winter_Olympics
+wikiPageWikiLink: Freestyle_skiing_at_the_2022_Winter_Olympics_–_Men's_aerials
+wikiPageWikiLink: Freestyle_skiing_at_the_2022_Winter_Olympics_–_Men's_big_air
+wikiPageWikiLink: Freestyle_skiing_at_the_2022_Winter_Olympics_–_Men's_halfpipe
+wikiPageWikiLink: Freestyle_skiing_at_the_2022_Winter_Olympics_–_Men's_moguls
+wikiPageWikiLink: Freestyle_skiing_at_the_2022_Winter_Olympics_–_Men's_ski_cross
+wikiPageWikiLink: Freestyle_skiing_at_the_2022_Winter_Olympics_–_Men's_slopestyle
+wikiPageWikiLink: Freestyle_skiing_at_the_2022_Winter_Olympics_–_Mixed_team_aerials
+wikiPageWikiLink: Freestyle_skiing_at_the_2022_Winter_Olympics_–_Women's_aerials
+wikiPageWikiLink: Freestyle_skiing_at_the_2022_Winter_Olympics_–_Women's_big_air
+wikiPageWikiLink: Freestyle_skiing_at_the_2022_Winter_Olympics_–_Women's_halfpipe
+wikiPageWikiLink: Freestyle_skiing_at_the_2022_Winter_Olympics_–_Women's_moguls
+wikiPageWikiLink: Freestyle_skiing_at_the_2022_Winter_Olympics_–_Women's_ski_cross
+wikiPageWikiLink: Freestyle_skiing_at_the_2022_Winter_Olympics_–_Women's_slopestyle
+wikiPageWikiLink: IOC
+wikiPageWikiLink: Ikuma_Horishima
+wikiPageWikiLink: Ilya_Burov
+wikiPageWikiLink: Miha_Fontaine
+wikiPageWikiLink: Mikaël_Kingsbury
+wikiPageWikiLink: Oleksandr_Abramenko
+wikiPageWikiLink: Rachael_Karker
+wikiPageWikiLink: Sergey_Ridzik
+wikiPageWikiLink: Xu_Mengtao
+wikiPageWikiLink: Beijing_Time
+wikiPageWikiLink: File:Freestyle_skiing_pictogram.svg
+wikiPageExternalLink: DigitalCollectionAttachmentDownloadHandler.ashx%3FparentDocumentId=1568639&documentId=1568645
+silverBlr: 1
+thumbnail: Freestyle_skiing_pictogram.svg?width=300
+bronzeRoc: 3
+goldRoc: 0
+silverRoc: 0
+hostChn: yes
+competitors: 284
+nations: 25
+bronzeChn: 0
+bronzeFra: 0
+bronzeGer: 1
+bronzeNor: 0
+bronzeSwe: 2
+bronzeUkr: 0
+bronzeUsa: 2
+caption: Freestyle skiing pictogram
+dates: --02-19
+event: 2022
+event: Freestyle skiing
+flagTemplate: flagIOC
+goldChn: 4
+goldFra: 0
+goldGer: 0
+goldNor: 1
+goldSwe: 2
+goldUkr: 0
+goldUsa: 2
+host: CHN
+next: 2026
+prev: 2018
+silverChn: 2
+silverFra: 1
+silverGer: 0
+silverNor: 0
+silverSwe: 0
+silverUkr: 1
+silverUsa: 4
+venue: Big_Air_Shougang
+venue: Genting_Snow_Park
+venue: 
+bronzeCan: 2
+goldCan: 0
+silverCan: 3
+bronzeEst: 1
+bronzeJpn: 1
+bronzeNzl: 0
+goldEst: 0
+goldJpn: 0
+goldNzl: 1
+silverEst: 0
+silverJpn: 0
+silverNzl: 0
+bronzeAus: 0
+bronzeSui: 1
+games: 2022
+goldAus: 1
+goldSui: 2
+silverAus: 0
+silverSui: 1
+abstract: Freestyle skiing at the 2022 Winter Olympics were held at the Genting Snow Park in Zhangjiakou and Big Air Shougang in Beijing, China. The events were held between 3 and 19 February 2022. A total of 13 freestyle skiing events were held. In July 2018, the International Olympic Committee (IOC) officially added three events to the Olympic program: big air for men and women, along with a mixed team aerials event. A total of 284 quota spots (142 per gender) were distributed to the sport, a decline of 4 from the 2018 Winter Olympics. A total of 13 events were contested, six for men, six for women and one mixed.
+bronzeBlr: 0
+goldBlr: 0
+numEvents: 13
+wasDerivedFrom: Freestyle_skiing_at_the_2022_Winter_Olympics?oldid=1108176038&ns=0
+wikiPageLength: 16651
+games: 2022 Winter
+event: Freestyle_skiing_at_the_Winter_Olympics
+previousEvent: Freestyle_skiing_at_the_2018_Winter_Olympics
+isPrimaryTopicOf: Freestyle_skiing_at_the_2022_Winter_Olympics
+	
