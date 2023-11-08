@@ -1,4 +1,4 @@
-# Semntic Web Technlogoy - Final Project
+# Semantic Web Technology - Final Project
 
 ## Dependencies
 
