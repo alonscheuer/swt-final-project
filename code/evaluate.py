@@ -14,7 +14,7 @@ nltk.download('wordnet')
 
 def create_arg_parser():
 	parser = argparse.ArgumentParser()
-	parser.add_argument("-i", "--input_file", type=str, help="File containing Wikipedia links")
+	parser.add_argument("-i", "--input_file", type=str, help="File containing full dataset including outputs")
 	parser.add_argument("-o", "--output_file", type=str, help="Name of file where results are saved")
 	return parser.parse_args()
 

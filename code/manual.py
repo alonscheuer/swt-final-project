@@ -5,7 +5,7 @@ import numpy as np
 
 def create_arg_parser():
 	parser = argparse.ArgumentParser()
-	parser.add_argument("-i", "--input_file", type=str, help="File containing Wikipedia links")
+	parser.add_argument("-i", "--input_file", type=str, help="File containing annotated ChatGPT outputs")
 	return parser.parse_args()
 
 
