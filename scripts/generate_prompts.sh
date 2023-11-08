@@ -1,0 +1,1 @@
+python code/prompt.py -i data/wikipages-triples.json

@@ -1,0 +1,9 @@
+tqdm
+numpy
+nltk
+transformers
+torch
+sparqlwrapper
+bs4
+requests
+pandas

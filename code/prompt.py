@@ -5,7 +5,7 @@ from utils import remove_prefix, fix_sv_encoding
 
 def create_arg_parser():
 	parser = argparse.ArgumentParser()
-	parser.add_argument("-i", "--input_file", type=str, help="File containing Wikipedia links")
+	parser.add_argument("-i", "--input_file", type=str, help="File containing existing dataset")
 	return parser.parse_args()
 
 
