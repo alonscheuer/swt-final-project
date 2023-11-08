@@ -35,6 +35,8 @@ def get_articles(days, limit):
 			?url_en schema:about ?event .
 			?url_en schema:isPartOf <https://en.wikipedia.org/> .
 		}
+		# randomize the results.
+		# -- remove the following line if query consistently times out --
 		ORDER BY uuid()
 		LIMIT %i
 	} AS %%i
@@ -42,7 +44,7 @@ def get_articles(days, limit):
 		INCLUDE %%i
 		SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en" . }
 	}
-	# randomizer %s
+	# added timestamp to force requerying by the server: %s
 	""" % (days, limit, datetime.now())
 	result = send_query(query, wd_endpoint)
 	formatted_result = [{"en": row["url_en"]["value"], "sv": row["url_sv"]["value"]} for row in result]
