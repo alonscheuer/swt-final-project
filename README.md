@@ -10,7 +10,7 @@ pip install -r requirements.txt
 
 ## How to run
 
-There are three pipelines provided in this repository:
+There are three pipelines provided in the `scripts` folder of this repository:
 
 `get_wikipages_and_triples.sh` gathers a dataset of topics along with their Wikipedia articles in English and Swedish, and the corresponding triples from DBpedia. Note that the first step of this process is a query to the WikiData endpoint and this query may take some time or even time-out some of the time. If it consistently times out, consider removing the randomization from this query (marked in the `find_articles.py` file).
 
